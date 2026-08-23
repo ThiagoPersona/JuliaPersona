@@ -50,24 +50,24 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 0 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
-| Biologia | Biologia celular: composição química e metabolismo da célula | 0 | [Abrir](provas/biologia/002_biologia-celular-composicao-metabolismo.md) |
-| Biologia | Divisão celular: ciclo celular, mitose e meiose | 0 | [Abrir](provas/biologia/003_divisao-celular-mitose-meiose.md) |
+| Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 1 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
+| Biologia | Biologia celular: composição química e metabolismo da célula | 2 | [Abrir](provas/biologia/002_biologia-celular-composicao-metabolismo.md) |
+| Biologia | Divisão celular: ciclo celular, mitose e meiose | 1 | [Abrir](provas/biologia/003_divisao-celular-mitose-meiose.md) |
 | Biologia | Reprodução humana, gametogênese, fecundação e métodos contraceptivos | 0 | [Abrir](provas/biologia/004_reproducao-humana-gametogenese-fecundacao-contraceptivos.md) |
 | Biologia | Histologia: tecidos epitelial, conjuntivo, muscular e nervoso | 0 | [Abrir](provas/biologia/005_histologia-tecidos-epitelial-conjuntivo-muscular-nervoso.md) |
-| Biologia | Ciência e saúde aplicadas à Etapa 1 | 0 | [Abrir](provas/biologia/006_ciencia-saude-aplicadas-etapa-1.md) |
+| Biologia | Ciência e saúde aplicadas à Etapa 1 | 1 | [Abrir](provas/biologia/006_ciencia-saude-aplicadas-etapa-1.md) |
 | Física | Grandezas físicas, medição e Sistema Internacional | 0 | [Abrir](provas/fisica/001_grandezas-fisicas-medicao-sistema-internacional.md) |
-| Física | Cinemática: MU, MUV, queda livre e movimento circular | 0 | [Abrir](provas/fisica/002_cinematica-mu-muv-queda-livre-movimento-circular.md) |
-| Física | Dinâmica: leis de Newton, forças e plano inclinado | 0 | [Abrir](provas/fisica/003_dinamica-leis-newton-forcas-plano-inclinado.md) |
+| Física | Cinemática: MU, MUV, queda livre e movimento circular | 2 | [Abrir](provas/fisica/002_cinematica-mu-muv-queda-livre-movimento-circular.md) |
+| Física | Dinâmica: leis de Newton, forças e plano inclinado | 1 | [Abrir](provas/fisica/003_dinamica-leis-newton-forcas-plano-inclinado.md) |
 | Física | Gravitação universal e leis de Kepler | 0 | [Abrir](provas/fisica/004_gravitacao-universal-leis-kepler.md) |
-| Física | Quantidade de movimento, impulso e colisões | 0 | [Abrir](provas/fisica/005_quantidade-movimento-impulso-colisoes.md) |
-| Física | Trabalho, energia e conservação de energia | 0 | [Abrir](provas/fisica/006_trabalho-energia-conservacao.md) |
+| Física | Quantidade de movimento, impulso e colisões | 1 | [Abrir](provas/fisica/005_quantidade-movimento-impulso-colisoes.md) |
+| Física | Trabalho, energia e conservação de energia | 2 | [Abrir](provas/fisica/006_trabalho-energia-conservacao.md) |
 | Física | Equilíbrio e máquinas simples | 0 | [Abrir](provas/fisica/007_equilibrio-maquinas-simples.md) |
 | Química | Estados físicos da matéria e separação de misturas | 0 | [Abrir](provas/quimica/001_estados-fisicos-materia-separacao-misturas.md) |
-| Química | Estrutura atômica, modelos atômicos e tabela periódica | 0 | [Abrir](provas/quimica/002_estrutura-atomica-modelos-tabela-periodica.md) |
-| Química | Ligações químicas e interações intermoleculares | 0 | [Abrir](provas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md) |
-| Química | Radioatividade | 0 | [Abrir](provas/quimica/004_radioatividade.md) |
-| Química | Equações químicas, balanceamento e tipos de reação | 0 | [Abrir](provas/quimica/005_equacoes-quimicas-balanceamento-tipos-reacao.md) |
+| Química | Estrutura atômica, modelos atômicos e tabela periódica | 1 | [Abrir](provas/quimica/002_estrutura-atomica-modelos-tabela-periodica.md) |
+| Química | Ligações químicas e interações intermoleculares | 1 | [Abrir](provas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md) |
+| Química | Radioatividade | 1 | [Abrir](provas/quimica/004_radioatividade.md) |
+| Química | Equações químicas, balanceamento e tipos de reação | 1 | [Abrir](provas/quimica/005_equacoes-quimicas-balanceamento-tipos-reacao.md) |
 | Química | Cálculos estequiométricos | 0 | [Abrir](provas/quimica/006_calculos-estequiometricos.md) |
 | Química | Funções inorgânicas: ácidos, bases, sais e óxidos | 0 | [Abrir](provas/quimica/007_funcoes-inorganicas-acidos-bases-sais-oxidos.md) |
 
