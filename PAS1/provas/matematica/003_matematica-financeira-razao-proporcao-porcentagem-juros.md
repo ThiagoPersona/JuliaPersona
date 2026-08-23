@@ -1,15 +1,112 @@
-<!-- pas1-skeleton -->
 # Questões - Matemática financeira: razão, proporção, porcentagem e juros
 
-> Banco de questões em construção. Quando publicadas, as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmações 01/02/04/08/16, correção automática com pontuação parcial) — ver `REGRAS_DO_MATERIAL.md`.
+> Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-Nenhuma questão publicada ainda para este tema.
+**Itens neste banco:** 4 questões reais (PAS/UEM 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar.
 
-## Fontes disponíveis para extrair questões reais
+## Fontes reais usadas neste banco
 
-- Provas da Etapa 1 baixadas em `Fontes Oficiais/provas-anteriores/` (2021 a 2025).
-- Gabarito definitivo confirmado disponível localmente para as provas de 2024 e 2025.
-- Ver o passo a passo de extração em `REGRAS_DO_MATERIAL.md`, seção "Como extrair questões reais dos PDFs baixados".
+- PAS/UEM, Etapa 1, 2025, Questões 25 e 26. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2024, Questão 25. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM, 2025, Questão 40. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+
+---
+
+<div class="quiz-card" data-correct="02,04">
+<p class="quiz-source">PAS/UEM 2025, Etapa 1, Questão 25</p>
+<p><strong>1. O custo total para pintar uma casa é composto por duas parcelas: o custo da mão de obra e o custo do material. Para pintar uma casa, João e Pedro cobraram R$ 30,00/m² pela mão de obra. O pagamento total da mão de obra da pintura da casa foi de R$ 75.000,00 e foi dividido proporcionalmente à área que cada um pintou. Considere que João recebeu um pagamento de R$ 45.000,00. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A área pintada por João foi inferior à área pintada por Pedro.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) João recebeu 60% do pagamento total.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A área total pintada por João e Pedro foi de 2.500m².</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Pedro pintou mais de 1.200m².</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Se a mão de obra representa 40% do custo total da pintura dessa casa, então o montante gasto com material foi de R$ 120.000,00.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04 (soma 06).</strong> Fonte: PAS/UEM 2025, Etapa 1, Questão 25.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> João recebeu 60% do pagamento (mais que os 40% de Pedro) — pintou mais área, não menos.</li>
+<li><strong>02. Correta.</strong> 45.000 ÷ 75.000 = 0,60 = 60%.</li>
+<li><strong>04. Correta.</strong> Área total = 75.000 ÷ 30 = 2.500m².</li>
+<li><strong>08. Errada.</strong> Pedro pintou 40% de 2.500m² = 1.000m², menos que 1.200m².</li>
+<li><strong>16. Errada.</strong> Se mão de obra (75.000) = 40% do custo total, custo total = 75.000 ÷ 0,40 = 187.500. Material = 187.500 − 75.000 = 112.500, não 120.000.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 exige calcular o custo total a partir de uma porcentagem, e depois subtrair — errar essa base de cálculo é o erro mais comum aqui.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08">
+<p class="quiz-source">PAS/UEM 2025, Etapa 1, Questão 26</p>
+<p><strong>2. Um investidor recebeu duas opções de investimento por um período de exatos 3 anos. A primeira opção consiste em um investimento com taxa de juros anual fixa de 15%. A segunda opção é um investimento com taxa de juros progressivo, com 10% no primeiro ano, 15% no segundo ano e 20% no terceiro ano de investimento. Suponha que nas duas opções a capitalização ocorra anualmente e que o regime adotado seja o de juros compostos. Considere: 115³ = 1.520.875 e 110 × 115 × 120 = 1.518.000. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Se um capital inicial de R$ 1.000,00 for investido em cada uma das opções de investimento então ao final de três anos o montante somado será superior a R$ 4.000,00.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) As duas opções de investimento têm rendimentos superiores a 50%, independentemente do capital inicial investido.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Nas duas opções de investimento o montante final é diretamente proporcional ao capital inicial investido.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A primeira opção de investimento é financeiramente mais vantajosa que a segunda opção.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Se o regime adotado for de juros simples, então a segunda opção será financeiramente mais vantajosa que a primeira.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08 (soma 14).</strong> Fonte: PAS/UEM 2025, Etapa 1, Questão 26.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Montante opção 1 = 1.000×1,520875 ≈ 1.520,88; opção 2 = 1.000×1,518 = 1.518. Soma ≈ 3.038,88, não supera R$4.000.</li>
+<li><strong>02. Correta.</strong> Opção 1 rende ≈52,09%; opção 2 rende ≈51,8% — ambas acima de 50%, para qualquer capital (o rendimento percentual não depende do valor investido).</li>
+<li><strong>04. Correta.</strong> Montante = capital × fator fixo em ambas as opções — dobrar o capital dobra o montante.</li>
+<li><strong>08. Correta.</strong> Fator opção 1 (1,520875) &gt; fator opção 2 (1,518) — primeira opção rende mais.</li>
+<li><strong>16. Errada.</strong> Em juros simples, a ordem/distribuição da taxa não importa: as duas opções somariam 45% de acréscimo (15%×3 = 45%; 10%+15%+20% = 45%) — resultado igual, não uma vantagem para a segunda.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a vantagem da opção 1 sobre a 2 só existe por causa do efeito multiplicativo dos juros <em>compostos</em> — sob juros simples, as duas opções renderiam exatamente igual.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,08,16">
+<p class="quiz-source">PAS/UEM 2024, Etapa 1, Questão 25</p>
+<p><strong>3. No mercado, ao comprar papel higiênico, você se depara com os seguintes produtos: Papel A, pacote com 4 rolos de 20m, por R$5,60. Papel B, conjunto de 6 pacotes, com 12 rolos cada de 30m, por R$ 129,60. Papel C, pacote com 24 rolos de 40m, por R$32,40. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O papel A tem o metro mais barato.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O papel com rolo mais barato é o que tem a maior quantidade de papel no rolo.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O papel B é 10% mais caro que o papel A por metro.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O rolo de papel C custa 75% do preço do rolo do papel B.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O produto mais barato é o papel A.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-08-16 (soma 26).</strong> Fonte: PAS/UEM 2024, Etapa 1, Questão 25.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Preço/m: A=R$0,07; B=R$0,06 (129,60÷2.160m); C=R$0,03375 (32,40÷960m). O mais barato por metro é C.</li>
+<li><strong>02. Correta.</strong> Preço por rolo: A=R$1,40; B=R$1,80; C=R$1,35. O rolo mais barato é C, que também é o de maior comprimento (40m).</li>
+<li><strong>04. Errada.</strong> B (R$0,06/m) é mais barato que A (R$0,07/m) por metro, não 10% mais caro.</li>
+<li><strong>08. Correta.</strong> 1,35 ÷ 1,80 = 0,75 = 75%.</li>
+<li><strong>16. Correta.</strong> Entre os preços totais anunciados (R$5,60 / R$129,60 / R$32,40), o menor é o do papel A.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> "mais barato" muda de resposta dependendo da unidade de comparação — por metro (C vence), por rolo (C vence), ou pelo preço total anunciado do pacote (A vence, mas é o pacote com menos papel). Leia com atenção o que cada afirmação está de fato comparando.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2025, Questão 40</p>
+<p><strong>4. Durante uma campanha de educação fiscal os cidadãos tiveram o conhecimento de como os valores arrecadados com impostos influenciam os preços de produtos e serviços. Um determinado serviço municipal tinha custo base de R$ 800,00. No início do ano foi acrescido um imposto de 13% sobre o valor original, mas, após pressão popular, a prefeitura ofereceu um desconto de 10% sobre o novo valor com imposto, como forma de incentivar a regularização. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O valor pago após o desconto foi de R$ 813,60.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O aumento de x% sobre um valor V resulta em um valor de V + x%.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Sem a pressão popular para que fosse reduzido o imposto de 13%, o valor que o contribuinte pagaria pelo serviço municipal seria de R$ 904,00.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Se o acréscimo fosse de 10% e o desconto fosse de 13%, o valor final seria menor que o valor inicial.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Aplicar um desconto de 10% sobre um acréscimo de 13% resulta em um acréscimo de 3% no valor inicial.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: Vestibular de Verão UEM 2025, Questão 40.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> 800 × 1,13 × 0,90 = 813,60.</li>
+<li><strong>02. Errada.</strong> Não se pode somar um valor monetário (V) com um percentual (x%) diretamente — a fórmula correta é V×(1+x/100).</li>
+<li><strong>04. Correta.</strong> Só o aumento de 13%, sem desconto: 800×1,13 = 904.</li>
+<li><strong>08. Correta.</strong> 800×1,10×0,87 = 765,60, menor que 800.</li>
+<li><strong>16. Errada.</strong> O resultado real (813,60) é um acréscimo de apenas 1,7% sobre 800, não 3% — 13%−10% não é a forma correta de calcular o efeito líquido.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 é a armadilha central de todo o tema — subtrair as porcentagens (13%−10%=3%) parece intuitivo, mas está matematicamente errado, porque o desconto de 10% incide sobre o valor já aumentado, não sobre o valor original.</p>
+</div>
+</div>
 
 ## Tema relacionado
 

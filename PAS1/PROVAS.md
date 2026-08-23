@@ -41,10 +41,10 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Matemática | Matrizes, determinantes e sistemas lineares | 0 | [Abrir](provas/matematica/001_matrizes-determinantes-sistemas-lineares.md) |
-| Matemática | Conjuntos numéricos, medidas e notação científica | 0 | [Abrir](provas/matematica/002_conjuntos-numericos-medidas-notacao-cientifica.md) |
-| Matemática | Matemática financeira: razão, proporção, porcentagem e juros | 0 | [Abrir](provas/matematica/003_matematica-financeira-razao-proporcao-porcentagem-juros.md) |
-| Matemática | Estatística e análise de dados | 0 | [Abrir](provas/matematica/004_estatistica-analise-dados.md) |
+| Matemática | Matrizes, determinantes e sistemas lineares | 4 | [Abrir](provas/matematica/001_matrizes-determinantes-sistemas-lineares.md) |
+| Matemática | Conjuntos numéricos, medidas e notação científica | 3 | [Abrir](provas/matematica/002_conjuntos-numericos-medidas-notacao-cientifica.md) |
+| Matemática | Matemática financeira: razão, proporção, porcentagem e juros | 4 | [Abrir](provas/matematica/003_matematica-financeira-razao-proporcao-porcentagem-juros.md) |
+| Matemática | Estatística e análise de dados | 1 | [Abrir](provas/matematica/004_estatistica-analise-dados.md) |
 
 ## Ciências da Natureza e suas Tecnologias
 
