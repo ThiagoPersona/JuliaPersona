@@ -24,17 +24,17 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Inglês | Gêneros textuais e estratégias de leitura em inglês | 0 | [Abrir](provas/ingles/001_generos-textuais-estrategias-leitura.md) |
-| Inglês | Gramática funcional: pronomes, artigos e tempos verbais | 0 | [Abrir](provas/ingles/002_gramatica-pronomes-artigos-tempos-verbais.md) |
-| Inglês | Gramática funcional: imperativo, there to be, question words e outros | 0 | [Abrir](provas/ingles/003_gramatica-imperativo-there-to-be-question-words.md) |
-| Artes | Música: parâmetros do som e gêneros musicais brasileiros | 0 | [Abrir](provas/artes/001_musica-parametros-som-generos-brasileiros.md) |
-| Artes | Artes visuais: modernismo latino-americano, arte contemporânea e arte política | 0 | [Abrir](provas/artes/002_artes-visuais-modernismo-contemporaneo-politico.md) |
+| Inglês | Gêneros textuais e estratégias de leitura em inglês | 2 | [Abrir](provas/ingles/001_generos-textuais-estrategias-leitura.md) |
+| Inglês | Gramática funcional: pronomes, artigos e tempos verbais | 1 | [Abrir](provas/ingles/002_gramatica-pronomes-artigos-tempos-verbais.md) |
+| Inglês | Gramática funcional: imperativo, there to be, question words e outros | 1 | [Abrir](provas/ingles/003_gramatica-imperativo-there-to-be-question-words.md) |
+| Artes | Música: parâmetros do som e gêneros musicais brasileiros | 1 | [Abrir](provas/artes/001_musica-parametros-som-generos-brasileiros.md) |
+| Artes | Artes visuais: modernismo latino-americano, arte contemporânea e arte política | 2 | [Abrir](provas/artes/002_artes-visuais-modernismo-contemporaneo-politico.md) |
 | Artes | Artes cênicas: teatro improvisacional e elementos da linguagem cênica | 0 | [Abrir](provas/artes/003_artes-cenicas-teatro-improvisacional-elementos.md) |
 | Artes | Dança: elementos, dança contemporânea e danças típicas brasileiras | 0 | [Abrir](provas/artes/004_danca-elementos-contemporanea-tipicas-brasileiras.md) |
 | Ed. Física | Jogos cooperativos versus jogos competitivos | 0 | [Abrir](provas/educacao-fisica/001_jogos-cooperativos-competitivos.md) |
-| Ed. Física | Dança de salão como expressão corporal | 0 | [Abrir](provas/educacao-fisica/002_danca-salao-expressao-corporal.md) |
+| Ed. Física | Dança de salão como expressão corporal | 2 | [Abrir](provas/educacao-fisica/002_danca-salao-expressao-corporal.md) |
 | Ed. Física | Ginástica de condicionamento físico | 0 | [Abrir](provas/educacao-fisica/003_ginastica-condicionamento-fisico.md) |
-| Ed. Física | Esporte plural: educação, participação/lazer e mídia | 0 | [Abrir](provas/educacao-fisica/004_esporte-plural-educacao-participacao-midia.md) |
+| Ed. Física | Esporte plural: educação, participação/lazer e mídia | 1 | [Abrir](provas/educacao-fisica/004_esporte-plural-educacao-participacao-midia.md) |
 | Ed. Física | Lutas: valores humanos e cultura de movimento | 0 | [Abrir](provas/educacao-fisica/005_lutas-valores-humanos-cultura-movimento.md) |
 
 ## Matemática e suas Tecnologias
