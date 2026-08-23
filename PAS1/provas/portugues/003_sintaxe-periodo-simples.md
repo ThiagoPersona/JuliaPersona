@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões oficiais do PAS/UEM 2025, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões oficiais (PAS/UEM 2025 e 2024), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questões 03 e 06. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2024, Questões 27 e 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
-As duas questões abaixo citam trechos entre aspas da mesma entrevista sobre educação de surdos usada nas Questões 01 e 02 — o [texto completo está aqui](001_compreensao-interpretacao-textos.md). Cada afirmação já traz o trecho exato e o número das linhas, então não é preciso reabrir o texto para resolver.
+As duas primeiras questões abaixo citam trechos entre aspas da mesma entrevista sobre educação de surdos usada nas Questões 01 e 02 — o [texto completo está aqui](001_compreensao-interpretacao-textos.md). As duas últimas citam trechos da crônica "Negócio de menino", de Rubem Braga, usada no capítulo de [Discurso oral](007_discurso-oral-modalizadores.md) — texto completo lá. Cada afirmação já traz o trecho exato e o número das linhas, então não é preciso reabrir o texto-base para resolver.
 
 ---
 
@@ -57,6 +58,54 @@ As duas questões abaixo citam trechos entre aspas da mesma entrevista sobre edu
 <li><strong>16. Errada.</strong> "Unicamente" generaliza de forma indevida — a fala da entrevistada sobre construção de identidade surda positiva não se restringe aos alunos de uma única modalidade de escola.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> tratar duas palavras que remetem ao mesmo assunto (08) como se tivessem o mesmo efeito de sentido, ignorando que uma é elogiosa e a outra é rejeitada pelo próprio texto.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">PAS/UEM 2024, Etapa 1, Questão 27</p>
+<p><strong>3. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Ao longo do texto, o emprego de travessão marca o início da fala dos personagens, procedimento frequente em textos narrativos escritos.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O uso de reticências (linha 3) evidencia que o autor fez cortes na fala real dos personagens.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O uso de dois pontos (linha 1) prepara o leitor para falas dos personagens.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O uso da vírgula em "— Para você, seis contos." (linha 32) justifica-se pelo fato de o adjunto adverbial não estar no final da oração.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Em "— Uai, é fêmea?" (linha 40), a vírgula foi usada para separar o vocativo da oração.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: PAS/UEM 2024, Etapa 1, Questão 27. Texto-base: crônica "Negócio de menino", de Rubem Braga (texto completo no capítulo de <a href="007_discurso-oral-modalizadores.md">Discurso oral</a>).</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> O travessão marcando início de fala é procedimento padrão em diálogos de textos narrativos escritos.</li>
+<li><strong>02. Errada.</strong> As reticências em "— Papai me disse que o senhor tem muito passarinho…" sinalizam hesitação/suspensão da fala do menino (ele está nervoso, tateando o assunto), não que o autor "cortou" texto.</li>
+<li><strong>04. Correta.</strong> O dois-pontos introduz a fala seguinte, preparando o leitor para o discurso direto.</li>
+<li><strong>08. Correta.</strong> Em "Para você, seis contos.", o adjunto adverbial "Para você" foi deslocado para o início da frase (fora da posição final), o que justifica a vírgula.</li>
+<li><strong>16. Errada.</strong> "Uai" é uma interjeição (expressa reação emocional espontânea de surpresa), não um vocativo (que chamaria alguém pelo nome/título) — a vírgula separa a interjeição, não um vocativo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> confundir interjeição ("Uai") com vocativo — as duas são separadas por vírgula, mas cumprem funções diferentes (interjeição expressa emoção; vocativo chama alguém).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02">
+<p class="quiz-source">PAS/UEM 2024, Etapa 1, Questão 30</p>
+<p><strong>4. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Em "— Papai me disse que o senhor tem muito passarinho…" (linha 3), o sujeito sintático da forma verbal "disse" é "Papai", que é interpretado como aquele que realiza a ação do verbo.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Em "— O senhor vende?" (linha 15), o objeto direto está oculto e é interpretado como "uma coleirinha", referido (no diálogo) na fala do adulto (linha 6).</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Em "— O melro eu não vendo." (linha 37), a expressão "O melro" é o sujeito sintático da sentença, sobre o qual recai a ação do verbo "vendo".</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Em "— O coleira o senhor também deixa por seis contos?" (linha 45), o sujeito sintático da sentença é "O coleira", interpretado como aquele que realiza a ação verbal.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Em "A irmãzinha o chama de dentro d'água." (linhas 49 e 50), a expressão "de dentro d'água" é o objeto indireto de "chama", interpretado como paciente da ação verbal.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02 (soma 03).</strong> Fonte: PAS/UEM 2024, Etapa 1, Questão 30. Texto-base: crônica "Negócio de menino", de Rubem Braga.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> "Papai" é sujeito de "disse" — quem pratica a ação de dizer.</li>
+<li><strong>02. Correta.</strong> "Vende [o quê]?" tem objeto direto oculto/elíptico, recuperável do contexto: "uma coleirinha" (mencionada antes pelo próprio adulto).</li>
+<li><strong>04. Errada — pegadinha clássica de ordem invertida.</strong> "O melro" não é sujeito: é objeto direto do verbo "vendo", deslocado para o início da frase por ênfase (topicalização). O sujeito real é o "eu" implícito em "vendo" (eu não vendo o melro).</li>
+<li><strong>08. Errada — mesma pegadinha.</strong> "O coleira" também está deslocado para o início por ênfase; é objeto direto, não sujeito. O sujeito real é "o senhor".</li>
+<li><strong>16. Errada.</strong> "De dentro d'água" é adjunto adverbial de lugar (indica de onde a irmãzinha chama), não objeto indireto — não há preposição exigida pelo verbo "chamar" ligando-o a esse termo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> quando um termo é deslocado para o início da frase por ênfase (topicalização), ele não vira sujeito automaticamente — confira sempre quem pratica a ação do verbo, mesmo que o objeto apareça primeiro na ordem das palavras.</p>
 </div>
 </div>
 

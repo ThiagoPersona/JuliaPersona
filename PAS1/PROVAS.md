@@ -6,16 +6,16 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Português | Compreensão e interpretação de textos | 2 | [Abrir](provas/portugues/001_compreensao-interpretacao-textos.md) |
-| Português | Gêneros do discurso: condições de produção e marcas de estilo | 1 | [Abrir](provas/portugues/002_generos-discurso-condicoes-producao.md) |
-| Português | Sintaxe e produção de sentido no período simples | 2 | [Abrir](provas/portugues/003_sintaxe-periodo-simples.md) |
-| Português | Variação linguística do português brasileiro | 1 | [Abrir](provas/portugues/004_variacao-linguistica.md) |
-| Português | Coesão textual: organizadores, operadores discursivos e conectivos | 0 | [Abrir](provas/portugues/005_coesao-textual-organizadores-conectivos.md) |
-| Português | Argumentação: argumentos e contra-argumentos | 0 | [Abrir](provas/portugues/006_argumentacao-argumentos-contra-argumentos.md) |
-| Português | Discurso oral e modalizadores do discurso | 0 | [Abrir](provas/portugues/007_discurso-oral-modalizadores.md) |
-| Literatura | Literatura infantojuvenil: Ana Maria Machado | 1 | [Abrir](provas/literatura/001_literatura-infantojuvenil-ana-maria-machado.md) |
-| Literatura | Poesia colonial brasileira: Gregório de Matos, Gonzaga e Cláudio Manuel da Costa | 1 | [Abrir](provas/literatura/002_poesia-colonial-brasileira.md) |
-| Literatura | Poesia portuguesa: Camões | 0 | [Abrir](provas/literatura/003_poesia-portuguesa-camoes.md) |
+| Português | Compreensão e interpretação de textos | 5 | [Abrir](provas/portugues/001_compreensao-interpretacao-textos.md) |
+| Português | Gêneros do discurso: condições de produção e marcas de estilo | 2 | [Abrir](provas/portugues/002_generos-discurso-condicoes-producao.md) |
+| Português | Sintaxe e produção de sentido no período simples | 4 | [Abrir](provas/portugues/003_sintaxe-periodo-simples.md) |
+| Português | Variação linguística do português brasileiro | 2 | [Abrir](provas/portugues/004_variacao-linguistica.md) |
+| Português | Coesão textual: organizadores, operadores discursivos e conectivos | 1 | [Abrir](provas/portugues/005_coesao-textual-organizadores-conectivos.md) |
+| Português | Argumentação: argumentos e contra-argumentos | 2 | [Abrir](provas/portugues/006_argumentacao-argumentos-contra-argumentos.md) |
+| Português | Discurso oral e modalizadores do discurso | 2 | [Abrir](provas/portugues/007_discurso-oral-modalizadores.md) |
+| Literatura | Literatura infantojuvenil: Ana Maria Machado | 2 | [Abrir](provas/literatura/001_literatura-infantojuvenil-ana-maria-machado.md) |
+| Literatura | Poesia colonial brasileira: Gregório de Matos, Gonzaga e Cláudio Manuel da Costa | 2 | [Abrir](provas/literatura/002_poesia-colonial-brasileira.md) |
+| Literatura | Poesia portuguesa: Camões | 1 | [Abrir](provas/literatura/003_poesia-portuguesa-camoes.md) |
 | Literatura | Literatura brasileira contemporânea: Leminski e Veríssimo | 1 | [Abrir](provas/literatura/004_literatura-brasileira-contemporanea-leminski-verissimo.md) |
 | Literatura | Literatura africana de língua portuguesa: Pepetela | 1 | [Abrir](provas/literatura/005_literatura-africana-lingua-portuguesa-pepetela.md) |
 | Literatura | Teoria literária: gêneros, figuras de linguagem, periodização e versificação | 0 | [Abrir](provas/literatura/006_teoria-literaria-generos-figuras-periodizacao-versificacao.md) |

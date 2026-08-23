@@ -28,11 +28,16 @@ Todo o banco de questões deste projeto segue o formato real da prova, descrito 
 
 1. **Prova oficial da Etapa 1 do PAS/UEM, com gabarito definitivo confirmado.** Prioridade máxima — mesmo processo seletivo, mesma etapa. Disponíveis localmente em `Fontes Oficiais/provas-anteriores/`.
 2. **Manual do Candidato PAS/UEM 2026 e eventuais retificações.** Define o programa, a ordem e a estrutura de cada capítulo.
-3. **Provas do Vestibular de Verão da UEM ou de outras etapas do PAS (2 e 3) sobre o mesmo tópico**, quando servirem para ampliar prática de um assunto que também é da Etapa 1.
-4. **Material escolar e apostilas de cursinho.** Usados para triagem de tema e apoio de explicação, nunca copiados literalmente.
-5. **Fontes de referência atual** (livros didáticos, sites oficiais, dicionários) para conferência de fatos, dados e atualizações.
+3. **Provas do Vestibular de Verão da UEM, com gabarito definitivo confirmado.** Mesma instituição, mesmo formato de somatória — usada como fonte de peso equivalente à do PAS quando o assunto da questão bate com um item do programa da Etapa 1 (o Vestibular de Verão cobre conteúdo mais amplo, do Ensino Médio completo, então nem toda questão dele serve — só as que batem com o nível/conteúdo da Etapa 1). Disponíveis localmente em `Fontes Oficiais/provas-anteriores-vestibular/`.
+4. **Provas de outras etapas do PAS (2 e 3) sobre o mesmo tópico**, quando servirem para ampliar prática de um assunto que também é da Etapa 1.
+5. **Material escolar e apostilas de cursinho.** Usados para triagem de tema e apoio de explicação, nunca copiados literalmente.
+6. **Fontes de referência atual** (livros didáticos, sites oficiais, dicionários) para conferência de fatos, dados e atualizações.
 
 Regra de conflito: se houver divergência entre fontes, vale a mais recente e a de nível hierárquico mais alto nesta lista.
+
+## Banco de questões: objetivo é ser grande, não ilustrativo
+
+O banco de questões de cada tema não é uma vitrine de "1 exemplo por capítulo" — o objetivo é reunir **o máximo de questões reais e verificadas** que couberem no tema, vindas de qualquer prova da UEM (PAS ou Vestibular de Verão, qualquer ano disponível localmente) que trate do mesmo assunto. Isso é um trabalho contínuo: a cada sessão, mais questões devem ser extraídas e adicionadas aos temas já existentes, não só aos temas ainda vazios. Um tema com 1-2 questões reais não está "pronto" só por ter saído do zero — ele deve continuar crescendo enquanto houver questão real disponível nas provas já baixadas (ou em novas provas buscadas).
 
 ## Questões reais vs. questões autorais
 
@@ -42,12 +47,38 @@ Regra de conflito: se houver divergência entre fontes, vale a mais recente e a 
 
 ## Como extrair questões reais dos PDFs baixados
 
-Os PDFs de `Fontes Oficiais/provas-anteriores/` têm texto selecionável (usar `pdftotext -layout -enc UTF-8 arquivo.pdf saida.txt`, disponível em `C:\Program Files\Git\mingw64\bin\pdftotext.exe`). Passos:
+### Cadernos de prova (E1.pdf / P1.pdf)
 
-1. Extrair o caderno de prova (`E1.pdf`) e localizar o bloco `————— Questão NN —————` com as 5 afirmações 01/02/04/08/16.
-2. Extrair o gabarito definitivo (`gabdef.pdf`) **sem** a flag `-layout` (o modo `-layout` embaralha a tabela em provas com colunas). No modo padrão, a extração produz três listas sequenciais: números das questões (na ordem 1..40, com blocos repetidos de 9-12 para cada opção de língua estrangeira), respostas numéricas e alternativas corretas — a posição N da lista "Questão" corresponde à posição N das listas "Resposta"/"Alternativa(s) Correta(s))".
-3. Conferir a lógica do gabarito contra o texto da questão antes de publicar (ex.: se a afirmação usa "sempre"/"unicamente" e o texto-base contradiz isso, ela deve mesmo estar fora do gabarito).
-4. Gabarito definitivo confirmado disponível localmente para PAS 2024 e PAS 2025. As provas de 2021-2023 estão salvas mas **sem gabarito confirmado neste projeto** — registrar como lacuna se forem usadas.
+Esses PDFs têm texto selecionável. Extrair com:
+
+```
+pdftotext -layout -enc UTF-8 arquivo.pdf saida.txt
+```
+
+(`pdftotext` e o resto do poppler-utils estão instalados via winget — `oschwartz10612.Poppler` — e disponíveis no PATH; havia também uma cópia mais antiga em `C:\Program Files\Git\mingw64\bin\pdftotext.exe`.) Localizar o bloco `————— Questão NN —————` com as 5 afirmações 01/02/04/08/16. Atenção: provas com layout de duas colunas por página podem embaralhar um pouco a ordem do texto extraído — ler o resultado com atenção e, se preciso, usar os números de linha impressos no próprio texto-base para reordenar trechos.
+
+### Gabaritos (gabdef.pdf)
+
+**Provas do PAS:** normalmente têm texto selecionável. Extrair **sem** a flag `-layout` (o modo `-layout` embaralha a tabela em provas com colunas):
+
+```
+pdftotext -enc UTF-8 gabdef.pdf saida_raw.txt
+```
+
+No modo padrão, a extração produz três listas sequenciais: números das questões (na ordem 1..40/1..50, com blocos repetidos para cada opção de língua estrangeira), respostas numéricas e alternativas corretas — a posição N da lista "Questão" corresponde à posição N das listas "Resposta"/"Alternativa(s) Correta(s)".
+
+**Gabaritos do Vestibular de Verão:** costumam usar fontes Type 3 sem mapeamento de texto — `pdftotext` retorna caracteres ilegíveis/embaralhados, mesmo sem `-layout`. Nesse caso, renderizar a página como imagem e ler visualmente:
+
+```
+pdftoppm -png -r 200 gabdef.pdf saida_gab
+```
+
+e abrir os `.png` gerados com a ferramenta de leitura de imagem — a tabela Questão/Resposta/Alternativa(s) Correta(s) aparece legível, ainda que o texto não seja selecionável.
+
+### Depois de extrair
+
+1. Conferir a lógica do gabarito contra o texto da questão antes de publicar (ex.: se a afirmação usa "sempre"/"unicamente" e o texto-base contradiz isso, ela deve mesmo estar fora do gabarito).
+2. Gabarito definitivo confirmado disponível localmente para: PAS 2024 e 2025; Vestibular de Verão 2020-2025. As provas do PAS de 2021-2023 estão salvas mas **sem gabarito confirmado neste projeto** — registrar como lacuna se forem usadas.
 
 ## Estilo
 

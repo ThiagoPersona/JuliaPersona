@@ -40,6 +40,26 @@ Já em "A análise dos dados empíricos aponta **para** o preconceito [...]", o 
 
 **Para o PAS:** não decore "verbo X = sempre objeto direto". O mesmo verbo pode mudar de regência dependendo do sentido ("assistir o filme" x "assistir ao jogo", por exemplo). Teste sempre a preposição exigida naquele uso específico do verbo no texto.
 
+### Topicalização: quando o objeto vem primeiro na frase, mas continua sendo objeto
+
+Em português, a ordem "natural" é sujeito-verbo-objeto, mas é comum deslocar um termo para o início da frase por ênfase — isso é chamado de **topicalização**. O termo deslocado **não muda de função sintática** só porque mudou de posição.
+
+Exemplo real: "O melro eu não vendo." — "O melro" está na primeira posição da frase, mas continua sendo **objeto direto** do verbo "vendo" (o sujeito real é o "eu" implícito: "eu não vendo o melro"). O mesmo vale para "O coleira o senhor também deixa por seis contos?" — "O coleira" é objeto, deslocado por ênfase; o sujeito real é "o senhor".
+
+**Para o PAS:** nunca decida a função sintática só pela posição na frase. Pergunte sempre "quem pratica a ação do verbo?" — essa pergunta acha o sujeito mesmo quando ele não está na primeira posição.
+
+### Pontuação e discurso direto: travessão, dois-pontos, reticências e vírgula
+
+Em textos com diálogo, a pontuação tem funções específicas:
+
+- **Travessão:** marca o início da fala de um personagem — recurso padrão de discurso direto em textos narrativos escritos.
+- **Dois-pontos:** prepara o leitor para uma fala que vem a seguir.
+- **Reticências:** sinalizam suspensão/hesitação na fala (não necessariamente que o autor "cortou" texto).
+- **Vírgula com termo deslocado:** quando um adjunto adverbial sai da posição final da frase e vai para o início (como "Para você, seis contos."), a vírgula marca esse deslocamento.
+- **Vírgula com interjeição x vocativo:** cuidado — interjeição ("Uai,") expressa emoção espontânea; vocativo chama alguém pelo nome. As duas levam vírgula, mas não são a mesma coisa.
+
+**Para o PAS:** cada sinal de pontuação tem uma função técnica específica — não é "estilo livre", é possível justificar cada vírgula, cada dois-pontos, com uma regra.
+
 ### Denotação, conotação e os "efeitos de sentido" que o PAS ama cobrar
 
 **Denotação** é o sentido literal, de dicionário. **Conotação** é o sentido figurado, construído pelo contexto. Dentro da conotação, existem figuras específicas que o PAS cobra por nome:
@@ -65,6 +85,8 @@ Locuções como "é preciso", "é necessário", "é fundamental" estão no **pre
 | Objeto direto | Objeto indireto | Troca o verbo mas mantém a mesma "regra decorada" | Cheque a preposição exigida por aquele verbo específico, no contexto |
 | Metáfora | Sinestesia | Chama de sinestesia uma metáfora comum, ou vice-versa | Sinestesia mistura domínios de sentido/percepção diferentes; metáfora é comparação implícita em geral |
 | Presente do indicativo | Presente do subjuntivo | Afirma que "é preciso" está no subjuntivo | "é preciso/necessário" = presente do indicativo, expressa necessidade real |
+| Objeto deslocado por ênfase (topicalização) | Sujeito | Chama de sujeito um termo só porque está na primeira posição | Pergunte sempre "quem pratica a ação do verbo?", não "o que vem primeiro?" |
+| Interjeição ("Uai,") | Vocativo | Chama interjeição de vocativo (ou vice-versa) | Interjeição expressa emoção; vocativo chama alguém pelo nome/título |
 
 ## Como caiu na prova: questão comentada
 
@@ -86,6 +108,26 @@ Locuções como "é preciso", "é necessário", "é fundamental" estão no **pre
 5. Afirmação 16: os sujeitos aos quais a entrevistada se refere são "unicamente" os alunos da escola regular pública — **errada**: generalização indevida (mesma pegadinha de termo absoluto vista no capítulo de compreensão de texto).
 6. Soma das corretas: 01+02+04 = 07, batendo com o gabarito oficial.
 
+**Fonte: PAS/UEM 2024, Etapa 1, Questão 27 (gabarito definitivo: 01-04-08 = soma 13)**
+
+Texto-base: crônica "Negócio de menino", de Rubem Braga (ver o texto completo no capítulo de [Discurso oral](007_discurso-oral-modalizadores.md)).
+
+1. Afirmação 01 (correta): travessão marca início de fala — procedimento padrão em diálogo narrativo escrito.
+2. Afirmação 02 (errada): reticências sinalizam hesitação da fala do menino, não "cortes" feitos pelo autor.
+3. Afirmação 04 (correta): dois-pontos prepara o leitor para a fala seguinte.
+4. Afirmação 08 (correta): vírgula em "Para você, seis contos." marca o deslocamento do adjunto adverbial para o início da frase.
+5. Afirmação 16 (errada): "Uai" é interjeição, não vocativo — confusão clássica de dois usos de vírgula.
+6. Soma das corretas: 01+04+08 = 13, batendo com o gabarito oficial.
+
+**Fonte: PAS/UEM 2024, Etapa 1, Questão 30 (gabarito definitivo: 01-02 = soma 03)**
+
+1. Afirmação 01 (correta): "Papai" é sujeito de "disse".
+2. Afirmação 02 (correta): objeto direto oculto/elíptico ("uma coleirinha"), recuperável do contexto.
+3. Afirmação 04 (errada — pegadinha de topicalização): "O melro" não é sujeito, é objeto deslocado por ênfase; o sujeito real é o "eu" implícito.
+4. Afirmação 08 (errada — mesma pegadinha): "O coleira" é objeto deslocado; o sujeito real é "o senhor".
+5. Afirmação 16 (errada): "de dentro d'água" é adjunto adverbial de lugar, não objeto indireto.
+6. Soma das corretas: 01+02 = 03, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Classificar verbo de ligação x transitivo sem checar se o termo seguinte é estado/característica (predicativo) ou objeto.
@@ -102,8 +144,8 @@ Locuções como "é preciso", "é necessário", "é fundamental" estão no **pre
 
 ## Lacunas honestas
 
-- Este tema já tem duas questões reais comentadas (PAS 2025, Questões 03 e 06), cobrindo função sintática, regência e efeitos de sentido. Falta ampliar com questões de outros anos (2021-2024, ainda sem gabarito confirmado neste projeto — ver `Fontes Oficiais/README.md`).
-- Falta um exemplo real de sujeito oculto/elíptico e de aposto, que também são temas clássicos de período simples e ainda não apareceram nas questões já extraídas.
+- Este tema já tem quatro questões reais comentadas (PAS 2025 e 2024), cobrindo função sintática, topicalização, regência, pontuação e efeitos de sentido. Falta ampliar com questões do Vestibular de Verão e de outros anos do PAS (2021-2023, ainda sem gabarito confirmado neste projeto — ver `Fontes Oficiais/README.md`).
+- Falta um exemplo real de aposto, que também é tema clássico de período simples e ainda não apareceu nas questões já extraídas.
 
 ## Checklist de revisão
 
@@ -127,3 +169,4 @@ Locuções como "é preciso", "é necessário", "é fundamental" estão no **pre
 **Provas reais usadas**
 
 - PAS/UEM 2025, Etapa 1, Questões 03 e 06 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- PAS/UEM 2024, Etapa 1, Questões 27 e 30 — `Fontes Oficiais/provas-anteriores/pas24_E1.pdf` e `pas24_gabdef.pdf`.

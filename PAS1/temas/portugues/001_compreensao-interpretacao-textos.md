@@ -62,6 +62,20 @@ Compreender um texto também é reconhecer o gênero (entrevista, notícia, crô
 
 **Para o PAS:** quando a afirmação atribuir uma opinião ou defesa de posição a um autor/entrevistado, confira se o texto realmente sustenta esse papel (ex.: "a entrevistada defende que..." só é verdadeiro se a fala dela realmente defende aquilo, não uma dedução forçada sobre o assunto).
 
+### Leitura literal x leitura figurada de uma metáfora social
+
+Textos que usam metáfora para criticar uma situação social (miséria, desigualdade) costumam ser lidos de duas formas erradas pelo PAS de propósito: (1) leitura **literal demais**, que pega uma imagem figurada e a interpreta ao pé da letra, num assunto que o texto nem está tratando; (2) leitura que **naturaliza** o que o texto está denunciando.
+
+Exemplo real: na canção "Desse Fruto", o verso "e atirando a parte mais podre no lixo" é uma metáfora sobre o desperdício e a fartura dos ricos — uma afirmação que lê esse verso como sendo sobre "acúmulo de lixo que prejudica o meio ambiente" está fazendo uma leitura literal equivocada, ignorando que o verso continua a metáfora do "fruto" (símbolo da riqueza/dos recursos) que atravessa a canção inteira.
+
+**Para o PAS:** antes de aceitar uma leitura literal de uma imagem poética/metafórica, confira se ela se encaixa no campo de sentido que o resto do texto já construiu (aqui: fruto = riqueza/recursos, não literalmente comida ou lixo reciclável).
+
+### Ações do personagem confirmam ou contradizem a fala dele
+
+Em textos narrativos com diálogo, a interpretação correta muitas vezes depende de comparar o que um personagem **diz** com o que ele **faz**. Respostas curtas, por exemplo, não significam automaticamente recusa ou má vontade — é preciso conferir se as ações do personagem (negociar, abaixar preço, continuar respondendo) confirmam ou contradizem essa leitura.
+
+**Para o PAS:** nunca infira a atitude/intenção de um personagem só pelo estilo da fala (curta, seca) — confirme com o que ele efetivamente faz ao longo do texto.
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -84,12 +98,31 @@ Texto-base: entrevista com a professora-doutora Sílvia Andreis Witkoski sobre e
 5. Afirmação 16 (falsa): nega o texto de forma direta ao dizer que o problema está "unicamente" nos alunos, quando o texto diz "o problema não está nos alunos".
 6. Soma das corretas: 02 + 04 + 08 = 14, batendo com o gabarito oficial.
 
+**Fonte: PAS/UEM 2024, Etapa 1, Questão 28 (gabarito definitivo: 01-02-16 = soma 19)**
+
+Texto-base: crônica "Negócio de menino", de Rubem Braga (ver o texto completo no [banco de questões deste tema](../../provas/portugues/001_compreensao-interpretacao-textos.md)).
+
+1. Afirmações 01 e 02 (verdadeiras): resumo fiel da negociação e do objetivo das perguntas do menino.
+2. Afirmação 04 (falsa): as ações do adulto (negociar preço, abaixar valor) contradizem a leitura de que ele estaria "indisposto a vender".
+3. Afirmação 08 (falsa): não há base textual para essa causa específica (frustração quanto ao sexo do melro) — a negociação do melro nem chega a avançar.
+4. Afirmação 16 (verdadeira): inferência bem apoiada — depois de não fechar negócio, o pedido de um passarinho de presente sugere falta de dinheiro.
+5. Soma das corretas: 01+02+16 = 19, batendo com o gabarito oficial.
+
+**Fonte: Vestibular de Verão UEM 2025, Questões 01 e 02 (gabaritos: 27 e 07)**
+
+Texto-base: canção "Desse Fruto" (ver o texto completo e as duas questões no [banco de questões deste tema](../../provas/portugues/001_compreensao-interpretacao-textos.md)).
+
+1. A Questão 01 confirma leitura correta do tema (desigualdade) e do efeito de "mas" como ressalva que preserva a humanidade dos pobres — e rejeita a leitura que naturaliza a miséria como "ordem da vida".
+2. A Questão 02 mostra o padrão de leitura literal equivocada de metáfora: "atirar a parte podre no lixo" (metáfora de desperdício) não é sobre "acúmulo de lixo"; "engordando por cima do fruto" (metáfora de ganância) não é sobre "obesidade" — os dois casos pegam uma imagem do campo semântico da riqueza/fartura da canção e a levam, erradamente, para um assunto literal diferente.
+
 ## Pegadinhas do PAS
 
 - Inverter causa e consequência mantendo os dois fatos "verdadeiros" isoladamente, mas ligados de forma errada.
 - Transformar afirmação nuançada em generalização absoluta ("unicamente", "sempre", "todos").
 - Trocar o sujeito de uma ação (quem defende, quem afirma, quem pratica) mantendo o resto da frase igual.
 - Fazer o candidato completar com conhecimento de mundo o que o texto não afirma.
+- Ler uma metáfora ao pé da letra, puxando-a para um assunto que o texto não está tratando.
+- Inferir a atitude de um personagem só pelo estilo da fala, ignorando o que ele efetivamente faz.
 
 ## Como resolver questões
 
@@ -101,8 +134,8 @@ Texto-base: entrevista com a professora-doutora Sílvia Andreis Witkoski sobre e
 
 ## Lacunas honestas
 
-- Só há, até agora, uma questão real comentada em profundidade neste capítulo (PAS 2025, Questão 01). As provas de 2021 a 2024 já estão baixadas em `Fontes Oficiais/provas-anteriores/` e têm mais questões de compreensão/interpretação para extrair e comentar (ver método em `REGRAS_DO_MATERIAL.md`).
-- Falta cobrir com questão real o subtema "gênero entrevista e voz social do entrevistado", que aparece na Questão 02 da mesma prova (já extraída em texto bruto, ainda não comentada).
+- Este tema já tem cinco questões reais comentadas (PAS 2025 e 2024, Vestibular de Verão 2025), cobrindo texto expositivo, narrativo e canção. Falta cobrir texto publicitário e texto científico/didático.
+- As provas de 2021-2023 do PAS (sem gabarito confirmado neste projeto) e as demais edições do Vestibular de Verão (2020-2024, já baixadas) ainda têm muitas questões de compreensão/interpretação para extrair e comentar (ver método em `REGRAS_DO_MATERIAL.md`).
 
 ## Checklist de revisão
 
@@ -126,3 +159,5 @@ Texto-base: entrevista com a professora-doutora Sílvia Andreis Witkoski sobre e
 **Provas reais usadas**
 
 - PAS/UEM 2025, Etapa 1, Caderno de Prova e Gabarito Definitivo — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- PAS/UEM 2024, Etapa 1, Questão 28 — `Fontes Oficiais/provas-anteriores/pas24_E1.pdf` e `pas24_gabdef.pdf`.
+- Vestibular de Verão UEM 2025, Questões 01 e 02 — `Fontes Oficiais/provas-anteriores-vestibular/ve25_P1.pdf` e `ve25_gabdef.pdf`.

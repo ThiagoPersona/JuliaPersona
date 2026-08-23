@@ -46,6 +46,20 @@ Exemplo real: a entrevistada, além de pesquisadora sobre educação de surdos, 
 
 **Para o PAS:** ao identificar palavras-chave como "pesquisa de campo", "análise dos dados empíricos", "tese de doutorado", associe-as à esfera científico-acadêmica que está sendo trazida para dentro de um texto jornalístico de divulgação — isso é uma marca de estilo que reforça a autoridade da voz que fala.
 
+### Gêneros multimodais: quando o sentido depende do verbal e do não verbal juntos
+
+Alguns gêneros — tirinha, meme, cartaz, anúncio — são **multimodais**: combinam texto verbal (palavras) com elementos não verbais (desenho, expressão facial, cor, disposição na página) para construir sentido. Não dá para entender a piada ou o argumento de uma tirinha só lendo as falas; é preciso "ler" também os quadrinhos.
+
+Exemplo real: uma tirinha sobre uma avó e um neto conversando sobre medo de fantasmas e dinossauros só faz sentido completo se o leitor perceber, além do texto das falas, a expressão e a reação dos personagens em cada quadrinho — a "virada" de humor está tanto no que é dito quanto em como é mostrado.
+
+**Para o PAS:** quando a prova pedir para avaliar um gênero como a tirinha, lembre que a interpretação completa depende dos recursos linguísticos **e** não linguísticos juntos — não é possível responder só pelo texto das falas.
+
+### Vocativo: essencial para a interação, acessório para a sintaxe
+
+O **vocativo** é o termo que chama, invoca ou se dirige a alguém dentro da fala ("Sabe do que eu tenho medo, **vó**?"). Ele é fundamental para a **interação** (identifica com quem se está falando), mas é **acessório do ponto de vista sintático** — pode ser retirado da frase sem quebrar sua estrutura gramatical (sujeito, verbo, complementos continuam de pé sem ele).
+
+**Para o PAS:** essa dupla natureza do vocativo (essencial na comunicação, dispensável na gramática da oração) é um ponto clássico de prova — não confunda "importante para conversar" com "obrigatório para a oração funcionar gramaticalmente".
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -65,6 +79,17 @@ Exemplo real: a entrevistada, além de pesquisadora sobre educação de surdos, 
 5. Afirmação 16 (correta): as palavras destacadas ("especial", "importante", "surdas", "acentuada", "funcionais") são todas adjetivos — reconhecimento de classe gramatical.
 6. Soma das corretas: 01+04+08+16 = 29, batendo com o gabarito oficial.
 
+**Fonte: PAS/UEM 2024, Etapa 1, Questão 31 (gabarito definitivo: 02-04-08 = soma 14)**
+
+Texto-base: tirinha sobre avó e neto discutindo medo de fantasmas e dinossauros (ver a questão completa no [banco de questões deste tema](../../provas/portugues/002_generos-discurso-condicoes-producao.md)).
+
+1. Afirmação 01 (errada): o texto não é feito de sequências descritivas — é diálogo.
+2. Afirmação 02 (correta): gênero multimodal — a interpretação completa depende dos recursos verbais e não verbais de cada quadrinho.
+3. Afirmação 04 (correta): linguisticamente, é um diálogo entre avó e neto.
+4. Afirmação 08 (correta): "vó" é vocativo — essencial na interação, acessório na sintaxe da oração.
+5. Afirmação 16 (errada): confunde "mais" advérbio de continuidade temporal ("não existem mais" = não existem desde então) com "mais" quantificador — não pode ser trocado por "vários".
+6. Soma das corretas: 02+04+08 = 14, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Inventar uma posição "razoável" para a voz social, sem checar se o texto realmente afirma isso — ou pior, invertendo o que o texto diz.
@@ -79,7 +104,7 @@ Exemplo real: a entrevistada, além de pesquisadora sobre educação de surdos, 
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (PAS 2025, Questão 04). Falta ampliar com exemplos de outros gêneros textuais (não só entrevista) — crônica, notícia, publicidade — usando as demais provas já baixadas.
+- Este tema tem duas questões reais comentadas (PAS 2025 e 2024), cobrindo entrevista jornalística e tirinha multimodal. Falta ampliar com outros gêneros (crônica, notícia, publicidade) e com o Vestibular de Verão da UEM.
 - Falta explorar mais a fundo "estrutura composicional" com um gênero de estrutura muito marcada (ex.: carta, bilhete), que ainda não apareceu nas questões já extraídas.
 
 ## Checklist de revisão
@@ -103,3 +128,4 @@ Exemplo real: a entrevistada, além de pesquisadora sobre educação de surdos, 
 **Provas reais usadas**
 
 - PAS/UEM 2025, Etapa 1, Questão 04 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- PAS/UEM 2024, Etapa 1, Questão 31 — `Fontes Oficiais/provas-anteriores/pas24_E1.pdf` e `pas24_gabdef.pdf`.

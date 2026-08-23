@@ -44,7 +44,20 @@ Um erro comum é achar que todo gênero "falado" (entrevista, podcast, bate-papo
 
 **Dialógico** significa que o texto se organiza como uma troca entre vozes — no caso da entrevista, pergunta do entrevistador e resposta do entrevistado. Isso é uma característica **estrutural** do gênero, independente do grau de formalidade da linguagem usada nas respostas.
 
-**Para o PAS:** reconhecer que um texto é "marcadamente dialógico" é uma afirmação sobre a **forma** do texto (like uma conversa organizada), não sobre o registro (formal/informal) da língua usada dentro dele.
+**Para o PAS:** reconhecer que um texto é "marcadamente dialógico" é uma afirmação sobre a **forma** do texto (como uma conversa organizada), não sobre o registro (formal/informal) da língua usada dentro dele.
+
+### Marcadores linguísticos típicos da oralidade informal
+
+Alguns usos linguísticos são reconhecidos como marcas de oralidade **informal**, evitadas na norma escrita formal:
+
+| Marca de oralidade | Exemplo | Equivalente formal |
+|---|---|---|
+| "A gente" no lugar de "nós" | "a gente sabe" | "nós sabemos" |
+| "Tem" existencial no lugar de "há" | "tem gente vivendo..." | "há gente vivendo..." |
+| Gerúndio solto (sem auxiliar), narrando ação em curso | "guardando seu ouro..." | "que guarda seu ouro..." |
+| "Que nem" no lugar de "como"/"assim como" | "vivendo que nem bicho" | "vivendo como um bicho" |
+
+**Para o PAS:** cuidado para não confundir marca de oralidade informal com recurso **literário/poético** (como hipérbato — inversão da ordem das palavras por efeito estético). Os dois "fogem" da ordem/registro mais neutro, mas por razões diferentes: um é espontaneidade da fala cotidiana; o outro é escolha estética deliberada, aceitável até em registro formal/literário.
 
 ## Diferenças que costumam ser trocadas
 
@@ -65,11 +78,21 @@ Um erro comum é achar que todo gênero "falado" (entrevista, podcast, bate-papo
 5. Afirmação 16 (correta): "Ela" retoma o sujeito ("A professora Sílvia Andreis Witkoski") — mecanismo comum de coesão referencial, presente tanto na fala quanto na escrita.
 6. Soma das corretas: 01+02+08+16 = 27, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2025, Questão 03 (gabarito definitivo: 02-04-08-16 = soma 30)**
+
+Texto-base: canção "Desse Fruto" (ver o texto completo no capítulo de [Compreensão e interpretação](001_compreensao-interpretacao-textos.md)).
+
+1. A questão pediu para identificar usos típicos da oralidade informal, inadequados em texto formal.
+2. Confirmados como marcas de oralidade: "a gente" (02), "tem" existencial (04), gerúndio solto "guardando" (08), "que nem" (16).
+3. Não confirmado: posposição do possessivo em "ferida sua" (01) — esse é recurso poético (hipérbato), não marca de oralidade informal.
+4. Soma das corretas: 02+04+08+16 = 30, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Generalizar registro (formal/informal) a partir só do gênero textual, sem olhar quem fala e em que contexto.
 - Tratar "texto dialógico" (estrutura) como sinônimo de "texto informal" (registro) — são coisas diferentes.
 - Julgar uma variante popular/regional como "errada" em vez de "adequada a outro contexto".
+- Confundir recurso poético/literário (como hipérbato) com marca de oralidade informal.
 
 ## Como resolver questões
 
@@ -79,8 +102,8 @@ Um erro comum é achar que todo gênero "falado" (entrevista, podcast, bate-papo
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (PAS 2025, Questão 05). Falta ampliar com exemplos de variação diatópica (regional) e diastrática (social), que ainda não apareceram nas questões já extraídas das provas locais.
-- As provas de 2021-2024 (sem gabarito confirmado neste projeto, exceto 2024) ainda não foram exploradas para este tema.
+- Este tema tem duas questões reais comentadas (PAS 2025 e Vestibular de Verão 2025), cobrindo registro formal x informal e marcadores de oralidade. Falta ampliar com exemplos de variação diatópica (regional) — ainda não apareceu nas questões já extraídas.
+- As provas de 2021-2023 do PAS (sem gabarito confirmado) e as demais edições do Vestibular de Verão (2020-2024, já baixadas) ainda têm material a explorar para este tema.
 
 ## Checklist de revisão
 
@@ -103,3 +126,4 @@ Um erro comum é achar que todo gênero "falado" (entrevista, podcast, bate-papo
 **Provas reais usadas**
 
 - PAS/UEM 2025, Etapa 1, Questão 05 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- Vestibular de Verão UEM 2025, Questão 03 — `Fontes Oficiais/provas-anteriores-vestibular/ve25_P1.pdf` e `ve25_gabdef.pdf`.

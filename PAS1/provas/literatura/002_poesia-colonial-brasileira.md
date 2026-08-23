@@ -2,15 +2,16 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão oficial do PAS/UEM 2025, Etapa 1, com gabarito definitivo confirmado (sobre Cláudio Manuel da Costa).
+**Itens neste banco:** 2 questões oficiais (PAS/UEM 2025 e 2024), com gabarito definitivo confirmado — uma sobre Cláudio Manuel da Costa, outra sobre Gregório de Matos.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 08. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2024, Questão 33. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
-### Poema-base
+### Poema-base (Questão 1 abaixo)
 
 **LXIV**
 
@@ -57,6 +58,56 @@ Não sabe, quando é noite, ou quando é dia.
 <li><strong>16. Errada.</strong> Não há, no trecho, descrição de "perfeições físicas e morais" de uma mulher amada — essa leitura não está apoiada no poema apresentado.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 usa vocabulário técnico correto (cultismo, gongorismo, fusionismo) só que aplicado ao movimento literário errado — teste clássico de saber identificar Arcadismo x Barroco, não só decorar os termos.</p>
+</div>
+</div>
+
+---
+
+### Poema-base (Questão 2 abaixo)
+
+**Um soneto começo em vosso gabo:**
+**Contemos esta regra por primeira,**
+**Já lá vão duas, e esta é a terceira,**
+**Já este quartetinho está no cabo.**
+
+**Na quinta torce agora a porca o rabo;**
+**A sexta vá também desta maneira:**
+**Na sétima entro já com grã canseira,**
+**E saio dos quartetos muito brabo.**
+
+**Agora nos tercetos que direi?**
+**Direi que vós, Senhor, a mim me honrais**
+**Gabando-vos a vós, e eu fico um rei.**
+
+**Nesta vida um soneto já ditei;**
+**Se desta agora escapo, nunca mais:**
+**Louvado seja Deus, que o acabei.**
+
+*(MATOS, G. de. Poemas escolhidos de Gregório de Matos. São Paulo: Companhia das Letras, 2010.)*
+
+**Vocabulário:** desvanecida = orgulhosa, saliente; gabo = elogio; grã = o mesmo que grande; brabo = semelhante a bravo.
+
+<div class="quiz-card" data-correct="02,16">
+<p class="quiz-source">PAS/UEM 2024, Etapa 1, Questão 33</p>
+<p><strong>2. Sobre o poema, e conhecimentos correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O soneto de Gregório de Matos tem ampla semelhança com o trecho "Pintam, Marília, os poetas" (Marília de Dirceu, lira II – parte I), de Tomás Antônio Gonzaga. Embora o primeiro texto pertença ao Realismo e o segundo, ao Parnasianismo, ambos estabelecem a fusão entre amor pastoril e poesia e apresentam aproximações temáticas relativas à conquista amorosa.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O soneto faz parte da poesia satírica do autor, também chamado de "Boca do Inferno". Essa característica pode ser constatada já na dedicatória que antecede o poema. Incumbido de elogiar em versos uma pessoa vaidosa, o eu lírico promete que o fará, mas não cumpre: prefere discorrer, de forma metalinguística e irônica, sobre o próprio fazer poético.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) No verso "Já este quartetinho está no cabo." é possível identificar uma prosopopeia, figura que faz referência a, pelo menos, dois órgãos do sentido, porque somente o sentido conotativo da palavra "cabo" pode proporcionar coerência semântica ao quarteto. Em "Gabando-vos a vós, e eu fico um rei." percebe-se a presença de eufemismo, dada a discrição do eu lírico na sua prática de fé ao invocar Deus ("vós").</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O soneto tem versos alexandrinos, rimas cruzadas nos quartetos e interpoladas nos tercetos. Por apresentar o vocativo "Senhor" no primeiro terceto e a expressão "Louvado seja Deus" no último terceto, a composição faz parte da poesia religiosa de Gregório de Matos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O segundo quarteto apresenta uma gradação que demonstra o enfado do eu lírico na realização da incumbência. Constantes do primeiro, terceiro e quarto versos desse quarteto, as expressões "torce agora a porca o rabo", "grã canseira" e "muito brabo" revelam a progressão semântica da recusa em louvar a personagem e o espírito crítico do eu lírico. O último verso do soneto, "Louvado seja Deus, que o acabei.", sugere sensação de alívio pela tarefa concluída.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-16 (soma 18).</strong> Fonte: PAS/UEM 2024, Etapa 1, Questão 33.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Anacronismo grosseiro: Gregório de Matos é Barroco (século XVII) e Gonzaga é Arcadismo (século XVIII) — nenhum dos dois pertence a Realismo ou Parnasianismo (movimentos do século XIX).</li>
+<li><strong>02. Correta.</strong> O soneto é metalinguístico/irônico: o eu lírico promete elogiar alguém vaidoso, mas usa o poema para reclamar da própria tarefa de escrever.</li>
+<li><strong>04. Errada — pegadinha de definição trocada.</strong> A descrição "referência a pelo menos dois órgãos do sentido" é a definição de <em>sinestesia</em>, não de prosopopeia (que é dar comportamento humano a algo não humano).</li>
+<li><strong>08. Errada.</strong> Classificar o poema como "poesia religiosa" ignora que as menções a "Senhor" e "Deus" fazem parte do jogo irônico sobre a própria escrita do poema, não de um conflito de fé real.</li>
+<li><strong>16. Correta.</strong> A sequência "torce agora a porca o rabo" → "grã canseira" → "muito brabo" mostra progressão de irritação/enfado (gradação); o verso final expressa alívio por terminar a tarefa.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 usa o nome certo de uma figura (prosopopeia) só que com a definição de outra (sinestesia) — sempre confira se a definição dada realmente corresponde ao nome citado.</p>
 </div>
 </div>
 
