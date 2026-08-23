@@ -75,22 +75,22 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Filosofia | Origem da filosofia e métodos filosóficos | 0 | [Abrir](provas/filosofia/001_origem-filosofia-metodos-filosoficos.md) |
-| Filosofia | Teoria do conhecimento: ceticismo, racionalismo, empirismo e idealismo transcendental | 0 | [Abrir](provas/filosofia/002_teoria-conhecimento-ceticismo-racionalismo-empirismo-idealismo.md) |
-| Filosofia | Lógica elementar: inferência, lógica proposicional e silogismo categórico | 0 | [Abrir](provas/filosofia/003_logica-elementar-inferencia-proposicional-silogismo.md) |
+| Filosofia | Origem da filosofia e métodos filosóficos | 1 | [Abrir](provas/filosofia/001_origem-filosofia-metodos-filosoficos.md) |
+| Filosofia | Teoria do conhecimento: ceticismo, racionalismo, empirismo e idealismo transcendental | 1 | [Abrir](provas/filosofia/002_teoria-conhecimento-ceticismo-racionalismo-empirismo-idealismo.md) |
+| Filosofia | Lógica elementar: inferência, lógica proposicional e silogismo categórico | 1 | [Abrir](provas/filosofia/003_logica-elementar-inferencia-proposicional-silogismo.md) |
 | Filosofia | Falácias formais e não formais | 0 | [Abrir](provas/filosofia/004_falacias-formais-nao-formais.md) |
 | Geografia | Conceitos geográficos, localização e representação cartográfica | 0 | [Abrir](provas/geografia/001_conceitos-geograficos-localizacao-cartografia.md) |
 | Geografia | Estrutura geológica e relevo | 0 | [Abrir](provas/geografia/002_estrutura-geologica-relevo.md) |
-| Geografia | Clima, biomas, solos e hidrografia | 0 | [Abrir](provas/geografia/003_clima-biomas-solos-hidrografia.md) |
-| Geografia | Recursos naturais, energia e impactos ambientais | 0 | [Abrir](provas/geografia/004_recursos-naturais-energia-impactos-ambientais.md) |
+| Geografia | Clima, biomas, solos e hidrografia | 2 | [Abrir](provas/geografia/003_clima-biomas-solos-hidrografia.md) |
+| Geografia | Recursos naturais, energia e impactos ambientais | 1 | [Abrir](provas/geografia/004_recursos-naturais-energia-impactos-ambientais.md) |
 | Geografia | A integração do Paraná com o global | 0 | [Abrir](provas/geografia/005_integracao-parana-global.md) |
-| História | Antiguidade Ocidental: Grécia e Roma | 0 | [Abrir](provas/historia/001_antiguidade-ocidental-grecia-roma.md) |
+| História | Antiguidade Ocidental: Grécia e Roma | 1 | [Abrir](provas/historia/001_antiguidade-ocidental-grecia-roma.md) |
 | História | O Ocidente na Idade Média | 0 | [Abrir](provas/historia/002_ocidente-idade-media.md) |
-| História | História Moderna: crise medieval, Estados Nacionais e grandes navegações | 0 | [Abrir](provas/historia/003_historia-moderna-estados-nacionais-navegacoes.md) |
-| História | Brasil colonial: economia, política, sociedade e cultura | 0 | [Abrir](provas/historia/004_brasil-colonial-economia-politica-sociedade-cultura.md) |
-| História | Paraná: colonização, povos e formação histórica | 0 | [Abrir](provas/historia/005_parana-colonizacao-povos-formacao-historica.md) |
-| Sociologia | Indivíduo e sociedade: interações, sociabilidades e identidades | 0 | [Abrir](provas/sociologia/001_individuo-sociedade-interacoes-identidades.md) |
-| Sociologia | Socialização, instituições sociais e juventude como categoria social | 0 | [Abrir](provas/sociologia/002_socializacao-instituicoes-juventude.md) |
+| História | História Moderna: crise medieval, Estados Nacionais e grandes navegações | 3 | [Abrir](provas/historia/003_historia-moderna-estados-nacionais-navegacoes.md) |
+| História | Brasil colonial: economia, política, sociedade e cultura | 1 | [Abrir](provas/historia/004_brasil-colonial-economia-politica-sociedade-cultura.md) |
+| História | Paraná: colonização, povos e formação histórica | 1 | [Abrir](provas/historia/005_parana-colonizacao-povos-formacao-historica.md) |
+| Sociologia | Indivíduo e sociedade: interações, sociabilidades e identidades | 1 | [Abrir](provas/sociologia/001_individuo-sociedade-interacoes-identidades.md) |
+| Sociologia | Socialização, instituições sociais e juventude como categoria social | 2 | [Abrir](provas/sociologia/002_socializacao-instituicoes-juventude.md) |
 | Sociologia | O mundo do trabalho contemporâneo | 0 | [Abrir](provas/sociologia/003_mundo-trabalho-contemporaneo.md) |
 
 ## Redação (avaliação à parte, 0 a 120 pontos)

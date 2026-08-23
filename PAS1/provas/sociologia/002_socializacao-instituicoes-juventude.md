@@ -1,15 +1,63 @@
-<!-- pas1-skeleton -->
 # Questões - Socialização, instituições sociais e juventude como categoria social
 
-> Banco de questões em construção. Quando publicadas, as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmações 01/02/04/08/16, correção automática com pontuação parcial) — ver `REGRAS_DO_MATERIAL.md`.
+> Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-Nenhuma questão publicada ainda para este tema.
+**Itens neste banco:** 2 questões oficiais do PAS/UEM (2024 e 2025), Etapa 1, com gabarito definitivo confirmado.
 
-## Fontes disponíveis para extrair questões reais
+## Fontes reais usadas neste banco
 
-- Provas da Etapa 1 baixadas em `Fontes Oficiais/provas-anteriores/` (2021 a 2025).
-- Gabarito definitivo confirmado disponível localmente para as provas de 2024 e 2025.
-- Ver o passo a passo de extração em `REGRAS_DO_MATERIAL.md`, seção "Como extrair questões reais dos PDFs baixados".
+- PAS/UEM, Etapa 1, 2024, Questão 8. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2025, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+
+---
+
+<div class="quiz-card" data-correct="01,02,08">
+<p class="quiz-source">PAS/UEM 2024, Etapa 1, Questão 8</p>
+<p><strong>1. Sobre os processos sociais de formação do indivíduo, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Nas sociedades pré-industriais não havia uma identidade social infantil. Esse grupo etário era entendido como adulto em miniatura e sujeito às mesmas normas e exigências.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A construção da identidade juvenil está associada ao processo de formação prolongada das pessoas para o exercício de tarefas mais complexas na sociedade industrial.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A queda progressiva da expectativa de vida entre as populações do continente europeu a partir da segunda metade do século XX diminuiu os anos de escolarização dos jovens e, consequentemente, alterou a percepção social sobre as etapas de vivência da infância.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A extensão do período pré-adulto está relacionada ao nível de desenvolvimento econômico e social dos países.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A identidade juvenil tem características semelhantes entre membros de classes sociais distintas em uma mesma sociedade.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08 (soma 11).</strong> Fonte: PAS/UEM 2024, Etapa 1, Questão 8.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão da tese de Ariès sobre a ausência de identidade infantil distinta antes da modernidade.</li>
+<li><strong>02. Correta.</strong> Relação padrão entre complexidade da sociedade industrial e prolongamento da juventude.</li>
+<li><strong>04. Errada.</strong> A expectativa de vida europeia cresceu, não caiu, desde meados do século XX — o que ampliou, não diminuiu, os anos de escolarização.</li>
+<li><strong>08. Correta.</strong> Relação padrão entre desenvolvimento econômico e duração da juventude.</li>
+<li><strong>16. Errada.</strong> A experiência juvenil varia significativamente por classe social, não é semelhante entre elas.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 inverte a tendência real da expectativa de vida europeia (que cresceu, não caiu) e seu efeito sobre a escolarização (que aumentou, não diminuiu).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,16">
+<p class="quiz-source">PAS/UEM 2025, Etapa 1, Questão 24</p>
+<p><strong>2. Sobre a infância como categoria social, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A noção de infância como uma etapa distinta da vida apareceu no final do século XVII.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A distinção entre infância e vida adulta até o século XIX era restrita aos meninos de classes economicamente abastadas.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A duração da infância como etapa da vida varia em razão do contexto econômico de cada sociedade e é mais prolongada em países ricos e abreviada em países pobres.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A ampliação da expectativa de vida em razão do desenvolvimento de melhores condições nutricionais fez que o período pré-adulto fosse encurtado para ampliar o tempo de vida útil dos trabalhadores no século XX.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Em um mesmo país, diferenças de classe social fazem que a experiência juvenil tenha durações muito distintas para diferentes grupos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-16 (soma 23).</strong> Fonte: PAS/UEM 2025, Etapa 1, Questão 24.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Data padrão citada pela tese de Ariès sobre a "invenção" social da infância.</li>
+<li><strong>02. Correta.</strong> A noção de infância inicialmente se aplicava de forma restrita, por classe e gênero.</li>
+<li><strong>04. Correta.</strong> Relação padrão entre desenvolvimento econômico e duração da infância.</li>
+<li><strong>08. Errada.</strong> O aumento da expectativa de vida e da qualidade nutricional levou à extensão, não ao encurtamento, do período pré-adulto/escolarização.</li>
+<li><strong>16. Correta.</strong> Classe social gera vivências muito diferentes da juventude, mesmo dentro do mesmo país.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 inverte o efeito de melhores condições de vida sobre o período pré-adulto — elas ampliam, não encurtam, esse período.</p>
+</div>
+</div>
 
 ## Tema relacionado
 

@@ -1,15 +1,38 @@
-<!-- pas1-skeleton -->
 # Questões - Origem da filosofia e métodos filosóficos
 
-> Banco de questões em construção. Quando publicadas, as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmações 01/02/04/08/16, correção automática com pontuação parcial) — ver `REGRAS_DO_MATERIAL.md`.
+> Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-Nenhuma questão publicada ainda para este tema.
+**Itens neste banco:** 1 questão oficial do PAS/UEM 2025, Etapa 1, com gabarito definitivo confirmado.
 
-## Fontes disponíveis para extrair questões reais
+## Fontes reais usadas neste banco
 
-- Provas da Etapa 1 baixadas em `Fontes Oficiais/provas-anteriores/` (2021 a 2025).
-- Gabarito definitivo confirmado disponível localmente para as provas de 2024 e 2025.
-- Ver o passo a passo de extração em `REGRAS_DO_MATERIAL.md`, seção "Como extrair questões reais dos PDFs baixados".
+- PAS/UEM, Etapa 1, 2025, Questão 17. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+
+---
+
+<div class="quiz-card" data-correct="02,04,08">
+<p class="quiz-source">PAS/UEM 2025, Etapa 1, Questão 17</p>
+<p><strong>1. Sobre a origem e características do pensamento filosófico, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) As cosmogonias e as teogonias, narrativas que explicam a origem e a organização do mundo pela ação dos deuses e a origem dos próprios deuses, respectivamente, são as primeiras explicações racionais e filosóficas que dão origem à filosofia ocidental.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) As viagens marítimas, a invenção da moeda, do calendário, da escrita alfabética, o surgimento da vida urbana, do comércio, do artesanato, entre outras, são condições históricas favoráveis ao surgimento da filosofia.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O nascimento da filosofia, atribuída ao povo grego, só foi possível pela sabedoria e pelos conhecimentos deixados por outros povos, como egípcios, persas, babilônios, assírios e caldeus, de cuja herança os gregos fundaram as ciências racionais.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os pré-socráticos, primeiros filósofos gregos, entre os quais estão Tales, Anaximandro e Anaxímenes, buscavam o fundamento último da origem de todas as coisas, a arché, conferindo a esses fundamentos uma explicação racional.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A origem da filosofia é atribuída a Sócrates, mestre de Platão, o primeiro grande pensador grego que procurou explicar racionalmente a origem de todas as coisas, interessado, principalmente, em questões relacionadas à physis.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08 (soma 14).</strong> Fonte: PAS/UEM 2025, Etapa 1, Questão 17.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Mito (cosmogonia/teogonia, explicação pela ação dos deuses) é o que a filosofia rompe, não uma primeira forma de filosofia.</li>
+<li><strong>02. Correta.</strong> Conjunto padrão de condições históricas e materiais citado para o surgimento da filosofia grega.</li>
+<li><strong>04. Correta.</strong> A filosofia grega reconhece uma dívida de conhecimento técnico/científico com povos do Oriente Próximo.</li>
+<li><strong>08. Correta.</strong> Descrição padrão da filosofia pré-socrática: busca da arché por explicação racional.</li>
+<li><strong>16. Errada.</strong> A origem da filosofia não é atribuída a Sócrates, e seu interesse central foi a ética/o ser humano, não a physis (tema dos pré-socráticos).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 atribui a Sócrates características de um período anterior a ele (o interesse cosmológico dos pré-socráticos) — sempre associe cada pensador ao seu foco específico dentro da cronologia da filosofia grega.</p>
+</div>
+</div>
 
 ## Tema relacionado
 
