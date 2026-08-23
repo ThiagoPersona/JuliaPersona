@@ -69,7 +69,7 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Química | Radioatividade | 1 | [Abrir](provas/quimica/004_radioatividade.md) |
 | Química | Equações químicas, balanceamento e tipos de reação | 1 | [Abrir](provas/quimica/005_equacoes-quimicas-balanceamento-tipos-reacao.md) |
 | Química | Cálculos estequiométricos | 0 | [Abrir](provas/quimica/006_calculos-estequiometricos.md) |
-| Química | Funções inorgânicas: ácidos, bases, sais e óxidos | 0 | [Abrir](provas/quimica/007_funcoes-inorganicas-acidos-bases-sais-oxidos.md) |
+| Química | Funções inorgânicas: ácidos, bases, sais e óxidos | 1 | [Abrir](provas/quimica/007_funcoes-inorganicas-acidos-bases-sais-oxidos.md) |
 
 ## Ciências Humanas e Sociais Aplicadas
 
