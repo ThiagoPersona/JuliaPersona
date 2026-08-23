@@ -24,8 +24,8 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Inglês | Gêneros textuais e estratégias de leitura em inglês | 2 | [Abrir](provas/ingles/001_generos-textuais-estrategias-leitura.md) |
-| Inglês | Gramática funcional: pronomes, artigos e tempos verbais | 1 | [Abrir](provas/ingles/002_gramatica-pronomes-artigos-tempos-verbais.md) |
+| Inglês | Gêneros textuais e estratégias de leitura em inglês | 5 | [Abrir](provas/ingles/001_generos-textuais-estrategias-leitura.md) |
+| Inglês | Gramática funcional: pronomes, artigos e tempos verbais | 3 | [Abrir](provas/ingles/002_gramatica-pronomes-artigos-tempos-verbais.md) |
 | Inglês | Gramática funcional: imperativo, there to be, question words e outros | 1 | [Abrir](provas/ingles/003_gramatica-imperativo-there-to-be-question-words.md) |
 | Artes | Música: parâmetros do som e gêneros musicais brasileiros | 1 | [Abrir](provas/artes/001_musica-parametros-som-generos-brasileiros.md) |
 | Artes | Artes visuais: modernismo latino-americano, arte contemporânea e arte política | 2 | [Abrir](provas/artes/002_artes-visuais-modernismo-contemporaneo-politico.md) |
@@ -53,7 +53,7 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 1 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
 | Biologia | Biologia celular: composição química e metabolismo da célula | 2 | [Abrir](provas/biologia/002_biologia-celular-composicao-metabolismo.md) |
 | Biologia | Divisão celular: ciclo celular, mitose e meiose | 1 | [Abrir](provas/biologia/003_divisao-celular-mitose-meiose.md) |
-| Biologia | Reprodução humana, gametogênese, fecundação e métodos contraceptivos | 0 | [Abrir](provas/biologia/004_reproducao-humana-gametogenese-fecundacao-contraceptivos.md) |
+| Biologia | Reprodução humana, gametogênese, fecundação e métodos contraceptivos | 2 | [Abrir](provas/biologia/004_reproducao-humana-gametogenese-fecundacao-contraceptivos.md) |
 | Biologia | Histologia: tecidos epitelial, conjuntivo, muscular e nervoso | 0 | [Abrir](provas/biologia/005_histologia-tecidos-epitelial-conjuntivo-muscular-nervoso.md) |
 | Biologia | Ciência e saúde aplicadas à Etapa 1 | 1 | [Abrir](provas/biologia/006_ciencia-saude-aplicadas-etapa-1.md) |
 | Física | Grandezas físicas, medição e Sistema Internacional | 0 | [Abrir](provas/fisica/001_grandezas-fisicas-medicao-sistema-internacional.md) |
@@ -63,7 +63,7 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Física | Quantidade de movimento, impulso e colisões | 1 | [Abrir](provas/fisica/005_quantidade-movimento-impulso-colisoes.md) |
 | Física | Trabalho, energia e conservação de energia | 2 | [Abrir](provas/fisica/006_trabalho-energia-conservacao.md) |
 | Física | Equilíbrio e máquinas simples | 0 | [Abrir](provas/fisica/007_equilibrio-maquinas-simples.md) |
-| Química | Estados físicos da matéria e separação de misturas | 0 | [Abrir](provas/quimica/001_estados-fisicos-materia-separacao-misturas.md) |
+| Química | Estados físicos da matéria e separação de misturas | 2 | [Abrir](provas/quimica/001_estados-fisicos-materia-separacao-misturas.md) |
 | Química | Estrutura atômica, modelos atômicos e tabela periódica | 1 | [Abrir](provas/quimica/002_estrutura-atomica-modelos-tabela-periodica.md) |
 | Química | Ligações químicas e interações intermoleculares | 1 | [Abrir](provas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md) |
 | Química | Radioatividade | 1 | [Abrir](provas/quimica/004_radioatividade.md) |

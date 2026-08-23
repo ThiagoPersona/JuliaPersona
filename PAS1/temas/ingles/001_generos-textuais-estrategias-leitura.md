@@ -10,7 +10,12 @@
 
 Este item cobra gêneros textuais do cotidiano, da imprensa e midiáticos, e estratégias de leitura: ideia principal, detalhes, inferência lógica, organização textual. A prova de inglês do PAS estrutura suas questões 9-12 em torno de um único texto (geralmente um artigo de opinião ou notícia), com a Questão 9 focada em compreensão geral do texto e a Questão 10 aprofundando interpretação/detalhes — os itens exigem leitura atenta e comparação linha a linha com o texto-fonte.
 
-**Evidência real (PAS/UEM 2025, Etapa 1, Questões 9 e 10, variante Inglês):** as questões usaram um artigo de opinião sobre IA e autoria original ("Do we still value original thought?"), testando se o(a) candidato(a) entende exatamente o que o autor afirma sobre uso de IA, detecção de plágio, vantagens da tecnologia e o argumento central do texto.
+**Evidência real:** duas fontes reais, com formatos diferentes, já comentadas neste banco — um artigo de opinião (PAS 2025, sobre IA e autoria original) e uma notícia jornalística (PAS 2024, sobre os Jogos Olímpicos de Paris 2024), mostrando que o texto-base pode variar de gênero (opinião x notícia factual) mantendo o mesmo formato de questão.
+
+| Prova | Ano | O que caiu neste tema |
+|---|---:|---|
+| PAS/UEM, Etapa 1 | 2025 | Questões 9 e 10 (variante Inglês): artigo de opinião sobre IA — argumento central, detalhes, inferência |
+| PAS/UEM, Etapa 1 | 2024 | Questões 36, 37 e 39 (variante Inglês): notícia sobre os Jogos Olímpicos de Paris 2024 — comparação numérica, local de eventos, datas, causa/efeito |
 
 ## Conteúdo completo orientado ao programa
 
@@ -43,6 +48,8 @@ O programa também cobra a leitura de elementos **não verbais** (imagens, gráf
 | O que o texto afirma literalmente | O que parece plausível ou é conhecimento externo ao texto | Apresenta uma alternativa "sensata", mas que o texto não afirma (ou até contradiz) | Sempre volte à frase exata do texto antes de julgar a alternativa |
 | Detalhe mencionado no texto | Ideia principal do texto | Generaliza um detalhe pontual como se fosse o tema central | Confirme se a alternativa descreve o argumento central ou só um exemplo secundário |
 | Inferência apoiada em evidência textual concreta | Suposição sem apoio no texto | Propõe uma conclusão que "poderia ser verdade", mas o texto não sustenta | Toda inferência precisa de uma frase/trecho específico do texto como base |
+| Causa/motivo real citado no texto | Causa/motivo plausível, mas não mencionado | Atribui um motivo diferente do que o texto realmente dá (ex.: "para economizar dinheiro" quando o texto diz "sustentabilidade") | Confirme literalmente qual razão o texto atribui a cada decisão/evento |
+| Nome do evento ("Tokyo 2020") | Ano real em que ocorreu (2021, por adiamento) | Assume que o nome do evento corresponde exatamente ao ano de realização | Releia datas específicas — o nome de um evento pode não coincidir com o ano em que de fato aconteceu |
 
 ## Como caiu na prova: questão comentada
 
@@ -72,11 +79,51 @@ Soma das corretas: 02+08 = 10, batendo com o gabarito oficial.
 
 Soma das corretas: 08+16 = 24, batendo com o gabarito oficial.
 
+**Fonte: PAS/UEM 2024, Etapa 1, Questão 36, variante Inglês (gabarito: 01-08 = soma 9)**
+
+Texto-base: "The Paris 2024 Summer Olympics", de Ched de Guzman — notícia factual sobre os Jogos Olímpicos de Paris 2024 (datas, número de esportes/atletas/comitês, sedes dos eventos).
+
+"According to the text, mark the correct alternative(s)."
+
+1. "The Paris 2024 Olympics had ten more sports when compared to the competition in 1924" — **correta**: o texto informa 22 esportes em 1924 e 32 em 2024 — diferença de dez.
+2. "The Olympics Opening Ceremony was in the Stade de France stadium" — **errada**: o texto diz que a cerimônia de abertura NÃO foi num estádio (foi um desfile de barcos no rio Sena); o Stade de France sediou a cerimônia de encerramento.
+4. "The Paris 2024 Olympics took more than one month" — **errada**: abertura em 26 de julho, encerramento em 11 de agosto — cerca de duas semanas, menos de um mês.
+8. "More than 200 national committees competed the Paris 2024 Olympics" — **correta**: o texto afirma "over 200 national committees".
+16. "The Paris 2024 Olympics added sport climbing, skateboarding, surfing and breaking to be more attractive" — **errada**: o texto afirma que esses esportes foram incluídos por deixarem o programa "more gender balanced, more youthful and more urban" — não pelo motivo citado na alternativa.
+
+Soma das corretas: 01+08 = 9, batendo com o gabarito oficial.
+
+**Fonte: PAS/UEM 2024, Etapa 1, Questão 37, variante Inglês (gabarito: 04 = soma 4)**
+
+"According to the text, mark the correct alternative(s)."
+
+1. "The Closing Ceremony was at Seine River" — **errada**: a cerimônia de encerramento foi no Stade de France; o rio Sena foi palco da cerimônia de abertura.
+2. "Paris 2024 organizers used pre-existing places and eco-friendly temporary structures in order to save money" — **errada**: o texto atribui essa escolha ao compromisso com "sustainability" — não à economia de dinheiro (motivo não mencionado no texto).
+4. "The marathon swimming events were at Seine River" — **correta**: o texto afirma diretamente que as provas de maratona aquática ocorreram no rio Sena.
+8. "Millions of spectators watched the Summer Games on TV" — **errada**: o texto diz que os espectadores assistiram "in-person" (presencialmente), não pela TV.
+16. "The next Summer Olympics will be in 2026" — **errada**: 2026 é a Olimpíada de Inverno (Milão/Cortina); a próxima Olimpíada de Verão é em 2028 (Los Angeles).
+
+Soma das corretas: apenas 04 = 4, batendo com o gabarito oficial.
+
+**Fonte: PAS/UEM 2024, Etapa 1, Questão 39, variante Inglês (gabarito: 01-16 = soma 17)**
+
+"According to the text, mark the correct alternative(s)."
+
+1. "In the Olympic Games edition of 2024, there were 32 sports" — **correta**: informação explícita do texto.
+2. "200 committees from different nations participated in less than 300 sports events" — **errada**: o texto fala em 329 eventos, mais de 300, não menos.
+4. "The Tokyo Olympic Games happened in 2020" — **errada**: o texto esclarece que os "Tokyo 2020" Jogos aconteceram, na verdade, em 2021, por causa da pandemia de COVID-19 — apesar do nome "2020".
+8. "All tickets for the Olympic Games were sold out" — **errada**: o texto diz que só algumas sessões esgotaram; ainda havia ingressos disponíveis para vários eventos.
+16. "The Summer Paralympic Games were just after the Summer Games, starting in August and ending in September" — **correta**: confirmado diretamente pelo texto (início 28 de agosto, fim 8 de setembro).
+
+Soma das corretas: 01+16 = 17, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Apresentar uma alternativa que contradiz diretamente uma frase específica do texto.
 - Generalizar um detalhe/menção pontual do texto como se fosse o tema central do artigo.
 - Inverter uma afirmação do texto (dizer "sem vantagens" quando o texto afirma haver vantagens, por exemplo).
+- Atribuir a um evento/decisão um motivo diferente do que o texto realmente cita (causa plausível, mas não mencionada).
+- Assumir que o nome de um evento corresponde ao ano real em que ocorreu, sem checar uma data explícita no texto.
 
 ## Como resolver questões
 
@@ -86,7 +133,7 @@ Soma das corretas: 08+16 = 24, batendo com o gabarito oficial.
 
 ## Lacunas honestas
 
-- Este tema tem duas questões reais comentadas (PAS 2025, Questões 9 e 10, variante Inglês), cobrindo compreensão geral de um artigo de opinião. Falta exemplo real específico com outros gêneros textuais (e-mail, anúncio, meme, notícia) e com elementos não verbais (imagem, gráfico).
+- Este tema tem cinco questões reais comentadas (PAS 2025, Questões 9-10, e PAS 2024, Questões 36-37 e 39, todas variante Inglês), cobrindo artigo de opinião e notícia jornalística. Falta exemplo real específico com outros gêneros textuais (e-mail, anúncio, meme) e com elementos não verbais (imagem, gráfico).
 - Falta explorar o Vestibular de Verão (2020-2025, já baixado) para este tema.
 
 ## Checklist de revisão
@@ -95,7 +142,8 @@ Soma das corretas: 08+16 = 24, batendo com o gabarito oficial.
 - [ ] Sei diferenciar ideia principal de detalhe num texto em inglês.
 - [ ] Sei fazer uma inferência lógica apoiada em evidência textual concreta.
 - [ ] Sei localizar, no texto, a frase exata que cada alternativa da questão pretende confirmar ou contradizer.
-- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei checar se o motivo/causa citado numa alternativa é realmente o motivo dado pelo texto.
+- [ ] Resolvi as cinco questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -110,3 +158,4 @@ Soma das corretas: 08+16 = 24, batendo com o gabarito oficial.
 **Provas reais usadas**
 
 - PAS/UEM 2025, Etapa 1, Questões 9 e 10 (variante Inglês) — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- PAS/UEM 2024, Etapa 1, Questões 36, 37 e 39 (variante Inglês) — `Fontes Oficiais/provas-anteriores/pas24_E1.pdf` e `pas24_gabdef.pdf`.
