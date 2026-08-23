@@ -1,0 +1,24 @@
+# Fonte local e materiais possivelmente protegidos por direito autoral.
+# O material publico deve conter resumos proprios, citacoes curtas e questoes comentadas,
+# nao os cadernos de prova/gabaritos completos nem o texto integral extraido deles.
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+*.zip
+
+PAS1/Fontes Oficiais/_extracted/
+
+# Arquivos auxiliares locais/macOS/Windows.
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Extracoes e renders temporarios.
+tmp/
+*_texto.txt
+*.ocr.txt

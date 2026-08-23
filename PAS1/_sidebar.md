@@ -1,0 +1,93 @@
+- [Comece aqui](README.md)
+- [Conteúdo programático oficial](CONTEUDO_PROGRAMATICO.md)
+- [Como estudar (regras do material)](REGRAS_DO_MATERIAL.md)
+- [Banco de questões por matéria](PROVAS.md)
+
+- **Linguagens e suas Tecnologias — Língua Portuguesa**
+  - **Língua Portuguesa**
+    - [001 - Compreensão e interpretação de textos](temas/portugues/001_compreensao-interpretacao-textos.md)
+    - [002 - Gêneros do discurso: condições de produção e marcas de estilo](temas/portugues/002_generos-discurso-condicoes-producao.md)
+    - [003 - Sintaxe e produção de sentido no período simples](temas/portugues/003_sintaxe-periodo-simples.md)
+    - [004 - Variação linguística do português brasileiro](temas/portugues/004_variacao-linguistica.md)
+    - [005 - Coesão textual: organizadores, operadores discursivos e conectivos](temas/portugues/005_coesao-textual-organizadores-conectivos.md)
+    - [006 - Argumentação: argumentos e contra-argumentos](temas/portugues/006_argumentacao-argumentos-contra-argumentos.md)
+    - [007 - Discurso oral e modalizadores do discurso](temas/portugues/007_discurso-oral-modalizadores.md)
+  - **Literaturas em Língua Portuguesa**
+    - [001 - Literatura infantojuvenil: Ana Maria Machado](temas/literatura/001_literatura-infantojuvenil-ana-maria-machado.md)
+    - [002 - Poesia colonial brasileira: Gregório de Matos, Gonzaga e Cláudio Manuel da Costa](temas/literatura/002_poesia-colonial-brasileira.md)
+    - [003 - Poesia portuguesa: Camões](temas/literatura/003_poesia-portuguesa-camoes.md)
+    - [004 - Literatura brasileira contemporânea: Leminski e Veríssimo](temas/literatura/004_literatura-brasileira-contemporanea-leminski-verissimo.md)
+    - [005 - Literatura africana de língua portuguesa: Pepetela](temas/literatura/005_literatura-africana-lingua-portuguesa-pepetela.md)
+    - [006 - Teoria literária: gêneros, figuras de linguagem, periodização e versificação](temas/literatura/006_teoria-literaria-generos-figuras-periodizacao-versificacao.md)
+- **Linguagens e suas Tecnologias — Artes, Educação Física e Língua Estrangeira**
+  - **Língua Inglesa**
+    - [001 - Gêneros textuais e estratégias de leitura em inglês](temas/ingles/001_generos-textuais-estrategias-leitura.md)
+    - [002 - Gramática funcional: pronomes, artigos e tempos verbais](temas/ingles/002_gramatica-pronomes-artigos-tempos-verbais.md)
+    - [003 - Gramática funcional: imperativo, there to be, question words e outros](temas/ingles/003_gramatica-imperativo-there-to-be-question-words.md)
+  - **Arte**
+    - [001 - Música: parâmetros do som e gêneros musicais brasileiros](temas/artes/001_musica-parametros-som-generos-brasileiros.md)
+    - [002 - Artes visuais: modernismo latino-americano, arte contemporânea e arte política](temas/artes/002_artes-visuais-modernismo-contemporaneo-politico.md)
+    - [003 - Artes cênicas: teatro improvisacional e elementos da linguagem cênica](temas/artes/003_artes-cenicas-teatro-improvisacional-elementos.md)
+    - [004 - Dança: elementos, dança contemporânea e danças típicas brasileiras](temas/artes/004_danca-elementos-contemporanea-tipicas-brasileiras.md)
+  - **Educação Física**
+    - [001 - Jogos cooperativos versus jogos competitivos](temas/educacao-fisica/001_jogos-cooperativos-competitivos.md)
+    - [002 - Dança de salão como expressão corporal](temas/educacao-fisica/002_danca-salao-expressao-corporal.md)
+    - [003 - Ginástica de condicionamento físico](temas/educacao-fisica/003_ginastica-condicionamento-fisico.md)
+    - [004 - Esporte plural: educação, participação/lazer e mídia](temas/educacao-fisica/004_esporte-plural-educacao-participacao-midia.md)
+    - [005 - Lutas: valores humanos e cultura de movimento](temas/educacao-fisica/005_lutas-valores-humanos-cultura-movimento.md)
+- **Matemática e suas Tecnologias**
+  - **Matemática**
+    - [001 - Matrizes, determinantes e sistemas lineares](temas/matematica/001_matrizes-determinantes-sistemas-lineares.md)
+    - [002 - Conjuntos numéricos, medidas e notação científica](temas/matematica/002_conjuntos-numericos-medidas-notacao-cientifica.md)
+    - [003 - Matemática financeira: razão, proporção, porcentagem e juros](temas/matematica/003_matematica-financeira-razao-proporcao-porcentagem-juros.md)
+    - [004 - Estatística e análise de dados](temas/matematica/004_estatistica-analise-dados.md)
+- **Ciências da Natureza e suas Tecnologias**
+  - **Biologia**
+    - [001 - Fundamentos da Biologia: histórico, características e origem da vida](temas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md)
+    - [002 - Biologia celular: composição química e metabolismo da célula](temas/biologia/002_biologia-celular-composicao-metabolismo.md)
+    - [003 - Divisão celular: ciclo celular, mitose e meiose](temas/biologia/003_divisao-celular-mitose-meiose.md)
+    - [004 - Reprodução humana, gametogênese, fecundação e métodos contraceptivos](temas/biologia/004_reproducao-humana-gametogenese-fecundacao-contraceptivos.md)
+    - [005 - Histologia: tecidos epitelial, conjuntivo, muscular e nervoso](temas/biologia/005_histologia-tecidos-epitelial-conjuntivo-muscular-nervoso.md)
+    - [006 - Ciência e saúde aplicadas à Etapa 1](temas/biologia/006_ciencia-saude-aplicadas-etapa-1.md)
+  - **Física**
+    - [001 - Grandezas físicas, medição e Sistema Internacional](temas/fisica/001_grandezas-fisicas-medicao-sistema-internacional.md)
+    - [002 - Cinemática: MU, MUV, queda livre e movimento circular](temas/fisica/002_cinematica-mu-muv-queda-livre-movimento-circular.md)
+    - [003 - Dinâmica: leis de Newton, forças e plano inclinado](temas/fisica/003_dinamica-leis-newton-forcas-plano-inclinado.md)
+    - [004 - Gravitação universal e leis de Kepler](temas/fisica/004_gravitacao-universal-leis-kepler.md)
+    - [005 - Quantidade de movimento, impulso e colisões](temas/fisica/005_quantidade-movimento-impulso-colisoes.md)
+    - [006 - Trabalho, energia e conservação de energia](temas/fisica/006_trabalho-energia-conservacao.md)
+    - [007 - Equilíbrio e máquinas simples](temas/fisica/007_equilibrio-maquinas-simples.md)
+  - **Química**
+    - [001 - Estados físicos da matéria e separação de misturas](temas/quimica/001_estados-fisicos-materia-separacao-misturas.md)
+    - [002 - Estrutura atômica, modelos atômicos e tabela periódica](temas/quimica/002_estrutura-atomica-modelos-tabela-periodica.md)
+    - [003 - Ligações químicas e interações intermoleculares](temas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md)
+    - [004 - Radioatividade](temas/quimica/004_radioatividade.md)
+    - [005 - Equações químicas, balanceamento e tipos de reação](temas/quimica/005_equacoes-quimicas-balanceamento-tipos-reacao.md)
+    - [006 - Cálculos estequiométricos](temas/quimica/006_calculos-estequiometricos.md)
+    - [007 - Funções inorgânicas: ácidos, bases, sais e óxidos](temas/quimica/007_funcoes-inorganicas-acidos-bases-sais-oxidos.md)
+- **Ciências Humanas e Sociais Aplicadas**
+  - **Filosofia**
+    - [001 - Origem da filosofia e métodos filosóficos](temas/filosofia/001_origem-filosofia-metodos-filosoficos.md)
+    - [002 - Teoria do conhecimento: ceticismo, racionalismo, empirismo e idealismo transcendental](temas/filosofia/002_teoria-conhecimento-ceticismo-racionalismo-empirismo-idealismo.md)
+    - [003 - Lógica elementar: inferência, lógica proposicional e silogismo categórico](temas/filosofia/003_logica-elementar-inferencia-proposicional-silogismo.md)
+    - [004 - Falácias formais e não formais](temas/filosofia/004_falacias-formais-nao-formais.md)
+  - **Geografia**
+    - [001 - Conceitos geográficos, localização e representação cartográfica](temas/geografia/001_conceitos-geograficos-localizacao-cartografia.md)
+    - [002 - Estrutura geológica e relevo](temas/geografia/002_estrutura-geologica-relevo.md)
+    - [003 - Clima, biomas, solos e hidrografia](temas/geografia/003_clima-biomas-solos-hidrografia.md)
+    - [004 - Recursos naturais, energia e impactos ambientais](temas/geografia/004_recursos-naturais-energia-impactos-ambientais.md)
+    - [005 - A integração do Paraná com o global](temas/geografia/005_integracao-parana-global.md)
+  - **História**
+    - [001 - Antiguidade Ocidental: Grécia e Roma](temas/historia/001_antiguidade-ocidental-grecia-roma.md)
+    - [002 - O Ocidente na Idade Média](temas/historia/002_ocidente-idade-media.md)
+    - [003 - História Moderna: crise medieval, Estados Nacionais e grandes navegações](temas/historia/003_historia-moderna-estados-nacionais-navegacoes.md)
+    - [004 - Brasil colonial: economia, política, sociedade e cultura](temas/historia/004_brasil-colonial-economia-politica-sociedade-cultura.md)
+    - [005 - Paraná: colonização, povos e formação histórica](temas/historia/005_parana-colonizacao-povos-formacao-historica.md)
+  - **Sociologia**
+    - [001 - Indivíduo e sociedade: interações, sociabilidades e identidades](temas/sociologia/001_individuo-sociedade-interacoes-identidades.md)
+    - [002 - Socialização, instituições sociais e juventude como categoria social](temas/sociologia/002_socializacao-instituicoes-juventude.md)
+    - [003 - O mundo do trabalho contemporâneo](temas/sociologia/003_mundo-trabalho-contemporaneo.md)
+- **Redação (0 a 120 pontos, avaliação à parte)**
+  - [001 - Carta de solicitação](temas/redacao/001_carta-solicitacao.md)
+  - [002 - Comentário de postagens](temas/redacao/002_comentario-postagens.md)
+  - [003 - Resposta argumentativa](temas/redacao/003_resposta-argumentativa.md)
