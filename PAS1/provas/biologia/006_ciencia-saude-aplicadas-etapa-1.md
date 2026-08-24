@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2025/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2024 e Vestibular de Verão UEM 2025/2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -10,6 +10,7 @@
 - Vestibular de Verão UEM 2025, Questão 44. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 36. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 39 (Conhecimentos Específicos - Biologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 24 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -106,6 +107,30 @@
 <li><strong>16. Errada.</strong> A vitamina D é LIPOSSOLÚVEL, não hidrossolúvel — troca de conceito clássica sobre classificação de vitaminas.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 classifica a vitamina D como hidrossolúvel, quando na verdade é lipossolúvel — sempre confira a classificação correta (lipossolúveis: A, D, E, K).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 24 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>5. Segundo a Sociedade Brasileira de Endocrinologia e Metabologia, o Brasil tem cerca de 18 milhões de pessoas consideradas obesas. A obesidade é caracterizada pelo acúmulo de gordura corporal no indivíduo. Para o diagnóstico em adultos, o parâmetro utilizado mais comumente pela Organização Mundial da Saúde (OMS) é o Índice de Massa Corporal (IMC). O IMC é calculado dividindo-se o peso da pessoa pela sua altura elevada ao quadrado. Sobre o assunto, e conhecimentos correlatos, e considerando o quadro de classificação do IMC (abaixo do peso &lt; 18,5; peso normal 18,5 a 24,9; sobrepeso 25 a 29,9; obesidade ≥ 30), assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O IMC de uma pessoa que tem 1,60m de altura e 51,2kg de peso é 20.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A altura máxima para que uma pessoa de peso 108,3kg seja considerada obesa é 1,90m.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Uma pessoa com 1,54m de altura e 82kg de peso está com sobrepeso.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O hormônio leptina, produzido pelo tecido adiposo, informa a adequação das reservas energéticas ao hipotálamo, o que faz parte do controle de peso de longo prazo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O controle de peso de curto prazo depende do hormônio grelina, produzido pelo estômago, e do hormônio GLP-1, produzido no duodeno; ambos atuam no hipotálamo.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08-16 (soma 27).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 24.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> IMC = 51,2 ÷ (1,60)² = 51,2 ÷ 2,56 = 20.</li>
+<li><strong>02. Correta.</strong> Altura em que IMC=30 (limiar de obesidade) para 108,3kg: h² = 108,3 ÷ 30 = 3,61; h = 1,90m.</li>
+<li><strong>04. Errada.</strong> IMC = 82 ÷ (1,54)² = 82 ÷ 2,3716 ≈ 34,6 — isso é OBESIDADE (≥30), não sobrepeso (25-29,9).</li>
+<li><strong>08. Correta.</strong> Descrição padrão do papel de longo prazo da leptina no controle do peso.</li>
+<li><strong>16. Correta.</strong> Descrição padrão do papel de curto prazo da grelina e do GLP-1 no controle do apetite.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 erra o cálculo/classificação do IMC — a pessoa descrita está na faixa de obesidade (IMC≈34,6), não de sobrepeso.</p>
 </div>
 </div>
 

@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 6 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 6. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 33/43 e 34/44 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 33/43, 34/44 e 40/50 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 10 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -153,6 +154,30 @@
 <li><strong>16. Correta.</strong> Fato histórico real e diretamente ligado ao território paranaense: as Missões do Itatim e do Guairá.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 descreve os espanhóis como aliados dos Guarani contra os portugueses, quando na verdade ambas as coroas agiam em conjunto para fazer cumprir o tratado contra a resistência guarani.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 10 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>7. Sobre as características da ocupação, das etnias, dos hábitos e dos sítios ocupados pelas populações nativas radicadas no atual território paranaense, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O Boqueirão da Pedra Furada está localizado no sudoeste do Paraná e é um dos mais importantes sítios arqueológicos do estado.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) De acordo com o Centro Nacional de Arqueologia, há mais de mil sítios arqueológicos registrados no Paraná.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O povo xoclengue foi dizimado por bugreiros, ou caçadores de bugres (expressão pejorativa para designar os indígenas).</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O Caminho do Peabiru cruzava o atual território paranaense, e acredita-se que compunha uma rede de caminhos que interligava diversas aldeias do continente, desde o Oceano Atlântico até o Oceano Pacífico.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A Guerra do Gentio, que ocorreu no litoral paranaense, resultou na expulsão dos colonizadores pelos indígenas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08 (soma 14).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 10.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> O Boqueirão da Pedra Furada é um sítio arqueológico famoso localizado no Piauí (Serra da Capivara), não no Paraná.</li>
+<li><strong>02. Correta.</strong> Dado real sobre a quantidade de sítios arqueológicos registrados no Paraná.</li>
+<li><strong>04. Correta.</strong> Fato histórico real e trágico sobre a perseguição ao povo Xokleng.</li>
+<li><strong>08. Correta.</strong> Fato real sobre o Caminho do Peabiru como rede de trilhas indígenas.</li>
+<li><strong>16. Errada.</strong> A Guerra do Gentio, como outros conflitos coloniais, terminou tipicamente com a submissão dos indígenas, não com a expulsão dos colonizadores — inverte o desfecho histórico usual.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 atribui ao Paraná um sítio arqueológico (Boqueirão da Pedra Furada) que na verdade fica no Piauí — confira sempre a localização real de sítios arqueológicos citados.</p>
 </div>
 </div>
 

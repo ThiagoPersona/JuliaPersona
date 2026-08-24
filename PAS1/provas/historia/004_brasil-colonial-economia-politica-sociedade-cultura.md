@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 20. Gabarito definitivo (retificado) publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 31/41 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 12 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> O capital holandês (flamengo) teve participação relevante no financiamento da produção açucareira brasileira — não era "apenas" português.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 nega a participação de capital estrangeiro (holandês) no financiamento do açúcar brasileiro, quando essa participação é um fato histórico bem documentado.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 12 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>3. Sobre o processo de ocupação do território brasileiro no século XVI, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O sistema de Capitanias Hereditárias foi a solução para que a coroa portuguesa ocupasse a costa brasileira; o rei doava uma parte de terra a um súdito, que recebia o título de capitão donatário.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O litoral do Nordeste concentrava os investimentos portugueses por causa do ciclo canavieiro e da exportação de açúcar para a Europa.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Nas áreas coloniais do Sudeste, o principal meio de sobrevivência era a cultura da borracha, extraída no litoral e exportada para os Estados Unidos.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Por meio da criação de colégios, missões ou aldeamentos, os jesuítas se espalharam por vários domínios portugueses e espanhóis na América.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os bandeirantes organizavam expedições em busca de jazidas de ouro e de pedras preciosas, e para aprisionamento de indígenas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08-16 (soma 27).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 12.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão do sistema de Capitanias Hereditárias.</li>
+<li><strong>02. Correta.</strong> Fato histórico bem estabelecido sobre o Nordeste açucareiro.</li>
+<li><strong>04. Errada.</strong> A extração de borracha foi uma atividade da região NORTE (Amazônia), no século XIX — não do Sudeste no século XVI. Erro geográfico e cronológico.</li>
+<li><strong>08. Correta.</strong> Descrição padrão da atuação jesuítica na catequização americana.</li>
+<li><strong>16. Correta.</strong> Descrição padrão das bandeiras (busca de metais/pedras preciosas e aprisionamento indígena).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 projeta a economia da borracha (Norte, século XIX) sobre o Sudeste colonial do século XVI — um erro geográfico e cronológico duplo.</p>
 </div>
 </div>
 

@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 9 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2023/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 10 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2023/2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -11,6 +11,7 @@
 - Vestibular de Verão UEM 2023, Questão 16. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 40 (Conhecimentos Específicos - Arte). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 1, 31, 34, 36 e 37 (Conhecimentos Específicos - Arte). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 1 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -227,6 +228,30 @@
 <li><strong>16. Correta.</strong> Fato real sobre o Lundu/Lundum na música brasileira.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 inverte a estratégia histórica real dos traficantes/senhores de escravos, que separavam etnias para IMPEDIR a comunicação e a resistência organizada, não para preservar a cultura.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 1 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>10. Sobre as vanguardas artísticas, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Uma de suas características é a crença no poder transformador da realidade por meio da arte.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Apesar de inseridas em contextos e em épocas distintas, as vanguardas têm semelhanças ideológicas e de ação, as quais as tornam similares.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Diversas vanguardas produziram manifestos, documentos ou escritos teóricos nos quais revelaram sua concepção de arte.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Novos padrões estéticos e rupturas com estilos são propostos pelas vanguardas, além de novos repertórios de signos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O acesso à informação, por meio da difusão do mundo digital, foi fundamental para o surgimento das primeiras vanguardas artísticas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 1.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Característica padrão das vanguardas: crença na arte como força transformadora da realidade.</li>
+<li><strong>02. Errada.</strong> As vanguardas (Cubismo, Futurismo, Surrealismo, etc.) são, na verdade, bastante diversas entre si em ideologia e método — não "similares".</li>
+<li><strong>04. Correta.</strong> Fato real: várias vanguardas produziram manifestos (Futurista, Surrealista, etc.).</li>
+<li><strong>08. Correta.</strong> Descrição padrão de ruptura estética das vanguardas.</li>
+<li><strong>16. Errada.</strong> Anacronismo: as primeiras vanguardas surgiram no início do século XX, muito antes da existência do mundo digital.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 projeta uma tecnologia do século XXI (mundo digital) sobre o surgimento de movimentos artísticos do início do século XX.</p>
 </div>
 </div>
 

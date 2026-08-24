@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais do Vestibular de Verão UEM 2021, com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais do Vestibular de Verão UEM (2021 e 2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2021, Questões 36 e 47. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 9 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -55,6 +56,30 @@
 <li><strong>16. Errada.</strong> O exército de reserva tende a ENFRAQUECER (não fortalecer) o poder de barganha do movimento operário, pois compete por vagas e pressiona salários para baixo.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 inverte o efeito do exército de reserva sobre o movimento operário — ele enfraquece, não fortalece, a capacidade de organização e barganha dos trabalhadores empregados.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 9 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>3. Assinale o que for correto a respeito da natureza e das características do trabalho desempenhado na sociedade capitalista.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A substituição do trabalho escravo pela mão de obra remunerada criou as bases para o surgimento do assalariamento.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A Revolução Industrial foi um processo possibilitado pela regulação e normatização das condições de trabalho, sobretudo no que diz respeito às condições de salubridade nas fábricas.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O cartismo, cuja denominação advém das reivindicações do proletariado oitocentista inglês mediante elaboração da Carta do Povo, é considerado um dos primeiros grandes movimentos políticos dessa classe.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Em função da globalização, a criação (ou aprimoramento) e a aplicação de leis trabalhistas por países do mundo todo levou à erradicação do trabalho infantil.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) No âmbito da chamada Revolução 4.0 predomina a expectativa de um crescimento considerável do número de vagas de empregos formais.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04 (soma 05).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 9.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Relação histórica padrão entre fim do trabalho escravo e surgimento do assalariamento.</li>
+<li><strong>02. Errada.</strong> A Revolução Industrial inicial foi marcada pela FALTA de regulação (condições precárias); a regulação veio depois, como resposta aos abusos, não como precondição habilitadora.</li>
+<li><strong>04. Correta.</strong> Descrição padrão do cartismo inglês do século XIX.</li>
+<li><strong>08. Errada.</strong> O trabalho infantil persiste globalmente apesar das leis trabalhistas — "erradicação" é uma afirmação absoluta e falsa.</li>
+<li><strong>16. Errada.</strong> O debate sobre a Revolução 4.0 (automação) geralmente levanta preocupações sobre a REDUÇÃO de vagas formais, não um "crescimento considerável".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 trata a regulação trabalhista como uma condição que POSSIBILITOU a Revolução Industrial, quando na verdade ela foi uma resposta posterior aos abusos do período industrial inicial, marcado pela ausência de regulação.</p>
 </div>
 </div>
 

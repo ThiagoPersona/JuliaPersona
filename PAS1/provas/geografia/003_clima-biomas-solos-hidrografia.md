@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 6 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -10,6 +10,7 @@
 - PAS/UEM, Etapa 1, 2025, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 7 e 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 34 e 35 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 13 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -154,6 +155,30 @@
 <li><strong>16. Errada.</strong> É o oposto: o El Niño está associado ao ENFRAQUECIMENTO dos alísios; o La Niña, ao FORTALECIMENTO.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 inverte a relação entre El Niño/La Niña e a força dos ventos alísios — El Niño enfraquece, La Niña fortalece.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 13 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>7. Em junho de 2020, uma nuvem de gafanhotos se formou no Paraguai e atravessou várias regiões da Argentina, rumo à fronteira do Brasil com o Uruguai. Fenômeno incomum, a infestação massiva desses insetos é uma ameaça às lavouras e pastagens, que são as paisagens predominantes no trajeto percorrido pelo bando de gafanhotos, em distâncias de até 150 quilômetros por dia. Sobre o assunto, e outros correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A região sul do Brasil faz fronteira com o Uruguai, a Argentina e o Paraguai, e apresenta formações vegetais características dos Pampas e da Mata Atlântica.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Os gafanhotos são artrópodos, hexápodes; possuem corpo dividido em cabeça, tórax e abdômen; aparelho bucal mastigador composto por mandíbulas; maxilas adaptadas à mastigação e à ingestão de alimento sólido.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A rápida eliminação desses gafanhotos deve ser mediada, pois, por serem consumidores secundários, alimentam-se diretamente das pastagens e constituem-se em pragas para a agricultura.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Um dos motivos para a formação dessas nuvens pode ser a alteração do clima subtropical úmido da região sul, que deveria estar muito frio, mas estava quente e seco.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A medida mais correta de combate é o uso de inseticidas e de agrotóxicos, pois a nuvem de gafanhotos se dissipará rapidamente, sem causar alterações na cadeia alimentar.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08 (soma 11).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 13.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição correta da fronteira e dos biomas da região Sul do Brasil.</li>
+<li><strong>02. Correta.</strong> Descrição padrão da anatomia de insetos (hexápodes, corpo em três partes, aparelho bucal mastigador).</li>
+<li><strong>04. Errada.</strong> Gafanhotos que se alimentam diretamente de plantas (pastagens) são consumidores PRIMÁRIOS (herbívoros), não secundários.</li>
+<li><strong>08. Correta.</strong> Explicação climática plausível para o fenômeno incomum (anomalia de calor/seca no clima subtropical úmido do Sul).</li>
+<li><strong>16. Errada.</strong> O uso de inseticidas/agrotóxicos pode, sim, causar alterações na cadeia alimentar (afetando espécies não-alvo) — a afirmação de que "não causa alterações" é falsa.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 classifica os gafanhotos (que comem plantas diretamente) como consumidores secundários, quando na verdade são consumidores primários (herbívoros).</p>
 </div>
 </div>
 

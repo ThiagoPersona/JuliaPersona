@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2023 e 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 17. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 31 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 6 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -81,6 +82,30 @@
 <li><strong>16. Errada.</strong> É um julgamento de valor não sustentado — os sofistas são reconhecidos como uma contribuição relevante ao pensamento grego (retórica, relativismo, educação), não um "retrocesso".</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 04, 08 e 16 atribuem aos sofistas características opostas às reais — dogmatismo, unidade doutrinária e atraso intelectual — quando na verdade eles são marcados pelo relativismo, pela diversidade de teses e pela inovação retórica.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 6 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>4. A cidade grega de Atenas efetuou diversas mudanças em seu regime político do século VI ao século IV a.C., promovidas por legisladores como Sólon, Clístenes e Péricles. Nesse período ocorreu o auge da democracia (o governo por meio da participação popular) que coincidiu com o desenvolvimento em Atenas das investigações teóricas a respeito de política e de ética. Sobre o regime político e as teorias políticas na Grécia Antiga, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Em Atenas, a participação nas assembleias era garantida a todas as pessoas nascidas na cidade.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Para diminuir o poder das famílias ricas sobre as pobres, Atenas foi subdividida em unidades sociopolíticas denominadas demos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Os sofistas tiveram uma função importante na vida política da polis grega, ensinando aos jovens a retórica como instrumento de argumentação e de persuasão.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) De acordo com Platão e Aristóteles, a tirania, a oligarquia e a demagogia são formas degeneradas de governo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A democracia foi o regime político predominante na maioria das cidades gregas e era, segundo Platão, o melhor de todos os regimes.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08 (soma 14).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 6.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A cidadania plena em Atenas excluía mulheres, escravos e estrangeiros — não era garantida a "todas as pessoas nascidas na cidade".</li>
+<li><strong>02. Correta.</strong> Descrição padrão da reforma de Clístenes (divisão em demos).</li>
+<li><strong>04. Correta.</strong> Papel padrão dos sofistas no ensino da retórica política.</li>
+<li><strong>08. Correta.</strong> Classificação padrão das formas degeneradas de governo em Platão/Aristóteles.</li>
+<li><strong>16. Errada.</strong> A democracia não era o regime predominante entre as cidades gregas (muitas eram oligárquicas), e Platão foi um crítico da democracia, não seu defensor como "melhor regime" — ele preferia o governo dos filósofos.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 atribui a Platão uma defesa da democracia como "melhor regime", quando na verdade ele é um dos críticos mais conhecidos desse sistema, propondo o governo dos filósofos em seu lugar.</p>
 </div>
 </div>
 

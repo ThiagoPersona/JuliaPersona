@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 3. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 2 e 39. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 31/41 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 2 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -105,6 +106,30 @@
 <li><strong>16. Correta.</strong> Lista padrão dos grandes dramaturgos do teatro grego antigo.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 inverte o papel histórico de Clístenes, atribuindo-lhe o fim da democracia ateniense quando na verdade ele é reconhecido por suas reformas fundadoras da democracia.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 2 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>5. A cultura grega da Antiguidade compreende historicamente quatro períodos: homérico, arcaico, clássico e helenístico. Sobre a arte na Antiguidade grega, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Aristófanes, por meio do teatro, com suas comédias, realizava críticas à sociedade vigente.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Ésquilo, Eurípedes e Sófocles são autores de tragédias. A tragédia é um gênero do teatro que mostrava o sofrimento de heróis míticos frente à vontade dos deuses, o conflito entre o indivíduo e a sociedade.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As pinturas em cerâmica, principalmente nas ânforas, correspondem a fontes visuais capazes de responder a várias perguntas sobre o passado da Grécia Antiga.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na Grécia Antiga o teatro era elitista (só a aristocracia podia assistir).</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Afrodite era considerada a deusa grega do amor e da beleza e é representada pela estátua grega "Vênus de Milo", produzida em mármore.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-16 (soma 23).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 2.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão de Aristófanes como comediógrafo crítico da sociedade ateniense.</li>
+<li><strong>02. Correta.</strong> Descrição padrão dos grandes tragediógrafos gregos e da definição de tragédia.</li>
+<li><strong>04. Correta.</strong> A cerâmica grega (ânforas) é, de fato, fonte histórica/visual importante sobre a Grécia Antiga.</li>
+<li><strong>08. Errada.</strong> O teatro grego era uma instituição cívica relativamente popular entre os cidadãos (havia inclusive subsídio estatal — o theorikón — para viabilizar a presença dos mais pobres), não uma prática exclusivamente aristocrática.</li>
+<li><strong>16. Correta.</strong> Descrição padrão de Afrodite e da Vênus de Milo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 trata o teatro grego como privilégio exclusivo da aristocracia, quando na verdade ele era uma prática cívica relativamente ampla entre os cidadãos atenienses.</p>
 </div>
 </div>
 

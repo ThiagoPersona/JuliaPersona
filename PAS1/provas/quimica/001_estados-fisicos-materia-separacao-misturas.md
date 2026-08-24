@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2024 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questões 21 e 22. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 41 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 38 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -80,6 +81,30 @@
 <li><strong>16. Correta.</strong> Soluções (misturas) não têm ponto de ebulição constante como as substâncias puras — a temperatura varia durante a mudança de estado.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 ignora a densidade do alumínio (maior que a do óleo e da água), fazendo parecer que ele flutuaria — quando na verdade afunda através das duas fases líquidas.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 38 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>4. Em um instante t₀ = 0, começa-se a adicionar água a uma taxa constante igual a 200mL/h a uma solução aquosa de NaCl que, inicialmente, contém 100mL de solução a uma concentração comum de 1g/L. Sabendo que isso é feito até que a solução atinja um volume igual a 1L no instante final tf (em horas), assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Sendo C(t) a função que fornece a concentração comum de NaCl, em g/L, no instante t (em horas) tal que 0 ≤ t ≤ tf, então o gráfico de C(t) é um segmento de reta inclinada.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Sendo m(t) a massa de soluto (em gramas) presente na solução no instante t, então o gráfico de m(t) é uma reta horizontal.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) tf = 4,5h.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A concentração comum final da solução é igual a um décimo da concentração comum inicial.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os íons Na⁺ combinam-se aos íons OH⁻ presentes na água, tornando a solução alcalina.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08 (soma 14).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 38.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A concentração C(t) = massa ÷ (100+200t) decresce de forma curva (hiperbólica), não como uma reta inclinada — o volume cresce linearmente, mas a concentração é inversamente proporcional a ele.</li>
+<li><strong>02. Correta.</strong> Adicionar água pura não altera a massa de soluto (NaCl) dissolvido — m(t) permanece constante, uma reta horizontal.</li>
+<li><strong>04. Correta.</strong> Volume a acrescentar = 1000mL−100mL=900mL; tf = 900mL ÷ 200mL/h = 4,5h.</li>
+<li><strong>08. Correta.</strong> Diluição de 100mL para 1000mL é um fator 10 — a concentração final é 1/10 da inicial.</li>
+<li><strong>16. Errada.</strong> O NaCl é um sal neutro (ácido forte + base forte) — não sofre hidrólise significativa que torne a solução alcalina.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 assume que a concentração varia linearmente com o tempo, mas como o volume cresce linearmente e a massa de soluto é constante, a concentração (massa/volume) varia de forma inversamente proporcional — uma curva, não uma reta.</p>
 </div>
 </div>
 

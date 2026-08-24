@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS 2025, Vestibular de Verão UEM 2025/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2025, Vestibular de Verão UEM 2025/2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -10,6 +10,7 @@
 - Vestibular de Verão UEM 2025, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 39 e 40 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 7. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 14 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -130,6 +131,30 @@
 <li><strong>16. Correta.</strong> Fato real e bem documentado sobre os impactos da poluição marinha e de derramamentos de petróleo.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 invertem características básicas dos biomas (pluviosidade das florestas tropicais, latitude da tundra) e classificam erroneamente grupos vegetais (briófitas com vasos, coníferas como angiospermas).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 14 (Conhecimentos Gerais, Prova 1)</p>
+<p><strong>6. A respeito do desenvolvimento sustentável e da biodiversidade, temas correlatos que buscam o equilíbrio das formas de convívio humano com a natureza e com a exploração e a preservação dos recursos naturais, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O desenvolvimento sustentável considera que o atendimento das necessidades atuais da humanidade não deve comprometer a capacidade das futuras gerações quanto à obtenção dos recursos necessários à sobrevivência.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A introdução de espécies vegetais exóticas, pela ação humana, em um habitat diferente do seu original, poderá ocasionar a extinção das espécies nativas, ou o cruzamento entre espécies, resultando em desequilíbrio na biodiversidade.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A Convenção sobre a Diversidade Biológica ocorrida na Eco-92, no Rio de Janeiro, apontou a necessidade de garantir aos países em desenvolvimento a participação nas pesquisas biotecnológicas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A biodiversidade atual registrada por vários pesquisadores nas áreas das florestas tropicais é proporcional à biodiversidade nas áreas das florestas temperadas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O conceito de desenvolvimento sustentável surgiu na década de 1950 e começou a ser aplicado de forma homogênea entre os países que participavam da Organização do Tratado do Atlântico Norte (Otan).</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04 (soma 07).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 14.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição padrão (Relatório Brundtland) de desenvolvimento sustentável.</li>
+<li><strong>02. Correta.</strong> Fato ecológico padrão sobre espécies exóticas invasoras.</li>
+<li><strong>04. Correta.</strong> Fato histórico plausível sobre a Convenção da Diversidade Biológica na Eco-92.</li>
+<li><strong>08. Errada.</strong> Florestas tropicais têm biodiversidade MUITO MAIOR que florestas temperadas — não são "proporcionais"/equivalentes.</li>
+<li><strong>16. Errada.</strong> O conceito de desenvolvimento sustentável se consolida nos anos 1980 (Relatório Brundtland, 1987), não na década de 1950, e não é uma iniciativa da Otan.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 trata a biodiversidade das florestas tropicais e temperadas como equivalente ("proporcional"), quando na verdade a diferença entre elas é enorme.</p>
 </div>
 </div>
 
