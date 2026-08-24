@@ -10,7 +10,12 @@
 
 Este item cobra os tipos e formas de ocorrência dos recursos naturais, as fontes de energia, e os impactos ambientais gerados pela exploração e uso desses recursos. A prova gosta de citar programas e instituições reais (satélites de sensoriamento remoto, classificações do IBGE, unidades de conservação) e testar se você sabe exatamente o que cada um faz e como é administrado.
 
-**Evidência real (PAS/UEM 2025, Etapa 1, Questão 22):** a questão testou o programa CBERS de sensoriamento remoto, o uso de mapas fitoecológicos para prospecção de recursos, a classificação do solo pelo IBGE, o regime de domínio das reservas extrativistas, e o uso (já consolidado ou "promissor") do Sistema de Informação Geográfica.
+**Evidência real:** duas questões reais cobrem este tema — PAS 2025 Questão 22 (sensoriamento remoto, classificação do solo, unidades de conservação) e Vestibular de Verão UEM 2025 Questão 30 (matriz energética brasileira: Proálcool, crise do petróleo, etanol, energia eólica, biocombustíveis).
+
+| Prova | Ano | O que caiu neste tema |
+|---|---:|---|
+| PAS/UEM, Etapa 1 | 2025 | Questão 22: CBERS, mapas fitoecológicos, classificação do solo (IBGE), RESEX, SIG |
+| Vestibular de Verão UEM | 2025 | Questão 30: Proálcool, crise do petróleo, etanol (cana e milho), energia eólica, impactos sociais dos biocombustíveis |
 
 ## Conteúdo completo orientado ao programa
 
@@ -36,6 +41,20 @@ As **Reservas Extrativistas (RESEX)** são um tipo de unidade de conservação d
 
 **Para o PAS:** RESEX = domínio **público**, uso sustentável regulado, voltado a comunidades tradicionais — não é uma área de exploração econômica privada irrestrita.
 
+### Fontes de energia: a matriz energética brasileira
+
+O Brasil desenvolveu, ao longo das últimas décadas, uma matriz energética marcada por fontes alternativas aos combustíveis fósseis. O **Programa Nacional do Álcool (Proálcool)**, criado na década de 1970, teve como objetivo **diminuir a dependência do país das fontes externas de energia** — uma resposta direta à **crise do petróleo** dos anos 1970, que teve impacto severo sobre a economia brasileira justamente por causa da elevada dependência de derivados de petróleo na matriz energética da época.
+
+O **etanol**, biocombustível central dessa política, é produzido no Brasil a partir da **cana-de-açúcar** (historicamente a principal matéria-prima) e também do **milho** (fonte que ganhou importância mais recentemente), sobretudo na região **Centro-Sul** do país — incluindo o **Paraná**, que se tornou um polo relevante de etanol de milho.
+
+A **energia eólica**, por sua vez, teve seu percentual na matriz energética brasileira **crescendo** consistentemente na última década (não diminuindo) — parte do esforço de diversificação energética do país, ao lado da energia solar.
+
+**Para o PAS:** cuidado com afirmações que descrevem a participação da energia eólica no Brasil como "diminuindo" — a tendência real, nas últimas décadas, é de **crescimento**.
+
+### Impactos sociais dos biocombustíveis
+
+Apesar dos benefícios em termos de redução de dependência externa e de emissões (em relação aos combustíveis fósseis), os biocombustíveis também geram **problemas sociais** reais: a produção de matérias-primas como cana-de-açúcar e milho exige a dedicação de **grandes extensões de terras agricultáveis**, o que pode impulsionar a **concentração fundiária** (concentração da propriedade da terra em poucas mãos) — um efeito colateral relevante da expansão do agronegócio energético.
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -43,6 +62,8 @@ As **Reservas Extrativistas (RESEX)** são um tipo de unidade de conservação d
 | RESEX: domínio público, uso sustentável por comunidades tradicionais | Área de exploração privada irrestrita | Descreve a RESEX como área de domínio privado voltada a "prevalecer a exploração econômica" | RESEX é unidade de conservação pública, com uso regulado e sustentável |
 | SIG: tecnologia já consolidada e amplamente usada hoje | Tecnologia "promissora", ainda "possibilidade futura" | Trata o SIG como algo que "pode se tornar realidade em futuro próximo" | O SIG já é ferramenta madura e amplamente usada no mapeamento de recursos |
 | CBERS: satélite de sensoriamento remoto (parceria Brasil-China) | Outro tipo de programa/instituição | Troca o nome, a função ou a parceria do programa | CBERS = China-Brazil Earth Resources Satellite, usado em pesquisas ambientais |
+| Energia eólica no Brasil: participação crescente na última década | Afirmação invertida: participação "diminuindo" | Descreve a energia eólica como perdendo espaço na matriz energética | A tendência real é de crescimento da eólica na matriz brasileira |
+| Etanol brasileiro: produzido a partir de cana-de-açúcar e também de milho | Etanol produzido só a partir de cana-de-açúcar | Ignora a produção de etanol de milho, hoje relevante (inclusive no Paraná) | O Brasil produz etanol de cana E de milho, sobretudo no Centro-Sul |
 
 ## Como caiu na prova: questão comentada
 
@@ -57,11 +78,25 @@ As **Reservas Extrativistas (RESEX)** são um tipo de unidade de conservação d
 5. "A possibilidade de mapeamento dos recursos naturais com utilização dos Sistema de Informação Geográfica (SIG) é promissora e pode se tornar realidade em um futuro próximo" — **errada**: o SIG já é tecnologia madura e amplamente usada hoje, não uma possibilidade futura.
 6. Soma das corretas: 01+02+04 = 07, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2025, Questão 30 (gabarito: 01-02-04-16 = soma 23)**
+
+"Sobre a questão energética brasileira e eventos relacionados ao tema, assinale o que for correto."
+
+1. "O Programa Nacional do Álcool (Proálcool) foi implantado e desenvolvido pelo governo com o objetivo de diminuir a dependência do país das fontes externas de energia" — **correta**: fato histórico real sobre o Proálcool.
+2. "A crise do petróleo ocorrida na década de 1970 teve impacto severo sobre a economia devido à elevada dependência dos derivados desse produto na matriz energética brasileira" — **correta**: contexto histórico correto que motivou o Proálcool.
+4. "O etanol é caracterizado como um biocombustível que, no Brasil, é produzido a partir da cana-de-açúcar e do milho, sobretudo no Centro-Sul do país, incluindo o Paraná" — **correta**: fato atual sobre as duas matérias-primas do etanol brasileiro.
+8. "Apesar dos esforços recentes quanto à diversificação da matriz energética, o percentual de energia eólica ofertado internamente no Brasil diminuiu na última década" — **errada**: a participação da eólica na matriz brasileira cresceu, não diminuiu, na última década.
+16. "Há problemas sociais relacionados aos biocombustíveis, como a necessidade de dedicar grandes extensões de terras agricultáveis à produção das matérias-primas, e o impulso à concentração fundiária" — **correta**: crítica social real e reconhecida sobre a expansão do agronegócio energético.
+
+Soma das corretas: 01+02+04+16 = 23, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Descrever a RESEX como área de domínio privado, quando na verdade é de domínio público.
 - Tratar tecnologias já consolidadas (como o SIG) como "possibilidades futuras".
 - Trocar o nome ou a função de programas/instituições reais (CBERS, IBGE).
+- Inverter a tendência real de crescimento da energia eólica na matriz brasileira, descrevendo-a como "diminuindo".
+- Ignorar a produção de etanol de milho, tratando a cana-de-açúcar como única matéria-prima do etanol brasileiro.
 
 ## Como resolver questões
 
@@ -71,8 +106,8 @@ As **Reservas Extrativistas (RESEX)** são um tipo de unidade de conservação d
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (PAS 2025, Questão 22), cobrindo sensoriamento remoto, classificação do solo e unidades de conservação. Falta um exemplo real específico sobre fontes de energia (renováveis/não renováveis) e sobre impactos ambientais específicos da exploração de recursos.
-- Falta explorar o Vestibular de Verão (2020-2025, já baixado) para este tema.
+- Este tema tem duas questões reais comentadas (PAS 2025 Q22 e Vestibular de Verão UEM 2025 Q30), cobrindo sensoriamento remoto, classificação do solo, unidades de conservação e a matriz energética brasileira. Falta um exemplo real específico sobre outros impactos ambientais da exploração de recursos não renováveis (mineração, combustíveis fósseis).
+- Falta explorar mais anos do Vestibular de Verão (2020-2024, já baixados) para este tema.
 
 ## Checklist de revisão
 
@@ -80,7 +115,9 @@ As **Reservas Extrativistas (RESEX)** são um tipo de unidade de conservação d
 - [ ] Sei o que é o programa CBERS e para que serve.
 - [ ] Sei explicar a classificação do solo pelo IBGE (Classe de Potencialidade Agrícola Natural das Terras).
 - [ ] Sei diferenciar o regime de domínio (público) e o objetivo (uso sustentável) de uma reserva extrativista.
-- [ ] Resolvi a questão comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei explicar o Proálcool e sua relação com a crise do petróleo dos anos 1970.
+- [ ] Sei que a energia eólica cresceu, e não diminuiu, na matriz energética brasileira recente.
+- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -95,3 +132,4 @@ As **Reservas Extrativistas (RESEX)** são um tipo de unidade de conservação d
 **Provas reais usadas**
 
 - PAS/UEM 2025, Etapa 1, Questão 22 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- Vestibular de Verão UEM 2025, Questão 30 — `Fontes Oficiais/provas-anteriores-vestibular/ve25_P1.pdf` e `ve25_gabdef.pdf`.

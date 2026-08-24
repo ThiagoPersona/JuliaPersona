@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão oficial do PAS/UEM 2024, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 2 questões reais (PAS 2024 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 14. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2025, Questão 44. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,30 @@
 <li><strong>16. Correta.</strong> Descrição precisa do mecanismo de ação do paratormônio (PTH).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 empilha dois erros técnicos (classificação errada de orgânico/inorgânico + efeito invertido do sol sobre a vitamina D) numa frase que soa tecnicamente correta à primeira leitura.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,16">
+<p class="quiz-source">Vestibular de Verão UEM 2025, Questão 44</p>
+<p><strong>2. A fenilcetonúria é uma doença hereditária autossômica recessiva causada pela deficiência de fenilalanina hidroxilase, enzima que adiciona uma hidroxila ao anel benzênico, convertendo a fenilalanina em tirosina. O processo de conversão acontece no fígado, e essa deficiência pode causar acúmulo de fenilalanina no sangue, com riscos de causar complicações no desenvolvimento físico e mental. Considerando a equação dada, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Na equação dada, ocorre redução da fenilalanina para formar a tirosina.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O oxigênio que participa da reação atua como um catalisador.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A tirosina, normalmente produzida a partir da fenilalanina, torna-se um aminoácido essencial em indivíduos com fenilcetonúria.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Somente a tirosina é um aminoácido, pois ela contém um grupo fenol.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os dois compostos acima podem combinar-se, com formação de ligação peptídica.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-16 (soma 20).</strong> Fonte: Vestibular de Verão UEM 2025, Questão 44.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Adicionar uma hidroxila (oxigênio) à molécula é uma oxidação, não uma redução.</li>
+<li><strong>02. Errada.</strong> O oxigênio é incorporado ao produto (reagente/substrato) — um catalisador não é consumido na reação.</li>
+<li><strong>04. Correta.</strong> Sem conseguir converter fenilalanina em tirosina, pacientes com PKU precisam obter tirosina pela dieta — ela se torna essencial.</li>
+<li><strong>08. Errada.</strong> A fenilalanina também é um aminoácido — ambas têm grupo amino e carboxila.</li>
+<li><strong>16. Correta.</strong> Quaisquer dois aminoácidos podem formar uma ligação peptídica entre si.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 usam vocabulário de química (redução, catalisador) de forma tecnicamente incorreta para descrever a reação — confira sempre a definição precisa de cada termo.</p>
 </div>
 </div>
 

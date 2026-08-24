@@ -30,7 +30,7 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Artes | Música: parâmetros do som e gêneros musicais brasileiros | 1 | [Abrir](provas/artes/001_musica-parametros-som-generos-brasileiros.md) |
 | Artes | Artes visuais: modernismo latino-americano, arte contemporânea e arte política | 2 | [Abrir](provas/artes/002_artes-visuais-modernismo-contemporaneo-politico.md) |
 | Artes | Artes cênicas: teatro improvisacional e elementos da linguagem cênica | 0 | [Abrir](provas/artes/003_artes-cenicas-teatro-improvisacional-elementos.md) |
-| Artes | Dança: elementos, dança contemporânea e danças típicas brasileiras | 0 | [Abrir](provas/artes/004_danca-elementos-contemporanea-tipicas-brasileiras.md) |
+| Artes | Dança: elementos, dança contemporânea e danças típicas brasileiras | 1 | [Abrir](provas/artes/004_danca-elementos-contemporanea-tipicas-brasileiras.md) |
 | Ed. Física | Jogos cooperativos versus jogos competitivos | 0 | [Abrir](provas/educacao-fisica/001_jogos-cooperativos-competitivos.md) |
 | Ed. Física | Dança de salão como expressão corporal | 2 | [Abrir](provas/educacao-fisica/002_danca-salao-expressao-corporal.md) |
 | Ed. Física | Ginástica de condicionamento físico | 0 | [Abrir](provas/educacao-fisica/003_ginastica-condicionamento-fisico.md) |
@@ -50,12 +50,12 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 1 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
-| Biologia | Biologia celular: composição química e metabolismo da célula | 2 | [Abrir](provas/biologia/002_biologia-celular-composicao-metabolismo.md) |
+| Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 2 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
+| Biologia | Biologia celular: composição química e metabolismo da célula | 3 | [Abrir](provas/biologia/002_biologia-celular-composicao-metabolismo.md) |
 | Biologia | Divisão celular: ciclo celular, mitose e meiose | 1 | [Abrir](provas/biologia/003_divisao-celular-mitose-meiose.md) |
 | Biologia | Reprodução humana, gametogênese, fecundação e métodos contraceptivos | 2 | [Abrir](provas/biologia/004_reproducao-humana-gametogenese-fecundacao-contraceptivos.md) |
 | Biologia | Histologia: tecidos epitelial, conjuntivo, muscular e nervoso | 0 | [Abrir](provas/biologia/005_histologia-tecidos-epitelial-conjuntivo-muscular-nervoso.md) |
-| Biologia | Ciência e saúde aplicadas à Etapa 1 | 1 | [Abrir](provas/biologia/006_ciencia-saude-aplicadas-etapa-1.md) |
+| Biologia | Ciência e saúde aplicadas à Etapa 1 | 2 | [Abrir](provas/biologia/006_ciencia-saude-aplicadas-etapa-1.md) |
 | Física | Grandezas físicas, medição e Sistema Internacional | 0 | [Abrir](provas/fisica/001_grandezas-fisicas-medicao-sistema-internacional.md) |
 | Física | Cinemática: MU, MUV, queda livre e movimento circular | 2 | [Abrir](provas/fisica/002_cinematica-mu-muv-queda-livre-movimento-circular.md) |
 | Física | Dinâmica: leis de Newton, forças e plano inclinado | 1 | [Abrir](provas/fisica/003_dinamica-leis-newton-forcas-plano-inclinado.md) |
@@ -68,7 +68,7 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Química | Ligações químicas e interações intermoleculares | 1 | [Abrir](provas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md) |
 | Química | Radioatividade | 1 | [Abrir](provas/quimica/004_radioatividade.md) |
 | Química | Equações químicas, balanceamento e tipos de reação | 1 | [Abrir](provas/quimica/005_equacoes-quimicas-balanceamento-tipos-reacao.md) |
-| Química | Cálculos estequiométricos | 0 | [Abrir](provas/quimica/006_calculos-estequiometricos.md) |
+| Química | Cálculos estequiométricos | 1 | [Abrir](provas/quimica/006_calculos-estequiometricos.md) |
 | Química | Funções inorgânicas: ácidos, bases, sais e óxidos | 1 | [Abrir](provas/quimica/007_funcoes-inorganicas-acidos-bases-sais-oxidos.md) |
 
 ## Ciências Humanas e Sociais Aplicadas
@@ -82,8 +82,8 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Geografia | Conceitos geográficos, localização e representação cartográfica | 0 | [Abrir](provas/geografia/001_conceitos-geograficos-localizacao-cartografia.md) |
 | Geografia | Estrutura geológica e relevo | 0 | [Abrir](provas/geografia/002_estrutura-geologica-relevo.md) |
 | Geografia | Clima, biomas, solos e hidrografia | 2 | [Abrir](provas/geografia/003_clima-biomas-solos-hidrografia.md) |
-| Geografia | Recursos naturais, energia e impactos ambientais | 1 | [Abrir](provas/geografia/004_recursos-naturais-energia-impactos-ambientais.md) |
-| Geografia | A integração do Paraná com o global | 0 | [Abrir](provas/geografia/005_integracao-parana-global.md) |
+| Geografia | Recursos naturais, energia e impactos ambientais | 2 | [Abrir](provas/geografia/004_recursos-naturais-energia-impactos-ambientais.md) |
+| Geografia | A integração do Paraná com o global | 1 | [Abrir](provas/geografia/005_integracao-parana-global.md) |
 | História | Antiguidade Ocidental: Grécia e Roma | 1 | [Abrir](provas/historia/001_antiguidade-ocidental-grecia-roma.md) |
 | História | O Ocidente na Idade Média | 0 | [Abrir](provas/historia/002_ocidente-idade-media.md) |
 | História | História Moderna: crise medieval, Estados Nacionais e grandes navegações | 3 | [Abrir](provas/historia/003_historia-moderna-estados-nacionais-navegacoes.md) |

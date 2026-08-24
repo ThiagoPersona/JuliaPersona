@@ -10,7 +10,7 @@
 
 Este item cobra reconhecimento de estrutura e função de organelas em contextos aplicados (que tipo de célula tem qual organela em abundância), a diferença entre processos de obtenção de energia (respiração aeróbia x fermentação), e o fluxo de informação genética (transcrição e tradução) — sempre testando se você aplica o conceito num cenário concreto, não só a definição solta.
 
-**Evidência real (2 questões, PAS 2024/2025):** o padrão de pegadinha mais comum aqui é inverter uma etapa do processo (chamar de "transcrição" o que é "tradução") ou generalizar errado sobre eficiência energética (achar que fermentação rende mais energia que respiração aeróbia, quando é o oposto).
+**Evidência real (3 questões, PAS 2024/2025 e Vestibular de Verão 2025):** o padrão de pegadinha mais comum aqui é inverter uma etapa do processo (chamar de "transcrição" o que é "tradução"), generalizar errado sobre eficiência energética (achar que fermentação rende mais energia que respiração aeróbia, quando é o oposto), ou inverter o propósito do transporte ativo (dizer que ele serve para "igualar" concentrações, quando na verdade mantém uma diferença contra o gradiente).
 
 ## Conteúdo completo orientado ao programa
 
@@ -52,6 +52,18 @@ Ao balancear a equação, a razão entre os coeficientes (ex.: `B/n`, moléculas
 
 **Para o PAS:** a leitura de **códons** e a atuação do **RNAt** trazendo aminoácidos são eventos da **tradução**, não da transcrição — essa troca de etapa é uma das pegadinhas mais recorrentes deste tema.
 
+### ATP, NADH e FADH2: as "moedas" da respiração celular
+
+Na respiração celular aeróbia, a maior parte do ATP não é produzida diretamente nas etapas iniciais (glicólise, ciclo de Krebs) — ela vem da **fosforilação oxidativa**, na qual a energia liberada pela **oxidação** das moléculas transportadoras de elétrons **NADH** e **FADH2** (que se transformam de volta em **NAD⁺** e **FAD⁺** ao perderem os elétrons) é usada para sintetizar ATP na cadeia respiratória (mitocôndria).
+
+**Para o PAS:** associe sempre NADH/FADH2 → oxidação (perdem elétrons, viram NAD⁺/FAD⁺) → energia liberada → síntese de ATP. É a essa oxidação que se atribui a maior parte do ATP total gerado na respiração celular.
+
+### Transporte ativo: mantém a diferença, não iguala as concentrações
+
+No **transporte ativo**, solutos atravessam a membrana plasmática **contra o seu gradiente de concentração** (do lado menos concentrado para o lado mais concentrado), com **gasto de energia** (ATP) — mas o objetivo desse processo é **manter uma diferença de concentração** entre o interior e o exterior da célula (por exemplo, a bomba de sódio-potássio mantém o sódio mais concentrado fora e o potássio mais concentrado dentro), não igualar as concentrações dos dois lados.
+
+**Para o PAS:** transporte ativo = contra o gradiente, com gasto de energia, para **manter uma diferença** de concentração — dizer que ele serve para "igualar" concentrações inverte o próprio sentido biológico do processo (igualar concentrações é o que a difusão passiva faz naturalmente, sem gasto de energia).
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -60,6 +72,7 @@ Ao balancear a equação, a razão entre os coeficientes (ex.: `B/n`, moléculas
 | Respiração aeróbia (mais energia) | Fermentação (menos energia) | Afirma que fermentação rende mais energia | Aeróbia é sempre mais eficiente energeticamente |
 | Parte inorgânica do osso (sais minerais) | Parte orgânica do osso (colágeno) | Chama os sais minerais de "parte orgânica" | Sais minerais = inorgânico; colágeno = orgânico |
 | Reação química comum (conserva átomos) | Reação nuclear (converte massa em energia) | Diz que átomos "viram energia" numa reação bioquímica comum | Só em reações nucleares há conversão massa-energia |
+| Transporte ativo: contra o gradiente, gasta energia, mantém diferença | Difusão/transporte passivo: a favor do gradiente, iguala concentrações | Diz que o transporte ativo serve para "igualar" concentrações | Transporte ativo mantém diferença; quem iguala concentrações é a difusão passiva |
 
 ## Como caiu na prova: questões comentadas
 
@@ -83,12 +96,26 @@ Contexto: equação geral `n Açúcar + A O₂ → B CO₂ + C H₂O + energia`.
 5. "o balanceamento implica que a razão B/n é constante, independente da quantidade n de açúcar" — **correta**: propriedade da estequiometria de uma equação balanceada.
 6. Soma das corretas: 01+08+16 = 25, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2025, Questão 41 (gabarito: 01-02-16 = soma 19)**
+
+"Assinale o que for correto."
+
+1. "síntese da maior parte do ATP gerado na respiração celular está acoplada à oxidação de moléculas de NADH e FADH2, que se transformam em NAD+ e FAD+, respectivamente" — **correta**: descrição padrão da fosforilação oxidativa.
+2. "embriões de répteis e aves conseguem sobreviver fora do ambiente aquático porque apresentam âmnio, alantoide, córion e saco vitelínico" — **correta**: fato padrão sobre o ovo amniótico (adaptação reprodutiva à vida terrestre).
+4. "estruturas vegetais seiva, parênquima e floema equivalem, respectivamente, do ponto de vista funcional, ao sangue, aos ossos e aos vasos sanguíneos dos animais" — **errada**: a analogia falha — o parênquima (tecido de preenchimento/armazenamento/fotossíntese) não corresponde funcionalmente ao osso (tecido de sustentação).
+8. "no transporte ativo ocorre movimento de solutos através da membrana plasmática contra seu gradiente de concentração e com gasto de energia para igualar as suas concentrações dentro e fora da célula" — **errada**: o transporte ativo mantém uma diferença de concentração, não a iguala — quem iguala é a difusão passiva.
+16. "duas moléculas idênticas de DNA de um cromossomo duplicado são denominadas cromátides-irmãs, enquanto as cromátides de um par de cromossomos homólogos duplicados formam uma tétrade" — **correta**: terminologia padrão de divisão celular (ver [Divisão celular](../../temas/biologia/003_divisao-celular-mitose-meiose.md)).
+
+Soma das corretas: 01+02+16 = 19, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Trocar transcrição por tradução (ou vice-versa) ao descrever códons e RNAt.
 - Afirmar que fermentação rende mais energia que respiração aeróbia.
 - Chamar sais minerais de "parte orgânica" de um tecido.
 - Dizer que átomos "viram energia" numa reação química/bioquímica comum (isso só vale para reações nucleares).
+- Dizer que o transporte ativo serve para "igualar" concentrações — na verdade ele mantém uma diferença.
+- Criar analogias forçadas entre estruturas vegetais e animais que não correspondem funcionalmente (ex.: parênquima ≠ osso).
 
 ## Como resolver questões
 
@@ -99,8 +126,8 @@ Contexto: equação geral `n Açúcar + A O₂ → B CO₂ + C H₂O + energia`.
 
 ## Lacunas honestas
 
-- Este tema já tem duas questões reais comentadas (PAS 2024 e 2025), cobrindo organelas, sais minerais, respiração/fermentação e transcrição. Falta um exemplo real específico sobre fotossíntese/quimiossíntese e sobre cariótipo humano isolado (não em conjunto com meiose).
-- Falta explorar o Vestibular de Verão (2020-2025, já baixado) para este tema.
+- Este tema já tem três questões reais comentadas (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2025), cobrindo organelas, sais minerais, respiração/fermentação, transcrição, ATP/NADH/FADH2 e transporte ativo. Falta um exemplo real específico sobre fotossíntese/quimiossíntese e sobre cariótipo humano isolado (não em conjunto com meiose).
+- Falta explorar mais anos do Vestibular de Verão (2020-2024, já baixados) para este tema.
 
 ## Checklist de revisão
 
@@ -109,7 +136,8 @@ Contexto: equação geral `n Açúcar + A O₂ → B CO₂ + C H₂O + energia`.
 - [ ] Sei explicar por que respiração aeróbia rende mais energia que fermentação.
 - [ ] Sei diferenciar transcrição de tradução, com local e produto de cada uma.
 - [ ] Sei explicar por que "átomos viram energia" é falso numa reação química comum.
-- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei explicar por que o transporte ativo mantém, e não iguala, uma diferença de concentração.
+- [ ] Resolvi as três questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -125,3 +153,4 @@ Contexto: equação geral `n Açúcar + A O₂ → B CO₂ + C H₂O + energia`.
 
 - PAS/UEM 2025, Etapa 1, Questão 33 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
 - PAS/UEM 2024, Etapa 1, Questão 15 — `Fontes Oficiais/provas-anteriores/pas24_E1.pdf` e `pas24_gabdef.pdf`.
+- Vestibular de Verão UEM 2025, Questão 41 — `Fontes Oficiais/provas-anteriores-vestibular/ve25_P1.pdf` e `ve25_gabdef.pdf`.

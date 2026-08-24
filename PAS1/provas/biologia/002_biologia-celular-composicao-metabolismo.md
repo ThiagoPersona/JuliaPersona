@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões oficiais do PAS/UEM (2024 e 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 33. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 15. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2025, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Numa equação balanceada, a razão entre coeficientes estequiométricos é sempre constante, independente da quantidade inicial.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 usa o nome de Lavoisier (cientista da conservação da massa) para afirmar exatamente o oposto do que ele demonstrou — sempre desconfie quando um nome famoso é citado defendendo uma ideia contrária à que o tornou famoso.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,16">
+<p class="quiz-source">Vestibular de Verão UEM 2025, Questão 41</p>
+<p><strong>3. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A síntese da maior parte do ATP gerado na respiração celular está acoplada à oxidação de moléculas de NADH e FADH2, que se transformam em NAD+ e FAD+, respectivamente.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Embriões de répteis e aves conseguem sobreviver fora do ambiente aquático porque apresentam âmnio, alantoide, córion e saco vitelínico.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As estruturas vegetais seiva, parênquima e floema equivalem, respectivamente, do ponto de vista funcional, ao sangue, aos ossos e aos vasos sanguíneos dos animais.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) No transporte ativo ocorre movimento de solutos através da membrana plasmática contra seu gradiente de concentração e com gasto de energia para igualar as suas concentrações dentro e fora da célula.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Duas moléculas idênticas de DNA de um cromossomo duplicado são denominadas cromátides-irmãs, enquanto as cromátides de um par de cromossomos homólogos duplicados formam uma tétrade.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-16 (soma 19).</strong> Fonte: Vestibular de Verão UEM 2025, Questão 41.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão da fosforilação oxidativa (ATP acoplado à oxidação de NADH/FADH2).</li>
+<li><strong>02. Correta.</strong> Fato padrão sobre o ovo amniótico como adaptação reprodutiva à vida terrestre.</li>
+<li><strong>04. Errada.</strong> A analogia falha: parênquima (armazenamento/fotossíntese) não corresponde funcionalmente ao osso (sustentação).</li>
+<li><strong>08. Errada.</strong> Transporte ativo mantém uma diferença de concentração — não a iguala; quem iguala é a difusão passiva.</li>
+<li><strong>16. Correta.</strong> Terminologia padrão de divisão celular (cromátides-irmãs x tétrade).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 inverte o propósito do transporte ativo — ele mantém uma diferença de concentração, com gasto de energia, e não "iguala" as concentrações.</p>
 </div>
 </div>
 
