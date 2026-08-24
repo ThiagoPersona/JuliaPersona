@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2025, Vestibular de Verão UEM 2025 e 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2025, Vestibular de Verão UEM 2025/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 22. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 39 e 40 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 7. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -105,6 +106,30 @@
 <li><strong>16. Correta.</strong> Fato real sobre a primeira usina eólica da Região Sul, em Palmas (PR).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 troca o rio (Paraná, não Iguaçu) e o país parceiro (Paraguai, não Argentina) da usina de Itaipu — dois erros geográficos clássicos sobre a mesma usina.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 7</p>
+<p><strong>5. Sobre aspectos geográficos e biológicos do planeta Terra, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) As florestas pluviais tropicais ocupam áreas delimitadas entre os trópicos e os círculos polares, onde ocorre a maior incidência dos raios solares e uma das menores pluviosidades do planeta. Essas florestas são constituídas, principalmente, por briófitas, que apresentam vasos condutores evoluídos para a retenção da água.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A tundra é uma vegetação encontrada nas baixas latitudes no hemisfério Sul, principalmente nas estepes africanas. Pertencentes ao grupo das angiospermas, as coníferas são as formas vegetais dominantes, apresentando árvores de diversos tamanhos e folhagem exuberante.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As chuvas ácidas possuem origem natural e ocorrem devido à evapotranspiração em regiões com solos ácidos e lixiviados e, também, devido ao tipo de vegetação natural existente. No Brasil, as chuvas ácidas são muito frequentes no bioma Cerrado, onde o solo é rico em biomassa formada pela decomposição da matéria orgânica fotossintetizante.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os combustíveis fósseis foram formados a partir do soterramento de substâncias orgânicas que passaram por lentas transformações e originaram, por exemplo, o petróleo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A poluição de rios, mares e oceanos provoca sérios riscos à biodiversidade e também ao ser humano. No caso de mares e oceanos, acidentes com derramamento de petróleo ocasionado pelos navios petroleiros atingem o habitat de numerosas espécies marinhas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 08-16 (soma 24).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 7.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Florestas tropicais têm alta (não baixa) pluviosidade, e não são formadas principalmente por briófitas (que, por definição, não têm vasos condutores evoluídos).</li>
+<li><strong>02. Errada.</strong> A tundra ocorre em ALTAS latitudes (próximo aos polos), não baixas; coníferas são gimnospermas, não angiospermas; e a vegetação da tundra é rala, não "exuberante".</li>
+<li><strong>04. Errada.</strong> A chuva ácida tem origem majoritariamente humana/industrial (poluição atmosférica), não natural, e não é um fenômeno característico do Cerrado.</li>
+<li><strong>08. Correta.</strong> Descrição padrão da formação geológica dos combustíveis fósseis.</li>
+<li><strong>16. Correta.</strong> Fato real e bem documentado sobre os impactos da poluição marinha e de derramamentos de petróleo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 invertem características básicas dos biomas (pluviosidade das florestas tropicais, latitude da tundra) e classificam erroneamente grupos vegetais (briófitas com vasos, coníferas como angiospermas).</p>
 </div>
 </div>
 

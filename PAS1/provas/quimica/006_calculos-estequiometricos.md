@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais do Vestibular de Verão UEM (2022, 2023 e 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais do Vestibular de Verão UEM (2021, 2022, 2023 e 2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2025, Questão 45. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 45. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 49 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 44 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -81,6 +82,30 @@
 <li><strong>16. Errada.</strong> Um gás real se aproxima do comportamento ideal com pressão baixa e temperatura ALTA, não temperatura baixa.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 chama de "densidade" o que na verdade é uma concentração (massa de soluto por volume) — confira sempre se a grandeza nomeada corresponde à fórmula usada.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 44</p>
+<p><strong>4. Uma massa de etanol (C₂H₆O(v)) igual a 161g foi colocada para queimar na presença de 220,14L de gás oxigênio em condições ambientes (25°C e 1atm) formando CO₂ e H₂O. Assinale o que for correto. (Dado: volume molar nas condições ambientes igual a 24,46L/mol).</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O volume de gás carbônico produzido foi de 146,76L.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Foram produzidos 108g de água.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Reagiram 3mols de etanol.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Sobraram 23g de etanol.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A queima do etanol é uma reação de oxirredução.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08-16 (soma 29).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 44.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Equação: C₂H₆O + 3O₂ → 2CO₂ + 3H₂O. Etanol disponível: 161g÷46g/mol=3,5mol. O₂ disponível: 220,14L÷24,46L/mol=9,0mol — insuficiente para os 3,5mol de etanol (precisaria de 10,5mol de O₂), logo o O₂ é o reagente limitante: 9,0mol O₂ reage com 3,0mol de etanol. CO₂ produzido = 3,0×2=6,0mol × 24,46L/mol=146,76L.</li>
+<li><strong>02. Errada.</strong> H₂O produzida = 3,0mol de etanol × 3 = 9,0mol × 18g/mol = 162g, não 108g.</li>
+<li><strong>04. Correta.</strong> Com o O₂ como limitante, reagem exatamente 3,0mol de etanol (dos 3,5mol disponíveis).</li>
+<li><strong>08. Correta.</strong> Etanol restante = 3,5mol − 3,0mol = 0,5mol × 46g/mol = 23g.</li>
+<li><strong>16. Correta.</strong> Toda combustão é uma reação de oxirredução (o carbono é oxidado, o oxigênio é reduzido).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a armadilha central da questão é identificar corretamente o reagente limitante — comparando 3,5mol de etanol (que exigiriam 10,5mol de O₂) com os 9,0mol de O₂ realmente disponíveis, conclui-se que o oxigênio (não o etanol) limita a reação.</p>
 </div>
 </div>
 

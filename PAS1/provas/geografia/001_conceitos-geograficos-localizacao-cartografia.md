@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (Vestibular de Verão UEM 2024 e 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2024, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 32 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Fato real sobre o programa Landsat.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 erra o século da invenção da imprensa por mais de 400 anos — sempre confira datas absolutas com atenção redobrada.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 31</p>
+<p><strong>3. Sobre os conteúdos relacionados à orientação, à localização e aos movimentos efetuados pelo planeta Terra, e suas consequências, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Uma das consequências da esfericidade da Terra e da inclinação do seu eixo de rotação em relação ao plano da órbita ao redor do Sol é a sucessão entre dias e noites. Em decorrência disso, no equador térmico há maior variação na incidência da insolação ao longo do ano.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A Terra é dividida por uma grade de linhas imaginárias, conhecida como coordenadas geográficas, que permite localizar qualquer ponto na superfície do planeta. Essas coordenadas são medidas em graus, e a origem desse cômputo, no caso da latitude, ocorre a partir da linha do Equador e, no caso da longitude, a partir do Meridiano de Greenwich.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Devido ao movimento de translação, pontos com latitudes diferentes na superfície terrestre apresentam, simultaneamente, horários diferentes. Atualmente, no território brasileiro são utilizados três fusos horários, dentre eles o fuso da hora oficial do Brasil, que está adiantado cinco horas em relação ao Meridiano de Greenwich.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A declinação magnética é causada pela inversão do magnetismo entre os dois polos terrestres devido à precessão dos equinócios ocorrida no planeta. Esse fenômeno não interfere no funcionamento da bússola, uma vez que a orientação dada pela sua agulha é direcionada para o Polo Sul Geográfico da Terra.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os solstícios e os equinócios marcam os dias em que ocorrem as mudanças das estações do ano. Por volta do dia 21 de dezembro, por exemplo, ocorrem o solstício de inverno no hemisfério norte e o solstício de verão no hemisfério sul.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-16 (soma 18).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 31.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> É no equador térmico que há a MENOR variação de insolação ao longo do ano — a maior variação ocorre próximo aos polos.</li>
+<li><strong>02. Correta.</strong> Definição padrão de coordenadas geográficas (latitude a partir do Equador, longitude a partir de Greenwich).</li>
+<li><strong>04. Errada.</strong> É a ROTAÇÃO (não a translação) que causa horários diferentes simultâneos, e esses dependem da LONGITUDE (não da latitude); além disso, o horário oficial do Brasil está ATRASADO (não adiantado) em relação a Greenwich (UTC-3).</li>
+<li><strong>08. Errada.</strong> A declinação magnética é a diferença angular entre o norte magnético e o norte geográfico verdadeiro — não é causada por "inversão do magnetismo" via precessão dos equinócios, e a descrição sobre o Polo Sul Geográfico está confusa/incorreta.</li>
+<li><strong>16. Correta.</strong> Descrição correta dos solstícios de dezembro (inverno no hemisfério norte, verão no hemisfério sul).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 troca rotação por translação como causa dos fusos horários, troca latitude por longitude como base do cálculo, e inverte o sentido do fuso horário brasileiro (atrasado, não adiantado, em relação a Greenwich).</p>
 </div>
 </div>
 

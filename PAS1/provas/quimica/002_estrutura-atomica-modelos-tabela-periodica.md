@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2023), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 39. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 48. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 41 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Descrição correta da fusão nuclear estelar.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 erra o cálculo da fração restante após 3 meias-vidas — o correto é 1/8 (potência de 1/2), não 1/6.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 41</p>
+<p><strong>3. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Um mol de moléculas de gás hidrogênio possui 6,02 × 10²³ átomos de hidrogênio.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O berílio possui menor raio atômico quando comparado ao lítio e ao magnésio.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As forças de dispersão de London são também conhecidas por forças de Van der Waals e são consideradas mais fortes do que as forças dipolo-dipolo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Uma solução aquosa de NaCl a 25°C e 1atm é exemplo de um tipo de sal denominado "sal hidratado".</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O número de oxidação do cloro no ácido cloroso é +3.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-16 (soma 18).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 41.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> 1 mol de MOLÉCULAS de H₂ possui 6,02×10²³ moléculas, ou seja, o DOBRO desse valor em átomos (cada molécula tem 2 átomos de H).</li>
+<li><strong>02. Correta.</strong> Berílio (período 2, grupo 2) tem raio menor que o lítio (mesmo período, grupo 1, mais à esquerda) e menor que o magnésio (mesmo grupo, período inferior) — consistente com as tendências periódicas de raio atômico.</li>
+<li><strong>04. Errada.</strong> As forças de London costumam ser MAIS FRACAS que as forças dipolo-dipolo (para moléculas de tamanho comparável), não mais fortes.</li>
+<li><strong>08. Errada.</strong> "Sal hidratado" é um sal sólido que incorpora moléculas de água em sua estrutura cristalina (como o CuSO₄·5H₂O) — não é o mesmo que uma solução aquosa de sal dissolvido.</li>
+<li><strong>16. Correta.</strong> No ácido cloroso (HClO₂), O=-2 (×2=-4), H=+1; para a soma dar zero, Cl = +3.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 confunde "sal hidratado" (sal sólido com água na estrutura cristalina) com uma simples solução aquosa de sal dissolvido — são conceitos diferentes.</p>
 </div>
 </div>
 

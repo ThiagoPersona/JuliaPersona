@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (Vestibular de Verão UEM 2023 e 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (Vestibular de Verão UEM 2023/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2023, Questão 28. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 34 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 32 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> Essa descrição (Andes até Filipinas, concentração de vulcões) é do Círculo de Fogo do PACÍFICO, não do Atlântico.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 troca intemperismo físico por intemperismo químico (a mudança de composição química é do químico); a 16 troca o nome do oceano do Círculo de Fogo (é o Pacífico, não o Atlântico).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 32</p>
+<p><strong>3. Sobre terremotos, e assuntos correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Os frequentes terremotos registrados no Haiti ocorrem porque o país está localizado sobre três placas tectônicas: a placa de Nazca, a placa Sul-Americana e a placa do Pacífico.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O terremoto com magnitude de 7,2 graus na escala Richter, que ocorreu em 11 de março de 2021 no Haiti, foi de 1,25 vez menor que a magnitude do terremoto ocorrido no Japão em 2011.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) No Japão, apesar de a magnitude do terremoto ter sido maior que o terremoto ocorrido no Haiti, os efeitos socioeconômicos foram menos graves devido ao planejamento mais eficiente que compreende desde o socorro e o atendimento às vítimas até a reconstrução das áreas atingidas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Desastres naturais ocorridos no Haiti em 2004, assim como o terremoto em 2010 no mesmo país, provocaram a emigração de muitos haitianos após o agravamento de problemas políticos e econômicos, acentuados pela fome, pelas doenças, pela violência urbana.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) As placas que compõem a litosfera não estão constantemente em movimento, mas, quando elas resvalam, o movimento acontece de forma cíclica, ou seja, um encontro seguido de uma colisão, e a maioria dos tremores gerados é de alta intensidade.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08 (soma 12).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 32.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> O Haiti está próximo ao limite das placas do Caribe e Norte-Americana, não das placas de Nazca, Sul-Americana e do Pacífico.</li>
+<li><strong>02. Errada.</strong> A data do terremoto de 7,2 graus no Haiti mencionado no texto foi 14 de agosto de 2021, não 11 de março (essa é a data do terremoto do Japão).</li>
+<li><strong>04. Correta.</strong> Contraste real e bem documentado entre a resposta a desastres no Japão (mais preparado) e no Haiti.</li>
+<li><strong>08. Correta.</strong> Fato histórico real sobre emigração haitiana ligada a desastres e crises.</li>
+<li><strong>16. Errada.</strong> As placas tectônicas estão em movimento CONSTANTE (lento e contínuo), não apenas cíclico; e a maioria dos terremotos é de intensidade baixa a moderada, não alta.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 troca as datas dos terremotos do Haiti e do Japão mencionados no enunciado — sempre confira a atribuição correta de datas a cada evento citado no texto de apoio.</p>
 </div>
 </div>
 

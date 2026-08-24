@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 7. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 7 e 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questões 34 e 35 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -105,6 +106,54 @@
 <li><strong>16. Errada.</strong> É o oposto: regiões continentais/interiores têm maior amplitude térmica; regiões litorâneas têm amplitude menor, pela regulação térmica do mar (continentalidade).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 02, 04 e 16 invertem relações climáticas básicas (quente/frio, altitude/temperatura, litoral/interior) — sempre confira a direção real de cada relação.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 34</p>
+<p><strong>5. Sobre características da vegetação brasileira, e assuntos correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Devido ao predomínio de planaltos e chapadas, a topografia da Floresta Amazônica apresenta dois estratos de vegetação: o igapó, que se desenvolve em áreas de terra firme, e a várzea, que se desenvolve onde há vegetação de maior porte.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Os manguezais (encontrados nas bordas das formações de campos naturais do Cerrado) são nichos ecológicos onde se reproduzem as principais espécies de avifauna brasileira, pois são áreas ricas em nutrientes provenientes dos depósitos de turfeiras.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A Caatinga é composta por vegetação higrófila, que agrupa um complexo heterogêneo com vários tipos de formação vegetal de diferentes portes, que cobrem vastas áreas do Centro-Oeste do Brasil; é adaptada aos climas mesotérmico e subtropical de altitude.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) No Brasil, o Pantanal abrange áreas dos estados do Mato Grosso e do Mato Grosso do Sul, em planícies sujeitas a inundações, com o predomínio de vegetação rasteira, de floresta e de ambientes aquáticos caracterizados pelo clima tropical.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) No passado, a Mata Atlântica se estendia ao longo do litoral do Nordeste até o Sul do Brasil, alargando-se para o interior do país. Atualmente é um dos biomas mais ameaçados pela expansão urbana, pela exploração madeireira, pela agricultura de exportação.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 08-16 (soma 24).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 34.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Igapó e várzea são tipos de mata INUNDÁVEL (diferenciados pelo tipo de rio/água), não relacionados a "planaltos e chapadas"; a descrição de igapó como "terra firme" está incorreta — mata de terra firme é uma terceira categoria, distinta de igapó e várzea.</li>
+<li><strong>02. Errada.</strong> Manguezais são ecossistemas costeiros (litorâneos/estuarinos), não estão "nas bordas dos campos naturais do Cerrado" — associação de bioma errada.</li>
+<li><strong>04. Errada.</strong> A Caatinga é vegetação XERÓFILA (adaptada à seca), não higrófila; está no Nordeste (não no Centro-Oeste); e seu clima é semiárido tropical, não "mesotérmico subtropical de altitude".</li>
+<li><strong>08. Correta.</strong> Descrição padrão do Pantanal.</li>
+<li><strong>16. Correta.</strong> Descrição padrão da distribuição histórica e das ameaças atuais à Mata Atlântica.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 02 e 04 atribuem características e localizações erradas a biomas (manguezal associado ao Cerrado; Caatinga descrita como higrófila e do Centro-Oeste) — sempre confira a associação bioma-características-localização.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 35</p>
+<p><strong>6. Sobre a circulação geral da atmosfera, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A circulação geral da atmosfera determina o padrão global do clima, que define a distribuição de pressão e de ventos nas zonas climáticas da Terra.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A Zona de Convergência Intertropical (ZCIT) provoca chuvas nas proximidades da linha do Equador, nos hemisférios norte e sul.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Nas proximidades da latitude de 30º, nos hemisférios norte e sul, formam-se áreas de alta pressão.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Ventos alísios do nordeste originam-se em território brasileiro, sopram da linha do Equador para os trópicos, no mesmo sentido do movimento de rotação da Terra.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O El Niño caracteriza-se pelo fortalecimento dos ventos alísios, enquanto o La Niña caracteriza-se pelo seu enfraquecimento.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04 (soma 07).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 35.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão do papel da circulação geral da atmosfera na definição dos climas.</li>
+<li><strong>02. Correta.</strong> A ZCIT provoca as maiores chuvas da Terra, próximo ao Equador.</li>
+<li><strong>04. Correta.</strong> Descrição padrão das zonas de alta pressão subtropical (~30°).</li>
+<li><strong>08. Errada.</strong> Os ventos alísios sopram dos cinturões de alta pressão subtropical EM DIREÇÃO ao Equador (não do Equador para os trópicos), e não se originam "em território brasileiro".</li>
+<li><strong>16. Errada.</strong> É o oposto: o El Niño está associado ao ENFRAQUECIMENTO dos alísios; o La Niña, ao FORTALECIMENTO.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 inverte a relação entre El Niño/La Niña e a força dos ventos alísios — El Niño enfraquece, La Niña fortalece.</p>
 </div>
 </div>
 

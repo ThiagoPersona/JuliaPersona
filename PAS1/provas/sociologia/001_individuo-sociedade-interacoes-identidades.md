@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2024/2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -10,6 +10,7 @@
 - Vestibular de Verão UEM 2024, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 41 e 49 (Conhecimentos Específicos - Sociologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questões 42, 49 e 50 (Conhecimentos Específicos - Sociologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -130,6 +131,78 @@
 <li><strong>16. Errada.</strong> É exatamente o oposto: todo o materialismo histórico de Marx se baseia na compreensão dos elementos materiais e históricos que ligam indivíduo e sociedade.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 nega a Marx justamente o núcleo do seu método (materialismo histórico) — sempre desconfie de afirmações que atribuem a um pensador o oposto do que define sua obra.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 42</p>
+<p><strong>6. Sobre o conceito de gênero, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Por influência da chamada segunda onda do feminismo, ele passa a ser empregado por cientistas sociais na década de 1970.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Incorpora, na discussão sobre identidades, um conjunto de expectativas socialmente construídas sobre comportamentos e atitudes individuais.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Define as identidades como formadas ao longo de processo que envolve instituições de socialização e arbítrio individual.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Propõe um modelo relacional para a compreensão dos processos de formação das identidades, envolvendo aspectos biológicos, psicológicos e sociológicos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Permite a superação de modelos classificatórios binários e a compreensão da identidade individual no campo da sexualidade como instável e fluida.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08-16 (soma 31 — todas corretas).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 42.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Cronologia padrão da incorporação do conceito de gênero pelas ciências sociais.</li>
+<li><strong>02. Correta.</strong> Definição padrão de gênero como construção social de expectativas.</li>
+<li><strong>04. Correta.</strong> Descrição padrão da formação de identidade via socialização + agência individual.</li>
+<li><strong>08. Correta.</strong> Descrição padrão do modelo relacional (bio-psico-sociológico) de identidade.</li>
+<li><strong>16. Correta.</strong> Descrição padrão da contribuição do conceito de gênero à superação de binarismos.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> nenhuma — todas as cinco afirmações estão corretas; desconfie do impulso de "achar que não pode ser tudo certo" e deixar de marcar alguma alternativa válida.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 49</p>
+<p><strong>7. Sobre Émile Durkheim e a sua sociologia, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Na sociologia de Durkheim são concebidos dois tipos de fatos sociais, os normais e os anormais.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O conceito de solidariedade mecânica é aplicado por Durkheim para as sociedades capitalistas.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A sociologia de Durkheim define o suicídio como um fato social.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A análise sociológica de Durkheim distingue a consciência individual da consciência coletiva.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Para avaliar a normalidade de um fato social Durkheim descarta o uso da estatística.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 49.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Distinção padrão durkheimiana entre fatos sociais normais e patológicos.</li>
+<li><strong>02. Errada.</strong> É a solidariedade ORGÂNICA que Durkheim associa às sociedades capitalistas/industriais complexas — a mecânica é típica de sociedades tradicionais, pouco diferenciadas.</li>
+<li><strong>04. Correta.</strong> "O Suicídio" é a obra clássica de Durkheim que trata o suicídio como fato social, não apenas individual/psicológico.</li>
+<li><strong>08. Correta.</strong> Distinção padrão entre consciência individual e consciência coletiva.</li>
+<li><strong>16. Errada.</strong> Durkheim USA extensivamente a estatística (como as taxas de suicídio) para avaliar a normalidade de um fato social — o oposto de "descartar".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 troca solidariedade mecânica por orgânica ao associá-la às sociedades capitalistas — mesma troca conceitual clássica já vista em outras questões sobre Durkheim.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 50</p>
+<p><strong>8. Sobre a sociologia de Max Weber, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Para Weber o conhecimento da história de uma sociedade é imprescindível para o entendimento de sua realidade social.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Os valores religiosos desmotivam as pessoas para atividades econômicas.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Estabelece uma tipologia da ação social na qual figuram ação tradicional, ação afetiva, ação racional com relação a valores e ação racional com relação a fins.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A sociologia weberiana privilegia os estudos qualitativos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O tipo ideal é uma ferramenta importante na sociologia proposta por Max Weber.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08-16 (soma 29).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 50.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Abordagem histórico-interpretativa é central ao método weberiano.</li>
+<li><strong>02. Errada.</strong> Ao contrário: para Weber (Ética Protestante), valores religiosos podem MOTIVAR (não desmotivar) o comportamento econômico.</li>
+<li><strong>04. Correta.</strong> Tipologia clássica weberiana das quatro formas de ação social.</li>
+<li><strong>08. Correta.</strong> A sociologia compreensiva (verstehen) de Weber privilegia a interpretação qualitativa de sentido.</li>
+<li><strong>16. Correta.</strong> O tipo ideal é ferramenta metodológica central em Weber.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 inverte a tese central da Ética Protestante — os valores religiosos, para Weber, motivam (não desmotivam) o comportamento econômico.</p>
 </div>
 </div>
 

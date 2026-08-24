@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2024 e 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2024 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 2. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 32 e 34 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 39 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -105,6 +106,30 @@
 <li><strong>16. Errada.</strong> A "doutrina dos ídolos" (Idola tribus, fori, specus, theatri) é de Francis Bacon, não de Kant; além disso, Kant argumenta que Deus, alma e liberdade estão além do conhecimento teórico possível, não que sejam objeto de conhecimento metafísico demonstrável.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 atribui a Kant uma teoria (a "crítica dos ídolos") que na verdade é de Francis Bacon — sempre confira a autoria de cada conceito filosófico citado.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 39</p>
+<p><strong>5. O método científico determina o modo como cientistas devem proceder em suas atividades de investigação e na justificação de suas teorias. Sobre o método científico, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Uma boa teoria científica permite ao cientista conceber condições ou situações hipotéticas cuja eventual constatação empírica desfavorecerá a aceitação dessa própria teoria.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A avaliação de uma teoria científica depende da capacidade dessa teoria em se ajustar ao conjunto dos dados e das informações disponíveis.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Teorias científicas têm papel ativo na constituição do significado dos enunciados tomados como verdadeiros em uma ciência.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) As observações feitas pelo cientista não devem colocar limites à sua liberdade criativa, porque a concepção de boas teorias científicas requer engenhosidade.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Nas ciências experimentais, teorias bem sucedidas na explicação de certos dados disponíveis mantêm-se inalteradas diante do incremento de informações sobre o mundo.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04 (soma 07).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 39.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descreve o critério de falseabilidade (Popper): uma boa teoria científica é testável e refutável.</li>
+<li><strong>02. Correta.</strong> Critério padrão de adequação empírica de uma teoria científica.</li>
+<li><strong>04. Correta.</strong> Reconhece o papel ativo da teoria na interpretação dos dados (carga teórica da observação).</li>
+<li><strong>08. Errada.</strong> As observações empíricas justamente LIMITAM/restringem as teorias aceitáveis — não há "liberdade criativa" sem prestar contas aos dados.</li>
+<li><strong>16. Errada.</strong> Teorias científicas são revisadas/atualizadas diante de novas informações — não permanecem "inalteradas".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 descreve as teorias científicas como imutáveis diante de novos dados, quando na verdade a revisão diante de novas evidências é central ao método científico.</p>
 </div>
 </div>
 

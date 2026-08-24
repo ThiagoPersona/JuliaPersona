@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2023 e 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 9 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2023/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -10,6 +10,7 @@
 - PAS/UEM, Etapa 1, 2025, Questão 14. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 16. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 40 (Conhecimentos Específicos - Arte). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questões 1, 31, 34, 36 e 37 (Conhecimentos Específicos - Arte). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -106,6 +107,126 @@
 <li><strong>16. Correta.</strong> Descrição padrão do estilo de Di Cavalcanti.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 inverte o foco temático real de Vicente do Rego Monteiro (temas brasileiros/indígenas), atribuindo a ele um interesse por temas europeus.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 1</p>
+<p><strong>5. Sobre os procedimentos estéticos nas artes em diferentes períodos históricos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A incorporação do cotidiano, do efêmero e de valores difundidos pelos meios de comunicação é procedimento comum da arte na contemporaneidade.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A estilização da forma dos objetos e a utilização de símbolos evocados para a contemplação metafísica da natureza são características das obras de arte do período da Idade Média, na Europa Ocidental.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A expectativa estética da produção de arte, especialmente a partir do século XX, consiste em um tema ou assunto poder ser escolhido pelo artista, como acontece, por exemplo, na arte abstrata, na música atonal.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A desconstrução da forma em obras literárias nas quais não há necessidade de história ou de personagens fixos é uma das características da estética pós-moderna.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A arte na Grécia Antiga tinha valor autônomo, ou seja, desvinculava-se da utilidade dos objetos e das edificações, e o artista era reverenciado por sua genialidade.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 1.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão de procedimentos da arte contemporânea (cotidiano, efêmero, mídia).</li>
+<li><strong>02. Correta.</strong> Descrição padrão da arte medieval: forma estilizada e simbolismo religioso/metafísico, não naturalismo.</li>
+<li><strong>04. Correta.</strong> Descrição padrão da liberdade temática da arte do século XX (abstração, atonalismo).</li>
+<li><strong>08. Correta.</strong> Descrição padrão da desconstrução narrativa na literatura pós-moderna.</li>
+<li><strong>16. Errada.</strong> Na Grécia Antiga, a arte estava, ao contrário, integrada à utilidade (templos, cerâmica utilitária, edificações cívicas/religiosas); o culto ao "artista gênio" autônomo é uma noção posterior (Renascença/Romantismo), não grega antiga.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 projeta sobre a Grécia Antiga uma ideia de "arte autônoma" e "artista gênio" que só se consolida em períodos históricos bem posteriores.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 31</p>
+<p><strong>6. Sobre o papel político da arte, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Durante a ditadura civil militar no Brasil (1964-1985), ficaram famosos os festivais de música nos quais algumas músicas de protesto fizeram sucesso, como Pra não dizer que não falei das flores, de Geraldo Vandré.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O festival de música Woodstock representou a contestação de jovens em um momento de crise sociopolítica nos Estados Unidos da América, que estavam em guerra com o Vietnã.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A metáfora, cujo objetivo é levar o público à reflexão social pelo uso da linguagem figurada, passou a fazer parte das músicas de protestos no Brasil a partir das letras do grupo de samba Racionais.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) As charges costumam fazer alusões à situação política e a suas personalidades. Henfil (Henrique de Souza Filho) as utilizou para fazer crítica a acontecimentos políticos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Nas letras das músicas do rapper Emicida é recorrente a crítica ao preconceito.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08-16 (soma 27).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 31.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato histórico real sobre os festivais de música de protesto durante a ditadura.</li>
+<li><strong>02. Correta.</strong> Descrição padrão do contexto histórico de Woodstock.</li>
+<li><strong>04. Errada.</strong> Racionais MC's é um grupo de RAP, não de samba — erro de classificação do gênero musical.</li>
+<li><strong>08. Correta.</strong> Fato real sobre o trabalho de Henfil como chargista político.</li>
+<li><strong>16. Correta.</strong> Fato real sobre a temática das letras de Emicida.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 classifica errado o gênero musical dos Racionais MC's, chamando de "samba" um grupo de rap.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 34</p>
+<p><strong>7. Sobre o movimento modernista no Brasil, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Antes da Semana de Arte Moderna, também conhecida como Semana de 1922, não houve manifestações de arte moderna no país.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Anita Malfatti é considerada uma das artistas emblemáticas da arte moderna brasileira.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Embora com influência de pintores europeus em sua arte, Di Cavalcanti representou temas nacionais.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O Movimento Antropofágico dominou todo o período e foi representado principalmente por Monteiro Lobato.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Candido Portinari foi um dos artistas mais reconhecidos, e suas obras retratam aspectos da realidade brasileira, como as vítimas das secas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-16 (soma 22).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 34.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Houve manifestações precursoras de arte moderna antes de 1922, como a exposição de Anita Malfatti em 1917.</li>
+<li><strong>02. Correta.</strong> Anita Malfatti é de fato uma figura emblemática do modernismo brasileiro.</li>
+<li><strong>04. Correta.</strong> Descrição correta de Di Cavalcanti: influência europeia, temática nacional.</li>
+<li><strong>08. Errada.</strong> O Movimento Antropofágico não dominou todo o período modernista, e seu principal representante é Oswald de Andrade (autor do manifesto), não Monteiro Lobato.</li>
+<li><strong>16. Correta.</strong> Descrição correta de Portinari, célebre por retratar temas sociais brasileiros como a seca (Retirantes).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 atribui a liderança do Movimento Antropofágico a Monteiro Lobato — na verdade ligado a Oswald de Andrade, autor do Manifesto Antropofágico.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 36</p>
+<p><strong>8. Sobre a cultura dos povos originários brasileiros e suas influências nas artes, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Heitor Villa-Lobos, importante músico e compositor brasileiro, utilizou influências e elementos da cultura indígena em parte de sua obra musical.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A figura do indígena teve protagonismo na música, na dança, na poesia, na literatura, dentre outras artes. Exemplos: a ópera O Guarani, de Carlos Gomes, e o romance Iracema, de José de Alencar.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Na década de 1970, após a criação da Fundação Nacional do Índio (Funai), vários povos indígenas se mobilizaram pela defesa de suas terras e pela manutenção de seus costumes, chamando a atenção de artistas como a fotógrafa Maureen Bisilliat, e inspirando a exposição Xingu Terra, na 13ª Bienal Internacional de São Paulo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A influência indígena chegou até os meios tecnológicos, como no videogame Caminhos da jiboia, que recebeu colaboração dos Huni Kuin (Kaxinawá). O jogo tem como tema os saberes indígenas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O povo guarani pouco influenciou a nossa cultura. Dentre seus costumes não estavam a transmissão oral e os cantos, dificultando ao homem branco (europeu) o acesso a sua cultura.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 36.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato real sobre Villa-Lobos e influências indígenas em sua obra.</li>
+<li><strong>02. Correta.</strong> Exemplos corretos de protagonismo indígena nas artes brasileiras.</li>
+<li><strong>04. Correta.</strong> Fatos históricos reais sobre mobilização indígena e sua repercussão artística.</li>
+<li><strong>08. Correta.</strong> Fato real sobre o jogo Caminhos da Jiboia e a colaboração Huni Kuin.</li>
+<li><strong>16. Errada.</strong> O povo guarani TEM rica tradição oral e de cantos, e influenciou significativamente a cultura brasileira (inclusive a língua).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 nega ao povo guarani justamente as características (tradição oral, cantos) que caracterizam sua cultura e que ajudaram a difundi-la.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 37</p>
+<p><strong>9. Sobre a cultura dos povos africanos trazidos para o Brasil durante o período de escravidão, seus elementos, suas características e suas influências na cultura brasileira, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Durante a diáspora dos africanos no Brasil, os povos que aqui chegaram foram colocados em regiões sem separação de etnias, para facilitar a comunicação e a integração no trabalho. Essa medida ajudou a perpetuar a cultura africana em nosso país.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) As religiões trazidas pelos escravos influenciaram as práticas religiosas no Brasil. O culto aos orixás foi mesclado ao culto de santos católicos e divindades de outros povos africanos, consolidando-se novas religiões como o candomblé na Bahia e o Xangô em Pernambuco.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As máscaras são muito utilizadas na cultura africana, em festividades e até em rituais religiosos. Com suas várias expressões e formas, podem ser engraçadas, tristes ou mesmo assustadoras, de acordo com o ritual ou a ocasião.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) As influências da cultura africana no Brasil também se encontram no Teatro. Grupos como o Bando de Teatro Olodum criaram espetáculos que apresentam elementos e valores das culturas africanas que contribuíram para a formação cultural brasileira.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Na música uma das principais influências é o Lundu ou Lundum, estilo musical combinado a ritmos portugueses como o Fado; era executado ao som de batuques e de dança.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08-16 (soma 30).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 37.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> É o oposto: enslavadores deliberadamente SEPARAVAM pessoas da mesma etnia/língua para dificultar a comunicação e prevenir a organização/resistência, não para "ajudar a perpetuar a cultura africana".</li>
+<li><strong>02. Correta.</strong> Descrição padrão do sincretismo religioso afro-brasileiro.</li>
+<li><strong>04. Correta.</strong> Fato real sobre o uso de máscaras na cultura africana.</li>
+<li><strong>08. Correta.</strong> Fato real sobre o Bando de Teatro Olodum e sua relação com a cultura africana.</li>
+<li><strong>16. Correta.</strong> Fato real sobre o Lundu/Lundum na música brasileira.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 inverte a estratégia histórica real dos traficantes/senhores de escravos, que separavam etnias para IMPEDIR a comunicação e a resistência organizada, não para preservar a cultura.</p>
 </div>
 </div>
 

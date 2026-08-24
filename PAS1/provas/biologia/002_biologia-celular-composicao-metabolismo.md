@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2025/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 33. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 15. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 6. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -81,6 +82,30 @@
 <li><strong>16. Correta.</strong> Terminologia padrão de divisão celular (cromátides-irmãs x tétrade).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 inverte o propósito do transporte ativo — ele mantém uma diferença de concentração, com gasto de energia, e não "iguala" as concentrações.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 6</p>
+<p><strong>4. A utilização dos fungos na indústria alimentícia e de medicamentos é muito antiga. As leveduras, mais especificamente, são conhecidas há muito tempo por sua capacidade de fermentação. Sobre o assunto, e conhecimentos correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O fungo Saccharomyces cerevisiae, mais conhecido como fermento de padaria, é anaeróbico facultativo e é utilizado na produção de pães, de álcool (antisséptico e combustível), de bebidas alcoólicas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O fungo Saccharomyces cerevisiae, o fermento de padaria, age sobre um polissacarídeo dos alimentos, a glicose, produzindo dióxido de carbono e álcool propílico.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A massa do pão feita com levedura cresce porque as moléculas de H2O da massa são absorvidas pelas leveduras e porque as moléculas de O2 liberadas são agregadas à massa durante a fermentação.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Para que a massa do pão cresça mais rapidamente, adiciona-se a levedura à água morna com açúcar, pois as reações de fermentação ocorrem muito lentamente em temperatura ambiente.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Durante a fermentação alcoólica realizada pelas leveduras, ocorrem reações químicas no metabolismo delas. A sacarose é quebrada em glicose e frutose pela ação da enzima invertase. Na quebra da glicose formando etanol atua a enzima zimase.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-08-16 (soma 25).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 6.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão do Saccharomyces cerevisiae e seus usos industriais.</li>
+<li><strong>02. Errada.</strong> A glicose é um monossacarídeo, não um polissacarídeo; e o produto da fermentação alcoólica é etanol, não álcool propílico.</li>
+<li><strong>04. Errada.</strong> O crescimento da massa se deve ao gás carbônico (CO₂) produzido e retido na massa — a fermentação é anaeróbia e não produz O₂.</li>
+<li><strong>08. Correta.</strong> Fato prático de panificação: água morna e açúcar aceleram a atividade da levedura.</li>
+<li><strong>16. Correta.</strong> Descrição bioquímica correta da fermentação alcoólica (invertase quebra sacarose; zimase converte glicose em etanol).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 atribui o crescimento da massa à absorção de água e à liberação de O₂ — na verdade é o CO₂ (gás carbônico) produzido na fermentação anaeróbia que faz a massa crescer.</p>
 </div>
 </div>
 

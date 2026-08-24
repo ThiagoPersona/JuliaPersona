@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2024 e Vestibular de Verão UEM 2025 e 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2025/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 14. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 44. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 36. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 39 (Conhecimentos Específicos - Biologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -81,6 +82,30 @@
 <li><strong>16. Errada.</strong> Antibióticos não têm efeito contra vírus — atuam apenas sobre bactérias.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 troca a descrição do ciclo lítico pela do ciclo lisogênico — sempre associe "lise da célula" ao ciclo lítico, nunca ao lisogênico.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 39</p>
+<p><strong>4. Existem problemas relacionados à utilização em excesso da tecnologia, especificamente de aparelhos eletrônicos e de internet que podem ocasionar problemas à saúde física e mental dos usuários, bem como à sua vida social. Sobre esse assunto, e correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O uso constante das redes sociais estimula a liberação do neurotransmissor dopamina, que está relacionado à sensação de prazer. O neurotransmissor é um mediador químico, liberado na fenda sináptica.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A dependência digital pode levar os usuários a deixar de se alimentar por horas ou a optar por alimentos prontos, industrializados, calóricos e pouco nutritivos, como refrigerantes, salgadinhos e chocolates, que diminuem o apetite sem satisfazer as necessidades nutricionais do indivíduo. Essa dieta desbalanceada é rica em açúcares e gorduras trans, que aumentam o nível de colesterol no sangue.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O uso excessivo dos aparelhos digitais pode levar a um sono profundo e demorado, em que o organismo realiza uma série de funções, como a restauração de tecidos e a secreção de hormônios; por exemplo, o hormônio do crescimento (GH), produzido pelo hipotálamo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O manuseio de aparelhos digitais pode causar problemas posturais envolvendo a curvatura das regiões cervical e torácica. Os desvios de coluna causam dor, mal-estar e, em alguns casos, limitam a execução de movimentos e podem levar à cifose.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O uso demasiado da internet pode levar a um confinamento, ou seja, à não exposição ao sol, o que afeta a produção da vitamina D, que é hidrossolúvel. Essa vitamina atua nos processos energéticos celulares, e a sua carência causa anemia, fadiga, dormência dos membros.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08 (soma 11).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 39.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição correta do papel da dopamina como neurotransmissor de prazer, liberado na fenda sináptica.</li>
+<li><strong>02. Correta.</strong> Descrição plausível e correta dos hábitos alimentares associados à dependência digital.</li>
+<li><strong>04. Errada.</strong> O uso excessivo de telas tende a PREJUDICAR (não aprofundar) o sono; além disso, o GH é produzido pela HIPÓFISE, não pelo hipotálamo.</li>
+<li><strong>08. Correta.</strong> Fato bem documentado sobre problemas posturais ("tech neck") ligados ao uso de aparelhos digitais.</li>
+<li><strong>16. Errada.</strong> A vitamina D é LIPOSSOLÚVEL, não hidrossolúvel — troca de conceito clássica sobre classificação de vitaminas.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 classifica a vitamina D como hidrossolúvel, quando na verdade é lipossolúvel — sempre confira a classificação correta (lipossolúveis: A, D, E, K).</p>
 </div>
 </div>
 

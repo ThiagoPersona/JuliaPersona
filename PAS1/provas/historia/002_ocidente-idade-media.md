@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão real do Vestibular de Verão UEM 2022, com gabarito definitivo confirmado.
+**Itens neste banco:** 2 questões reais (Vestibular de Verão UEM 2022 e 2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2022, Questão 37/47 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 32/42 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,30 @@
 <li><strong>16. Correta.</strong> Descrição padrão da estrutura territorial e econômica agrária do império carolíngio.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 descreve o Tratado de Verdun como unificação, quando na verdade ele dividiu o império carolíngio entre os herdeiros de Carlos Magno.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 32/42</p>
+<p><strong>2. Sobre o feudalismo, e as estruturas econômica, social, política e cultural que existiam na Europa Ocidental ao longo da Idade Média, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A expansão dos muçulmanos que dominaram grande parte da Península Ibérica entre os séculos VIII e XV foi decisiva para que a região onde hoje se localizam Portugal e Espanha desenvolvesse características sociais e culturais distintas de outras regiões da Europa Ocidental.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) As características do feudalismo não foram imutáveis. Ao contrário, o feudalismo apresentava dinamismo, variando de região para região e de um período para o outro ao longo do tempo. Esse dinamismo pode ser observado no desenvolvimento das cidades, das atividades artesanais e comerciais.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Com relação à economia, em termos gerais, o feudalismo caracterizou-se pelo predomínio da produção voltada para o consumo, pelo comércio reduzido, pela pouca utilização de moedas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O grande crescimento da produção agrícola no século XIV possibilitou recursos necessários para a organização das Cruzadas, que, sob o pretexto de libertar Jerusalém do domínio dos infiéis muçulmanos, foram motivadas por interesses econômicos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O romance Dom Quixote, escrito por Cervantes no final da Idade Média, reafirmou os ideais da Cavalaria, exaltou as características de honra, virtude e valentia dos cavaleiros, características do Cavaleiro Dom Quixote, principal personagem da obra.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04 (soma 07).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 32/42.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato histórico real sobre a influência muçulmana na formação cultural da Península Ibérica.</li>
+<li><strong>02. Correta.</strong> Descrição padrão do dinamismo histórico do feudalismo.</li>
+<li><strong>04. Correta.</strong> Descrição padrão da economia feudal de subsistência.</li>
+<li><strong>08. Errada.</strong> As Cruzadas começaram no final do século XI (1096), não no século XIV — erro cronológico grosseiro.</li>
+<li><strong>16. Errada.</strong> Dom Quixote (1605) é uma SÁTIRA aos ideais de cavalaria, não uma reafirmação deles; e foi escrito na Idade Moderna, não no "final da Idade Média".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 trata Dom Quixote como uma celebração séria dos ideais cavalheirescos, quando a obra é, na verdade, uma paródia/crítica a esses ideais.</p>
 </div>
 </div>
 

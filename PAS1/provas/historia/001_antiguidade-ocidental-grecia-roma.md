@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2024 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 3. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 2 e 39. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2021, Questão 31/41 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -80,6 +81,30 @@
 <li><strong>16. Errada.</strong> Ao contrário: a escultura clássica grega evoluiu justamente em direção a MAIOR correspondência anatômica e a posturas mais dinâmicas (contraposto), não estáticas.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 04 e 16 descrevem a arte grega como estagnada e distante da realidade anatômica, quando na verdade ela é conhecida justamente pela evolução em direção ao naturalismo e ao movimento.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2021, Questão 31/41</p>
+<p><strong>4. Sobre a Antiguidade grega, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Atenas, além de ter sido um local onde se executavam as atividades de comércio, administração, cultura, religião e defesa, desenvolveu também a concepção de cidade como comunidade política, local de convivência, e de tomada de decisões coletivas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Aquiles, herói da mitologia grega, foi um importante personagem da Ilíada, epopeia cuja autoria é atribuída a Homero, que narrou a guerra entre gregos e troianos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O estadista Clístenes teve um importante papel no fim da democracia ateniense. Liderou uma rebelião que derrubou o último governante escolhido pelo areópago, conselho composto pelos cidadãos eupátridas, os bem-nascidos, e conduziu Péricles ao poder.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os gregos acreditavam em deuses que tinham formas e características humanas. Assim, os deuses gregos tinham fraquezas, paixões, virtudes. No entanto, eram imortais e tinham a capacidade de comandar o destino dos humanos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O teatro foi uma das mais importantes manifestações culturais gregas. Entre suas peças, as mais conhecidas foram escritas por Ésquilo, Sófocles, Eurípedes e Aristófanes.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08-16 (soma 27).</strong> Fonte: Vestibular de Verão UEM 2021, Questão 31/41.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão da pólis ateniense como comunidade política.</li>
+<li><strong>02. Correta.</strong> Descrição padrão da Ilíada e de sua autoria atribuída a Homero.</li>
+<li><strong>04. Errada.</strong> Clístenes é conhecido por FUNDAR (não encerrar) a democracia ateniense, com suas reformas de 508 a.C. — o oposto do que a afirmação descreve.</li>
+<li><strong>08. Correta.</strong> Descrição padrão dos deuses antropomórficos da mitologia grega.</li>
+<li><strong>16. Correta.</strong> Lista padrão dos grandes dramaturgos do teatro grego antigo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 inverte o papel histórico de Clístenes, atribuindo-lhe o fim da democracia ateniense quando na verdade ele é reconhecido por suas reformas fundadoras da democracia.</p>
 </div>
 </div>
 
