@@ -1,15 +1,38 @@
-<!-- pas1-skeleton -->
 # Questões - Histologia: tecidos epitelial, conjuntivo, muscular e nervoso
 
-> Banco de questões em construção. Quando publicadas, as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmações 01/02/04/08/16, correção automática com pontuação parcial) — ver `REGRAS_DO_MATERIAL.md`.
+> Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-Nenhuma questão publicada ainda para este tema.
+**Itens neste banco:** 1 questão real do Vestibular de Verão UEM 2022, com gabarito definitivo confirmado.
 
-## Fontes disponíveis para extrair questões reais
+## Fontes reais usadas neste banco
 
-- Provas da Etapa 1 baixadas em `Fontes Oficiais/provas-anteriores/` (2021 a 2025).
-- Gabarito definitivo confirmado disponível localmente para as provas de 2024 e 2025.
-- Ver o passo a passo de extração em `REGRAS_DO_MATERIAL.md`, seção "Como extrair questões reais dos PDFs baixados".
+- Vestibular de Verão UEM 2022, Questão 34 (Conhecimentos Específicos - Biologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+
+---
+
+<div class="quiz-card" data-correct="02">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 34</p>
+<p><strong>1. No corpo humano os impulsos elétricos podem ser gerados por células do sistema nervoso e também por algumas células do coração. Sobre o assunto, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Em ambos os casos, a eletricidade é possível graças à presença do corpo celular que conduz os impulsos para o axônio.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O nódulo sinoatrial é responsável pela geração do ritmo cardíaco.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Um neurônio está em repouso quando os canais transportadores de íons de sódio (Na+) estão abertos e ocorre o transporte passivo desse íon para o interior da célula e a despolarização da membrana.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os gliócitos atuam como isolante elétrico, possibilitando uma maior velocidade na ação dos neurotransmissores.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) As fibras de Purkinje são responsáveis por retardar os impulsos brevemente, possibilitando que o sangue localizado no interior dos ventrículos seja direcionado aos átrios, antes de sua contração.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02 (soma 02).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 34.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> É o axônio que conduz o impulso ao longo da célula, não o corpo celular isoladamente; e as células cardíacas não têm "axônio".</li>
+<li><strong>02. Correta.</strong> Definição padrão do nódulo sinoatrial como marca-passo natural do coração.</li>
+<li><strong>04. Errada.</strong> Essa descrição é da despolarização, não do repouso — em repouso os canais de Na⁺ estão fechados.</li>
+<li><strong>08. Errada.</strong> Os gliócitos (mielina) aumentam a velocidade de condução do impulso elétrico no axônio, não a "ação dos neurotransmissores" (evento químico da sinapse).</li>
+<li><strong>16. Errada.</strong> Quem retarda o impulso é o nódulo atrioventricular, não as fibras de Purkinje; e o sangue dos ventrículos vai para as artérias na contração, não "para os átrios".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 descreve o estado de despolarização (canais de Na⁺ abertos) como se fosse o estado de repouso do neurônio — sempre confira qual estado da membrana está sendo descrito.</p>
+</div>
+</div>
 
 ## Tema relacionado
 

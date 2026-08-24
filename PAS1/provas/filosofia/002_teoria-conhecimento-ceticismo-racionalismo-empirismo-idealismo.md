@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2024 e Vestibular de Verão UEM 2024), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2024 e 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 2. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questões 32 e 34 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,54 @@
 <li><strong>16. Correta.</strong> A solução psicológica de Hume está mesmo em sua teoria do hábito/costume.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 01, 02 e 08 atribuem a Hume uma noção "necessária" ou "intrínseca" de causalidade — exatamente o que ele nega ao reduzir a causalidade a hábito baseado em observação.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 32</p>
+<p><strong>3. "É antigo o anseio humano por tornar o mundo inteligível. As civilizações desenvolveram o conhecimento e a técnica conforme o senso comum, pelo uso espontâneo da razão e da imaginação. Às vezes por tentativa e erro, outras vezes por dedução ou indução. E, por fim, pela tradição que acumulava o saber de cada povo, tornando-o cada vez mais elaborado." (ARANHA, M. L. de A. Filosofar com textos: temas e história da Filosofia. São Paulo: Moderna, 2012, p. 171). Sobre o senso comum e o conhecimento científico, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O senso comum é um conjunto de crenças recebido por tradição; um conhecimento assistemático, particular, subjetivo e fragmentário.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O conhecimento científico, por sua evidência, tem uma aplicação prática imediata, permitindo a solução dos problemas do dia a dia e da realidade que nos cerca.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As frases "onde há fumaça, há fogo" e "dize-me com quem andas e te direi quem és" são generalizações do senso comum e, portanto, não constituem conhecimento científico.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O conhecimento científico é construído pela investigação científica racional e sistemática, baseada em métodos rigorosos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A ciência investiga todas as possíveis fontes de conhecimento, inclusive os poderes e as forças sobrenaturais, pois nada permanece cientificamente inexplicável.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 32.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição padrão de senso comum: assistemático, particular, subjetivo, fragmentário.</li>
+<li><strong>02. Errada.</strong> A ciência não se define pela aplicação prática imediata — muito conhecimento científico é teórico e abstrato antes de qualquer aplicação.</li>
+<li><strong>04. Correta.</strong> Ditados populares são generalizações do senso comum, sem o rigor metodológico do conhecimento científico.</li>
+<li><strong>08. Correta.</strong> Definição padrão de conhecimento científico: investigação racional, sistemática, com métodos rigorosos.</li>
+<li><strong>16. Errada.</strong> A ciência não investiga forças sobrenaturais nem afirma que "nada permanece inexplicável" — isso contraria os limites reconhecidos do método científico.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 confunde ciência com tecnologia/senso comum ao exigir "aplicação prática imediata" como critério do conhecimento científico.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 34</p>
+<p><strong>4. São questões centrais da teoria do conhecimento a investigação da origem e da natureza do conhecimento humano; a relação entre conhecimento e certeza; o método e critério de verdade; a natureza e função do sujeito e objeto de conhecimento. Sobre o problema do conhecimento na filosofia moderna, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A busca pela primeira verdade levou Descartes a adotar a dúvida como método radical para excluir o senso comum e os sentidos como fontes de conhecimento da realidade externa.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O otimismo, a confiança nos poderes da razão e a emancipação do homem na reorganização do mundo são características do Iluminismo, pela influência positiva das teorias do conhecimento racionalista e empirista do século XVII.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) De acordo com Locke, as ideias universais, por exemplo, as ideias de cor e de luz não correspondem a coisas reais e singulares. A razão forma essas ideias pela abstração das qualidades dos objetos singulares.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Hume nega a validade universal e a conexão causal necessária entre fatos sucessivos, pois, segundo ele, percebemos apenas os fatos, não sua conexão. Consequentemente, ele acredita que a causalidade é apenas uma crença produzida pelo hábito.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A teoria conhecida como crítica dos ídolos foi proposta por Immanuel Kant para explicar a possibilidade do conhecimento metafísico sobre Deus, a natureza da alma e a liberdade da vontade humana.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 34.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão da dúvida metódica/hiperbólica cartesiana.</li>
+<li><strong>02. Correta.</strong> Caracterização padrão do otimismo racionalista do Iluminismo.</li>
+<li><strong>04. Correta.</strong> Descrição precisa do nominalismo empirista de Locke sobre ideias universais formadas por abstração.</li>
+<li><strong>08. Correta.</strong> Descrição precisa do ceticismo de Hume quanto à causalidade necessária, reduzida a hábito.</li>
+<li><strong>16. Errada.</strong> A "doutrina dos ídolos" (Idola tribus, fori, specus, theatri) é de Francis Bacon, não de Kant; além disso, Kant argumenta que Deus, alma e liberdade estão além do conhecimento teórico possível, não que sejam objeto de conhecimento metafísico demonstrável.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 atribui a Kant uma teoria (a "crítica dos ídolos") que na verdade é de Francis Bacon — sempre confira a autoria de cada conceito filosófico citado.</p>
 </div>
 </div>
 

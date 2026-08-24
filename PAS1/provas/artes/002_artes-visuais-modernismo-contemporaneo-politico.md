@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2023), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2023 e 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 1. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 14. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 16. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questão 40 (Conhecimentos Específicos - Arte). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -81,6 +82,30 @@
 <li><strong>16. Correta.</strong> Lista padrão e precisa dos meios da arte contemporânea.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 02 e 08 descrevem a arte contemporânea como conservadora/homogênea — o oposto de sua característica real (ruptura, diversidade).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 40 (Conhecimentos Específicos - Arte)</p>
+<p><strong>4. Assinale o que for correto sobre a arte moderna e os temas modernistas no Brasil.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O início da urbanização no século XX, com as transformações sociais, a industrialização e o fim do escravagismo, não se refletiram nas manifestações artísticas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O movimento Antropofágico, com a obra Abaporu de Tarsila do Amaral, buscava que os artistas devorassem simbolicamente a cultura dos colonizadores e incentivassem o primitivismo nativo, em busca de uma independência cultural.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Vicente do Rego Monteiro trabalhou pouco no Brasil, buscando temas europeus em sua produção artística.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A pintura moderna brasileira teve influência da primeira fase do Cubismo, especialmente das obras de Cézanne e Braque.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Di Cavalcanti, com grande domínio do desenho, representava os tipos humanos brasileiros, sobretudo as mulheres, com intenso uso de cores.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-08-16 (soma 26).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 40.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> As transformações sociais do início do século XX se refletiram intensamente nas manifestações artísticas — o Modernismo brasileiro é justamente uma reação a essas mudanças.</li>
+<li><strong>02. Correta.</strong> Descrição padrão do Movimento Antropofágico e do Abaporu de Tarsila do Amaral.</li>
+<li><strong>04. Errada.</strong> Vicente do Rego Monteiro é conhecido por explorar temas brasileiros/amazônicos (lendas indígenas), não temas europeus.</li>
+<li><strong>08. Correta.</strong> Influência real e documentada do Cubismo (Cézanne, Braque) na pintura moderna brasileira.</li>
+<li><strong>16. Correta.</strong> Descrição padrão do estilo de Di Cavalcanti.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 inverte o foco temático real de Vicente do Rego Monteiro (temas brasileiros/indígenas), atribuindo a ele um interesse por temas europeus.</p>
 </div>
 </div>
 

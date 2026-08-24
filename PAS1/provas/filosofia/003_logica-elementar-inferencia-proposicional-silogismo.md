@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão oficial do PAS/UEM 2025, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 18. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questão 38 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,30 @@
 <li><strong>16. Errada.</strong> Essa é a descrição da <strong>indução</strong> (particular → maior extensão, ampliativa), mal atribuída à dedução, que é não ampliativa.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 04 e 16 trocam as definições de dedução e indução entre si — sempre confira se a direção (particular↔geral) e a propriedade (ampliativo/não ampliativo) realmente correspondem ao tipo de inferência citado.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,16">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 38</p>
+<p><strong>2. "Ao usarmos as palavras lógica e lógico, estamos participando de uma tradição de pensamento que se origina na filosofia grega, quando a palavra lógos – significando 'linguagem-discurso e pensamento-conhecimento' – conduziu os filósofos a indagar se o lógos obedecia ou não a regras, se possuía ou não normas, princípios e critérios para seu uso e funcionamento." (CHAUÍ, M. Convite à filosofia. 14ª Ed. São Paulo: Ática, 2011, p. 134). Sobre a lógica de Aristóteles, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O silogismo é um raciocínio lógico mediato e demonstrativo que parte de proposições verdadeiras a partir das quais se podem deduzir outras proposições verdadeiras.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) As categorias possuem duas propriedades lógicas: a extensão, que é o conjunto de objetos, e a compreensão, que é o conjunto de propriedades designadas pelas categorias.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Juízos apodíticos são proposições gerais de origem empírica, inferidas imediatamente de objetos singulares pelo método indutivo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A dialética é parte da lógica formal que confronta teses contrárias como processo demonstrativo que conduz as ciências a conhecimentos certos e evidentes.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Da premissa maior "Todos os homens são mortais" e da premissa menor "Sócrates é homem" infere-se corretamente a conclusão "Sócrates é mortal".</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-16 (soma 19).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 38.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição padrão de silogismo como raciocínio dedutivo mediato.</li>
+<li><strong>02. Correta.</strong> Distinção lógica padrão entre extensão (objetos) e compreensão (propriedades) de uma categoria.</li>
+<li><strong>04. Errada.</strong> Juízos apodíticos são proposições necessárias/universalmente verdadeiras (a priori) — o oposto de generalizações empíricas obtidas por indução.</li>
+<li><strong>08. Errada.</strong> A dialética, em Aristóteles, lida com premissas prováveis/de opinião (endoxa), não com conhecimentos "certos e evidentes" — isso é papel da lógica demonstrativa/apodítica.</li>
+<li><strong>16. Correta.</strong> É o silogismo categórico clássico (Barbara): premissa maior universal, premissa menor particular, conclusão válida.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 04 e 08 trocam os conceitos de "apodítico" (necessário, certo) e "dialético" (provável, opinião) por suas definições opostas.</p>
 </div>
 </div>
 

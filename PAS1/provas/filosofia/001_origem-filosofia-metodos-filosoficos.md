@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2023), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2023 e 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 17. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questão 31 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> A filosofia não se define pelo dogmatismo, e seus juízos não se baseiam em comprovação empírica (isso é da ciência).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 descreve a filosofia com características opostas às suas (dogmática, empírica), quando ela é justamente crítica e conceitual.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 31</p>
+<p><strong>3. "Em sentido histórico, a sofística é a corrente filosófica preconizada pelos sofistas, mestres de retórica e cultura geral que exerceram forte influência sobre o clima intelectual grego nos séculos V e IV a.C. A sofística não é uma escola filosófica, mas uma orientação genérica que os sofistas acataram devido às exigências de sua profissão." (ABBAGNANO, N. Dicionário de Filosofia. 5ª ed. São Paulo: Martins Fontes, 2007, p.1086). Sobre a filosofia dos sofistas, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Os sofistas foram considerados mercenários do saber por não possuírem o privilégio ao ócio digno. A dedicação exclusiva ao desenvolvimento intelectual representava o pertencimento à aristocracia ateniense.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Entre as proposições sofísticas destaca-se a preocupação com a linguagem voltada para questões políticas e práticas, indispensáveis à participação nas assembleias democráticas.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O saber ensinado pelos sofistas constitui um conjunto de dogmas fundamentados por princípios metafísicos universais e absolutos.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Apesar de serem provenientes de várias cidades da Magna Grécia, os sofistas tinham unanimidade e coesão acerca de suas teses.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os sofistas, compromissados com a defesa da opinião e da persuasão retórica, representam um retrocesso no desenvolvimento intelectual da filosofia grega.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02 (soma 03).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 31.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Os sofistas cobravam por seu ensino (por isso "mercenários do saber"), diferente da aristocracia que tinha ócio digno para se dedicar ao saber sem necessidade de remuneração.</li>
+<li><strong>02. Correta.</strong> Descrição padrão da retórica sofística voltada à prática política e à participação nas assembleias.</li>
+<li><strong>04. Errada.</strong> Os sofistas eram céticos/relativistas quanto a verdades universais — o oposto de um sistema dogmático de princípios metafísicos absolutos.</li>
+<li><strong>08. Errada.</strong> Os sofistas eram um grupo heterogêneo, sem unidade doutrinária entre si.</li>
+<li><strong>16. Errada.</strong> É um julgamento de valor não sustentado — os sofistas são reconhecidos como uma contribuição relevante ao pensamento grego (retórica, relativismo, educação), não um "retrocesso".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 04, 08 e 16 atribuem aos sofistas características opostas às reais — dogmatismo, unidade doutrinária e atraso intelectual — quando na verdade eles são marcados pelo relativismo, pela diversidade de teses e pela inovação retórica.</p>
 </div>
 </div>
 

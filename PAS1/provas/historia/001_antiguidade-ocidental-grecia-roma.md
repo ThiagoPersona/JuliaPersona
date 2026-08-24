@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão oficial do PAS/UEM 2024, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2024 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 3. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questões 2 e 39. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,54 @@
 <li><strong>16. Correta.</strong> Descrição precisa do pensamento político platônico em A República e Leis, após a derrota de Atenas.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 chama o auge da civilização e da filosofia gregas (Período Clássico, com Sócrates/Platão/Aristóteles) de "decadência", e atribui a ele filósofos do período Helenístico posterior (Epicuro, Zenão de Cício, Diógenes).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 2</p>
+<p><strong>2. Sobre a Grécia antiga, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Durante o governo de Péricles, a democracia ateniense consolidou-se por meio dos conceitos de isonomia, isegoria e isocracia.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Segundo Aristóteles, a tragédia atuava como instrumento de catarse, pois, ao suscitar terror e piedade, trabalhava as emoções dos espectadores.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Desde os pré-socráticos, a filosofia grega representa o movimento intelectual destinado a superar a religião e as pretensões da metafísica.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Nas assembleias democráticas de Atenas, evento destinado às decisões mais importantes da polis, não participavam metecos (estrangeiros), escravos e mulheres.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Semelhante à filosofia, o desenvolvimento da matemática, representado por Tales, Pitágoras e Arquitas, entre outros, constitui a criação de uma linguagem técnica e sem respaldo sobre o cotidiano.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08 (soma 11).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 2.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Isonomia, isegoria e isocracia são os pilares clássicos da democracia consolidada no governo de Péricles.</li>
+<li><strong>02. Correta.</strong> Descrição padrão da catarse aristotélica na Poética.</li>
+<li><strong>04. Errada.</strong> Os pré-socráticos buscavam explicações naturais em vez de mitológicas, mas descrever isso como "superar... as pretensões da metafísica" é anacrônico — a metafísica como campo se consolida depois, sobretudo com Aristóteles.</li>
+<li><strong>08. Correta.</strong> Fato histórico bem estabelecido: a cidadania plena e a participação política em Atenas excluíam metecos, escravos e mulheres.</li>
+<li><strong>16. Errada.</strong> A matemática grega tinha, sim, aplicações práticas no cotidiano (medição, astronomia, navegação) — "sem respaldo sobre o cotidiano" é falso.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 nega qualquer aplicação prática da matemática grega antiga, quando na verdade ela tinha uso cotidiano real, além do valor filosófico abstrato.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 39 (Conhecimentos Específicos - Arte)</p>
+<p><strong>3. Sobre a Idade de Ouro da Sociedade Grega, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) No fim do século VII a.C., os gregos começaram a esculpir grandes figuras masculinas em mármore.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O período é conhecido como Século de Péricles, que governou Atenas por 15 anos, período de reconstrução após as Guerras Greco-Pérsicas.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A arte grega estava submetida a convenções religiosas e teve restrições para sua evolução.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A construção do Partenon, entre outras obras, transformou Atenas em polo cultural.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) As esculturas se distanciavam da correspondência com a anatomia humana, com postura estática.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08 (soma 11).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 39.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> No período arcaico (final do século VII a.C.), os gregos começaram a esculpir grandes figuras masculinas em mármore (os kouroi).</li>
+<li><strong>02. Correta.</strong> O Século de Péricles é o período de reconstrução e apogeu ateniense após as Guerras Greco-Pérsicas.</li>
+<li><strong>04. Errada.</strong> A arte grega evoluiu significativamente ao longo dos séculos, especialmente no período Clássico — não ficou restrita ou estagnada por convenções religiosas.</li>
+<li><strong>08. Correta.</strong> O Partenon é o símbolo máximo de Atenas como polo cultural na Antiguidade.</li>
+<li><strong>16. Errada.</strong> Ao contrário: a escultura clássica grega evoluiu justamente em direção a MAIOR correspondência anatômica e a posturas mais dinâmicas (contraposto), não estáticas.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 04 e 16 descrevem a arte grega como estagnada e distante da realidade anatômica, quando na verdade ela é conhecida justamente pela evolução em direção ao naturalismo e ao movimento.</p>
 </div>
 </div>
 

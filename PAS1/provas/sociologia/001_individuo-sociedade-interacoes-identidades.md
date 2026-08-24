@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2024), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2024/2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 23. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questões 41 e 49 (Conhecimentos Específicos - Sociologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -81,6 +82,54 @@
 <li><strong>16. Correta.</strong> Descrição precisa da dupla natureza da burocracia em Weber (organização e dominação).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 inverte a tese central de "A Ética Protestante e o Espírito do Capitalismo" — Weber mostra convergência, não oposição, entre religião e racionalidade econômica.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 41</p>
+<p><strong>4. Sobre a divisão do trabalho na sociologia de Émile Durkheim, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A partir dos trabalhos de observação e de descrição da divisão do trabalho social, Durkheim formulou os conceitos de solidariedade orgânica e de solidariedade mecânica.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A solidariedade mecânica se estabelece pela maior divisão do trabalho, típica das sociedades capitalistas industriais.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Durkheim compreende por divisão do trabalho social o processo de especialização das funções, que torna as pessoas interdependentes.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Para Durkheim, a coesão social nas sociedades de solidariedade orgânica objetiva suprir as necessidades individuais a partir do que é produzido por outras pessoas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Nas sociedades de solidariedade mecânica a consciência coletiva exerce toda a sua capacidade coercitiva.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08-16 (soma 29).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 41.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão da origem empírica dos conceitos durkheimianos de solidariedade.</li>
+<li><strong>02. Errada.</strong> É a solidariedade ORGÂNICA (não a mecânica) que se associa à maior divisão do trabalho, típica das sociedades industriais complexas.</li>
+<li><strong>04. Correta.</strong> Definição padrão de divisão do trabalho social em Durkheim.</li>
+<li><strong>08. Correta.</strong> Descrição precisa da interdependência funcional da solidariedade orgânica.</li>
+<li><strong>16. Correta.</strong> Descrição precisa da força da consciência coletiva nas sociedades de solidariedade mecânica (sociedades tradicionais, pouco diferenciadas).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 troca solidariedade mecânica por orgânica — é a orgânica que está ligada à maior divisão do trabalho e às sociedades industriais complexas.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 49</p>
+<p><strong>5. Acerca da relação entre indivíduo e sociedade, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Para Norbert Elias não há dicotomia entre indivíduo e sociedade.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Sobre a discussão da relação entre indivíduo e sociedade a sociologia elaborou três matrizes consideradas clássicas: durkheimiana, marxista e weberiana.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O modelo clássico durkheimiano de análise da relação entre indivíduo e sociedade propõe que a sociedade determina os indivíduos.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Para Max Weber a sociedade é compreendida como resultado da ação social dos indivíduos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Karl Marx dispensou a compreensão dos elementos materiais e históricos que ligam o indivíduo à sociedade para analisar essa relação.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 49.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Tese central de Elias: indivíduo e sociedade formam uma "configuração" interdependente, não polos opostos.</li>
+<li><strong>02. Correta.</strong> Enquadramento clássico e padrão das três matrizes teóricas da sociologia sobre esse tema.</li>
+<li><strong>04. Correta.</strong> Caracterização padrão do determinismo estrutural durkheimiano.</li>
+<li><strong>08. Correta.</strong> Caracterização padrão do individualismo metodológico weberiano (a sociedade como resultado da ação dos indivíduos).</li>
+<li><strong>16. Errada.</strong> É exatamente o oposto: todo o materialismo histórico de Marx se baseia na compreensão dos elementos materiais e históricos que ligam indivíduo e sociedade.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 nega a Marx justamente o núcleo do seu método (materialismo histórico) — sempre desconfie de afirmações que atribuem a um pensador o oposto do que define sua obra.</p>
 </div>
 </div>
 

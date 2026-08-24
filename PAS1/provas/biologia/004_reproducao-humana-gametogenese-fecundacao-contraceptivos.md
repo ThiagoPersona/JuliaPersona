@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2024 e Vestibular de Verão UEM 2023), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2023 e 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questões 10 e 13. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 42. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questão 35. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -80,6 +81,30 @@
 <li><strong>16. Errada.</strong> Bactérias (procariontes) não têm mitocôndrias.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 08 e 16 atribuem estruturas celulares (ribossomos próprios, mitocôndrias) a organismos que não as possuem — vírus e bactérias, respectivamente.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,16">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 35</p>
+<p><strong>4. Sobre a reprodução humana, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A cada novo ciclo, nas mulheres em idade reprodutiva várias ovogônias são hormonalmente induzidas a iniciarem seu ciclo meiótico.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A pílula anticoncepcional consiste em uma mistura de hormônios sintéticos que inibem a secreção de FSH e de LH pela hipófise.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Se uma mulher, com ciclo menstrual, em média, de 28 dias, iniciar seu ciclo no dia 10 de setembro, a probabilidade de gravidez é maior no dia 08 de outubro.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A vasectomia diminui a produção de testosterona, pois esta é produzida no epidídimo e dali é transportada pelos ductos deferentes para o restante do corpo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O diafragma e o dispositivo intrauterino (DIU) impedem, respectivamente, a entrada de espermatozoides no útero e a implantação do óvulo fertilizado.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-16 (soma 18).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 35.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> As ovogônias completam a meiose I ainda na fase intrauterina, ficando estacionadas em prófase I; a cada ciclo, apenas um oócito (não "várias ovogônias") retoma a meiose.</li>
+<li><strong>02. Correta.</strong> Mecanismo padrão da pílula: hormônios sintéticos inibem a liberação de FSH e LH pela hipófise, bloqueando a ovulação.</li>
+<li><strong>04. Errada.</strong> Com ovulação por volta do 14º dia do ciclo (24 de setembro), o dia 08 de outubro cai próximo do fim do ciclo seguinte (por volta do dia 28-29), não no período fértil.</li>
+<li><strong>08. Errada.</strong> A testosterona é produzida nos testículos (células de Leydig), não no epidídimo; a vasectomia não reduz sua produção.</li>
+<li><strong>16. Correta.</strong> Descrição correta: o diafragma barra fisicamente a entrada de espermatozoides no útero; o DIU impede a implantação do óvulo fertilizado.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 troca o local de produção da testosterona (testículos) pelo epidídimo, e atribui à vasectomia um efeito hormonal que ela não tem — a vasectomia bloqueia o transporte dos espermatozoides, não a produção hormonal.</p>
 </div>
 </div>
 

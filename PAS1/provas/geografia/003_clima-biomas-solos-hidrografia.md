@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões oficiais do PAS/UEM (2024 e 2025), Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 7. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questões 7 e 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,54 @@
 <li><strong>16. Correta.</strong> Características típicas de massa de ar polar continental (fria, seca, de alta pressão).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 01 e 04 invertem os efeitos das zonas de pressão — alta pressão (anticiclone, Altas Subtropicais) é seca; baixa pressão (ZCIT) é chuvosa.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 7</p>
+<p><strong>3. Sobre Biomas terrestres e suas características, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A Tundra é encontrada principalmente nas regiões próximas do oceano glacial Ártico. As espécies mais representativas desse bioma são musgos e liquens. Os musgos, por exemplo, são plantas briófitas, ou seja, não apresentam vasos condutores.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A Floresta Temperada é o bioma mais preservado do mundo, pois é encontrada em áreas com baixa densidade populacional da superfície terrestre. Ela é formada pelas pteridófitas, árvores de pequeno porte com sistema radicular pouco desenvolvido.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As Savanas são encontradas geralmente nos limites das florestas tropicais; apresentam basicamente dois estratos distintos de vegetação (vegetação tropófila), um arbóreo e um herbáceo. No Brasil, a Savana é conhecida como Cerrado.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Nos Desertos, os solos podem ser pedregosos ou arenosos. Nessas áreas são encontradas plantas xerófitas (plantas adaptadas a climas secos). Em algumas regiões mais úmidas, existem ilhas de vegetação conhecidas como oásis.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A Floresta de Taiga, também conhecida como Floresta Austral, é encontrada no hemisfério Sul, no continente africano e na Austrália. É considerada uma floresta heterogênea, e a maior parte das suas espécies é composta por árvores latifoliadas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 7.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão da Tundra: proximidade do Ártico, musgos e liquens, musgos como briófitas sem vasos condutores.</li>
+<li><strong>02. Errada.</strong> A Floresta Temperada não é composta por pteridófitas (samambaias) como árvores dominantes, e não há base para chamá-la "o bioma mais preservado do mundo".</li>
+<li><strong>04. Correta.</strong> Descrição padrão da Savana/Cerrado: limites com florestas tropicais, dois estratos (arbóreo e herbáceo).</li>
+<li><strong>08. Correta.</strong> Descrição padrão dos Desertos: solos pedregosos/arenosos, plantas xerófitas, oásis em áreas mais úmidas.</li>
+<li><strong>16. Errada.</strong> A Taiga fica no hemisfério NORTE (não no Sul), é uma floresta homogênea de coníferas (não heterogênea de latifoliadas) — a afirmação inverte praticamente todas as características do bioma.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 erra o hemisfério da Taiga (é boreal, do hemisfério Norte) e troca sua vegetação de coníferas homogêneas por "latifoliadas heterogêneas" — o oposto do real.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,08">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 31</p>
+<p><strong>4. Com relação à dinâmica climática e a fatores que influenciam o clima, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A área de transição que ocorre devido ao encontro entre duas massas de ar que apresentam características diferentes é conhecida como frente.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Nas áreas de baixas latitudes são formadas as correntes marítimas frias. Essas correntes se deslocam em direção às altas latitudes ganhando calor e aquecendo as águas litorâneas nessas áreas.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Na superfície terrestre, à medida que aumenta a altitude, a temperatura aumenta. Isso ocorre porque as áreas mais elevadas estão mais próximas do Sol e mais expostas aos raios solares.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) As diferentes estações do ano ocorrem devido ao movimento de translação da Terra e à inclinação do seu eixo de rotação em relação à eclíptica.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A amplitude térmica tende a ser maior em regiões mais próximas do mar do que em regiões mais interiores dos continentes.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-08 (soma 09).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 31.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição padrão de frente como área de transição entre massas de ar diferentes.</li>
+<li><strong>02. Errada.</strong> Baixas latitudes formam correntes marítimas QUENTES, não frias; correntes frias vêm de altas latitudes.</li>
+<li><strong>04. Errada.</strong> A temperatura DIMINUI com o aumento da altitude — o mecanismo descrito (proximidade do Sol) também está errado.</li>
+<li><strong>08. Correta.</strong> Explicação padrão das estações do ano: translação + inclinação do eixo terrestre.</li>
+<li><strong>16. Errada.</strong> É o oposto: regiões continentais/interiores têm maior amplitude térmica; regiões litorâneas têm amplitude menor, pela regulação térmica do mar (continentalidade).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 02, 04 e 16 invertem relações climáticas básicas (quente/frio, altitude/temperatura, litoral/interior) — sempre confira a direção real de cada relação.</p>
 </div>
 </div>
 

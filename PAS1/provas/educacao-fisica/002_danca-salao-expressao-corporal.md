@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões oficiais do PAS/UEM (2024 e 2025), Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 9. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 16. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questão 32 (Conhecimentos Específicos - Educação Física). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Descrição padrão da dança como arte temporal/espacial.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 restringe a dança de salão a "bailarinos", quando na verdade é uma prática social acessível à população em geral.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,16">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 32</p>
+<p><strong>3. Sobre as diversas modalidades de dança, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A valsa é executada em pares; um dançarino fica de frente para o outro, com um par de mãos dadas e a outra tocando o ombro do parceiro ou da parceira. Esse contato físico já foi considerado vulgar e impróprio, fazendo que a valsa fosse proibida em alguns países.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Danças urbanas, como a breaking dance, ligadas à cultura hip-hop, estão passando por um processo de esportivização e serão incorporadas ao programa olímpico a partir dos Jogos Olímpicos de Paris 2024.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A dança de salão envolve vários estilos de dança em pares, como zumba, salsa, tango, balé, bolero e zouk.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O balé clássico é dançado de forma bastante espontânea e, por não requerer muito treinamento, atrai cada vez mais adeptos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O coco, variação do samba, tem origem africana e está relacionado à extração do fruto de coqueiros.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-16 (soma 19).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 32.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato histórico real sobre a origem controversa da valsa e sua proibição em alguns lugares.</li>
+<li><strong>02. Correta.</strong> O breaking foi de fato incorporado ao programa olímpico a partir de Paris 2024.</li>
+<li><strong>04. Errada.</strong> A lista mistura estilos que não são de dança de salão (zumba é ginástica aeróbica coreografada; balé é dança clássica solo/em grupo, não uma dança de par de salão).</li>
+<li><strong>08. Errada.</strong> O balé clássico exige treinamento técnico rigoroso e extenso — o oposto de "espontâneo" e de fácil acesso.</li>
+<li><strong>16. Correta.</strong> Descrição correta da dança do coco: origem africana, ligada à extração do coco.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 mistura estilos de dança de naturezas diferentes (zumba, balé) na categoria "dança de salão" — nem toda dança em grupo ou dupla é dança de salão.</p>
 </div>
 </div>
 

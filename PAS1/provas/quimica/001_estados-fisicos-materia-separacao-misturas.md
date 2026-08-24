@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões oficiais do PAS/UEM 2024, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2024 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questões 21 e 22. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questão 41 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -55,6 +56,30 @@
 <li><strong>16. Errada.</strong> O título é uma razão de massas, que não varia com a temperatura (só o volume varia).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 erra a ordem de grandeza do cálculo (90kg em vez de 9kg) — sempre calcule a massa total da solução antes de aplicar o título.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,16">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 41</p>
+<p><strong>3. Três provetas, A, B e C, todas com 50mL de água pura, foram submetidas aos seguintes experimentos: i) Na proveta A foram adicionados 50mL de óleo de cozinha e uma esfera maciça de alumínio. ii) Na proveta B foi adicionada uma colher de chá de cloreto de sódio. iii) Na proveta C foi adicionado um bloco maciço, de formato irregular, com 30g de um sólido insolúvel em água. Dados: água (d = 1,0g/mL); óleo (d = 0,9g/mL); alumínio (d = 2,7g/mL). Após agitação e repouso das provetas, assinale o que for correto em relação aos resultados.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Na proveta A ocorreu a formação de uma mistura heterogênea de três fases.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Na proveta B ocorreu a formação de uma solução, pois o cloreto de sódio é solúvel na água devido às interações íon-dipolo.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Sabendo-se que o volume final na proveta C foi de 56mL, a densidade do bloco do sólido é 5g/cm³.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na proveta A a esfera de alumínio ficou flutuando na superfície do óleo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O líquido na proveta B não apresenta temperatura constante durante a mudança do estado líquido para o estado gasoso.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-16 (soma 23).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 41.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Três fases distintas por densidade: óleo (0,9) flutua sobre a água (1,0), e o alumínio (2,7), mais denso que ambos, afunda até o fundo.</li>
+<li><strong>02. Correta.</strong> O NaCl se dissolve em água por interações íon-dipolo entre os íons Na⁺/Cl⁻ e as moléculas polares de água.</li>
+<li><strong>04. Correta.</strong> Volume deslocado = 56mL − 50mL = 6mL; densidade = 30g ÷ 6cm³ = 5g/cm³.</li>
+<li><strong>08. Errada.</strong> Sendo mais denso (2,7g/mL) que o óleo (0,9g/mL) e a água (1,0g/mL), o alumínio afunda através de ambos até o fundo da proveta — não flutua.</li>
+<li><strong>16. Correta.</strong> Soluções (misturas) não têm ponto de ebulição constante como as substâncias puras — a temperatura varia durante a mudança de estado.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 ignora a densidade do alumínio (maior que a do óleo e da água), fazendo parecer que ele flutuaria — quando na verdade afunda através das duas fases líquidas.</p>
 </div>
 </div>
 

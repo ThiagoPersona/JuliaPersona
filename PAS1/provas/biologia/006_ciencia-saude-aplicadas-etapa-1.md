@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2024 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2024 e Vestibular de Verão UEM 2025 e 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 14. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 44. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questão 36. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Quaisquer dois aminoácidos podem formar uma ligação peptídica entre si.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 usam vocabulário de química (redução, catalisador) de forma tecnicamente incorreta para descrever a reação — confira sempre a definição precisa de cada termo.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 36</p>
+<p><strong>3. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Higienizar as mãos com sabão ou álcool 30% é uma medida eficiente para inativar o vírus SARS-CoV-2. Essa indicação é sustentada pela presença da capa de proteína que envolve o ácido nucleico do vírus.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Os antibióticos provocam alterações diretas nas proteínas do RNA bacteriano, uma vez que esses polipeptídeos constituem o material genético desses procariontes.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A base do funcionamento das vacinas é a produção de células de memória que facilitarão a proteção contra o patógeno em contatos futuros.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Após invadir a célula, os bacteriófagos podem seguir um ciclo de vida lítico ou lisogênico; no ciclo lisogênico, a célula hospedeira sofre lise, e os novos vírus saem levando um pedaço da membrana para fazer o envelope viral.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Diante de uma infecção respiratória de causa viral, como é o caso da Covid, o antibiótico e a vacina têm o mesmo efeito.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04 (soma 04).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 36.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A concentração eficiente de álcool é 70%, não 30%; e o SARS-CoV-2 é envolto por um envelope lipídico, não apenas por uma "capa de proteína" — é justamente esse envelope lipídico que o álcool dissolve.</li>
+<li><strong>02. Errada.</strong> O material genético bacteriano é DNA, não RNA, e "proteínas do RNA" não faz sentido — antibióticos atuam sobre estruturas como parede celular, ribossomos ou replicação do DNA, não sobre "proteínas do material genético".</li>
+<li><strong>04. Correta.</strong> Princípio central da imunização: vacinas induzem a formação de células de memória do sistema imune.</li>
+<li><strong>08. Errada.</strong> A descrição (lise da célula, liberação de vírus com pedaço de membrana) é do ciclo lítico, não do lisogênico — no ciclo lisogênico o vírus integra seu material genético ao da célula hospedeira sem lise imediata.</li>
+<li><strong>16. Errada.</strong> Antibióticos não têm efeito contra vírus — atuam apenas sobre bactérias.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 troca a descrição do ciclo lítico pela do ciclo lisogênico — sempre associe "lise da célula" ao ciclo lítico, nunca ao lisogênico.</p>
 </div>
 </div>
 

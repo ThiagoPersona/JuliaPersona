@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais do Vestibular de Verão UEM (2023 e 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais do Vestibular de Verão UEM (2022, 2023 e 2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2025, Questão 45. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 45. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questão 49 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Com Fe limitante (12mol), produção=6mol de Fe₂O₃; massa=6×160=960g.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 erra o número de oxidação do ferro no óxido férrico — é +3, não +2 (esse seria o óxido ferroso, FeO).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 49</p>
+<p><strong>3. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A densidade de uma solução preparada, dissolvendo-se 80g de NaCl em 4L de água, é igual a 20g/L. Dados: água (densidade = 1,0g/mL).</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Uma amostra de 2mols de moléculas de tetracloreto de carbono possui aproximadamente 4,8 × 10²⁴ átomos de cloro.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) 20mL de água oxigenada 20 volumes liberam 0,4L de gás oxigênio nas CNTP.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) As características gerais dos gases são grande difusibilidade, grande compressibilidade e grande dilatabilidade.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Um gás real se aproxima progressivamente do modelo estabelecido para gases ideais à medida que a pressão e a temperatura diminuem.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08 (soma 14).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 49.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> 80g ÷ 4L = 20g/L é uma CONCENTRAÇÃO (massa de soluto por volume de solução), não uma densidade (que seria massa total da solução por volume total) — o termo usado está tecnicamente errado.</li>
+<li><strong>02. Correta.</strong> 2mol de CCl₄ × 4 átomos de Cl por molécula × 6,02×10²³ = 4,816×10²⁴ átomos de cloro, aproximadamente 4,8×10²⁴.</li>
+<li><strong>04. Correta.</strong> "20 volumes" significa que 1mL de água oxigenada libera 20mL de O₂; 20mL × 20 = 400mL = 0,4L nas CNTP.</li>
+<li><strong>08. Correta.</strong> Propriedades gerais padrão dos gases.</li>
+<li><strong>16. Errada.</strong> Um gás real se aproxima do comportamento ideal com pressão baixa e temperatura ALTA, não temperatura baixa.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 chama de "densidade" o que na verdade é uma concentração (massa de soluto por volume) — confira sempre se a grandeza nomeada corresponde à fórmula usada.</p>
 </div>
 </div>
 

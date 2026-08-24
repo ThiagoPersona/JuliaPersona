@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2025, Vestibular de Verão UEM 2025 e 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 22. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2022, Questões 39 e 40 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,54 @@
 <li><strong>16. Correta.</strong> Crítica social real e reconhecida sobre a expansão do agronegócio energético.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 inverte a tendência real de crescimento da energia eólica no Brasil na última década.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 39</p>
+<p><strong>3. Sobre a formação do meio técnico-científico-informacional relacionado à modernização da agricultura brasileira, e sobre questões relacionadas a esse processo, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Fundada pelo governo brasileiro na década de 1970, a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) tem contribuído desde então para a ampliação da produtividade do setor agropecuário e da agroindústria nacional.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O biocombustível derivado da cana-de-açúcar é produzido no Brasil desde a década de 1970 como uma alternativa ao uso de combustíveis fósseis.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Pegada hídrica consiste em um indicador do volume de água doce utilizado direta e indiretamente ao longo de toda uma cadeia produtiva para a produção de um bem de consumo ou de um serviço.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Devido ao avanço sobre áreas até então não cultivadas, a expansão da fronteira agrícola brasileira contribuiu para a ampliação e a diversificação dos gêneros alimentícios consumidos no país.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Tradicionalmente, na produção de carne bovina adotou-se o sistema de pecuária intensiva, enquanto na avicultura adotou-se o sistema extensivo.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04 (soma 07).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 39.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato histórico real sobre a Embrapa.</li>
+<li><strong>02. Correta.</strong> Fato real sobre o Proálcool/etanol desde a década de 1970.</li>
+<li><strong>04. Correta.</strong> Definição padrão de pegada hídrica.</li>
+<li><strong>08. Errada.</strong> A expansão da fronteira agrícola brasileira está historicamente associada à monocultura de commodities de exportação (soja, por exemplo), não à diversificação do consumo alimentar interno.</li>
+<li><strong>16. Errada.</strong> É o oposto: a pecuária bovina brasileira tradicionalmente usa sistema EXTENSIVO (grandes áreas de pasto), e a avicultura usa sistema INTENSIVO (confinamento).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 troca os sistemas de criação entre pecuária bovina (extensiva) e avicultura (intensiva).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2022, Questão 40</p>
+<p><strong>4. Sobre a exploração de recursos naturais do território paranaense, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Estendendo-se da borda litorânea do território paranaense em direção à plataforma oceânica, encontra-se o Aquífero Guarani, cujo potencial hídrico ainda está para ser explorado.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Localizada no rio Iguaçu, na fronteira do Brasil com a Argentina, a hidrelétrica binacional de Itaipu produz e fornece energia para esses dois países.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O Paraná é o estado brasileiro que possui a maior capacidade instalada para geração de energia hidrelétrica.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Parte do território paranaense está localizada sob a faixa permocarbonífera brasileira, de onde se extrai o carvão mineral.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A primeira usina eólica da Região Sul do país foi instalada no município paranaense de Palmas, localizado no centro-sul do estado.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 08-16 (soma 24).</strong> Fonte: Vestibular de Verão UEM 2022, Questão 40.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> O Aquífero Guarani é uma formação sedimentar do interior do continente, não uma faixa que se estende do litoral para a plataforma oceânica.</li>
+<li><strong>02. Errada.</strong> Itaipu fica no rio PARANÁ (não no rio Iguaçu), na fronteira Brasil-PARAGUAI (não Argentina).</li>
+<li><strong>04. Errada.</strong> Apesar da relevância de Itaipu, essa afirmação sobre o Paraná ser o estado de maior capacidade instalada não corresponde aos dados oficiais do setor elétrico.</li>
+<li><strong>08. Correta.</strong> Fato real: parte do território paranaense está sobre a faixa permocarbonífera, com extração de carvão mineral.</li>
+<li><strong>16. Correta.</strong> Fato real sobre a primeira usina eólica da Região Sul, em Palmas (PR).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 troca o rio (Paraná, não Iguaçu) e o país parceiro (Paraguai, não Argentina) da usina de Itaipu — dois erros geográficos clássicos sobre a mesma usina.</p>
 </div>
 </div>
 
