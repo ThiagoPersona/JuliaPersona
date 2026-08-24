@@ -10,7 +10,12 @@
 
 Este item cobra a teoria do conhecimento moderna: o problema da possibilidade do conhecimento, a distinção entre evidência/opinião/senso comum, e as quatro grandes posições epistemológicas modernas — ceticismo, racionalismo, empirismo e idealismo transcendental (Kant). A prova gosta de citar uma tese específica de um filósofo (Descartes, Hume, Locke, Bacon, Kant) e pedir para você julgar se a descrição está correta — inclusive trocando deliberadamente a posição de um filósofo pela de outro.
 
-**Evidência real (PAS/UEM 2024, Etapa 1, Questão 2):** a questão testou o cogito cartesiano, a teoria das impressões e ideias de Hume, e duas armadilhas de atribuição (Hume tratado como racionalista dedutivista; Locke tratado como inatista), além do lema baconiano "saber é poder".
+**Evidência real:** duas questões reais cobrem este tema — PAS 2024 Questão 2 (cogito cartesiano, impressões/ideias de Hume, armadilhas de atribuição) e Vestibular de Verão UEM 2024 Questão 21 (a teoria humeana da causalidade, ponte entre empirismo e ceticismo).
+
+| Prova | Ano | O que caiu neste tema |
+|---|---:|---|
+| PAS/UEM, Etapa 1 | 2024 | Questão 2: cogito cartesiano, impressões/ideias de Hume, lema de Bacon |
+| Vestibular de Verão UEM | 2024 | Questão 21: teoria humeana da causalidade (hábito/costume, crítica à necessidade causal) |
 
 ## Conteúdo completo orientado ao programa
 
@@ -44,6 +49,14 @@ O **empirismo** defende o oposto: todo conhecimento tem origem na **experiência
 
 O **ceticismo** questiona a própria possibilidade de se alcançar certeza absoluta sobre qualquer coisa, defendendo a suspensão do juízo (epoché) diante da impossibilidade de comprovar definitivamente uma tese sobre a realidade. O ceticismo funciona historicamente como um desafio ao qual tanto racionalistas (Descartes, ao superar a dúvida hiperbólica) quanto empiristas (Hume, ao levar o empirismo a um ceticismo quanto à causalidade) precisam responder.
 
+### O ceticismo de Hume quanto à causalidade
+
+Um dos exemplos mais estudados de ceticismo dentro do próprio empirismo é a crítica de **David Hume** à noção de **causalidade**. Para o senso comum (e para o racionalismo), causa e efeito parecem ligados por uma **necessidade** — como se fosse logicamente impossível a causa ocorrer sem o efeito. Hume nega isso: para ele, tudo o que observamos é a **conjunção constante** entre dois tipos de eventos (o evento A sempre é seguido pelo evento B) — nunca observamos, com os sentidos, uma "força" ou "necessidade" conectando-os. A crença de que A **causa** B, e não apenas "costuma vir antes" de B, é uma **inferência do entendimento**, baseada na observação repetida da sequência regular desses eventos — não uma percepção direta de uma conexão necessária.
+
+A "solução" de Hume para esse problema (por que acreditamos em causalidade, mesmo sem observá-la diretamente?) está em sua **teoria do hábito** (ou costume): depois de observar repetidamente que B segue A, a mente humana desenvolve o **hábito psicológico** de esperar B sempre que A ocorre — essa expectativa habitual é a origem da nossa crença em causalidade, não uma dedução racional nem uma percepção da necessidade em si.
+
+**Para o PAS:** para Hume, a causalidade **não é** uma propriedade intrínseca dos objetos, nem uma relação necessária independente da observação — ela é uma inferência baseada na observação regular de eventos em sequência, explicada psicologicamente pelo hábito.
+
 ### Idealismo transcendental: Kant
 
 Immanuel Kant propõe uma **síntese** entre racionalismo e empirismo com o **idealismo transcendental**: para Kant, todo conhecimento começa com a experiência (concordando com os empiristas), mas a mente humana não é uma "tábula rasa" passiva — ela possui **estruturas a priori** (formas puras da sensibilidade, como espaço e tempo, e categorias do entendimento, como causalidade) que organizam ativamente os dados brutos da experiência, tornando o conhecimento possível. Por isso, para Kant, conhecemos os **fenômenos** (a realidade como ela se apresenta à nossa estrutura cognitiva), nunca a **coisa em si** (a realidade tal como é, independente de nossa mente).
@@ -56,6 +69,7 @@ Immanuel Kant propõe uma **síntese** entre racionalismo e empirismo com o **id
 | Impressões (Hume): percepções diretas, fortes e vívidas | Ideias (Hume): cópias das impressões, mais fracas | Inverte qual é a cópia de qual | Impressão vem primeiro (sentidos); ideia é cópia mais fraca, vinda da memória/imaginação |
 | Empirismo (observação, experimento — Bacon) | Racionalismo (dedução, ideias inatas — Descartes) | Atribui o lema "saber é poder" ou o método experimental a um racionalista | "Saber é poder" e método experimental são de Bacon, empirista |
 | Fenômeno (Kant): a realidade como aparece à mente | Coisa em si (Kant): a realidade independente da mente | Diz que Kant defende conhecimento direto da coisa em si | Para Kant, só conhecemos fenômenos, organizados pelas estruturas a priori da mente |
+| Causalidade (Hume): inferência baseada em observação regular, explicada pelo hábito | Causalidade como relação necessária, intrínseca aos objetos ou independente da observação | Atribui a Hume a defesa de uma causalidade "necessária" ou "intrínseca" | Para Hume, só observamos conjunção constante — a necessidade é uma crença gerada pelo hábito |
 
 ## Como caiu na prova: questão comentada
 
@@ -70,11 +84,24 @@ Contexto: citação de Aranha e Martins sobre a centralidade do problema do conh
 5. "O lema 'saber é poder' é atribuído a Francis Bacon. Esse lema expressa sua preocupação com a questão do método das ciências e com a importância do método experimental como instrumento de dominação e conhecimento da natureza" — **correta**: atribuição e descrição corretas do lema baconiano.
 6. Soma das corretas: 01+02+16 = 19, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2024, Questão 21 (gabarito: 04-16 = soma 20)**
+
+Contexto: "A noção de causa está intrinsecamente ligada à noção de conhecimento. David Hume afirma que há duas noções de causa: 'Ela [a causa] consiste ou na conjunção constante de objetos semelhantes, ou na inferência do entendimento que passa de um objeto a outro.'"
+
+1. "causalidade é uma relação necessária entre eventos observáveis que ocorrem de maneira previsível" — **errada**: para Hume, nunca observamos necessidade — só conjunção constante.
+2. "causalidade é uma propriedade intrínseca de objetos, tornando-os responsáveis pelos eventos subsequentes" — **errada**: Hume nega que causalidade seja propriedade intrínseca dos objetos.
+4. "causalidade é uma inferência baseada na observação regular de eventos que ocorrem em sequência" — **correta**: exatamente a segunda noção de causa citada por Hume no fragmento.
+8. "causalidade é uma construção mental que implica uma relação necessária entre eventos, independentemente de qualquer observação empírica" — **errada**: para Hume, a crença causal depende sim da observação repetida (é isso que gera o hábito) — não é independente da experiência.
+16. "a solução de Hume para o problema da origem da causalidade pode ser encontrada em sua teoria do hábito" — **correta**: exatamente a solução psicológica proposta por Hume.
+
+Soma das corretas: 04+16 = 20, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Atribuir a um empirista (Hume, Locke) teses racionalistas (inatismo, dedução como fonte legítima de conhecimento metafísico) — e vice-versa.
 - Inverter a relação entre impressões e ideias em Hume (qual é a cópia de qual).
 - Trocar o autor de um lema ou tese célebre (por exemplo, "saber é poder" não é de Descartes nem de Locke, é de Bacon).
+- Atribuir a Hume uma noção "necessária" ou "intrínseca" de causalidade — ele defende justamente o oposto (causalidade como hábito baseado em observação).
 
 ## Como resolver questões
 
@@ -84,8 +111,8 @@ Contexto: citação de Aranha e Martins sobre a centralidade do problema do conh
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (PAS 2024, Questão 2), cobrindo racionalismo (Descartes), empirismo (Hume, Locke, Bacon). Falta um exemplo real específico sobre ceticismo e sobre o idealismo transcendental de Kant — a explicação acima é teórica, sem verificação direta contra uma questão real do PAS.
-- Falta explorar o Vestibular de Verão (2020-2025, já baixado) para este tema.
+- Este tema tem duas questões reais comentadas (PAS 2024 Q2 e Vestibular de Verão UEM 2024 Q21), cobrindo racionalismo (Descartes), empirismo (Hume, Locke, Bacon) e o ceticismo humeano quanto à causalidade. Falta um exemplo real específico sobre o idealismo transcendental de Kant — a explicação acima é teórica, sem verificação direta contra uma questão real.
+- Falta explorar mais anos do Vestibular de Verão (2020-2023, 2025, já baixados) para este tema.
 
 ## Checklist de revisão
 
@@ -93,8 +120,9 @@ Contexto: citação de Aranha e Martins sobre a centralidade do problema do conh
 - [ ] Sei explicar o cogito cartesiano e por que ele é uma certeza intuída, não deduzida.
 - [ ] Sei diferenciar impressões e ideias em Hume, e explicar por que Hume não é racionalista.
 - [ ] Sei explicar por que Locke se opõe ao inatismo.
+- [ ] Sei explicar a crítica de Hume à causalidade e sua teoria do hábito.
 - [ ] Sei explicar a síntese kantiana entre racionalismo e empirismo (fenômeno x coisa em si).
-- [ ] Resolvi a questão comentada deste tema sem olhar o gabarito antes.
+- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -109,3 +137,4 @@ Contexto: citação de Aranha e Martins sobre a centralidade do problema do conh
 **Provas reais usadas**
 
 - PAS/UEM 2024, Etapa 1, Questão 2 — `Fontes Oficiais/provas-anteriores/pas24_E1.pdf` e `pas24_gabdef.pdf`.
+- Vestibular de Verão UEM 2024, Questão 21 — `Fontes Oficiais/provas-anteriores-vestibular/ve24_P1.pdf` e `ve24_gabdef.pdf`.

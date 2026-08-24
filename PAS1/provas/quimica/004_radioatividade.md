@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão oficial do PAS/UEM 2024, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 2 questões reais (PAS 2024 e Vestibular de Verão UEM 2024), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 19. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2024, Questão 47. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,30 @@
 <li><strong>16. Errada.</strong> A partícula beta é carregada (elétron) e interage via força eletromagnética com outras partículas/átomos carregados — sempre pode exercer força.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 nega a interação eletromagnética de uma partícula carregada — qualquer partícula com carga elétrica, como a beta, pode exercer força sobre outras cargas, mesmo em colisões "de passagem".</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2024, Questão 47</p>
+<p><strong>2. Observe as reações de decaimento radioativo a seguir e assinale o que for correto: (reação 1) Ra-225 → alfa + Ac-221; (reação 2) nêutron → próton + partícula beta + antineutrino; (reação 3) Cs-137 → partícula beta + Ba-137.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) No decaimento natural de um átomo radioativo podem ser emitidos raios gama e partículas alfa e beta.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Um elétron emitido por um núcleo instável forma-se a partir da desintegração de um nêutron, e o elétron é representado como a partícula beta na reação 2.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A emissão de uma partícula beta faz que os dois átomos presentes na reação 3 sejam isóbaros.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Uma partícula alfa corresponde a um núcleo do átomo de hélio.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Raios gama possuem baixa energia, e sua emissão muda o número atômico do átomo emissor.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: Vestibular de Verão UEM 2024, Questão 47.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Os três tipos de emissão radioativa são reais e frequentemente combinados.</li>
+<li><strong>02. Correta.</strong> Descrição precisa da origem da partícula beta (desintegração de um nêutron).</li>
+<li><strong>04. Correta.</strong> Decaimento beta preserva o número de massa (137→137) — os átomos são isóbaros.</li>
+<li><strong>08. Correta.</strong> Fato padrão sobre a composição da partícula alfa (núcleo de hélio).</li>
+<li><strong>16. Errada.</strong> Raios gama têm alta energia, e sua emissão não muda o número atômico (não têm massa nem carga).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 inverte a energia dos raios gama (é alta, não baixa) e atribui a eles um efeito de transmutação que só ocorre com alfa e beta.</p>
 </div>
 </div>
 

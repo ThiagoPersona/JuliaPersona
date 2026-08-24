@@ -50,7 +50,7 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 2 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
+| Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 3 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
 | Biologia | Biologia celular: composição química e metabolismo da célula | 3 | [Abrir](provas/biologia/002_biologia-celular-composicao-metabolismo.md) |
 | Biologia | Divisão celular: ciclo celular, mitose e meiose | 1 | [Abrir](provas/biologia/003_divisao-celular-mitose-meiose.md) |
 | Biologia | Reprodução humana, gametogênese, fecundação e métodos contraceptivos | 2 | [Abrir](provas/biologia/004_reproducao-humana-gametogenese-fecundacao-contraceptivos.md) |
@@ -66,20 +66,20 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Química | Estados físicos da matéria e separação de misturas | 2 | [Abrir](provas/quimica/001_estados-fisicos-materia-separacao-misturas.md) |
 | Química | Estrutura atômica, modelos atômicos e tabela periódica | 1 | [Abrir](provas/quimica/002_estrutura-atomica-modelos-tabela-periodica.md) |
 | Química | Ligações químicas e interações intermoleculares | 1 | [Abrir](provas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md) |
-| Química | Radioatividade | 1 | [Abrir](provas/quimica/004_radioatividade.md) |
+| Química | Radioatividade | 2 | [Abrir](provas/quimica/004_radioatividade.md) |
 | Química | Equações químicas, balanceamento e tipos de reação | 1 | [Abrir](provas/quimica/005_equacoes-quimicas-balanceamento-tipos-reacao.md) |
 | Química | Cálculos estequiométricos | 1 | [Abrir](provas/quimica/006_calculos-estequiometricos.md) |
-| Química | Funções inorgânicas: ácidos, bases, sais e óxidos | 1 | [Abrir](provas/quimica/007_funcoes-inorganicas-acidos-bases-sais-oxidos.md) |
+| Química | Funções inorgânicas: ácidos, bases, sais e óxidos | 2 | [Abrir](provas/quimica/007_funcoes-inorganicas-acidos-bases-sais-oxidos.md) |
 
 ## Ciências Humanas e Sociais Aplicadas
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
 | Filosofia | Origem da filosofia e métodos filosóficos | 1 | [Abrir](provas/filosofia/001_origem-filosofia-metodos-filosoficos.md) |
-| Filosofia | Teoria do conhecimento: ceticismo, racionalismo, empirismo e idealismo transcendental | 1 | [Abrir](provas/filosofia/002_teoria-conhecimento-ceticismo-racionalismo-empirismo-idealismo.md) |
+| Filosofia | Teoria do conhecimento: ceticismo, racionalismo, empirismo e idealismo transcendental | 2 | [Abrir](provas/filosofia/002_teoria-conhecimento-ceticismo-racionalismo-empirismo-idealismo.md) |
 | Filosofia | Lógica elementar: inferência, lógica proposicional e silogismo categórico | 1 | [Abrir](provas/filosofia/003_logica-elementar-inferencia-proposicional-silogismo.md) |
 | Filosofia | Falácias formais e não formais | 0 | [Abrir](provas/filosofia/004_falacias-formais-nao-formais.md) |
-| Geografia | Conceitos geográficos, localização e representação cartográfica | 0 | [Abrir](provas/geografia/001_conceitos-geograficos-localizacao-cartografia.md) |
+| Geografia | Conceitos geográficos, localização e representação cartográfica | 1 | [Abrir](provas/geografia/001_conceitos-geograficos-localizacao-cartografia.md) |
 | Geografia | Estrutura geológica e relevo | 0 | [Abrir](provas/geografia/002_estrutura-geologica-relevo.md) |
 | Geografia | Clima, biomas, solos e hidrografia | 2 | [Abrir](provas/geografia/003_clima-biomas-solos-hidrografia.md) |
 | Geografia | Recursos naturais, energia e impactos ambientais | 2 | [Abrir](provas/geografia/004_recursos-naturais-energia-impactos-ambientais.md) |
@@ -89,7 +89,7 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | História | História Moderna: crise medieval, Estados Nacionais e grandes navegações | 3 | [Abrir](provas/historia/003_historia-moderna-estados-nacionais-navegacoes.md) |
 | História | Brasil colonial: economia, política, sociedade e cultura | 1 | [Abrir](provas/historia/004_brasil-colonial-economia-politica-sociedade-cultura.md) |
 | História | Paraná: colonização, povos e formação histórica | 1 | [Abrir](provas/historia/005_parana-colonizacao-povos-formacao-historica.md) |
-| Sociologia | Indivíduo e sociedade: interações, sociabilidades e identidades | 1 | [Abrir](provas/sociologia/001_individuo-sociedade-interacoes-identidades.md) |
+| Sociologia | Indivíduo e sociedade: interações, sociabilidades e identidades | 2 | [Abrir](provas/sociologia/001_individuo-sociedade-interacoes-identidades.md) |
 | Sociologia | Socialização, instituições sociais e juventude como categoria social | 2 | [Abrir](provas/sociologia/002_socializacao-instituicoes-juventude.md) |
 | Sociologia | O mundo do trabalho contemporâneo | 0 | [Abrir](provas/sociologia/003_mundo-trabalho-contemporaneo.md) |
 

@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2024/2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 34. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 42. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2024, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> Nem todos os moluscos têm respiração exclusivamente branquial — alguns gastrópodes terrestres respiram por pulmão.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 usa o termo absoluto "exclusiva" para a respiração branquial dos moluscos, ignorando exceções conhecidas (gastrópodes pulmonados).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">Vestibular de Verão UEM 2024, Questão 41</p>
+<p><strong>3. No planalto de Kaibab, nos Estados Unidos, fez-se em 1907 uma campanha de proteção aos veados da região. Isso teve como consequência o extermínio de lobos, coiotes e pumas nessa região e o aumento expressivo da população de veados: em 1907 era de 4.000 indivíduos, passando a mais de 100.000 em 1924, bem acima da capacidade de sustentação do ambiente. Grande parte da vegetação foi destruída, devorada pelos veados até a raiz, fazendo que, nos dois anos seguintes, no inverno, mais de 60% dos animais morresse de fome. Com base no exposto, e em assuntos correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A redução da produtividade primária da área foi um dos motivos para a morte dos veados da região.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Na relação mencionada no comando da questão a predação influenciou no tamanho da população de veados, tendo em vista que a população de um território é limitada pela quantidade de alimento nele disponível.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Lobos, coiotes e pumas da região vivem em uma competição interespecífica e, segundo o princípio de Gause, espécies diferentes que ocupam nichos ecológicos semelhantes competirão em todos os níveis. Essas três espécies só poderão coexistir no mesmo habitat se tiverem nichos ecológicos diferentes.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Veados, lobos, coiotes e pumas são mamíferos eutérios que vivem no mesmo habitat, porém possuem nichos diferentes.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Ao longo da cadeia alimentar, a energia é transferida de um nível trófico para outro e retorna integralmente ao ecossistema pela ação dos organismos decompositores.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04 (soma 07).</strong> Fonte: Vestibular de Verão UEM 2024, Questão 41.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> A vegetação destruída (produtividade primária) deixou de sustentar a população superdimensionada de veados.</li>
+<li><strong>02. Correta.</strong> A remoção dos predadores e a posterior limitação por alimento demonstram esse princípio ecológico.</li>
+<li><strong>04. Correta.</strong> Descrição padrão do princípio da exclusão competitiva de Gause.</li>
+<li><strong>08. Errada.</strong> Não está entre as alternativas do gabarito oficial.</li>
+<li><strong>16. Errada.</strong> A energia se dissipa como calor a cada nível trófico — os decompositores reciclam matéria/nutrientes, não energia "integralmente".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 diz que a energia "retorna integralmente" ao ecossistema — na verdade, ela se perde progressivamente como calor ao longo da cadeia alimentar.</p>
 </div>
 </div>
 

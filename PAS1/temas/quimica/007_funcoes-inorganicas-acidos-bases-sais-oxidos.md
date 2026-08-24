@@ -10,7 +10,12 @@
 
 Este item cobra as características de ácidos, bases, sais e óxidos, suas propriedades (indicadores, condutibilidade elétrica, reação com metais, neutralização) e os impactos ambientais do uso de diferentes substâncias no cotidiano. A prova gosta de contextualizar esse conteúdo com um cenário real de poluição urbana, testando se você entende como óxidos ácidos se formam a partir da queima de combustíveis e como eles reagem quimicamente causando danos ambientais e à saúde.
 
-**Evidência real (Vestibular de Verão UEM 2025, Questão 46):** a questão usou o cenário de "ilha de calor urbana" e poluição por queima de combustíveis fósseis para testar a formação de óxidos ácidos, a relação entre colisões moleculares e formação de produtos, o efeito da chuva sobre poluentes atmosféricos, e o mecanismo de irritação respiratória/ocular causado por esses óxidos.
+**Evidência real:** duas questões reais do Vestibular de Verão cobrem este tema — 2025 Questão 46 (óxidos ácidos, poluição, chuva ácida) e 2024 Questão 44 (definição de ácido segundo Arrhenius, aplicada ao ácido cianídrico da mandioca brava).
+
+| Prova | Ano | O que caiu neste tema |
+|---|---:|---|
+| Vestibular de Verão UEM | 2025 | Questão 46: óxidos ácidos, colisão molecular, chuva ácida, irritação respiratória |
+| Vestibular de Verão UEM | 2024 | Questão 44: definição de ácido de Arrhenius, eletrólitos, ácido cianídrico da mandioca brava |
 
 ## Conteúdo completo orientado ao programa
 
@@ -34,6 +39,22 @@ Embora a chuva realmente remova parte dos poluentes da atmosfera (um processo ch
 
 **Para o PAS:** desconfie de afirmações absolutas sobre a chuva "eliminar todos os riscos" — ela redistribui/transforma o problema, não o resolve por completo.
 
+### A definição de ácido segundo Arrhenius
+
+Pela definição clássica de **Arrhenius**, um **ácido** é todo composto que, dissolvido em água, origina **H⁺** (cátion hidrogênio) como o **único tipo de cátion** liberado na dissociação/ionização. Essa definição é a base para classificar uma substância como ácida — mesmo quando ela vem de uma fonte biológica ou natural, como um veneno vegetal.
+
+Um exemplo real e didático: o **ácido cianídrico (HCN)**, presente em grande concentração na **mandioca brava** (*Manihot esculenta*), é extremamente tóxico aos seres vivos. Para consumo humano, a mandioca brava precisa passar por um processo de "desintoxicação" que combina técnicas como a **fervura** e a **fermentação** — na fermentação, microrganismos anaeróbios decompõem o HCN em substâncias não nocivas ao organismo.
+
+### Eletrólitos: ácidos fracos também se ionizam
+
+Um **eletrólito** é uma substância que, dissolvida em água, se ioniza ou se dissocia, formando uma solução capaz de conduzir corrente elétrica. Mesmo um ácido considerado "fraco" (que se ioniza pouco) ainda é um eletrólito — apenas um **eletrólito fraco**, não um **não eletrólito** (substância que não forma íons em solução, como o açúcar comum).
+
+**Para o PAS:** dizer que o ácido cianídrico dissolvido em água se comporta como "não eletrólito" é um erro — como ácido (ainda que fraco), o HCN se ioniza parcialmente em água, formando H⁺ e CN⁻, o que o torna um eletrólito (fraco), não um não eletrólito.
+
+### Carboidratos como combustível da respiração celular
+
+De forma transversal com a Biologia, vale lembrar que a **mandioca** (e outros alimentos ricos em carboidrato) é um alimento energético justamente porque o carboidrato é o **principal combustível** para o processo de respiração celular, sendo facilmente oxidado para gerar energia (ver [Biologia celular](../../temas/biologia/002_biologia-celular-composicao-metabolismo.md)). A **fermentação**, usada na desintoxicação da mandioca, é também um processo biológico anaeróbio que libera energia armazenada nas ligações químicas de compostos orgânicos, podendo gerar produtos diferentes conforme o microrganismo envolvido.
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -41,6 +62,7 @@ Embora a chuva realmente remova parte dos poluentes da atmosfera (um processo ch
 | Óxidos ácidos reagem com água formando ácidos (chuva ácida) | Afirmação exagerada: chuva "elimina todos os riscos" dos poluentes | Descreve a chuva como solução total para a poluição | A chuva ácida transforma/redistribui o problema, não o elimina totalmente |
 | Nem toda colisão molecular gera produto (só as efetivas) | Toda colisão resulta automaticamente em reação | Assume que qualquer encontro entre moléculas gera produto | Colisões precisam de energia/orientação adequadas para formar produto |
 | Calor urbano é causado por fatores estruturais (concreto, tráfego, pouca vegetação) | Afirmação invertida: calor aumenta a produção de óxidos pelos veículos | Inverte a relação causal entre temperatura urbana e emissão de poluentes | O calor urbano é consequência de fatores estruturais; a emissão de óxidos vem da queima de combustível, não da temperatura ambiente |
+| Eletrólito fraco: ainda se ioniza, mesmo que pouco (ex.: HCN) | Não eletrólito: não forma íons em solução (ex.: açúcar) | Chama um ácido fraco de "não eletrólito" | Todo ácido, mesmo fraco, é eletrólito — ele se ioniza parcialmente em água |
 
 ## Como caiu na prova: questão comentada
 
@@ -56,22 +78,37 @@ Embora a chuva realmente remova parte dos poluentes da atmosfera (um processo ch
 
 Soma das corretas: 04+16 = 20, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2024, Questão 44 (gabarito: 01-02-04-08 = soma 15)**
+
+"Os indígenas da América do Sul utilizam a mandioca brava (Manihot esculenta) como ingrediente para produzirem o beiju e o tucupi. No entanto, essa planta possui uma grande concentração de ácido cianídrico, cujo acúmulo no organismo é extremamente tóxico aos seres vivos. Para que possa ser consumida pelo ser humano, essa mandioca deve passar por um processo de 'desintoxicação', que envolve raspar sua casca e, então, combinar técnicas fundamentais (como a fervura e a fermentação) para a produção da farinha que será utilizada no beiju ou no caldo para o tucupi. Sobre o assunto, e correlatos, assinale o que for correto."
+
+1. "fervura e fermentação podem ser utilizadas para a 'desintoxicação' da mandioca brava. Na fermentação microrganismos anaeróbios decomporão o ácido cianídrico (HCN) em substâncias não nocivas ao organismo" — **correta**: descrição correta do processo de desintoxicação.
+2. "mandioca é um alimento energético por ser rica em carboidrato, principal combustível para o processo de respiração celular, facilmente oxidado" — **correta**: fato padrão de bioquímica.
+4. "segundo Arrhenius, ácido é todo composto que, dissolvido em água, origina H+ como único cátion" — **correta**: definição clássica e correta de ácido de Arrhenius.
+8. "fermentação é um processo biológico, anaeróbio, que libera a energia armazenada nas ligações químicas dos compostos orgânicos, podendo gerar vários produtos diferentes" — **correta**: descrição padrão da fermentação.
+16. "ácido cianídrico dissolvido em água comporta-se como não eletrólito" — **errada**: como ácido (mesmo fraco), o HCN se ioniza parcialmente em água — é um eletrólito fraco, não um não eletrólito.
+
+Soma das corretas: 01+02+04+08 = 15, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Inverter a relação causal entre temperatura urbana e emissão de poluentes.
 - Usar termos absolutos ("todos os riscos", "todos os poluentes") para descrever o efeito da chuva sobre a poluição atmosférica.
 - Assumir que toda colisão molecular resulta automaticamente em formação de produto.
+- Chamar um ácido fraco (como o HCN) de "não eletrólito" — todo ácido, mesmo fraco, se ioniza parcialmente e é um eletrólito.
 
 ## Como resolver questões
 
 1. Lembre que óxidos ácidos (de não metal) reagem com água formando ácidos — mecanismo central da chuva ácida.
 2. Desconfie de afirmações absolutas sobre soluções "totais" para problemas ambientais complexos.
 3. Para reações químicas, lembre que nem toda colisão entre moléculas resulta em produto — só as colisões com energia/orientação adequadas.
+4. Para classificar uma substância como ácida, aplique a definição de Arrhenius (libera H⁺ como único cátion em água).
+5. Lembre que ácido fraco ainda é eletrólito (fraco) — não confunda com "não eletrólito".
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (Vestibular de Verão UEM 2025, Questão 46), cobrindo óxidos ácidos e seus impactos ambientais/à saúde. Falta um exemplo real específico do PAS (Etapa 1) sobre classificação de ácidos/bases/sais, indicadores ácido-base, condutibilidade elétrica e reação com metais/neutralização.
-- Esta questão vem do Vestibular de Verão (não do PAS) — mantida por estar dentro do nível de conteúdo da Etapa 1 (óxidos ácidos e impacto ambiental constam explicitamente no item 5 do programa de Química).
+- Este tema tem duas questões reais comentadas (Vestibular de Verão UEM 2025 Q46 e 2024 Q44), cobrindo óxidos ácidos, impactos ambientais/à saúde, definição de Arrhenius e eletrólitos. Falta um exemplo real do PAS (Etapa 1) sobre indicadores ácido-base, condutibilidade elétrica e reação com metais/neutralização.
+- Estas questões vêm do Vestibular de Verão (não do PAS) — mantidas por estarem dentro do nível de conteúdo da Etapa 1 (óxidos ácidos, definição de ácido e impacto ambiental constam explicitamente no item 5 do programa de Química).
 
 ## Checklist de revisão
 
@@ -79,7 +116,9 @@ Soma das corretas: 04+16 = 20, batendo com o gabarito oficial.
 - [ ] Sei explicar como óxidos ácidos formam ácidos ao reagir com água (mecanismo da chuva ácida).
 - [ ] Sei explicar por que nem toda colisão molecular resulta em produto.
 - [ ] Sei por que a chuva não "elimina todos os riscos" da poluição atmosférica.
-- [ ] Resolvi a questão comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei a definição de ácido segundo Arrhenius.
+- [ ] Sei diferenciar eletrólito fraco de não eletrólito.
+- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -94,3 +133,4 @@ Soma das corretas: 04+16 = 20, batendo com o gabarito oficial.
 **Provas reais usadas**
 
 - Vestibular de Verão UEM 2025, Questão 46 — `Fontes Oficiais/provas-anteriores-vestibular/ve25_P1.pdf` e `ve25_gabdef.pdf`.
+- Vestibular de Verão UEM 2024, Questão 44 — `Fontes Oficiais/provas-anteriores-vestibular/ve24_P1.pdf` e `ve24_gabdef.pdf`.

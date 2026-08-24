@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão oficial do PAS/UEM 2024, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 2 questões reais (PAS 2024 e Vestibular de Verão UEM 2024), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 2. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2024, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,30 @@
 <li><strong>16. Correta.</strong> Atribuição e descrição corretas do lema baconiano "saber é poder" (scientia potentia est).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 04 e 08 atribuem a filósofos empiristas (Hume, Locke) teses racionalistas que eles combatem — sempre confira se a tese descrita realmente pertence à escola do filósofo citado.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,16">
+<p class="quiz-source">Vestibular de Verão UEM 2024, Questão 21</p>
+<p><strong>2. A noção de causa está intrinsecamente ligada à noção de conhecimento. David Hume afirma que há duas noções de causa: "Ela [a causa] consiste ou na conjunção constante de objetos semelhantes, ou na inferência do entendimento que passa de um objeto a outro." (HUME, D. Uma investigação sobre o entendimento humano. In: MARÇAL, J. (Org.). Antologia de textos filosóficos, Seed-PR, 2009). Com base no fragmento de Hume, e em assuntos correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A causalidade é uma relação necessária entre eventos observáveis que ocorrem de maneira previsível.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A causalidade é uma propriedade intrínseca de objetos, tornando-os responsáveis pelos eventos subsequentes.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A causalidade é uma inferência baseada na observação regular de eventos que ocorrem em sequência.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A causalidade é uma construção mental que implica uma relação necessária entre eventos, independentemente de qualquer observação empírica.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A solução de Hume para o problema da origem da causalidade pode ser encontrada em sua teoria do hábito.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-16 (soma 20).</strong> Fonte: Vestibular de Verão UEM 2024, Questão 21.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Para Hume, nunca observamos necessidade — só conjunção constante entre eventos.</li>
+<li><strong>02. Errada.</strong> Hume nega que a causalidade seja propriedade intrínseca dos objetos.</li>
+<li><strong>04. Correta.</strong> Exatamente a segunda noção de causa citada por Hume no fragmento (inferência do entendimento).</li>
+<li><strong>08. Errada.</strong> A crença causal, para Hume, depende da observação repetida — não é independente da experiência.</li>
+<li><strong>16. Correta.</strong> A solução psicológica de Hume está mesmo em sua teoria do hábito/costume.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 01, 02 e 08 atribuem a Hume uma noção "necessária" ou "intrínseca" de causalidade — exatamente o que ele nega ao reduzir a causalidade a hábito baseado em observação.</p>
 </div>
 </div>
 
