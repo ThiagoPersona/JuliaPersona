@@ -10,7 +10,12 @@
 
 Este item cobra os elementos da dança (movimento corporal, espaço, tempo) e a dança contemporânea e as danças típicas brasileiras — incluindo a dança como conteúdo da Base Nacional Comum Curricular (BNCC) nas aulas de Arte/Educação Física. A prova gosta de testar se você entende a dança como uma linguagem cultural plural (não restrita a um único estilo) e como uma ferramenta pedagógica de autoconhecimento corporal.
 
-**Evidência real (Vestibular de Verão UEM 2025, Questão 18):** a questão usou a BNCC como referência para testar a função pedagógica da dança (autoconhecimento, transformação da percepção do corpo), a relação entre dança e criatividade, a dança como expressão cultural ligada a contextos sociais e políticos, as danças urbanas (freestyle, break, hip-hop) e o sportdance como modalidade esportiva competitiva.
+**Evidência real:** duas questões reais cobrem este tema — Vestibular de Verão UEM 2025 Questão 18 (BNCC, danças urbanas, sportdance) e 2023 Questão 18 (cirandas, danças de rua, capoeira como dança, balé, breaking olímpico).
+
+| Prova | Ano | O que caiu neste tema |
+|---|---:|---|
+| Vestibular de Verão UEM | 2025 | Questão 18: função pedagógica da dança, danças urbanas, sportdance |
+| Vestibular de Verão UEM | 2023 | Questão 18: cirandas, danças de rua, capoeira como dança, balé, breaking nos Jogos Olímpicos |
 
 ## Conteúdo completo orientado ao programa
 
@@ -30,7 +35,21 @@ As **danças urbanas** — como o freestyle, o break (breaking) e outras express
 
 ### Sportdance: a dança urbana como modalidade esportiva competitiva
 
-O **sportdance** (ou dança esportiva) é uma modalidade esportiva **inspirada em danças urbanas**, como o breaking, ligado à cultura hip-hop. No break competitivo, os integrantes (b-boys/b-girls) propõem diversos tipos de disputa, desafiando-se uns aos outros com movimentos intensos, muitos deles realizados próximo ao chão (footwork, power moves, freezes) — uma modalidade que, inclusive, estreou como esporte olímpico nos Jogos de Paris 2024.
+O **sportdance** (ou dança esportiva) é uma modalidade esportiva **inspirada em danças urbanas**, como o breaking, ligado à cultura hip-hop. No break competitivo, os integrantes (b-boys/b-girls) propõem diversos tipos de disputa, desafiando-se uns aos outros com movimentos intensos, muitos deles realizados próximo ao chão (footwork, power moves, freezes) — uma modalidade que, inclusive, estreou como esporte olímpico nos Jogos de Paris 2024, sem precisar abrir mão de sua origem cultural (hip-hop) para ser incluída no programa olímpico.
+
+### Cirandas: dança acessível a qualquer pessoa
+
+As **cirandas** são manifestações corporais coletivas (dança em roda, geralmente ao som de música própria) que podem ser praticadas por **qualquer pessoa**, independentemente de idade, gênero, etnia ou condição socioeconômica — um exemplo de dança de forte caráter inclusivo e comunitário.
+
+### Capoeira: luta e dança ao mesmo tempo
+
+Apesar de frequentemente associada às lutas e aos esportes de combate (ver [Educação Física: lutas](../../temas/educacao-fisica/005_lutas-valores-humanos-cultura-movimento.md)), a **capoeira** possui uma história e uma dinâmica corporal que permitem caracterizá-la, também, como uma **dança** — ela combina elementos de luta, jogo, música e dança numa mesma prática corporal.
+
+### Balé: também pode ser praticado como atividade física e de saúde
+
+Diferente de uma ideia equivocada de que o balé se restringiria "apenas" à sua dimensão artística (por causa da alta exigência corporal de seus movimentos), o balé **também pode ser praticado** como esporte, lazer ou atividade física voltada à manutenção da saúde — assim como outras danças, ele não é exclusivo de bailarinos profissionais de alto rendimento.
+
+**Para o PAS:** desconfie de afirmações que restringem uma modalidade de dança a "apenas" uma dimensão (só artística, só esportiva) — a maioria das danças pode ser vivenciada com múltiplas finalidades ao mesmo tempo.
 
 ## Diferenças que costumam ser trocadas
 
@@ -39,6 +58,8 @@ O **sportdance** (ou dança esportiva) é uma modalidade esportiva **inspirada e
 | Dança tradicional: reprodução de movimentos + espaço para criatividade | Afirmação invertida: reprodução de movimentos "impede" a criatividade | Descreve a dança como centrada na reprodução, impedindo a exploração criativa | Reprodução de uma tradição e criatividade coexistem na dança |
 | Danças urbanas: ligadas à cultura hip-hop, expressam identidade de grupos específicos | Descrição genérica sem contexto cultural | Trata danças urbanas como estilo neutro, sem origem/contexto social | Associe cada estilo urbano à sua origem cultural (hip-hop, comunidades afro-americanas/latinas) |
 | Sportdance: modalidade competitiva inspirada em danças urbanas (como o breaking) | Confundir sportdance com dança de salão | Mistura sportdance com dança de salão convencional | Sportdance vem da tradição das danças urbanas/hip-hop, não do salão |
+| Balé/dança: pode ter múltiplas finalidades (arte, esporte, saúde) ao mesmo tempo | Afirmação restritiva: balé "restrito" só à dimensão artística | Trata o balé como exclusivamente artístico, incompatível com exercício físico | A maioria das danças (incluindo balé) pode ser vivenciada com múltiplas finalidades |
+| Breaking: manteve sua identidade cultural (hip-hop) ao entrar nos Jogos Olímpicos | Afirmação invertida: precisou "abrir mão" de sua origem histórica | Diz que o breaking perdeu sua origem cultural para virar esporte olímpico | O breaking preserva sua raiz hip-hop mesmo como modalidade olímpica |
 
 ## Como caiu na prova: questão comentada
 
@@ -54,11 +75,25 @@ O **sportdance** (ou dança esportiva) é uma modalidade esportiva **inspirada e
 
 Soma das corretas: 01+04+08+16 = 29, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2023, Questão 18 (gabarito: 01-02-04 = soma 07)**
+
+"Sobre dança, assinale o que for correto."
+
+1. "cirandas são manifestações corporais que podem ser praticadas por qualquer pessoa, independentemente de idade, gênero, etnia, condição socioeconômica" — **correta**: descrição precisa do caráter inclusivo das cirandas.
+2. "danças de rua caracterizam a cultura juvenil da atualidade. São marcadas pela circulação mundial de variados ritmos e movimentos nos espaços urbanos, mostrando-se como ferramentas de afirmação sociocultural dos jovens" — **correta**: descrição padrão das danças de rua como expressão identitária juvenil.
+4. "apesar de frequentemente associada a lutas, a esportes de combate, a capoeira possui uma história e uma dinâmica que a fazem ser caracterizada, também, como uma dança" — **correta**: reconhecimento padrão da dupla natureza da capoeira (luta e dança).
+8. "diferentemente de outras danças que podem ser praticadas como esporte, lazer ou atividade física voltada à manutenção da saúde, o balé restringe-se à sua dimensão artística devido à elevada exigência corporal para a execução de seus movimentos" — **errada**: o balé também pode ser praticado como atividade física e de saúde, não se restringe à dimensão artística.
+16. "para ser incluído no rol de esportes olímpicos a partir dos Jogos Olímpicos de 2024, o break dance precisou abrir mão de sua origem histórica como dança" — **errada**: o breaking manteve sua identidade cultural (hip-hop) mesmo como modalidade olímpica.
+
+Soma das corretas: 01+02+04 = 07, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Descrever a dança tradicional como se a reprodução de movimentos "impedisse" a criatividade — as duas coisas coexistem.
 - Tratar danças urbanas como estilo neutro, sem reconhecer sua origem cultural específica (hip-hop, comunidades afro-americanas/latinas).
 - Confundir sportdance (competição inspirada em danças urbanas) com dança de salão tradicional.
+- Restringir uma dança (como o balé) a uma única finalidade (só artística), ignorando que pode ser vivenciada também como esporte/saúde.
+- Dizer que o breaking "abriu mão" de sua origem hip-hop para virar modalidade olímpica.
 
 ## Como resolver questões
 
@@ -68,8 +103,8 @@ Soma das corretas: 01+04+08+16 = 29, batendo com o gabarito oficial.
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (Vestibular de Verão UEM 2025, Questão 18), cobrindo dança como ferramenta pedagógica, expressão cultural e danças urbanas/sportdance. Falta um exemplo real do PAS (Etapa 1) especificamente sobre elementos da dança (espaço, tempo) e sobre danças típicas brasileiras isoladamente.
-- Esta questão vem do Vestibular de Verão (não do PAS) — mantida por estar dentro do nível de conteúdo da Etapa 1 (dança consta explicitamente no item 4 do programa de Arte).
+- Este tema tem duas questões reais comentadas (Vestibular de Verão UEM 2025 Q18 e 2023 Q18), cobrindo dança como ferramenta pedagógica, expressão cultural, danças urbanas/sportdance, cirandas, capoeira e balé. Falta um exemplo real do PAS (Etapa 1) especificamente sobre elementos da dança (espaço, tempo).
+- Estas questões vêm do Vestibular de Verão (não do PAS) — mantidas por estarem dentro do nível de conteúdo da Etapa 1 (dança consta explicitamente no item 4 do programa de Arte).
 
 ## Checklist de revisão
 
@@ -78,7 +113,9 @@ Soma das corretas: 01+04+08+16 = 29, batendo com o gabarito oficial.
 - [ ] Sei explicar por que reprodução de tradição e criatividade coexistem na dança.
 - [ ] Sei associar danças urbanas (freestyle, break, hip-hop) à sua origem cultural.
 - [ ] Sei diferenciar sportdance de dança de salão.
-- [ ] Resolvi a questão comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei explicar por que a capoeira pode ser vista como luta e como dança ao mesmo tempo.
+- [ ] Sei que o balé, como outras danças, pode ter múltiplas finalidades (arte, esporte, saúde).
+- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -93,3 +130,4 @@ Soma das corretas: 01+04+08+16 = 29, batendo com o gabarito oficial.
 **Provas reais usadas**
 
 - Vestibular de Verão UEM 2025, Questão 18 — `Fontes Oficiais/provas-anteriores-vestibular/ve25_P1.pdf` e `ve25_gabdef.pdf`.
+- Vestibular de Verão UEM 2023, Questão 18 — `Fontes Oficiais/provas-anteriores-vestibular/ve23_P1.pdf` e `ve23_gabdef.pdf`.

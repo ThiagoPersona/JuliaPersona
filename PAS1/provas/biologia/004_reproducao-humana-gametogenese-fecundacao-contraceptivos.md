@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões oficiais do PAS/UEM 2024, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2024 e Vestibular de Verão UEM 2023), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questões 10 e 13. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2023, Questão 42. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -55,6 +56,30 @@
 <li><strong>16. Errada.</strong> A pílula tem taxa de falha menor (9) que o preservativo (18) — ela é mais eficaz, não menos.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 01 e 16 invertem a leitura da tabela — número menor significa método mais eficaz, não o contrário.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02">
+<p class="quiz-source">Vestibular de Verão UEM 2023, Questão 42</p>
+<p><strong>3. As infecções sexualmente transmissíveis (IST) estão entre os problemas de saúde pública mais comuns. De acordo com a Organização Mundial da Saúde (OMS), a cada dia ocorre mais de um milhão de novos casos entre pessoas de 15 a 49 anos. Sobre o assunto, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Entre as possíveis consequências das IST estão a infertilidade feminina e masculina e, também, a transmissão de doenças de mãe para filho, determinando perdas gestacionais ou doença congênita.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A Aids e o condiloma acuminado são infecções causadas por vírus, ao passo que a sífilis, a gonorreia, o cancro mole e o linfogranuloma venéreo são causados por bactérias.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Além da candidíase, a tricomoníase também é uma IST transmitida por um fungo e provoca secreções malcheirosas e bolhas na região genital de homens e mulheres.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Vírus causadores de IST possuem ribossomos capazes de sintetizar suas proteínas e, dessa forma, podem levar a doenças graves.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Bactérias e fungos causadores de IST possuem mitocôndrias em grande quantidade, necessárias às demandas energéticas que causam a contaminação do humano hospedeiro.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02 (soma 03).</strong> Fonte: Vestibular de Verão UEM 2023, Questão 42.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Consequências reais e bem documentadas das IST.</li>
+<li><strong>02. Correta.</strong> Classificação correta dos agentes causadores (vírus x bactéria).</li>
+<li><strong>04. Errada.</strong> A tricomoníase é causada por um protozoário (Trichomonas vaginalis), não por fungo.</li>
+<li><strong>08. Errada.</strong> Vírus não têm ribossomos próprios — usam os da célula hospedeira.</li>
+<li><strong>16. Errada.</strong> Bactérias (procariontes) não têm mitocôndrias.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 08 e 16 atribuem estruturas celulares (ribossomos próprios, mitocôndrias) a organismos que não as possuem — vírus e bactérias, respectivamente.</p>
 </div>
 </div>
 

@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão oficial do PAS/UEM 2025, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2023), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 17. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2023, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,30 @@
 <li><strong>16. Errada.</strong> A origem da filosofia não é atribuída a Sócrates, e seu interesse central foi a ética/o ser humano, não a physis (tema dos pré-socráticos).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 atribui a Sócrates características de um período anterior a ele (o interesse cosmológico dos pré-socráticos) — sempre associe cada pensador ao seu foco específico dentro da cronologia da filosofia grega.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2023, Questão 21</p>
+<p><strong>2. Segundo Nicola Abbagnano, "a disparidade das filosofias tem por reflexo, obviamente, a disparidade das significações de 'filosofia', o que não impede reconhecer nelas algumas constantes". (ABBAGNANO, N. Dicionário de filosofia. 5ª ed. São Paulo: Martins Fontes, 2007). Sobre a filosofia como disciplina do conhecimento humano, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Filosofia é a crítica dos valores, no sentido de crítica das crenças, dos costumes, das ideias, das configurações da ciência e da linguagem, das formas políticas e institucionais da sociedade.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A partir da refutação do saber elaborado pelas correntes filosóficas ligadas ao ceticismo, a filosofia perdeu sua importância.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A exigência de estabelecer critérios para o saber obriga a filosofia a adaptar-se a problemas novos e a combater formulações ingênuas ou falsas sobre a racionalidade.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Filosofia é o uso do saber em proveito do homem, pois visa ao domínio conceitual relacionado aos seus benefícios sobre as atividades humanas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os juízos filosóficos tendem a ser dogmáticos e imutáveis, pois formulados a partir da comprovação empírica.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: Vestibular de Verão UEM 2023, Questão 21.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição clássica de filosofia como crítica dos valores.</li>
+<li><strong>02. Errada.</strong> O ceticismo é um desafio interno à filosofia, não uma força que a torna irrelevante.</li>
+<li><strong>04. Correta.</strong> Descrição padrão do caráter dinâmico e crítico da filosofia.</li>
+<li><strong>08. Correta.</strong> Definição clássica sobre a função prática da filosofia.</li>
+<li><strong>16. Errada.</strong> A filosofia não se define pelo dogmatismo, e seus juízos não se baseiam em comprovação empírica (isso é da ciência).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 descreve a filosofia com características opostas às suas (dogmática, empírica), quando ela é justamente crítica e conceitual.</p>
 </div>
 </div>
 

@@ -10,7 +10,12 @@
 
 Este item cobra leitura e interpretação de uma equação química já balanceada — identificar tipo de reação, tipo de composto formado (óxido, sal), aplicações práticas, e fazer cálculos estequiométricos simples usando massa molar. A prova gosta de testar se você sabe converter massa para mol antes de aplicar a proporção da equação.
 
-**Evidência real (PAS/UEM 2025, Etapa 1, Questão 38):** a questão usou a decomposição do hidróxido de cálcio (`Ca(OH)₂ → CaO + H₂O`) para testar separação de produtos por estado físico, tipo de ligação dos compostos envolvidos, cálculo estequiométrico com massa molar, classificação de óxido e aplicação prática do produto.
+**Evidência real:** duas questões reais cobrem este tema — PAS 2025 Questão 38 (decomposição do hidróxido de cálcio) e Vestibular de Verão UEM 2023 Questão 44 (produção industrial de etanol a partir da cana-de-açúcar, com duas equações balanceadas em sequência).
+
+| Prova | Ano | O que caiu neste tema |
+|---|---:|---|
+| PAS/UEM, Etapa 1 | 2025 | Questão 38: decomposição do hidróxido de cálcio, tipo de ligação, cálculo estequiométrico, classificação de óxido |
+| Vestibular de Verão UEM | 2023 | Questão 44: hidrólise da sacarose, fermentação alcoólica, mistura azeotrópica, geometria molecular do CO₂ |
 
 ## Conteúdo completo orientado ao programa
 
@@ -42,11 +47,33 @@ Quando uma reação produz substâncias em estados físicos diferentes (por exem
 
 Um **óxido básico** é um óxido de metal que reage com água formando uma base (hidróxido). O `CaO` (óxido de cálcio, também chamado de "cal virgem") é um óxido básico clássico — inclusive é amplamente usado na **construção civil** (produção de cal e cimento).
 
+### Reações em sequência: da sacarose ao etanol
+
+Um processo industrial real pode envolver **mais de uma equação química em sequência**, cada uma representando uma etapa distinta. Exemplo real: a produção de etanol a partir da cana-de-açúcar segue duas etapas balanceadas:
+
+**Etapa I — hidrólise da sacarose**: `C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ (glicose) + C₆H₁₂O₆ (frutose)`. Essa reação quebra o dissacarídeo sacarose (com adição de água) em dois monossacarídeos — glicose e frutose.
+
+**Etapa II — fermentação alcoólica**: `C₆H₁₂O₆ → 2 CH₃CH₂OH + 2 CO₂`. Essa reação, promovida por fungos (microrganismos heterótrofos que obtêm alimento por absorção), converte a glicose em etanol e gás carbônico.
+
+**Para o PAS:** identifique sempre qual etapa de um processo em múltiplas equações está sendo testada em cada afirmação — uma questão pode misturar detalhes da etapa I (hidrólise) com detalhes da etapa II (fermentação) na mesma lista de alternativas.
+
+### Mistura azeotrópica: quando a destilação fracionada não separa
+
+Uma **mistura azeotrópica** é uma mistura de dois (ou mais) líquidos que, numa proporção específica, se comporta como se fosse uma substância pura durante a fervura — ou seja, **não pode ser separada por destilação fracionada** simples, porque o vapor produzido tem a mesma composição do líquido original. O **álcool 96°GL** (96% em volume de etanol e 4% em volume de água) é um exemplo real de mistura azeotrópica.
+
+### Geometria molecular: CO₂ é linear e apolar, não angular e polar
+
+O gás carbônico (`CO₂`) tem geometria molecular **linear** (os três átomos alinhados: O=C=O) e é uma molécula **apolar** — os dois dipolos das ligações C=O têm a mesma intensidade e direções opostas, cancelando-se mutuamente (diferente da água, H₂O, que tem geometria angular e é polar).
+
+**Para o PAS:** não confunda a geometria do CO₂ (linear, apolar) com a da água (angular, polar) — a diferença vem dos pares de elétrons não ligantes presentes na água (e ausentes no CO₂).
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
 |---|---|---|---|
 | Massa convertida para mol antes de aplicar proporção | Massa usada diretamente como se fosse "quantidade em mols" | Diz que X gramas geram Y mols sem converter para mol primeiro | Sempre calcule n=massa/massa molar antes de aplicar a proporção da equação |
+| CO₂: geometria linear, molécula apolar | H₂O: geometria angular, molécula polar | Atribui ao CO₂ geometria angular e polaridade | CO₂ é linear e apolar; a água é angular e polar (por causa dos pares não ligantes) |
+| Mistura azeotrópica: não separável por destilação fracionada simples | Mistura comum: separável por destilação fracionada | Diz que uma mistura azeotrópica pode ser separada por destilação fracionada comum | Azeótropos exigem técnicas especiais de separação, não a destilação fracionada simples |
 | Compostos de ligação iônica (Ca(OH)₂, CaO) | Compostos de ligação covalente (H₂O) | Generaliza "todos os compostos da equação são iônicos" | H₂O é molecular/covalente, mesmo numa equação com compostos iônicos |
 | Óxido básico (reage com água, forma base) | Óxido ácido (reage com água, forma ácido) | Confunde os dois tipos de óxido | CaO (óxido de metal) é básico; óxidos de não metal costumam ser ácidos |
 
@@ -65,11 +92,25 @@ Contexto: `Ca(OH)₂(s) → CaO(s) + H₂O(l)`. Massas molares: Ca=40g/mol, O=16
 
 Este mesmo tema de balanceamento também aparece, num contexto biológico, na Questão 15 do PAS 2024 (equação geral da respiração/fermentação de açúcares) — ver o capítulo de [Biologia celular](../../temas/biologia/002_biologia-celular-composicao-metabolismo.md), que já cobre em detalhe a propriedade de que a razão entre coeficientes estequiométricos é sempre constante, independente da quantidade de reagente fornecida.
 
+**Fonte: Vestibular de Verão UEM 2023, Questão 44 (gabarito: 01-02-04 = soma 07)**
+
+Contexto: "A produção do álcool 96°GL a partir da cana-de-açúcar pode ser representada pelas seguintes equações: I) C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ (glicose) + C₆H₁₂O₆ (frutose); II) C₆H₁₂O₆ → 2 CH₃CH₂OH + 2CO₂. Sobre o assunto e as substâncias envolvidas, assinale o que for correto."
+
+1. "na primeira etapa ocorre a hidrólise do dissacarídeo, que produz os monossacarídeos glicose e frutose" — **correta**: descrição precisa da etapa I.
+2. "na segunda etapa ocorre a fermentação alcoólica promovida por fungos, que são microrganismos heterótrofos (obtêm seu alimento por absorção de nutrientes do meio)" — **correta**: descrição precisa da etapa II.
+4. "o álcool 96°GL é uma mistura de 96% em volume de etanol e 4% em volume de água. Essa mistura, que não pode ser separada por destilação fracionada, é conhecida como mistura azeotrópica" — **correta**: fato real sobre o azeótropo etanol-água.
+8. "o gás carbônico é uma molécula polar com geometria angular" — **errada**: o CO₂ é uma molécula apolar, de geometria linear.
+16. "o etanol também pode ser obtido em escala industrial a partir da reação de oxidação do ácido acético" — **errada**: é o contrário — o etanol é oxidado para formar ácido acético (vinagre), não o inverso.
+
+Soma das corretas: 01+02+04 = 07, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Usar a massa de um reagente diretamente como "quantidade em mols", sem dividir pela massa molar primeiro.
 - Generalizar que todos os compostos de uma equação têm o mesmo tipo de ligação (iônica ou covalente).
 - Confundir óxido básico com óxido ácido.
+- Atribuir ao CO₂ geometria angular e polaridade — ele é linear e apolar.
+- Inverter a direção de uma reação real (dizer que o etanol vem da oxidação do ácido acético, quando é o oposto).
 
 ## Como resolver questões
 
@@ -80,8 +121,8 @@ Este mesmo tema de balanceamento também aparece, num contexto biológico, na Qu
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (PAS 2025, Questão 38), cobrindo balanceamento, massa molar e classificação de óxido. Falta um exemplo real específico sobre tipos de reação (síntese, decomposição, simples troca, dupla troca) e sobre o método de balanceamento por tentativas aplicado a uma equação mais complexa.
-- Falta explorar o Vestibular de Verão (2020-2025, já baixado) para este tema.
+- Este tema tem duas questões reais comentadas (PAS 2025 Q38 e Vestibular de Verão UEM 2023 Q44), cobrindo balanceamento, massa molar, classificação de óxido, reações em sequência, mistura azeotrópica e geometria molecular. Falta um exemplo real específico sobre tipos de reação (síntese, decomposição, simples troca, dupla troca) e sobre o método de balanceamento por tentativas aplicado a uma equação mais complexa.
+- Falta explorar mais anos do Vestibular de Verão (2020-2022, 2024-2025 já usados parcialmente) para este tema.
 
 ## Checklist de revisão
 
@@ -89,7 +130,9 @@ Este mesmo tema de balanceamento também aparece, num contexto biológico, na Qu
 - [ ] Sei conferir se uma equação está balanceada, contando átomos de cada elemento.
 - [ ] Sei converter massa para mol usando massa molar, antes de aplicar proporção estequiométrica.
 - [ ] Sei classificar um óxido como básico ou ácido, conforme o elemento ligado ao oxigênio.
-- [ ] Resolvi a questão comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei explicar por que uma mistura azeotrópica não se separa por destilação fracionada simples.
+- [ ] Sei a geometria molecular e a polaridade do CO₂.
+- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -104,3 +147,4 @@ Este mesmo tema de balanceamento também aparece, num contexto biológico, na Qu
 **Provas reais usadas**
 
 - PAS/UEM 2025, Etapa 1, Questão 38 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- Vestibular de Verão UEM 2023, Questão 44 — `Fontes Oficiais/provas-anteriores-vestibular/ve23_P1.pdf` e `ve23_gabdef.pdf`.

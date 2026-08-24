@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão real do Vestibular de Verão UEM 2025, com gabarito definitivo confirmado.
+**Itens neste banco:** 2 questões reais do Vestibular de Verão UEM (2023 e 2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2025, Questão 45. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2023, Questão 45. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,30 @@
 <li><strong>16. Correta.</strong> 12 mol × 22,4L/mol ≈ 268,8L, maior que 260L.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 generaliza que o número de oxidação do enxofre varia em todas as três etapas — mas na etapa III (formação do ácido a partir do óxido), não há variação, só uma hidratação.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2023, Questão 45</p>
+<p><strong>2. Considere a equação química balanceada que representa a formação do óxido férrico (Fe₂O₃) e assinale o que for correto: 4Fe(s) + 3O₂(g) → 2Fe₂O₃(s).</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) No óxido férrico o ferro tem 26 prótons e 23 elétrons.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O número de oxidação do ferro no produto da reação é +2.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A porcentagem em massa de ferro no óxido férrico é de 70%.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na reação completa de 12mol de ferro e 10mol de gás oxigênio o ferro é o reagente limitante.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Na reação completa de 12mol de ferro e 10mol de gás oxigênio são produzidos 960g de Fe₂O₃.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08-16 (soma 29).</strong> Fonte: Vestibular de Verão UEM 2023, Questão 45.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> 26 prótons (número atômico do Fe); 26−3=23 elétrons (Fe³⁺).</li>
+<li><strong>02. Errada.</strong> No Fe₂O₃, o ferro tem número de oxidação +3, não +2.</li>
+<li><strong>04. Correta.</strong> Massa molar Fe₂O₃=160g/mol; massa de Fe=112g/mol; 112/160=70%.</li>
+<li><strong>08. Correta.</strong> Para consumir 12mol de Fe seriam necessários 9mol de O₂ (proporção 4:3); há 10mol disponíveis, logo o Fe é limitante.</li>
+<li><strong>16. Correta.</strong> Com Fe limitante (12mol), produção=6mol de Fe₂O₃; massa=6×160=960g.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 erra o número de oxidação do ferro no óxido férrico — é +3, não +2 (esse seria o óxido ferroso, FeO).</p>
 </div>
 </div>
 

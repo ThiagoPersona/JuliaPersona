@@ -10,7 +10,12 @@
 
 Este item cobra a caracterização quantitativa das transformações químicas, as leis das reações químicas, e o cálculo estequiométrico envolvendo massa molar e número de Avogadro — inclusive combinando estequiometria com a equação geral dos gases ideais para calcular volumes de gases consumidos ou produzidos. A prova gosta de processos industriais reais (como a produção de ácido sulfúrico) com várias etapas de reação, testando se você sabe acompanhar a proporção estequiométrica ao longo de todas elas.
 
-**Evidência real (Vestibular de Verão UEM 2025, Questão 45):** a questão usou o processo industrial de obtenção do ácido sulfúrico (três etapas de reação) para testar conceitos de oxirredução, balanceamento de coeficientes estequiométricos, acompanhamento do número de oxidação ao longo de várias etapas, cálculo do total de gás consumido, e aplicação da equação dos gases ideais para achar o volume desse gás nas CNTP.
+**Evidência real:** duas questões reais cobrem este tema — Vestibular de Verão UEM 2025 Questão 45 (produção industrial de ácido sulfúrico, processo com três etapas) e 2023 Questão 45 (formação do óxido férrico, cálculo estequiométrico "clássico" com reagente limitante).
+
+| Prova | Ano | O que caiu neste tema |
+|---|---:|---|
+| Vestibular de Verão UEM | 2025 | Questão 45: produção de ácido sulfúrico (3 etapas), oxirredução, gases ideais |
+| Vestibular de Verão UEM | 2023 | Questão 45: formação do óxido férrico, prótons/elétrons de um íon, número de oxidação, porcentagem em massa, reagente limitante |
 
 ## Conteúdo completo orientado ao programa
 
@@ -50,6 +55,26 @@ Exemplo real: nas CNTP (T=273K, P=1,0atm), o volume de 12 mol de O₂ é `V = nR
 
 **Para o PAS:** lembre o valor de referência — nas CNTP, 1 mol de qualquer gás ideal ocupa aproximadamente 22,4L; multiplique pelo número de mols calculado para obter o volume total.
 
+### Reagente limitante: identificando quem "acaba primeiro"
+
+Quando uma reação envolve dois reagentes em quantidades não necessariamente proporcionais aos coeficientes da equação balanceada, é preciso identificar o **reagente limitante** — aquele que se esgota primeiro e, por isso, determina a quantidade máxima de produto formado (o outro reagente fica em excesso, sobrando ao final).
+
+Exemplo real: na reação `4Fe(s) + 3O₂(g) → 2Fe₂O₃(s)`, a proporção é 4 mol de Fe para cada 3 mol de O₂. Se temos 12 mol de Fe e 10 mol de O₂: para consumir todo o Fe (12 mol), seriam necessários `12×(3/4)=9mol` de O₂ — como há 10 mol disponíveis (mais que o necessário), o **ferro é o reagente limitante** (o oxigênio sobra, fica em excesso).
+
+**Para o PAS:** para identificar o reagente limitante, calcule quanto do segundo reagente seria necessário para consumir totalmente o primeiro (usando a proporção da equação) — se a quantidade disponível do segundo reagente for maior que a necessária, o primeiro reagente é o limitante.
+
+### Calculando prótons e elétrons de um íon a partir do número atômico
+
+O número de **prótons** de um elemento é sempre igual ao seu **número atômico** (Z), independentemente de o átomo estar na forma neutra ou como íon — formar um íon nunca muda o número de prótons do núcleo. Já o número de **elétrons** muda conforme a carga do íon: um cátion com carga +n tem **n elétrons a menos** que o átomo neutro.
+
+Exemplo real: o ferro (Z=26) tem sempre 26 prótons. No óxido férrico (Fe₂O₃), o ferro está na forma de cátion Fe³⁺ (perde 3 elétrons) — portanto, tem `26-3=23` elétrons.
+
+### Porcentagem em massa de um elemento num composto
+
+Para calcular a **porcentagem em massa** de um elemento dentro de um composto, divida a massa desse elemento (multiplicada pela sua atomicidade na fórmula) pela massa molar total do composto, e multiplique por 100.
+
+Exemplo real: no Fe₂O₃ (massa molar = 2×56+3×16=160g/mol), a massa de ferro é `2×56=112g/mol`. A porcentagem em massa de ferro é `112/160=0,70=70%`.
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -57,6 +82,8 @@ Exemplo real: nas CNTP (T=273K, P=1,0atm), o volume de 12 mol de O₂ é `V = nR
 | Oxirredução: número de oxidação muda apenas nas etapas em que há transferência de elétrons | Afirmação generalizada: número de oxidação muda em "todas" as etapas de um processo multi-etapas | Afirma que o número de oxidação de um elemento varia em todas as etapas de um processo | Confira etapa por etapa — etapas de hidratação/combinação simples costumam não ser redox |
 | S₈ (molécula, 8 átomos de enxofre) | S (átomo isolado) | Confunde "1 mol de enxofre sólido" com 1 mol de átomos de S, sem considerar a fórmula molecular S₈ | Sempre confirme se a fórmula do reagente é atômica ou molecular antes de montar a proporção |
 | Consumo total de reagente = soma do consumido em cada etapa (mesma base de referência) | Considerar apenas uma das etapas isoladamente | Calcula o consumo de gás usando só uma etapa do processo | Some o consumo de todas as etapas relevantes, mantendo a mesma base ("por mol de X processado") |
+| Número de prótons: sempre igual ao número atômico (não muda ao formar íon) | Número de elétrons: muda conforme a carga do íon | Confunde prótons com elétrons ao calcular a composição de um íon | Prótons = Z sempre; elétrons = Z − carga do cátion (ou Z + carga do ânion) |
+| Reagente limitante: identificado comparando a quantidade necessária x disponível do outro reagente | Assumir que o reagente com menor quantidade em mol é sempre o limitante | Aponta o reagente limitante só pela quantidade em mol, sem usar a proporção da equação | Calcule quanto do outro reagente seria necessário, usando a proporção da equação balanceada |
 
 ## Como caiu na prova: questão comentada
 
@@ -72,12 +99,26 @@ Exemplo real: nas CNTP (T=273K, P=1,0atm), o volume de 12 mol de O₂ é `V = nR
 
 Soma das corretas: 01+02+08+16 = 27, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2023, Questão 45 (gabarito: 01-04-08-16 = soma 29)**
+
+"Considere a equação química balanceada que representa a formação do óxido férrico (Fe₂O₃) e assinale o que for correto: 4Fe(s) + 3O₂(g) → 2Fe₂O₃(s)."
+
+1. "no óxido férrico o ferro tem 26 prótons e 23 elétrons" — **correta**: 26 prótons (número atômico do Fe); 26−3=23 elétrons (Fe³⁺, perde 3 elétrons).
+2. "o número de oxidação do ferro no produto da reação é +2" — **errada**: no Fe₂O₃, o ferro tem número de oxidação +3, não +2.
+4. "a porcentagem em massa de ferro no óxido férrico é de 70%" — **correta**: massa molar Fe₂O₃=160g/mol; massa de Fe=112g/mol; 112/160=70%.
+8. "na reação completa de 12mol de ferro e 10mol de gás oxigênio o ferro é o reagente limitante" — **correta**: para consumir 12mol de Fe seriam necessários 9mol de O₂ (proporção 4:3); como há 10mol disponíveis, o Fe é o limitante.
+16. "na reação completa de 12mol de ferro e 10mol de gás oxigênio são produzidos 960g de Fe₂O₃" — **correta**: com Fe limitante (12mol), produção = 12×(2/4)=6mol de Fe₂O₃; massa=6×160=960g.
+
+Soma das corretas: 01+04+08+16 = 29, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Generalizar que o número de oxidação de um elemento muda em todas as etapas de um processo com múltiplas reações — confira etapa por etapa.
 - Confundir "1 mol de enxofre sólido" com 1 mol de átomos de S, sem considerar que o enxofre elementar é molecular (S₈).
 - Esquecer de somar o consumo de reagente em todas as etapas relevantes do processo, considerando apenas uma delas.
 - Esquecer de converter mol para volume usando a equação dos gases ideais (ou o valor de referência 22,4L/mol nas CNTP).
+- Confundir número de oxidação do ferro num óxido (errar entre +2 e +3).
+- Identificar o reagente limitante só pela quantidade em mol, sem aplicar a proporção da equação balanceada.
 
 ## Como resolver questões
 
@@ -88,8 +129,8 @@ Soma das corretas: 01+02+08+16 = 27, batendo com o gabarito oficial.
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (Vestibular de Verão UEM 2025, Questão 45), cobrindo balanceamento com coeficientes literais, oxirredução multi-etapas e gases ideais aplicados à estequiometria. Falta um exemplo real do PAS (Etapa 1) sobre cálculo estequiométrico simples envolvendo massa molar e número de Avogadro diretamente.
-- Esta questão vem do Vestibular de Verão (não do PAS) — mantida por estar dentro do nível de conteúdo da Etapa 1 (cálculo estequiométrico envolvendo massa molar consta explicitamente no item 4.5-4.9 do programa de Química).
+- Este tema tem duas questões reais comentadas (Vestibular de Verão UEM 2025 Q45 e 2023 Q45), cobrindo balanceamento com coeficientes literais, oxirredução multi-etapas, gases ideais, reagente limitante e porcentagem em massa. Falta um exemplo real do PAS (Etapa 1) sobre cálculo estequiométrico simples envolvendo número de Avogadro diretamente.
+- Estas questões vêm do Vestibular de Verão (não do PAS) — mantidas por estarem dentro do nível de conteúdo da Etapa 1 (cálculo estequiométrico envolvendo massa molar consta explicitamente no item 4.5-4.9 do programa de Química).
 
 ## Checklist de revisão
 
@@ -99,7 +140,9 @@ Soma das corretas: 01+02+08+16 = 27, batendo com o gabarito oficial.
 - [ ] Sei que nem toda etapa de um processo multi-etapas é necessariamente redox.
 - [ ] Sei somar o consumo de um reagente ao longo de várias etapas de um processo.
 - [ ] Sei aplicar PV=nRT (ou 22,4L/mol nas CNTP) para converter mol em volume de gás.
-- [ ] Resolvi a questão comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei identificar o reagente limitante numa reação com dois reagentes.
+- [ ] Sei calcular prótons/elétrons de um íon e a porcentagem em massa de um elemento num composto.
+- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -114,3 +157,4 @@ Soma das corretas: 01+02+08+16 = 27, batendo com o gabarito oficial.
 **Provas reais usadas**
 
 - Vestibular de Verão UEM 2025, Questão 45 — `Fontes Oficiais/provas-anteriores-vestibular/ve25_P1.pdf` e `ve25_gabdef.pdf`.
+- Vestibular de Verão UEM 2023, Questão 45 — `Fontes Oficiais/provas-anteriores-vestibular/ve23_P1.pdf` e `ve23_gabdef.pdf`.

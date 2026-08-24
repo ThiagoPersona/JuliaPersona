@@ -16,6 +16,7 @@ Este item abre o programa de Filosofia (item 1) e cobre tanto a origem históric
 |---|---:|---|
 | PAS/UEM, Etapa 1 | 2025 | Questão 17: condições históricas do surgimento da filosofia, mito x razão, pré-socráticos |
 | PAS/UEM, Etapa 1 | 2024 | Questão 3 (compartilhada com [História: Antiguidade Ocidental](../../temas/historia/001_antiguidade-ocidental-grecia-roma.md)): periodização da filosofia grega antiga (pré-socrático, clássico, helenístico) |
+| Vestibular de Verão UEM | 2023 | Questão 21: o que é filosofia, segundo Abbagnano — crítica dos valores, adaptação a problemas novos, uso do saber em proveito humano |
 
 ## Conteúdo completo orientado ao programa
 
@@ -55,6 +56,16 @@ Platão, discípulo de Sócrates, desenvolveu a **teoria das ideias** (ou teoria
 
 **Importante sobre autoria:** a origem da filosofia **não** é atribuída a Sócrates — ele é geralmente situado como o marco de transição entre os pré-socráticos (interessados na physis/cosmologia) e a filosofia clássica (interessada no ser humano, na ética, na política). O primeiro filósofo, por convenção, costuma ser Tales de Mileto.
 
+### O que é filosofia? Definições clássicas (Abbagnano)
+
+Além da origem histórica, o programa cobra também **o que é a filosofia como disciplina** — suas funções e seu método. Segundo o filósofo e historiador da filosofia **Nicola Abbagnano**, apesar de existirem diferentes correntes e definições de filosofia ao longo da história, é possível reconhecer algumas **constantes** em seu papel:
+
+- A filosofia é a **crítica dos valores** — no sentido de crítica das crenças, dos costumes, das ideias, das configurações da ciência e da linguagem, e das formas políticas e institucionais da sociedade. Ela não aceita passivamente o que está estabelecido; questiona e examina criticamente.
+- A exigência de estabelecer **critérios para o saber** obriga a filosofia a se **adaptar a problemas novos**, e a **combater formulações ingênuas ou falsas** sobre a racionalidade — a filosofia não é um corpo fixo de doutrinas, mas um exercício contínuo de exame crítico.
+- A filosofia também é entendida como o **uso do saber em proveito do ser humano** — ela visa ao domínio conceitual relacionado aos benefícios desse saber sobre as atividades humanas, não é conhecimento pelo conhecimento isolado da vida prática.
+
+**Para o PAS:** desconfie de afirmações que descrevem os juízos filosóficos como **dogmáticos e imutáveis** (a filosofia é, pelo contrário, um exercício **crítico** e **adaptável**) ou que afirmam que a filosofia "perdeu importância" por causa do ceticismo (o ceticismo é, historicamente, um desafio interno à própria filosofia, não uma força externa que a anula).
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -62,6 +73,7 @@ Platão, discípulo de Sócrates, desenvolveu a **teoria das ideias** (ou teoria
 | Mito (mythos): explicação pela ação dos deuses | Filosofia (logos): explicação racional, argumentativa | Chama cosmogonia/teogonia de "primeira explicação filosófica" | Mito é o que a filosofia rompe, não uma etapa dela |
 | Pré-socráticos: interesse pela physis (natureza, cosmologia) | Sócrates: interesse pela ética e pelo ser humano | Atribui a Sócrates o interesse pela origem racional de todas as coisas (physis) | Sócrates "virou-se para o homem"; a cosmologia é tema dos pré-socráticos |
 | Sofistas: foco na persuasão, cobravam pelas aulas | Sócrates/filósofos: foco na busca da verdade | Confunde sofística com filosofia | Sofística busca vencer o debate; filosofia busca a verdade, mesmo custando reconhecer a ignorância |
+| Filosofia: crítica constante, adaptável a problemas novos | Afirmação invertida: juízos filosóficos "dogmáticos e imutáveis" | Descreve a filosofia como produzindo verdades fixas e definitivas | A filosofia se caracteriza pelo exame crítico contínuo, não pelo dogmatismo |
 
 ## Como caiu na prova: questão comentada
 
@@ -76,11 +88,25 @@ Platão, discípulo de Sócrates, desenvolveu a **teoria das ideias** (ou teoria
 5. "origem da filosofia é atribuída a Sócrates, mestre de Platão, o primeiro grande pensador grego que procurou explicar racionalmente a origem de todas as coisas, interessado... em questões relacionadas à physis" — **errada**: a origem da filosofia não é atribuída a Sócrates, e seu interesse central não era a physis (isso é tema dos pré-socráticos) — Sócrates voltou a filosofia para as questões éticas e humanas.
 6. Soma das corretas: 02+04+08 = 14, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2023, Questão 21 (gabarito: 01-04-08 = soma 13)**
+
+Contexto: citação de Nicola Abbagnano sobre a disparidade das definições de filosofia, reconhecendo, ainda assim, algumas constantes entre elas.
+
+1. "Filosofia é a crítica dos valores, no sentido de crítica das crenças, dos costumes, das ideias, das configurações da ciência e da linguagem, das formas políticas e institucionais da sociedade" — **correta**: definição clássica, no espírito de Abbagnano.
+2. "A partir da refutação do saber elaborado pelas correntes filosóficas ligadas ao ceticismo, a filosofia perdeu sua importância" — **errada**: o ceticismo é um desafio interno à filosofia, não uma força que a torna irrelevante.
+4. "A exigência de estabelecer critérios para o saber obriga a filosofia a adaptar-se a problemas novos e a combater formulações ingênuas ou falsas sobre a racionalidade" — **correta**: descrição padrão do caráter dinâmico e crítico da filosofia.
+8. "Filosofia é o uso do saber em proveito do homem, pois visa ao domínio conceitual relacionado aos seus benefícios sobre as atividades humanas" — **correta**: definição clássica sobre a função prática da filosofia.
+16. "Os juízos filosóficos tendem a ser dogmáticos e imutáveis, pois formulados a partir da comprovação empírica" — **errada**: a filosofia não se define pelo dogmatismo, e seus juízos não se baseiam em comprovação empírica (isso é característico da ciência).
+
+Soma das corretas: 01+04+08 = 13, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Tratar cosmogonia/teogonia (mito) como uma forma inicial de filosofia, quando na verdade é o que a filosofia rompe.
 - Atribuir a Sócrates o interesse cosmológico (physis) que é característico dos pré-socráticos.
 - Confundir sofística com filosofia — a sofística busca persuadir, a filosofia busca a verdade.
+- Descrever os juízos filosóficos como dogmáticos/imutáveis, ou baseados em comprovação empírica (isso é característico da ciência, não da filosofia).
+- Afirmar que a filosofia "perdeu importância" por causa do ceticismo — o ceticismo é um desafio interno à própria tradição filosófica.
 
 ## Como resolver questões
 
@@ -91,9 +117,9 @@ Platão, discípulo de Sócrates, desenvolveu a **teoria das ideias** (ou teoria
 
 ## Lacunas honestas
 
-- Este tema tem uma questão real comentada (PAS 2025, Questão 17), cobrindo condições históricas do surgimento da filosofia e os pré-socráticos. Falta uma questão real específica sobre o método socrático (maiêutica) e sobre a teoria das ideias de Platão — a explicação acima é teórica, sem verificação direta contra uma questão real do PAS.
+- Este tema tem duas questões reais comentadas (PAS 2025 Q17 e Vestibular de Verão UEM 2023 Q21), cobrindo condições históricas do surgimento da filosofia, os pré-socráticos e definições clássicas de "o que é filosofia". Falta uma questão real específica sobre o método socrático (maiêutica) e sobre a teoria das ideias de Platão — a explicação acima sobre esses dois pontos é teórica, sem verificação direta contra uma questão real.
 - A periodização da filosofia grega antiga (pré-socrático, clássico, helenístico) tem evidência real na Questão 3 do PAS 2024 — ver [História: Antiguidade Ocidental](../../temas/historia/001_antiguidade-ocidental-grecia-roma.md), que já traz essa questão comentada.
-- Falta explorar o Vestibular de Verão (2020-2025, já baixado) para este tema.
+- Falta explorar mais anos do Vestibular de Verão (2020-2022, 2024-2025 já usados parcialmente) para este tema.
 
 ## Checklist de revisão
 
@@ -101,7 +127,8 @@ Platão, discípulo de Sócrates, desenvolveu a **teoria das ideias** (ou teoria
 - [ ] Sei explicar a diferença entre explicação mítica e explicação filosófica.
 - [ ] Sei listar as condições históricas favoráveis ao surgimento da filosofia grega.
 - [ ] Sei diferenciar o foco dos pré-socráticos (physis), de Sócrates (ética) e de Platão (teoria das ideias).
-- [ ] Resolvi a questão comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei explicar por que a filosofia é crítica e adaptável, não dogmática/imutável.
+- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -116,3 +143,4 @@ Platão, discípulo de Sócrates, desenvolveu a **teoria das ideias** (ou teoria
 **Provas reais usadas**
 
 - PAS/UEM 2025, Etapa 1, Questão 17 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- Vestibular de Verão UEM 2023, Questão 21 — `Fontes Oficiais/provas-anteriores-vestibular/ve23_P1.pdf` e `ve23_gabdef.pdf`.

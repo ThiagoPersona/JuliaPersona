@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2024), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2024), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 23. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2023, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Descrição padrão da primazia da base econômica no estruturalismo marxista.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> nenhuma — este é um exemplo raro em que todas as cinco afirmações estão corretas; a "pegadinha" aqui é justamente desconfiar demais e deixar de marcar alguma alternativa correta por achar que "não pode ser tudo certo".</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,16">
+<p class="quiz-source">Vestibular de Verão UEM 2023, Questão 30</p>
+<p><strong>3. Sobre o pensamento sociológico de Max Weber, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Para Max Weber, a principal característica das sociedades ocidentais modernas é a racionalidade advinda da atividade econômica.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Max Weber desenvolveu uma tipologia das formas de dominação que compreende a dominação tradicional, a dominação carismática e a dominação legal.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O objeto primário da investigação da sociologia weberiana é a ação social.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os estudos desenvolvidos por Max Weber demostram, na formação do comportamento econômico capitalista moderno, a oposição entre crença religiosa e racionalidade.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os estudos weberianos sobre a burocracia a compreendem como uma forma de organização da vida social, baseada em dispositivos legais, e como um tipo de dominação.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-16 (soma 23).</strong> Fonte: Vestibular de Verão UEM 2023, Questão 30.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Tese central da racionalização weberiana.</li>
+<li><strong>02. Correta.</strong> Tipologia clássica weberiana das formas de dominação.</li>
+<li><strong>04. Correta.</strong> Define a sociologia "compreensiva" de Weber (ação social).</li>
+<li><strong>08. Errada.</strong> Weber demonstra convergência (não oposição) entre a ética protestante e a racionalidade capitalista.</li>
+<li><strong>16. Correta.</strong> Descrição precisa da dupla natureza da burocracia em Weber (organização e dominação).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 inverte a tese central de "A Ética Protestante e o Espírito do Capitalismo" — Weber mostra convergência, não oposição, entre religião e racionalidade econômica.</p>
 </div>
 </div>
 

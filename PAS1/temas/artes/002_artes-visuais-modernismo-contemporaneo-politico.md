@@ -16,6 +16,7 @@ Este item cobra a arte moderna na América Latina (estilos, vanguardas, artistas
 |---|---:|---|
 | PAS/UEM, Etapa 1 | 2024 | Questão 1: contexto pós-guerra da Arte Contemporânea, Op Art, Pop Art |
 | PAS/UEM, Etapa 1 | 2025 | Questão 14: arte/arquitetura moderna no Brasil, muralismo mexicano, grafite urbano, Semana de Arte Moderna |
+| Vestibular de Verão UEM | 2023 | Questão 16: movimentos da arte contemporânea, tridimensionalidade, engajamento político, diversidade de meios artísticos |
 
 ## Conteúdo completo orientado ao programa
 
@@ -56,6 +57,12 @@ Nas últimas décadas, cresceu significativamente o **interesse estético e o re
 
 A arte contemporânea também se articula com **movimentos políticos e identitários** — arte feminista, arte negra, arte LGBT e arte indígena — usando a produção artística (performance, videoarte, instalação, entre outras linguagens) como forma de expressão, resistência e visibilidade para grupos historicamente marginalizados.
 
+### Diversidade de meios e engajamento na arte contemporânea
+
+A arte contemporânea não se limita à pintura ou escultura tradicionais — ela **extrapola os espaços** de museus e galerias, assumindo novos significados em obras tridimensionais, instalações, intervenções urbanas, ativismo e objetos-escultura. Muitos artistas contemporâneos produzem obras cujos **temas refletem diretamente seu engajamento político e social**, em diálogo com as pautas identitárias já mencionadas.
+
+**Para o PAS:** não descreva a arte contemporânea (brasileira ou não) como **homogênea** em forma/material/dimensão — sua marca é justamente a **diversidade** de meios (instalações, videoarte, performances, intervenções, ativismo, objetos-escultura, grafite) e de propostas estéticas, não a padronização.
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -63,6 +70,7 @@ A arte contemporânea também se articula com **movimentos políticos e identit�
 | Arte Contemporânea: rompe barreiras entre arte e vida cotidiana, dialoga com cultura de massa | Arte histórica/academicista: resgata passado, tradição religiosa, hierarquias aristocráticas | Descreve a Arte Contemporânea com características de arte histórica/tradicional | Arte Contemporânea = ruptura com o passado, diálogo com o cotidiano e a tecnologia |
 | Consolidação da arte/arquitetura moderna no Brasil: ao longo do século XX (desde 1922) | Afirmação invertida: só no final do século XX/início do XXI | Empurra a consolidação da arte moderna brasileira para décadas recentes demais | A Semana de Arte Moderna (1922) já marca essa consolidação, décadas antes |
 | Semana de Arte Moderna: busca identidade nacional em diálogo com vanguardas europeias | Semana de Arte Moderna: criação nacional "sem vínculos" com o mundo ocidental | Descreve a Semana de 1922 como isolada das correntes internacionais | Ela dialoga e se inspira nas vanguardas europeias, ao buscar identidade nacional |
+| Arte contemporânea: diversidade de meios e propostas (instalação, performance, grafite, etc.) | Afirmação invertida: produção "homogênea", padronizada | Descreve artistas contemporâneos como produzindo obras homogêneas e padronizadas | A marca da arte contemporânea é a diversidade de meios e propostas, não a padronização |
 
 ## Como caiu na prova: questão comentada
 
@@ -90,11 +98,24 @@ Soma das corretas: 01+02+08+16 = 27, batendo com o gabarito oficial.
 
 Soma das corretas: 04+08 = 12, batendo com o gabarito oficial.
 
+**Fonte: Vestibular de Verão UEM 2023, Questão 16 (gabarito: 01-04-16 = soma 21)**
+
+"Assinale o que for correto a respeito da arte contemporânea."
+
+1. "entre os movimentos e as tendências que a caracterizam, encontra-se a elaboração de críticas à sociedade de massas pela Pop Art, pelas propostas pós-modernistas e por diversas manifestações contra o individualismo consumista" — **correta**: descrição padrão de tendências críticas da arte contemporânea.
+2. "ela expressa uma continuidade natural das manifestações artísticas que a antecederam, marcadas pela falta de liberdade de criação e vinculadas ao pensamento estético conservador" — **errada**: a arte contemporânea se define pela ruptura e pela liberdade criativa, não pela continuidade de um pensamento conservador.
+4. "as obras tridimensionais extrapolaram os espaços dos museus e das galerias e assumiram novos significados. Alguns artistas criam obras cujos temas refletem seu engajamento político e social" — **correta**: descrição padrão da expansão espacial e do engajamento da arte contemporânea.
+8. "os artistas brasileiros adotaram (e adotam) uma forma básica de expressão formal e material, produzindo obras homogêneas, monocromáticas e de dimensões similares, o que facilita sua circulação e sua compreensão" — **errada**: a arte contemporânea brasileira é marcada pela diversidade de formas e materiais, não pela homogeneidade.
+16. "entre as expressões possíveis da arte contemporânea estão meios muito diversos de manifestações. Por exemplo: instalações, vídeoarte, performances, intervenções, ativismo, objetos-escultura, grafite" — **correta**: lista padrão e precisa dos meios da arte contemporânea.
+
+Soma das corretas: 01+04+16 = 21, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Descrever a Arte Contemporânea com características de uma arte histórica/tradicionalista (passado, tradição religiosa, hierarquia aristocrática).
 - Empurrar a consolidação da arte/arquitetura moderna brasileira para décadas recentes demais (final do século XX/início do XXI), ignorando marcos anteriores como a Semana de Arte Moderna (1922).
 - Descrever a Semana de Arte Moderna como uma criação nacional isolada, "sem vínculos" com as vanguardas europeias.
+- Descrever a arte contemporânea (brasileira ou não) como homogênea, padronizada, quando sua marca é a diversidade de formas e materiais.
 
 ## Como resolver questões
 
@@ -104,8 +125,8 @@ Soma das corretas: 04+08 = 12, batendo com o gabarito oficial.
 
 ## Lacunas honestas
 
-- Este tema tem duas questões reais comentadas (PAS 2024 Q1 e PAS 2025 Q14), cobrindo Arte Contemporânea, Op Art, Pop Art, muralismo e Semana de Arte Moderna. Falta um exemplo real específico sobre performance, videoarte, instalação e sobre a arte política (feminista, negra, LGBT, indígena) especificamente.
-- Falta explorar o Vestibular de Verão (2020-2025, já baixado) para este tema.
+- Este tema tem três questões reais comentadas (PAS 2024 Q1, PAS 2025 Q14 e Vestibular de Verão UEM 2023 Q16), cobrindo Arte Contemporânea, Op Art, Pop Art, muralismo, Semana de Arte Moderna e diversidade de meios artísticos. Falta um exemplo real específico sobre a arte política (feminista, negra, LGBT, indígena) especificamente.
+- Falta explorar mais anos do Vestibular de Verão (2020-2022, 2024-2025 já usados parcialmente) para este tema.
 
 ## Checklist de revisão
 
@@ -114,7 +135,8 @@ Soma das corretas: 04+08 = 12, batendo com o gabarito oficial.
 - [ ] Sei diferenciar Op Art (sensação de movimento, figuras geométricas) de Pop Art (cultura de massa, meios de comunicação).
 - [ ] Sei explicar o muralismo mexicano e sua influência latino-americana.
 - [ ] Sei explicar por que a Semana de Arte Moderna (1922) dialoga com, e não rompe totalmente com, as vanguardas europeias.
-- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei explicar por que a diversidade de meios (não a homogeneidade) marca a arte contemporânea.
+- [ ] Resolvi as três questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -130,3 +152,4 @@ Soma das corretas: 04+08 = 12, batendo com o gabarito oficial.
 
 - PAS/UEM 2024, Etapa 1, Questão 1 — `Fontes Oficiais/provas-anteriores/pas24_E1.pdf` e `pas24_gabdef.pdf`.
 - PAS/UEM 2025, Etapa 1, Questão 14 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
+- Vestibular de Verão UEM 2023, Questão 16 — `Fontes Oficiais/provas-anteriores-vestibular/ve23_P1.pdf` e `ve23_gabdef.pdf`.

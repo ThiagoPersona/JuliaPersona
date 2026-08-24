@@ -10,12 +10,13 @@
 
 Este item cobra as relações entre indivíduo e sociedade, as interações, sociabilidades e identidades sociais, e as ações individuais e coletivas. A prova gosta de trazer um recorte histórico-sociológico concreto — como a crise do modelo de família patriarcal ao longo do século XX — e testar se você entende os fatores que geraram essa crise e a cronologia real dos movimentos sociais envolvidos.
 
-**Evidência real:** duas questões reais cobrem este tema — PAS 2025 Questão 23 (crise da família patriarcal) e Vestibular de Verão UEM 2024 Questão 24 (relação teórica entre indivíduo e sociedade: Weber, estrutura social, alteridade, marxismo).
+**Evidência real:** três questões reais cobrem este tema — PAS 2025 Questão 23 (crise da família patriarcal), Vestibular de Verão UEM 2024 Questão 24 (relação teórica entre indivíduo e sociedade: Weber, estrutura social, alteridade, marxismo) e Vestibular de Verão UEM 2023 Questão 30 (aprofundamento sobre o pensamento sociológico de Max Weber especificamente).
 
 | Prova | Ano | O que caiu neste tema |
 |---|---:|---|
 | PAS/UEM, Etapa 1 | 2025 | Questão 23: emancipação feminina, feminismo, pílula anticoncepcional, luta LGBT |
 | Vestibular de Verão UEM | 2024 | Questão 24: relação recíproca indivíduo-sociedade, sociologia weberiana, estrutura social, alteridade, estruturalismo marxista |
+| Vestibular de Verão UEM | 2023 | Questão 30: racionalidade weberiana, tipologia das dominações, ação social, ética protestante/capitalismo, burocracia |
 
 ## Conteúdo completo orientado ao programa
 
@@ -51,6 +52,18 @@ A sociologia contemporânea entende a relação entre indivíduo e sociedade com
 
 **Para o PAS:** essas quatro perspectivas (Weber, estrutura social, alteridade, marxismo) não são mutuamente excludentes na leitura da prova — cada uma descreve corretamente um aspecto legítimo e reconhecido da relação indivíduo-sociedade; é perfeitamente possível que uma questão de somatória sobre este tema tenha **todas as cinco afirmações corretas**.
 
+### Aprofundando Max Weber: racionalização, dominação, ação social e burocracia
+
+Dada a recorrência de Weber nas provas, vale aprofundar os pilares de seu pensamento sociológico:
+
+- **Racionalidade como marca da sociedade ocidental moderna**: para Weber, a principal característica das sociedades ocidentais modernas é a **racionalidade** que se difunde a partir da atividade econômica capitalista — um processo que ele chama de "racionalização" do mundo.
+- **Tipologia das formas de dominação**: Weber desenvolveu uma classificação clássica dos tipos de dominação legítima — **dominação tradicional** (baseada no costume e na tradição, como as monarquias hereditárias), **dominação carismática** (baseada nas qualidades pessoais excepcionais de um líder) e **dominação legal** (baseada em normas e procedimentos legais impessoais, típica dos Estados modernos).
+- **Ação social como objeto da sociologia weberiana**: o objeto primário de investigação da sociologia "compreensiva" de Weber é a **ação social** — a ação de um indivíduo à qual ele atribui um sentido subjetivo, orientado pela conduta de outros indivíduos.
+- **Ética protestante e capitalismo: convergência, não oposição**: em sua obra clássica *A Ética Protestante e o Espírito do Capitalismo*, Weber demonstra como certos valores religiosos (a ética calvinista, com sua valorização do trabalho disciplinado e da poupança) **contribuíram** para a formação do comportamento econômico capitalista moderno — uma relação de **afinidade/convergência** entre crença religiosa e racionalidade econômica, não de oposição entre elas.
+- **Burocracia como forma de organização e de dominação**: os estudos weberianos sobre a burocracia a compreendem tanto como uma **forma de organização** da vida social moderna (baseada em regras e procedimentos formais) quanto como um **tipo de dominação** (a dominação legal-racional se exerce, na prática, através de estruturas burocráticas).
+
+**Para o PAS:** cuidado com a armadilha de descrever a relação entre religião e capitalismo em Weber como uma **oposição** — sua tese central (na Ética Protestante) é justamente de **convergência**: a ética religiosa calvinista ajudou a moldar a racionalidade econômica capitalista, não competiu contra ela.
+
 ## Diferenças que costumam ser trocadas
 
 | Conceito A | Conceito B | Como a prova troca | Como não cair |
@@ -58,6 +71,7 @@ A sociologia contemporânea entende a relação entre indivíduo e sociedade com
 | Luta por direitos LGBT: já organizada desde meados do século XX | Ideia equivocada: luta LGBT só possível no século XXI | Afirma que o questionamento do patriarcado "não envolveu" a luta LGBT no século XX | Movimentos de liberação gay já existiam desde meados do século XX, integrados ao mesmo processo |
 | Feminismo: movimento político **e** comportamental/cultural | Feminismo reduzido a só uma dimensão (só política, ou só de costumes) | Restringe o feminismo a apenas uma dessas dimensões | O feminismo atua tanto no campo político-legal quanto no cultural/comportamental (moda, costumes) |
 | Sociologia weberiana: parte do indivíduo/ação para explicar a sociedade | Estruturalismo marxista: parte da estrutura econômica para explicar a sociedade | Trata as duas abordagens como mutuamente excludentes | Ambas são leituras teóricas legítimas e reconhecidas, cada uma com seu foco |
+| Ética protestante e capitalismo (Weber): convergência/afinidade | Afirmação invertida: religião e racionalidade econômica em "oposição" | Descreve a tese weberiana como uma oposição entre crença religiosa e capitalismo | Weber mostra que a ética calvinista contribuiu para (não competiu com) a racionalidade capitalista |
 
 ## Como caiu na prova: questão comentada
 
@@ -85,12 +99,25 @@ Soma das corretas: 01+02+04+08 = 15, batendo com o gabarito oficial.
 
 Soma das corretas: 01+02+04+08+16 = 31 — todas as cinco afirmações estavam corretas, um caso raro (mas previsto pelo formato oficial) em que a soma máxima é a resposta certa.
 
+**Fonte: Vestibular de Verão UEM 2023, Questão 30 (gabarito: 01-02-04-16 = soma 23)**
+
+"Sobre o pensamento sociológico de Max Weber, assinale o que for correto."
+
+1. "para Max Weber, a principal característica das sociedades ocidentais modernas é a racionalidade advinda da atividade econômica" — **correta**: tese central da racionalização weberiana.
+2. "Max Weber desenvolveu uma tipologia das formas de dominação que compreende a dominação tradicional, a dominação carismática e a dominação legal" — **correta**: tipologia clássica weberiana.
+4. "o objeto primário da investigação da sociologia weberiana é a ação social" — **correta**: define a sociologia "compreensiva" de Weber.
+8. "os estudos desenvolvidos por Max Weber demostram, na formação do comportamento econômico capitalista moderno, a oposição entre crença religiosa e racionalidade" — **errada**: Weber demonstra convergência (não oposição) entre a ética protestante e a racionalidade capitalista.
+16. "os estudos weberianos sobre a burocracia a compreendem como uma forma de organização da vida social, baseada em dispositivos legais, e como um tipo de dominação" — **correta**: descrição precisa da dupla natureza da burocracia em Weber.
+
+Soma das corretas: 01+02+04+16 = 23, batendo com o gabarito oficial.
+
 ## Pegadinhas do PAS
 
 - Empurrar para o século XXI processos que, na verdade, já começaram no século XX (como a luta por direitos LGBT).
 - Reduzir o feminismo a uma única dimensão (só política ou só comportamental), quando ele atua nas duas.
 - Achar que só pode haver uma resposta certa por questão — o formato de somatória permite que as cinco afirmações estejam corretas ao mesmo tempo.
 - Tratar diferentes tradições teóricas (Weber, marxismo) como mutuamente excludentes, quando a prova as trata como leituras complementares e igualmente válidas.
+- Descrever a relação entre ética protestante e capitalismo em Weber como uma oposição, quando sua tese central é de convergência/afinidade.
 
 ## Como resolver questões
 
@@ -100,8 +127,8 @@ Soma das corretas: 01+02+04+08+16 = 31 — todas as cinco afirmações estavam c
 
 ## Lacunas honestas
 
-- Este tema tem duas questões reais comentadas (PAS 2025 Q23 e Vestibular de Verão UEM 2024 Q24), cobrindo a crise da família patriarcal e as diferentes tradições teóricas sobre indivíduo/sociedade. Falta um exemplo real específico sobre interações e sociabilidades cotidianas fora do recorte de gênero/família/teoria sociológica.
-- Falta explorar mais anos do Vestibular de Verão (2020-2023, 2025, já baixados) para este tema.
+- Este tema tem três questões reais comentadas (PAS 2025 Q23, Vestibular de Verão UEM 2024 Q24 e 2023 Q30), cobrindo a crise da família patriarcal e as diferentes tradições teóricas sobre indivíduo/sociedade, com aprofundamento em Weber (racionalização, dominação, ação social, burocracia). Falta um exemplo real específico sobre interações e sociabilidades cotidianas fora do recorte de gênero/família/teoria sociológica.
+- Falta explorar mais anos do Vestibular de Verão (2020-2022, 2025 já usado parcialmente) para este tema.
 
 ## Checklist de revisão
 
@@ -110,7 +137,8 @@ Soma das corretas: 01+02+04+08+16 = 31 — todas as cinco afirmações estavam c
 - [ ] Sei explicar por que a pílula anticoncepcional teve impacto social, não só médico.
 - [ ] Sei que a luta por direitos LGBT já era organizada desde meados do século XX, não só no XXI.
 - [ ] Sei explicar a abordagem weberiana, o conceito de estrutura social, alteridade e o estruturalismo marxista.
-- [ ] Resolvi as duas questões comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei a tipologia weberiana de dominação (tradicional, carismática, legal) e por que ética protestante e capitalismo convergem (não se opõem) em Weber.
+- [ ] Resolvi as três questões comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -126,3 +154,4 @@ Soma das corretas: 01+02+04+08+16 = 31 — todas as cinco afirmações estavam c
 
 - PAS/UEM 2025, Etapa 1, Questão 23 — `Fontes Oficiais/provas-anteriores/pas25_E1.pdf` e `pas25_gabdef.pdf`.
 - Vestibular de Verão UEM 2024, Questão 24 — `Fontes Oficiais/provas-anteriores-vestibular/ve24_P1.pdf` e `ve24_gabdef.pdf`.
+- Vestibular de Verão UEM 2023, Questão 30 — `Fontes Oficiais/provas-anteriores-vestibular/ve23_P1.pdf` e `ve23_gabdef.pdf`.
