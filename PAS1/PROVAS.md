@@ -28,13 +28,13 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Inglês | Gramática funcional: pronomes, artigos e tempos verbais | 3 | [Abrir](provas/ingles/002_gramatica-pronomes-artigos-tempos-verbais.md) |
 | Inglês | Gramática funcional: imperativo, there to be, question words e outros | 1 | [Abrir](provas/ingles/003_gramatica-imperativo-there-to-be-question-words.md) |
 | Artes | Música: parâmetros do som e gêneros musicais brasileiros | 2 | [Abrir](provas/artes/001_musica-parametros-som-generos-brasileiros.md) |
-| Artes | Artes visuais: modernismo latino-americano, arte contemporânea e arte política | 10 | [Abrir](provas/artes/002_artes-visuais-modernismo-contemporaneo-politico.md) |
+| Artes | Artes visuais: modernismo latino-americano, arte contemporânea e arte política | 11 | [Abrir](provas/artes/002_artes-visuais-modernismo-contemporaneo-politico.md) |
 | Artes | Artes cênicas: teatro improvisacional e elementos da linguagem cênica | 1 | [Abrir](provas/artes/003_artes-cenicas-teatro-improvisacional-elementos.md) |
 | Artes | Dança: elementos, dança contemporânea e danças típicas brasileiras | 2 | [Abrir](provas/artes/004_danca-elementos-contemporanea-tipicas-brasileiras.md) |
 | Ed. Física | Jogos cooperativos versus jogos competitivos | 0 | [Abrir](provas/educacao-fisica/001_jogos-cooperativos-competitivos.md) |
 | Ed. Física | Dança de salão como expressão corporal | 3 | [Abrir](provas/educacao-fisica/002_danca-salao-expressao-corporal.md) |
 | Ed. Física | Ginástica de condicionamento físico | 5 | [Abrir](provas/educacao-fisica/003_ginastica-condicionamento-fisico.md) |
-| Ed. Física | Esporte plural: educação, participação/lazer e mídia | 2 | [Abrir](provas/educacao-fisica/004_esporte-plural-educacao-participacao-midia.md) |
+| Ed. Física | Esporte plural: educação, participação/lazer e mídia | 3 | [Abrir](provas/educacao-fisica/004_esporte-plural-educacao-participacao-midia.md) |
 | Ed. Física | Lutas: valores humanos e cultura de movimento | 1 | [Abrir](provas/educacao-fisica/005_lutas-valores-humanos-cultura-movimento.md) |
 
 ## Matemática e suas Tecnologias
@@ -50,22 +50,22 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 
 | Disciplina | Tema | Questões | Abrir |
 |---|---|---:|---|
-| Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 3 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
-| Biologia | Biologia celular: composição química e metabolismo da célula | 4 | [Abrir](provas/biologia/002_biologia-celular-composicao-metabolismo.md) |
+| Biologia | Fundamentos da Biologia: histórico, características e origem da vida | 6 | [Abrir](provas/biologia/001_fundamentos-biologia-historico-caracteristicas-origem-vida.md) |
+| Biologia | Biologia celular: composição química e metabolismo da célula | 6 | [Abrir](provas/biologia/002_biologia-celular-composicao-metabolismo.md) |
 | Biologia | Divisão celular: ciclo celular, mitose e meiose | 1 | [Abrir](provas/biologia/003_divisao-celular-mitose-meiose.md) |
 | Biologia | Reprodução humana, gametogênese, fecundação e métodos contraceptivos | 4 | [Abrir](provas/biologia/004_reproducao-humana-gametogenese-fecundacao-contraceptivos.md) |
 | Biologia | Histologia: tecidos epitelial, conjuntivo, muscular e nervoso | 2 | [Abrir](provas/biologia/005_histologia-tecidos-epitelial-conjuntivo-muscular-nervoso.md) |
-| Biologia | Ciência e saúde aplicadas à Etapa 1 | 5 | [Abrir](provas/biologia/006_ciencia-saude-aplicadas-etapa-1.md) |
+| Biologia | Ciência e saúde aplicadas à Etapa 1 | 6 | [Abrir](provas/biologia/006_ciencia-saude-aplicadas-etapa-1.md) |
 | Física | Grandezas físicas, medição e Sistema Internacional | 0 | [Abrir](provas/fisica/001_grandezas-fisicas-medicao-sistema-internacional.md) |
-| Física | Cinemática: MU, MUV, queda livre e movimento circular | 2 | [Abrir](provas/fisica/002_cinematica-mu-muv-queda-livre-movimento-circular.md) |
+| Física | Cinemática: MU, MUV, queda livre e movimento circular | 3 | [Abrir](provas/fisica/002_cinematica-mu-muv-queda-livre-movimento-circular.md) |
 | Física | Dinâmica: leis de Newton, forças e plano inclinado | 1 | [Abrir](provas/fisica/003_dinamica-leis-newton-forcas-plano-inclinado.md) |
 | Física | Gravitação universal e leis de Kepler | 0 | [Abrir](provas/fisica/004_gravitacao-universal-leis-kepler.md) |
 | Física | Quantidade de movimento, impulso e colisões | 1 | [Abrir](provas/fisica/005_quantidade-movimento-impulso-colisoes.md) |
 | Física | Trabalho, energia e conservação de energia | 2 | [Abrir](provas/fisica/006_trabalho-energia-conservacao.md) |
 | Física | Equilíbrio e máquinas simples | 0 | [Abrir](provas/fisica/007_equilibrio-maquinas-simples.md) |
-| Química | Estados físicos da matéria e separação de misturas | 4 | [Abrir](provas/quimica/001_estados-fisicos-materia-separacao-misturas.md) |
-| Química | Estrutura atômica, modelos atômicos e tabela periódica | 3 | [Abrir](provas/quimica/002_estrutura-atomica-modelos-tabela-periodica.md) |
-| Química | Ligações químicas e interações intermoleculares | 1 | [Abrir](provas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md) |
+| Química | Estados físicos da matéria e separação de misturas | 5 | [Abrir](provas/quimica/001_estados-fisicos-materia-separacao-misturas.md) |
+| Química | Estrutura atômica, modelos atômicos e tabela periódica | 4 | [Abrir](provas/quimica/002_estrutura-atomica-modelos-tabela-periodica.md) |
+| Química | Ligações químicas e interações intermoleculares | 3 | [Abrir](provas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md) |
 | Química | Radioatividade | 2 | [Abrir](provas/quimica/004_radioatividade.md) |
 | Química | Equações químicas, balanceamento e tipos de reação | 2 | [Abrir](provas/quimica/005_equacoes-quimicas-balanceamento-tipos-reacao.md) |
 | Química | Cálculos estequiométricos | 4 | [Abrir](provas/quimica/006_calculos-estequiometricos.md) |
@@ -77,19 +77,19 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 |---|---|---:|---|
 | Filosofia | Origem da filosofia e métodos filosóficos | 4 | [Abrir](provas/filosofia/001_origem-filosofia-metodos-filosoficos.md) |
 | Filosofia | Teoria do conhecimento: ceticismo, racionalismo, empirismo e idealismo transcendental | 5 | [Abrir](provas/filosofia/002_teoria-conhecimento-ceticismo-racionalismo-empirismo-idealismo.md) |
-| Filosofia | Lógica elementar: inferência, lógica proposicional e silogismo categórico | 2 | [Abrir](provas/filosofia/003_logica-elementar-inferencia-proposicional-silogismo.md) |
+| Filosofia | Lógica elementar: inferência, lógica proposicional e silogismo categórico | 3 | [Abrir](provas/filosofia/003_logica-elementar-inferencia-proposicional-silogismo.md) |
 | Filosofia | Falácias formais e não formais | 1 | [Abrir](provas/filosofia/004_falacias-formais-nao-formais.md) |
-| Geografia | Conceitos geográficos, localização e representação cartográfica | 3 | [Abrir](provas/geografia/001_conceitos-geograficos-localizacao-cartografia.md) |
+| Geografia | Conceitos geográficos, localização e representação cartográfica | 4 | [Abrir](provas/geografia/001_conceitos-geograficos-localizacao-cartografia.md) |
 | Geografia | Estrutura geológica e relevo | 3 | [Abrir](provas/geografia/002_estrutura-geologica-relevo.md) |
-| Geografia | Clima, biomas, solos e hidrografia | 7 | [Abrir](provas/geografia/003_clima-biomas-solos-hidrografia.md) |
+| Geografia | Clima, biomas, solos e hidrografia | 8 | [Abrir](provas/geografia/003_clima-biomas-solos-hidrografia.md) |
 | Geografia | Recursos naturais, energia e impactos ambientais | 6 | [Abrir](provas/geografia/004_recursos-naturais-energia-impactos-ambientais.md) |
 | Geografia | A integração do Paraná com o global | 2 | [Abrir](provas/geografia/005_integracao-parana-global.md) |
 | História | Antiguidade Ocidental: Grécia e Roma | 5 | [Abrir](provas/historia/001_antiguidade-ocidental-grecia-roma.md) |
 | História | O Ocidente na Idade Média | 2 | [Abrir](provas/historia/002_ocidente-idade-media.md) |
-| História | História Moderna: crise medieval, Estados Nacionais e grandes navegações | 3 | [Abrir](provas/historia/003_historia-moderna-estados-nacionais-navegacoes.md) |
+| História | História Moderna: crise medieval, Estados Nacionais e grandes navegações | 5 | [Abrir](provas/historia/003_historia-moderna-estados-nacionais-navegacoes.md) |
 | História | Brasil colonial: economia, política, sociedade e cultura | 3 | [Abrir](provas/historia/004_brasil-colonial-economia-politica-sociedade-cultura.md) |
-| História | Paraná: colonização, povos e formação histórica | 7 | [Abrir](provas/historia/005_parana-colonizacao-povos-formacao-historica.md) |
-| Sociologia | Indivíduo e sociedade: interações, sociabilidades e identidades | 8 | [Abrir](provas/sociologia/001_individuo-sociedade-interacoes-identidades.md) |
+| História | Paraná: colonização, povos e formação histórica | 8 | [Abrir](provas/historia/005_parana-colonizacao-povos-formacao-historica.md) |
+| Sociologia | Indivíduo e sociedade: interações, sociabilidades e identidades | 9 | [Abrir](provas/sociologia/001_individuo-sociedade-interacoes-identidades.md) |
 | Sociologia | Socialização, instituições sociais e juventude como categoria social | 2 | [Abrir](provas/sociologia/002_socializacao-instituicoes-juventude.md) |
 | Sociologia | O mundo do trabalho contemporâneo | 3 | [Abrir](provas/sociologia/003_mundo-trabalho-contemporaneo.md) |
 

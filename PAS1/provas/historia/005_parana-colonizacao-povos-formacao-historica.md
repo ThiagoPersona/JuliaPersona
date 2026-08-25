@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 7 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 8 questões reais (PAS 2021/2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 6. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 4 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 33/43 e 34/44 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 33/43, 34/44 e 40/50 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2020, Questão 10 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -178,6 +179,30 @@
 <li><strong>16. Errada.</strong> A Guerra do Gentio, como outros conflitos coloniais, terminou tipicamente com a submissão dos indígenas, não com a expulsão dos colonizadores — inverte o desfecho histórico usual.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 atribui ao Paraná um sítio arqueológico (Boqueirão da Pedra Furada) que na verdade fica no Piauí — confira sempre a localização real de sítios arqueológicos citados.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 4 (Conhecimentos Gerais)</p>
+<p><strong>8. Sobre o processo de povoamento e de ocupação do território que atualmente compreende o estado do Paraná, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Na segunda metade do século XVI, a parte ocidental do estado pertencia à coroa espanhola, que estabeleceu na região povoações como as de Outiveros e Cidade Real do Guairá, junto à foz do rio Piquiri, e a de Vila Rica do Espírito Santo, nas proximidades dos rios Corumbataí e Ivaí.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) No início do século XVII, o trabalho missionário realizado pelos jesuítas espanhóis junto aos indígenas da região oeste do estado contou com o apoio dos moradores das vilas instaladas pela coroa espanhola, os quais defendiam a conversão dos índios e eram contrários à sua escravização.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O lento povoamento do litoral do estado se justifica pela ausência de riquezas minerais na região. Sem o estímulo dos metais preciosos, as pessoas se deslocaram para outras regiões do Brasil.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) No final do século XVII, pessoas de regiões mais ao sul do Brasil fixaram-se no norte do estado e passaram a se dedicar ao plantio e à comercialização da erva-mate. Essa atividade econômica estimulou a criação de pequenas vilas na região.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A expansão da pecuária no segundo planalto paranaense, ocorrida a partir do século XVIII, proporcionou a instalação de grandes fazendas, a formação de povoados e a integração da região à estrutura econômica brasileira.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-16 (soma 17).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 4.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato histórico real sobre as povoações espanholas na região do Guairá (Ontiveros, Ciudad Real, Vila Rica do Espírito Santo).</li>
+<li><strong>02. Errada.</strong> Historicamente, os colonos espanhóis das vilas frequentemente entravam em conflito com os jesuítas justamente por quererem explorar a mão de obra indígena (regime de encomienda) — não por serem "contrários à escravização" e apoiadores da catequese.</li>
+<li><strong>04. Errada.</strong> O litoral paranaense teve, sim, atividade de garimpo de ouro aluvial (faiscadores) nos primeiros séculos de colonização — não houve "ausência de riquezas minerais" como fator explicativo do lento povoamento.</li>
+<li><strong>08. Errada.</strong> A economia da erva-mate se desenvolveu historicamente em áreas mais centrais/sul do território paranaense (eixo Curitiba-Paranaguá), não especificamente no "norte do estado" no final do século XVII.</li>
+<li><strong>16. Correta.</strong> Fato histórico real sobre a expansão pecuária e o povoamento do segundo planalto paranaense (região dos Campos Gerais) a partir do século XVIII.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 inverte a postura histórica dos colonos espanhóis em relação à escravização indígena — o conflito entre colonos e jesuítas por causa da exploração da mão de obra indígena é um traço marcante desse período, não uma aliança harmoniosa.</p>
 </div>
 </div>
 

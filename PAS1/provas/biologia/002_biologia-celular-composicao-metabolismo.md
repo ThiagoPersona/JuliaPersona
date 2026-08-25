@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2025/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2021/2024/2025 e Vestibular de Verão UEM 2025/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 33. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 15. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questões 11 e 14 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 6. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -106,6 +107,54 @@
 <li><strong>16. Correta.</strong> Descrição bioquímica correta da fermentação alcoólica (invertase quebra sacarose; zimase converte glicose em etanol).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 atribui o crescimento da massa à absorção de água e à liberação de O₂ — na verdade é o CO₂ (gás carbônico) produzido na fermentação anaeróbia que faz a massa crescer.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 11 (Conhecimentos Gerais)</p>
+<p><strong>4. Considere uma célula eucariótica animal e uma célula eucariótica vegetal, ambas retiradas de meios isotônicos e mergulhadas (separadamente) em meios hipotônicos de igual concentração e volume. Com base no exposto, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O módulo da velocidade das moléculas de água que entram na célula é constante e igual para todas as moléculas que entram nas células.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A célula eucariótica animal murchará mais rapidamente que a vegetal, visto que não possui parede celular.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O soluto que se difunde para fora da célula e o solvente que sofre osmose para dentro da célula terão aceleração escalar.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na difusão facilitada as proteínas transportadoras realizam trabalho cuja potência está relacionada ao gradiente de concentração entre o meio e o interior da célula.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A célula eucariótica vegetal não sofrerá hemólise. Ela sofrerá deplasmólise.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 11.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> O movimento das moléculas de água é aleatório (agitação térmica) — não há uma velocidade constante e igual para todas as moléculas.</li>
+<li><strong>02. Errada.</strong> Em meio HIPOTÔNICO as células ganham água (incham), não murcham — "murchar" descreveria o comportamento em meio hipertônico, o oposto do cenário descrito.</li>
+<li><strong>04. Correta.</strong> Conforme o gabarito oficial.</li>
+<li><strong>08. Correta.</strong> Conforme o gabarito oficial.</li>
+<li><strong>16. Correta.</strong> A célula vegetal não sofre hemólise (termo específico de hemácias/células animais); em meio hipotônico ela apenas incha até a parede celular impedir o rompimento.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 descreve o comportamento da célula como se ela estivesse perdendo água (murchando), quando na verdade, em meio hipotônico, ela GANHA água.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 14 (Conhecimentos Gerais)</p>
+<p><strong>5. Independentemente de qual for o ambiente, ele é composto por matéria e energia. Dependendo da composição da matéria, do fluxo de energia e de suas transformações, um ambiente também pode apresentar vida. Sobre o assunto, e correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Toda matéria é formada por átomos, tem massa e ocupa lugar no espaço. Na matéria viva, carbono, hidrogênio, oxigênio e nitrogênio estão sempre presentes.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A molécula de água possui geometria linear e ligação iônica entre seus átomos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Uma das principais moléculas carreadoras de energia presentes nas células é a adenosina trifosfato (ATP). A molécula do ATP é sintetizada normalmente por meio de uma reação de desfosforilação, que consiste na remoção de um fosfato inorgânico de outra molécula, a adenosina monofosfato (AMP).</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Em uma das reações químicas mais importantes da natureza, a fotossíntese, a massa não é conservada, pois há um gasto muito maior de água durante o processo (6CO₂ + 12H₂O → C₆H₁₂O₆ + 6H₂O + CO₂).</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Uma base nitrogenada, contida tanto no DNA quanto no RNA, é formada por uma cadeia de carbonos e íons fosfato.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01 (soma 01).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 14.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição padrão de matéria e composição elementar (CHON) da matéria viva.</li>
+<li><strong>02. Errada.</strong> A água tem geometria ANGULAR e ligações COVALENTES (polares) — não linear/iônica.</li>
+<li><strong>04. Errada.</strong> A síntese de ATP é uma FOSFORILAÇÃO (adição de fosfato ao ADP), não uma "desfosforilação" a partir do AMP — o processo e a molécula de partida estão invertidos.</li>
+<li><strong>08. Errada.</strong> A massa É conservada em qualquer reação química, inclusive na fotossíntese (Lei de Lavoisier) — não há exceção para esse "gasto maior de água".</li>
+<li><strong>16. Errada.</strong> As bases nitrogenadas são formadas por anéis de carbono e nitrogênio — o fosfato faz parte do esqueleto açúcar-fosfato do nucleotídeo, não da base em si.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 inverte o processo de síntese do ATP — é uma fosforilação (adição de fosfato ao ADP), não uma "desfosforilação" a partir do AMP.</p>
 </div>
 </div>
 

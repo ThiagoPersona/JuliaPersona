@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 10 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2023/2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 11 questões reais (PAS 2021/2024/2025 e Vestibular de Verão UEM 2023/2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 1. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 14. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 1 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 16. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 40 (Conhecimentos Específicos - Arte). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 1, 31, 34, 36 e 37 (Conhecimentos Específicos - Arte). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -252,6 +253,30 @@
 <li><strong>16. Errada.</strong> Anacronismo: as primeiras vanguardas surgiram no início do século XX, muito antes da existência do mundo digital.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 projeta uma tecnologia do século XXI (mundo digital) sobre o surgimento de movimentos artísticos do início do século XX.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 1 (Conhecimentos Gerais)</p>
+<p><strong>11. Sobre a representatividade nas artes visuais, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O racismo e a violência contra a mulher negra são temas de obras de artistas que visam manifestar a força e a resistência de africanos e afrodescendentes na afirmação da identidade brasileira.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Esculturas alusivas ao candomblé retratando os orixás podem ser inspiração para a criação de objetos artísticos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A mulher afro-brasileira vem tendo maior visibilidade recentemente porque passou a ser retratada nas pinturas dos artistas estrangeiros, embora ainda vinculada a papéis subalternos.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) No contexto de abertura democrática no Brasil, momento em que havia o medo de contrair vírus sexualmente transmissíveis, alguns artistas expressaram seus sentimentos em temas que focalizaram o corpo, o feminismo e a homossexualidade, como na exposição intitulada Como vai você, geração 80?</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Alguns artistas contemporâneos representam os negros para discutir a violência do processo brasileiro de colonização.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08-16 (soma 27).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 1.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão do uso da arte para expressar resistência afro-brasileira.</li>
+<li><strong>02. Correta.</strong> Fato real sobre a inspiração religiosa/artística do candomblé.</li>
+<li><strong>04. Errada.</strong> A maior visibilidade da mulher afro-brasileira nas artes está ligada, sobretudo, a artistas BRASILEIROS (muitos deles negros), não a artistas estrangeiros.</li>
+<li><strong>08. Correta.</strong> Referência histórica real à exposição "Como vai você, geração 80?" (1984), marco da arte brasileira pós-ditadura.</li>
+<li><strong>16. Correta.</strong> Descrição padrão da arte contemporânea que revisita criticamente a colonização.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 atribui a artistas estrangeiros um protagonismo que, na realidade, pertence principalmente a artistas brasileiros (negros) na crescente representação da mulher afro-brasileira.</p>
 </div>
 </div>
 

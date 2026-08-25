@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS 2024 e Vestibular de Verão UEM 2025/2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2021/2024 e Vestibular de Verão UEM 2025/2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 14. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 15 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 44. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 36. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 39 (Conhecimentos Específicos - Biologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -131,6 +132,30 @@
 <li><strong>16. Correta.</strong> Descrição padrão do papel de curto prazo da grelina e do GLP-1 no controle do apetite.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 erra o cálculo/classificação do IMC — a pessoa descrita está na faixa de obesidade (IMC≈34,6), não de sobrepeso.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,08">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 15 (Conhecimentos Gerais)</p>
+<p><strong>6. Na fase de formação e estruturação dos ossos, a ingestão de alimentos ricos em sais minerais à base de cálcio e fósforo, de proteínas e vitaminas A, D e C, é de grande importância. De acordo com essas informações, e considerando os conceitos de substâncias iônicas e covalentes, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A vitamina D, quando presente em excesso no organismo humano, promove a fixação de cálcio e de fósforo nos ossos.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O íon fosfato (PO₄³⁻) é um sal mineral, e nesse íon o átomo de fósforo possui dez elétrons de valência.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O hidreto de fósforo (PH₃) é um composto iônico.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O tecido ósseo atua como um reservatório de cálcio, o qual é fundamental para o funcionamento adequado de diversos mecanismos do corpo humano.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) No sulfeto de cálcio (CaS) o cálcio está na forma de cátion monovalente.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-08 (soma 10).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 15.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Vitamina D em EXCESSO causa hipercalcemia/toxicidade, prejudicando o organismo — o benefício vale para níveis adequados/normais, não para o excesso.</li>
+<li><strong>02. Correta.</strong> Conforme o gabarito oficial.</li>
+<li><strong>04. Errada.</strong> A fosfina (PH₃) é um composto COVALENTE (fósforo e hidrogênio são ambos ametais/não formam ligação iônica típica), não iônico.</li>
+<li><strong>08. Correta.</strong> Fato padrão de fisiologia óssea: o osso funciona como reservatório de cálcio para o corpo.</li>
+<li><strong>16. Errada.</strong> O cálcio é um elemento do grupo 2 (alcalino-terroso), formando cátion Ca²⁺ (divalente), não monovalente.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 trata o excesso de vitamina D como sempre benéfico, ignorando que, em excesso, ela pode causar toxicidade — desconfie de afirmações que tratam "mais" como sempre "melhor".</p>
 </div>
 </div>
 

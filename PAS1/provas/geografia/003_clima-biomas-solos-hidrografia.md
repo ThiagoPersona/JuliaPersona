@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 7 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 8 questões reais (PAS 2021/2024/2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 7. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 7 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 7 e 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 34 e 35 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2020, Questão 13 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -179,6 +180,30 @@
 <li><strong>16. Errada.</strong> O uso de inseticidas/agrotóxicos pode, sim, causar alterações na cadeia alimentar (afetando espécies não-alvo) — a afirmação de que "não causa alterações" é falsa.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 classifica os gafanhotos (que comem plantas diretamente) como consumidores secundários, quando na verdade são consumidores primários (herbívoros).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 7 (Conhecimentos Gerais)</p>
+<p><strong>8. Sobre solos e suas relações com o meio físico, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Em áreas de climas polares, a superfície do solo é constituída por material lixiviado, e é comum o processo de laterização.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Áreas de clima equatorial, sujeitas ao processo de arenização, perdem a produtividade do solo devido a períodos de seca.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O processo de pedogênese é mais antigo no perfil vertical em que a distância entre a rocha originária e a superfície do solo é maior.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Queimadas agrícolas e incêndios florestais, além de provocarem a erosão do solo, consomem biomassa.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A incineração do lixo hospitalar, apesar de evitar a contaminação do solo, emite poluentes na atmosfera.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 7.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A laterização é um processo típico de climas TROPICAIS/equatoriais (calor e chuva intensos), não de climas polares.</li>
+<li><strong>02. Errada.</strong> O clima equatorial é caracterizado por chuvas abundantes o ano todo, não por "períodos de seca" — a descrição não corresponde a esse tipo climático.</li>
+<li><strong>04. Correta.</strong> Quanto maior a distância entre a rocha-mãe e a superfície, mais tempo/processo de formação (pedogênese) o solo teve.</li>
+<li><strong>08. Correta.</strong> Fato direto sobre os efeitos de queimadas e incêndios.</li>
+<li><strong>16. Correta.</strong> Trade-off real e conhecido da incineração de resíduos hospitalares.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 trocam processos e climas — laterização é de clima tropical/equatorial (não polar), e o clima equatorial não é marcado por secas (isso seria mais típico de climas semiáridos).</p>
 </div>
 </div>
 

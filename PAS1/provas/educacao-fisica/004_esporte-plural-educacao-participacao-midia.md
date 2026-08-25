@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 15. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 9 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 36 (Conhecimentos Específicos - Educação Física). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> O Estatuto de Defesa do Torcedor (Lei 10.671/2003) já estava em vigor havia quase duas décadas — não era uma lei "em discussão" a ser promulgada em 2022.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 trata como "futura" (a ser promulgada em 2022) uma lei que já estava em vigor desde 2003 — o Estatuto de Defesa do Torcedor.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 9 (Conhecimentos Gerais)</p>
+<p><strong>3. Sobre a importância do esporte no mundo contemporâneo, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) As competições esportivas tornaram-se um dos setores econômicos mais lucrativos da atualidade.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Nas competições esportivas o racismo é uma manifestação restrita a países subdesenvolvidos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O treinamento esportivo de alto rendimento é influenciado por pesquisas científicas de diferentes áreas do conhecimento.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O acesso a práticas esportivas deve ser preocupação de políticas públicas específicas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Nas escolas brasileiras, a disciplina de educação física não foi afetada pela crescente importância do esporte ao longo do século XX.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 9.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato real e amplamente documentado sobre a economia do esporte.</li>
+<li><strong>02. Errada.</strong> O racismo no esporte é um fenômeno global, presente também em países desenvolvidos — não é "restrito" a países subdesenvolvidos.</li>
+<li><strong>04. Correta.</strong> Fato real sobre a cientifização do treinamento esportivo de alto rendimento.</li>
+<li><strong>08. Correta.</strong> Afirmação padrão sobre o papel do Estado no acesso ao esporte.</li>
+<li><strong>16. Errada.</strong> A Educação Física escolar foi, sim, profundamente influenciada pela crescente importância social do esporte ao longo do século XX.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 usa o termo absoluto "restrita" para limitar geograficamente um problema (racismo no esporte) que é, na realidade, global.</p>
 </div>
 </div>
 

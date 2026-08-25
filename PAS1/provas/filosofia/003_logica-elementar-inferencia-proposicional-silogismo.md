@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 18. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 2 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 38 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> É o silogismo categórico clássico (Barbara): premissa maior universal, premissa menor particular, conclusão válida.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 04 e 08 trocam os conceitos de "apodítico" (necessário, certo) e "dialético" (provável, opinião) por suas definições opostas.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 2 (Conhecimentos Gerais)</p>
+<p><strong>3. "Se um grande número de As foi observado sob ampla variedade de condições, e se todos esses As observados possuíam sem exceção a propriedade B, então todos os As têm a propriedade B." (CHALMERS, A. F., 1993 apud MELANI, R. Diálogo: primeiros estudos em filosofia. 2ed. São Paulo: Moderna, 2016, p. 300). Acerca desse padrão de argumentação, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Trata-se de um argumento dedutivo.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Trata-se de um argumento restritivo.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Trata-se de um argumento indutivo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Trata-se de um argumento por simples enumeração.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Trata-se de um argumento ampliativo.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 2.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Não é dedutivo — a conclusão generaliza para além do que as premissas garantem com certeza.</li>
+<li><strong>02. Errada.</strong> Argumentos indutivos são "ampliativos", não "restritivos" — a conclusão amplia o alcance das premissas.</li>
+<li><strong>04. Correta.</strong> É o padrão clássico de generalização indutiva a partir de casos observados.</li>
+<li><strong>08. Correta.</strong> É exatamente o formato da "indução por simples enumeração" (muitos casos observados, mesma propriedade, conclusão geral).</li>
+<li><strong>16. Correta.</strong> Argumentos indutivos são ampliativos: a conclusão vai além do conteúdo estrito das premissas.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 troca "ampliativo" (característica real da indução) por "restritivo" (seu oposto) — cuidado com a inversão desses dois termos técnicos.</p>
 </div>
 </div>
 

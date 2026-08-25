@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2023/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 39. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 20 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 48. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 41 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -81,6 +82,30 @@
 <li><strong>16. Correta.</strong> No ácido cloroso (HClO₂), O=-2 (×2=-4), H=+1; para a soma dar zero, Cl = +3.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 confunde "sal hidratado" (sal sólido com água na estrutura cristalina) com uma simples solução aquosa de sal dissolvido — são conceitos diferentes.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 20 (Conhecimentos Gerais)</p>
+<p><strong>4. Considere os elementos bário (Ba) e chumbo (Pb) e assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Ambos são elementos metálicos do período 6.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O elemento bário possui massa atômica menor e raio atômico maior que o elemento chumbo.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Uma esfera maciça de chumbo de massa 207g contém 1mol desse elemento; uma esfera maciça de bário, por sua vez, deve conter o dobro de átomos para possuir a mesma massa de 207g.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Uma esfera de chumbo e uma esfera de bário, com massas idênticas, são postas em queda livre no mesmo instante. Na ausência de forças dissipativas, a esfera de chumbo atingirá o solo em menor tempo que a esfera de bário.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Após uma colisão elástica unidimensional entre uma esfera de bário e uma esfera de chumbo, com massas e velocidades idênticas, a única alteração nesse sistema será no sentido do movimento de cada uma das esferas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-16 (soma 19).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 20.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Bário (Z=56) e chumbo (Z=82) estão ambos no período 6 da tabela periódica.</li>
+<li><strong>02. Correta.</strong> Bário (massa atômica ≈137) é mais leve que chumbo (≈207); e, apesar de estarem no mesmo período, o bário (grupo 2) tem raio atômico maior que o chumbo (grupo 14) — elementos mais à esquerda do período têm raios maiores.</li>
+<li><strong>04. Errada.</strong> 207g de bário (massa molar ≈137g/mol) correspondem a ≈1,51mol, não a "o dobro" (2mol) dos átomos de 1mol de chumbo.</li>
+<li><strong>08. Errada.</strong> Na ausência de forças dissipativas (sem resistência do ar), todos os corpos caem com a mesma aceleração, independentemente da massa — chegam ao solo juntos.</li>
+<li><strong>16. Correta.</strong> Em colisão elástica 1D entre massas iguais com velocidades de mesma intensidade e sentidos opostos, as esferas trocam de velocidade — o efeito líquido é a inversão do sentido do movimento de cada uma.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 contraria a lei da queda livre (Galileu) — sem resistência do ar, todos os corpos caem com a mesma aceleração, não importa a massa.</p>
 </div>
 </div>
 

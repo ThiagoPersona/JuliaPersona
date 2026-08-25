@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões oficiais do PAS/UEM (2024 e 2025), Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões oficiais do PAS/UEM (2021, 2024 e 2025), Etapa 1, com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questões 4 e 5. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 19. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questões 3 e 5 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -80,6 +81,54 @@
 <li><strong>16. Correta.</strong> Síntese historicamente precisa e completa da Revolução Comercial.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 inverte causa e efeito — a expansão ultramarina centraliza o poder estatal e É a própria expansão europeia, não uma força que a contém.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 3 (Conhecimentos Gerais)</p>
+<p><strong>4. Sobre as ideias que caracterizaram o período assinalado pela crise da sociedade medieval e o nascimento do mundo moderno, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O individualismo valoriza as perspectivas humana e subjetiva acerca das coisas, enfatizando os valores burgueses modernos, levando o ser humano a desenvolver todas as suas potencialidades.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O racionalismo valoriza a explicação lógica e a razão, atributos humanos por excelência, e tende a abandonar a autoridade e a firmar-se progressivamente na própria subjetividade humana.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Presente nos movimentos artístico e intelectual nascidos na Itália a partir do século XV, o humanismo revaloriza a Antiguidade Clássica, situando-se entre o teocentrismo medieval e o antropocentrismo moderno.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O método indutivo e a valorização da experiência, defendidos por autores como Francis Bacon, bem como a progressiva matematização da natureza levaram ao florescimento das ciências da natureza na Modernidade.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A defesa dos valores cristãos dá origem à apologética, cujo objetivo era justificar racionalmente a fé cristã e defendê-la das heresias comuns na aurora da Modernidade.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 3.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão do individualismo moderno/burguês.</li>
+<li><strong>02. Correta.</strong> Descrição padrão do racionalismo moderno em ruptura com a autoridade medieval.</li>
+<li><strong>04. Correta.</strong> Definição padrão do humanismo renascentista italiano.</li>
+<li><strong>08. Correta.</strong> Relação padrão entre método indutivo/Bacon e o florescimento da ciência moderna.</li>
+<li><strong>16. Errada.</strong> A apologética cristã é um fenômeno da Antiguidade tardia/período patrístico (defesa da fé cristã diante de críticas pagãs e heresias antigas), não da "aurora da Modernidade" — deslocamento cronológico incorreto.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 desloca a apologética cristã (fenômeno da Antiguidade tardia) para o início da Modernidade — um erro de cronologia.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 5 (Conhecimentos Gerais)</p>
+<p><strong>5. No século XV, as Grandes Navegações viabilizaram o projeto expansionista europeu que culminou com a conquista de novas terras, a ampliação da área comercial no território europeu e os avanços tecnológicos na arte de navegar. Sobre as características desse fenômeno histórico, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A precoce centralização política de Portugal, a boa localização geográfica dos portos voltados para o Atlântico e o desenvolvimento de técnicas de navegação contribuíram para o pioneirismo português nos oceanos.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) As caravelas eram embarcações inapropriadas à navegação oceânica, devido a sua grande estrutura e ao seu peso, características que as tornavam muito lentas e, por isso, menos requisitadas do que os demais tipos de navios existentes no período.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Os portugueses aperfeiçoaram as técnicas disponíveis para a navegação oceânica de longo curso, difundiram o uso da bússola, desenvolveram o quadrante e aprimoraram o astrolábio.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na segunda metade do século XV, os planos expansionistas portugueses pelos mares levaram à conquista da cidade de Ceuta, localizada no continente asiático. Apesar de inexpressiva do ponto de vista comercial, serviu para Portugal se estabelecer na região e contatar outros povos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Dentre os avanços tecnológicos do período de expansão marítima, o desenvolvimento dos mapas foi uma importante ferramenta de orientação e de identificação de elementos físicos, humanos, econômicos, associados ao espaço geográfico explorado.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-16 (soma 21).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 5.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fatores padrão do pioneirismo português nas navegações.</li>
+<li><strong>02. Errada.</strong> As caravelas eram justamente valorizadas por sua leveza e manobrabilidade — o oposto de "inapropriadas" e "menos requisitadas".</li>
+<li><strong>04. Correta.</strong> Fato histórico padrão sobre os avanços náuticos portugueses.</li>
+<li><strong>08. Errada.</strong> Ceuta fica no norte da ÁFRICA (não na Ásia), e sua conquista ocorreu em 1415 — início, não segunda metade, do século XV.</li>
+<li><strong>16. Correta.</strong> Papel padrão da cartografia como ferramenta das Grandes Navegações.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 erra o continente (Ceuta é africana, não asiática) e a época da conquista (1415, início do século XV, não a "segunda metade").</p>
 </div>
 </div>
 

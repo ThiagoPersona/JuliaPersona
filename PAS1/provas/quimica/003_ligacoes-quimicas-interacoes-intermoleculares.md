@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 1 questão oficial do PAS/UEM 2025, Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões oficiais do PAS/UEM (2021 e 2025), Etapa 1, com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 40. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questões 19 e 22 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -31,6 +32,54 @@
 <li><strong>16. Correta.</strong> Ambos, dissolvidos em água, geram íons livres que conduzem corrente elétrica.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 generaliza a condutividade do cobre (metal, sempre conduz) para o cloreto de sódio (só conduz fundido ou dissolvido, nunca sólido) — sempre trate cada substância individualmente.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 19 (Conhecimentos Gerais)</p>
+<p><strong>2. Considerando as grandezas vetoriais, o conceito de polaridade e as moléculas CH₂Cl₂, CCl₂Br₂ e PCl₃, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Para determinar a polaridade de uma molécula, cada ligação covalente representa um vetor; sua direção é determinada pela geometria da molécula, e o seu sentido é determinado pela escala de eletronegatividade dos átomos envolvidos na ligação.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A molécula CH₂Cl₂ é apolar, pois os vetores de cada ligação apresentam mesma direção e sentidos opostos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Em uma ligação covalente, o módulo do vetor pode ser representado pela força de atração que um elemento exerce sobre os elétrons dessa ligação. Assim, na molécula de CCl₂Br₂ as ligações carbono-cloro e carbono-bromo possuem módulos diferentes.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na molécula PCl₃ as ligações são representadas por 3 vetores de mesmo sentido.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Moléculas diatômicas possuem geometria linear, e a ligação covalente entre os dois átomos pode ser polar ou apolar.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-16 (soma 21).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 19.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão do vetor momento de dipolo de cada ligação.</li>
+<li><strong>02. Errada.</strong> O CH₂Cl₂ (diclorometano) tem geometria tetraédrica com substituintes diferentes (2 Cl, 2 H) — é uma molécula POLAR, os vetores não se cancelam.</li>
+<li><strong>04. Correta.</strong> Cloro e bromo têm eletronegatividades diferentes, logo os módulos dos vetores C-Cl e C-Br são diferentes.</li>
+<li><strong>08. Errada.</strong> O PCl₃ tem geometria piramidal (par isolado no P) — os três vetores de ligação NÃO apontam no mesmo sentido, estão distribuídos assimetricamente.</li>
+<li><strong>16. Correta.</strong> Toda molécula diatômica é, por definição, linear; a ligação pode ser polar (átomos diferentes, como HCl) ou apolar (átomos iguais, como H₂).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 descreve o CH₂Cl₂ como apolar, ignorando que sua geometria tetraédrica com substituintes diferentes impede o cancelamento dos vetores de ligação.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 22 (Conhecimentos Gerais)</p>
+<p><strong>3. O hidreto de berílio (BeH₂) é um composto químico muito utilizado como combustível de foguetes. Considerando a sua estrutura química, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A geometria da molécula de BeH₂ é representada por um ângulo definido por duas semirretas opostas com mesma origem.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A molécula de BeH₂ é apolar e possui ligação polar.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O ângulo das ligações na molécula de BeH₂ corresponde a dois ângulos complementares.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na molécula de BeH₂, o átomo de Be está com o octeto completo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A molécula de BeH₂ é formada por ligação iônica.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02 (soma 03).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 22.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Essa é a descrição de um ângulo de 180° (duas semirretas opostas) — a geometria linear do BeH₂.</li>
+<li><strong>02. Correta.</strong> As ligações Be-H são individualmente polares (diferença de eletronegatividade), mas a geometria linear e simétrica cancela os dipolos, tornando a molécula apolar — "polar bonds, apolar molecule".</li>
+<li><strong>04. Errada.</strong> Um ângulo de 180° (linear) não se decompõe em "dois ângulos complementares" (que somam 90°) — combinação sem sentido.</li>
+<li><strong>08. Errada.</strong> O berílio é uma exceção à regra do octeto — no BeH₂ ele fica com apenas 4 elétrons ao redor (deficiente em elétrons), não com octeto completo.</li>
+<li><strong>16. Errada.</strong> A ligação Be-H é covalente, não iônica.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 atribui octeto completo ao berílio, mas ele é justamente um dos exemplos clássicos de exceção à regra do octeto (fica deficiente em elétrons).</p>
 </div>
 </div>
 

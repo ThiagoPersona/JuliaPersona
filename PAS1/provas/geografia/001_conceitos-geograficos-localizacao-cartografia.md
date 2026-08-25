@@ -2,10 +2,11 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2021 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
+- PAS/UEM, Etapa 1, 2021, Questão 6 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 32 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -81,6 +82,30 @@
 <li><strong>16. Correta.</strong> Descrição correta dos solstícios de dezembro (inverno no hemisfério norte, verão no hemisfério sul).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 troca rotação por translação como causa dos fusos horários, troca latitude por longitude como base do cálculo, e inverte o sentido do fuso horário brasileiro (atrasado, não adiantado, em relação a Greenwich).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 6 (Conhecimentos Gerais)</p>
+<p><strong>4. Sobre a história do pensamento ocidental, sobretudo relacionada à construção do pensamento geográfico, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O pensamento geográfico passou a ser construído na Grécia Antiga a partir de estudiosos como Anaximandro, Heródoto, Estrabão e Hipócrates.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O conhecimento geográfico só passou a ser associado à elaboração e ao uso de mapas no período histórico conhecido como Iluminismo.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Eratóstenes estimou matematicamente a circunferência da Terra com uma margem de erro pequena para os padrões de sua época, o que lhe permitiu propor a ideia das coordenadas geográficas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A sistematização dos fundamentos teórico-metodológicos da geografia ocorreu a partir do final do século XVIII, com contribuições importantes advindas de países como a França e a Alemanha.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A criação do Instituto Brasileiro de Geografia e Estatística (IBGE), posteriormente convertido em Instituto Histórico e Geográfico Brasileiro (IHGB), ocorreu nos meados do século XVIII.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 6.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Nomes padrão associados às origens do pensamento geográfico na Grécia Antiga.</li>
+<li><strong>02. Errada.</strong> Mapas já existiam e eram associados ao conhecimento geográfico desde a Antiguidade (Ptolomeu) — não é uma associação exclusiva do Iluminismo.</li>
+<li><strong>04. Correta.</strong> Fato histórico real sobre Eratóstenes e a medição da circunferência terrestre.</li>
+<li><strong>08. Correta.</strong> A geografia como disciplina científica sistematizada surge de fato no final do século XVIII/início do XIX, com Humboldt e Ritter na Alemanha.</li>
+<li><strong>16. Errada.</strong> IBGE (criado em 1936) e IHGB (criado em 1838) são instituições DIFERENTES, e nenhuma delas surgiu em meados do século XVIII — nem uma "virou" a outra.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 trata o IBGE e o IHGB como se fossem a mesma instituição em momentos diferentes, quando são duas instituições distintas, criadas em séculos diferentes.</p>
 </div>
 </div>
 

@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 7 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2024/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 8 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2023/2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 23. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 8 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 41 e 49 (Conhecimentos Específicos - Sociologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -203,6 +204,30 @@
 <li><strong>16. Correta.</strong> O tipo ideal é ferramenta metodológica central em Weber.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 inverte a tese central da Ética Protestante — os valores religiosos, para Weber, motivam (não desmotivam) o comportamento econômico.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 8 (Conhecimentos Gerais)</p>
+<p><strong>9. Um dos principais estudos sociológicos de Émile Durkheim trata do suicídio. Sobre essa abordagem, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Para Durkheim, o suicídio é um fato social.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O suicídio é um impulso individual desprovido de motivações sociais.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Egoísta, altruísta e anômico são tipos de suicídio incluídos na classificação proposta por Durkheim.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O estudo do suicídio revelou, para Durkheim, a importância da integração moral para o equilíbrio da sociedade.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) No estudo do suicídio, Durkheim percebeu que as pessoas cometem mais suicídios em tempos de guerra.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 8.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Tese central de "O Suicídio": mesmo um ato aparentemente individual é explicável por fatores sociais.</li>
+<li><strong>02. Errada.</strong> Contradiz diretamente a tese de Durkheim — o suicídio tem, sim, motivações sociais estruturais.</li>
+<li><strong>04. Correta.</strong> Classificação padrão (egoísta, altruísta, anômico — e também fatalista) proposta por Durkheim.</li>
+<li><strong>08. Correta.</strong> Conclusão central do estudo: a integração moral/social protege contra o suicídio.</li>
+<li><strong>16. Errada.</strong> Durkheim observou o OPOSTO — as taxas de suicídio tendem a CAIR em tempos de guerra, devido ao aumento da integração/coesão social nacional.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 inverte o achado real de Durkheim — os suicídios diminuem (não aumentam) em tempos de guerra, por causa do reforço da coesão social.</p>
 </div>
 </div>
 

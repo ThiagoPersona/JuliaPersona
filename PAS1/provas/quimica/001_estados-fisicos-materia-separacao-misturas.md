@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2021/2024 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questões 21 e 22. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questão 21 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 41 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2020, Questão 38 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -105,6 +106,30 @@
 <li><strong>16. Errada.</strong> O NaCl é um sal neutro (ácido forte + base forte) — não sofre hidrólise significativa que torne a solução alcalina.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 assume que a concentração varia linearmente com o tempo, mas como o volume cresce linearmente e a massa de soluto é constante, a concentração (massa/volume) varia de forma inversamente proporcional — uma curva, não uma reta.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 21 (Conhecimentos Gerais)</p>
+<p><strong>5. O álcool 70% é muito utilizado no processo de higienização das mãos e na limpeza em geral; é comercializado na forma líquida ou em gel. Com base nas informações a seguir, assinale o que for correto. Composição álcool 70% líquido: álcool etílico e água pura. Composição álcool 70% em gel: álcool etílico, água pura e espessante solúvel em água e em etanol.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O álcool 70%, na forma líquida ou em gel, consiste de uma mistura homogênea.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A medida da temperatura de ebulição da água utilizada na fabricação do álcool 70% indica se a água está pura.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O álcool etílico inflama na presença de oxigênio gasoso e de calor devido ao processo de combustão.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Caso seja utilizado um espessante insolúvel em água e em etanol, obtém-se uma mistura heterogênea bifásica.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) No álcool 70% líquido, a água pode ser separada por meio da técnica de destilação simples.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 21.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Ambas as formas (líquida e gel, com espessante solúvel) são misturas homogêneas.</li>
+<li><strong>02. Correta.</strong> O ponto de ebulição é uma propriedade coligativa que indica pureza (água pura ferve a exatamente 100°C a 1atm).</li>
+<li><strong>04. Correta.</strong> Fato padrão sobre a inflamabilidade do etanol.</li>
+<li><strong>08. Correta.</strong> Um espessante insolúvel formaria uma fase separada, tornando a mistura heterogênea.</li>
+<li><strong>16. Errada.</strong> Separar água e etanol exige DESTILAÇÃO FRACIONADA (não simples), devido à proximidade dos pontos de ebulição e à formação de azeótropo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 usa "destilação simples" para separar água e etanol, quando a proximidade dos pontos de ebulição exige destilação fracionada.</p>
 </div>
 </div>
 

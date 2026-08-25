@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2024/2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2024/2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 34. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2021, Questões 10, 12 e 13 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 42. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -81,6 +82,78 @@
 <li><strong>16. Errada.</strong> A energia se dissipa como calor a cada nível trófico — os decompositores reciclam matéria/nutrientes, não energia "integralmente".</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 diz que a energia "retorna integralmente" ao ecossistema — na verdade, ela se perde progressivamente como calor ao longo da cadeia alimentar.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 10 (Conhecimentos Gerais)</p>
+<p><strong>4. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A célula, unidade básica dos seres vivos, possui pelo menos membrana plasmática, citoplasma, ribossomos e núcleo.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O aparecimento da fotossíntese foi um passo crucial para a posterior conquista do ambiente terrestre pelos seres vivos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Seres vivos multicelulares autotróficos não possuem mitocôndrias, visto que produzem sua matéria orgânica energizada.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A espermatogênese humana ocorre exclusivamente por meio de divisões meióticas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O tecido nervoso humano tem como principais funções a percepção de sensações, a proteção corporal, a absorção e a secreção de substâncias.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02 (soma 02).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 10.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Nem toda célula tem núcleo — células procarióticas (bactérias) não possuem núcleo organizado.</li>
+<li><strong>02. Correta.</strong> A fotossíntese liberou oxigênio na atmosfera, formando a camada de ozônio que possibilitou a vida fora da água.</li>
+<li><strong>04. Errada.</strong> Seres autotróficos (como plantas) também respiram e possuem mitocôndrias — fotossintetizar não elimina a necessidade de respiração celular.</li>
+<li><strong>08. Errada.</strong> A espermatogênese também envolve divisões MITÓTICAS (proliferação das espermatogônias) antes das divisões meióticas — não é exclusivamente meiótica.</li>
+<li><strong>16. Errada.</strong> Proteção corporal, absorção e secreção são funções de outros tecidos (epitelial/conjuntivo), não do tecido nervoso, cuja função central é a condução de impulsos e a percepção.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 atribui ao tecido nervoso funções que pertencem a outros tecidos — cuidado para não misturar as funções específicas de cada tecido básico.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 12 (Conhecimentos Gerais)</p>
+<p><strong>5. Sobre a teoria científica da formação da Terra, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Desde a sua formação, a Terra abriga inúmeras espécies de seres vivos de tamanho macroscópico.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Pela hipótese heterotrófica, os primeiros seres vivos teriam produzido suas próprias substâncias alimentares durante a Era Cenozoica.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O surgimento dos seres aeróbios ocorreu em uma atmosfera com maior concentração de oxigênio, durante o período Pré-Cambriano.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Fatores como um período de chuvas constantes, que levaram à alteração da temperatura e a uma nova composição da atmosfera, provavelmente criaram maiores condições de existência de vida na Terra.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A técnica de datação permitiu o reconhecimento de evidências sobre a história da Terra. Um exemplo é a análise de registros fósseis.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 12.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A vida levou muito tempo para surgir após a formação da Terra, e os primeiros seres foram microscópicos (procariontes), não macroscópicos diversos.</li>
+<li><strong>02. Errada.</strong> A hipótese heterotrófica propõe justamente o OPOSTO: os primeiros seres vivos consumiam moléculas orgânicas já existentes no ambiente, não produziam seu próprio alimento; além disso, isso teria ocorrido no Arqueano/Pré-Cambriano, não na Era Cenozoica (muito mais recente).</li>
+<li><strong>04. Correta.</strong> O acúmulo de oxigênio (da fotossíntese) no Pré-Cambriano possibilitou o surgimento de seres aeróbios.</li>
+<li><strong>08. Correta.</strong> Descrição plausível e padrão das condições ambientais favoráveis ao surgimento da vida.</li>
+<li><strong>16. Correta.</strong> Fato padrão sobre o uso de técnicas de datação e registros fósseis.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 inverte o sentido da hipótese heterotrófica — ela propõe que os primeiros seres CONSUMIAM (não produziam) substâncias orgânicas já existentes no ambiente.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04">
+<p class="quiz-source">PAS/UEM 2021, Etapa 1, Questão 13 (Conhecimentos Gerais)</p>
+<p><strong>6. Há evidências de que o planeta Terra foi formado há 4,5 bilhões de anos. Há, também, indícios de vida encontrados em rochas na Groenlândia, datados de 3,8 bilhões de anos. Segundo essas informações, assinale o que for correto em relação à origem da vida na Terra.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Se considerarmos a hipótese de que rochas mais antigas da Terra datam de 3,9 bilhões de anos e de que nelas não foram encontrados registros de vida, então as rochas encontradas na Groenlândia foram formadas 1 bilhão de anos após as rochas mais antigas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Considerando as hipóteses do enunciado de comando da questão, podemos afirmar que a diferença entre o período de formação da Terra e o das rochas encontradas na Groenlândia é de 7 × 10⁸ anos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Os estromatólitos têm sido apresentados pelos cientistas como uma evidência de atividade biológica primitiva.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Supondo que a hipótese do enunciado de comando esteja correta para o ano 2000 da nossa era, então em 2021 podemos afirmar que a formação do planeta Terra teria ocorrido há 2,1 × 10⁶ anos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O experimento de Miller-Urey em 1953, usando um aparelho que simulava as condições da Terra em seus primórdios, constatou a impossibilidade de formação de moléculas orgânicas a partir de substâncias inorgânicas sem a presença de seres vivos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04 (soma 06).</strong> Fonte: PAS/UEM 2021, Etapa 1, Questão 13.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> 3,9 − 3,8 = 0,1 bilhão de anos (100 milhões), não 1 bilhão — erro de ordem de grandeza.</li>
+<li><strong>02. Correta.</strong> 4,5 − 3,8 = 0,7 bilhão de anos = 7×10⁸ anos.</li>
+<li><strong>04. Correta.</strong> Fato real e bem estabelecido da paleontologia: estromatólitos são evidência de vida microbiana primitiva.</li>
+<li><strong>08. Errada.</strong> Cálculo sem sentido — a diferença de 21 anos (2000 a 2021) não se relaciona com a escala de bilhões de anos do enunciado.</li>
+<li><strong>16. Errada.</strong> O experimento de Miller-Urey demonstrou o OPOSTO: que moléculas orgânicas (aminoácidos) PODEM se formar a partir de substâncias inorgânicas sem a presença de seres vivos, sob condições que simulam a Terra primitiva.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 inverte a conclusão real do experimento de Miller-Urey — ele provou a possibilidade (não a impossibilidade) da formação abiótica de moléculas orgânicas.</p>
 </div>
 </div>
 
