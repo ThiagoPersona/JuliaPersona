@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (Vestibular de Verão UEM 2022 e 2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (Vestibular de Verão UEM 2020, 2021 e 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2022, Questão 37/47 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 32/42 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 23/38 (Conhecimentos Específicos - História, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> Dom Quixote (1605) é uma SÁTIRA aos ideais de cavalaria, não uma reafirmação deles; e foi escrito na Idade Moderna, não no "final da Idade Média".</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 trata Dom Quixote como uma celebração séria dos ideais cavalheirescos, quando a obra é, na verdade, uma paródia/crítica a esses ideais.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 23/38 (Conhecimentos Específicos - História, Prova 2)</p>
+<p><strong>3. No feudalismo, a propriedade ou domínio rural recebia o nome de senhorio. Sobre o domínio senhorial, do século XI ao século XIII, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Cada senhorio tendia a ser autossuficiente, produzindo o necessário para sua subsistência, mas, com o fim das invasões estrangeiras e com melhores técnicas de produção, passou também a negociar os excedentes agrícolas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A bula papal "Romanus Pontifex" definiu como os servos deveriam trabalhar nas propriedades, inclusive quais produtos eles poderiam cultivar.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A reserva senhorial era constituída por áreas de cultivo, castelo, celeiros, estábulos, moinhos e oficinas artesanais, e toda a produção pertencia ao seu senhor.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) No senhorio, os servos estavam obrigados ao pagamento de taxas e a obrigações feudais, tais como a corveia, a talha e as banalidades.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O manso servil era formado pelo conjunto de terras exploradas pelos servos, terras estas que lhes garantiam a sobrevivência.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08-16 (soma 29).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 23/38.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão da autossuficiência inicial do senhorio e sua posterior abertura ao comércio de excedentes.</li>
+<li><strong>02. Errada.</strong> A bula "Romanus Pontifex" (1455) trata de direitos portugueses de exploração e conquista na África — não tem relação com a organização do trabalho servil no senhorio; atribuição sem sentido histórico.</li>
+<li><strong>04. Correta.</strong> Descrição padrão da reserva senhorial (terras exploradas diretamente para o senhor).</li>
+<li><strong>08. Correta.</strong> Terminologia padrão das obrigações feudais dos servos.</li>
+<li><strong>16. Correta.</strong> Definição padrão do manso servil.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 atribui à bula "Romanus Pontifex" (sobre expansão marítima portuguesa) um conteúdo totalmente alheio — a organização do trabalho servil no senhorio europeu.</p>
 </div>
 </div>
 

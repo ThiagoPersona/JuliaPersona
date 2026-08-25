@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 11 questões reais (PAS 2021/2022/2023/2024/2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 12 questões reais (PAS 2021/2022/2023/2024/2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -13,7 +13,7 @@
 - PAS/UEM, Etapa 1, 2021, Questão 7 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 7 e 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 34 e 35 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
-- Vestibular de Verão UEM 2020, Questão 13 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questões 13 (Conhecimentos Gerais, Prova 1) e 21 (Conhecimentos Específicos - Geografia, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -278,6 +278,30 @@
 <li><strong>16. Correta.</strong> Fato padrão de geomorfologia: sedimentação predomina em áreas de planície.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 inverte a química típica dos solos áridos — eles tendem a acumular sais (alcalinos), não a apresentar deficiência de sais minerais.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 21 (Conhecimentos Específicos - Geografia, Prova 2)</p>
+<p><strong>12. Com relação aos diversos tipos de coberturas vegetais originais encontrados no estado do Paraná, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Nas regiões norte e noroeste são encontrados locais com resquícios da Floresta Tropical.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Fragmentos da Mata de Araucária são encontrados em diversos locais do estado em altitudes superiores a 500m.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Devido às erosões nos solos arenosos da região oeste, ocorreu a devastação total dos Campos Limpos.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os Campos Cerrados são compostos por arbustos com troncos e galhos tortuosos e, também, por gramíneas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Dentre os vegetais da Floresta ou Mata Tropical, os pinheiros são as principais espécies.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08 (soma 11).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 21.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato padrão sobre resquícios de Floresta Tropical no norte/noroeste paranaense.</li>
+<li><strong>02. Correta.</strong> Fato padrão sobre a distribuição da Mata de Araucária em altitudes elevadas do estado.</li>
+<li><strong>04. Errada.</strong> Termo absoluto ("devastação total") não corresponde à realidade — houve degradação significativa, mas não total.</li>
+<li><strong>08. Correta.</strong> Descrição padrão da vegetação dos Campos Cerrados.</li>
+<li><strong>16. Errada.</strong> Os pinheiros (araucária) são típicos da Mata de Araucária, não da Floresta/Mata Tropical.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 associa os pinheiros (araucária) à Mata Tropical, quando na verdade eles caracterizam a Mata de Araucária, um bioma distinto.</p>
 </div>
 </div>
 

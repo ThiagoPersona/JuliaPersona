@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 11 questões reais (PAS 2021/2022/2023/2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 12 questões reais (PAS 2021/2022/2023/2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -12,7 +12,7 @@
 - PAS/UEM, Etapa 1, 2021, Questão 4 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 33/43 e 34/44 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 33/43, 34/44 e 40/50 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
-- Vestibular de Verão UEM 2020, Questão 10 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questões 10 (Conhecimentos Gerais, Prova 1) e 35/50 (Conhecimentos Específicos - História, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -277,6 +277,30 @@
 <li><strong>16. Correta.</strong> Fato arqueológico padrão sobre os sambaquis do litoral.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 atribui a Araucária e Colombo (municípios do planalto curitibano) o papel de primeiros núcleos urbanos do litoral — uma localização geográfica incorreta.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 35/50 (Conhecimentos Específicos - História, Prova 2)</p>
+<p><strong>12. Sobre a economia ervateira do Paraná, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A erva-mate provocou intensas transformações na economia, na política e na sociedade, e representa um dos principais fatores do processo de emancipação política do Paraná.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O período áureo do ciclo do mate no Paraná ocorreu após a Guerra do Paraguai, quando as exportações paraguaias de mate entraram em crise, e em consequência disso o Paraná se transformou no maior exportador de mate para a Argentina.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O ciclo da erva-mate está na origem da fortuna das principais famílias do Paraná; o Visconde de Nacar e o Barão do Cerro Azul adquiriram seus brasões graças a essa erva.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O trabalho escravo ocorreu paralelamente ao trabalho livre, uma vez que os processos de extração, de transporte e de beneficiamento do mate eram realizados por homens livres e por escravos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Na região dos Campos Gerais a economia do mate manteve grande predomínio sobre outras atividades econômicas, desde o século XVIII.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 35/50.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> A economia da erva-mate é apontada como um dos fatores centrais da emancipação política do Paraná (separação de São Paulo, 1853).</li>
+<li><strong>02. Correta.</strong> Fato histórico real sobre o auge do mate paranaense após a Guerra do Paraguai, exportado à Argentina.</li>
+<li><strong>04. Correta.</strong> Fato histórico real sobre famílias que enriqueceram com o ciclo do mate e receberam títulos nobiliárquicos.</li>
+<li><strong>08. Correta.</strong> Fato histórico real: trabalho livre e escravo coexistiram na cadeia produtiva do mate.</li>
+<li><strong>16. Errada.</strong> Nos Campos Gerais, a economia historicamente predominante desde o século XVIII foi a PECUÁRIA/tropeirismo, não o mate (mais concentrado no eixo Curitiba-litoral).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 atribui aos Campos Gerais o predomínio do mate, quando essa região é historicamente associada à pecuária e ao tropeirismo, não à economia ervateira.</p>
 </div>
 </div>
 

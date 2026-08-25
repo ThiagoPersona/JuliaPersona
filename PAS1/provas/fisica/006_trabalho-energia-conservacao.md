@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões oficiais do PAS/UEM (2024 e 2025), com gabarito definitivo confirmado. Toda a física foi refeita manualmente antes de publicar.
+**Itens neste banco:** 3 questões oficiais (PAS/UEM 2024/2025 e Vestibular de Verão UEM 2020), com gabarito definitivo confirmado. Toda a física foi refeita manualmente antes de publicar.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 36. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 20. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 30 (Conhecimentos Específicos - Física, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> Como v∝√t, a aceleração (dv/dt) diminui ao longo do tempo — não é constante.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 08 e 16 assumem que "potência constante" se comporta como "aceleração constante" (MUV) — são conceitos físicos diferentes; sob potência constante, a velocidade cresce com a raiz quadrada do tempo.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 30 (Conhecimentos Específicos - Física, Prova 2)</p>
+<p><strong>3. Considere uma única força agindo sobre uma determinada partícula. Em relação aos conceitos de trabalho e de energia, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Trabalho e energia são grandezas vetoriais.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) No Sistema Internacional de Unidades (SI), a unidade de medida de trabalho e de energia pode ser expressa por kg·m²/s².</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O trabalho realizado pela força é igual à variação da energia cinética da partícula.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Se a força for conservativa, o trabalho realizado por ela é igual à variação da energia potencial da partícula.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Se a força for não conservativa, o trabalho realizado por ela é igual à variação da energia mecânica da partícula.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-16 (soma 22).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 30.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Trabalho e energia são grandezas ESCALARES, não vetoriais.</li>
+<li><strong>02. Correta.</strong> O Joule (unidade de trabalho/energia) equivale exatamente a kg·m²/s².</li>
+<li><strong>04. Correta.</strong> Teorema trabalho-energia cinética: como só há uma força (a força resultante), o trabalho dela é igual à variação de energia cinética.</li>
+<li><strong>08. Errada.</strong> Para força conservativa, o trabalho é igual ao NEGATIVO da variação da energia potencial (W=−ΔEp), não igual à variação.</li>
+<li><strong>16. Correta.</strong> O trabalho de uma força não conservativa é igual à variação da energia mecânica total do sistema.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 esquece o sinal negativo na relação entre trabalho de força conservativa e energia potencial — W=−ΔEp, não W=ΔEp.</p>
 </div>
 </div>
 

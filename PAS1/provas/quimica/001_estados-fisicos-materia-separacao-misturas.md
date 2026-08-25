@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 6 questões reais (PAS 2021/2022/2024 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2021/2022/2024 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -10,7 +10,7 @@
 - PAS/UEM, Etapa 1, 2022, Questão 22 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 21 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 41 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
-- Vestibular de Verão UEM 2020, Questão 38 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questões 38 (Conhecimentos Gerais, Prova 1) e 37 (Conhecimentos Específicos - Química, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -155,6 +155,30 @@
 <li><strong>16. Errada.</strong> 100g da liga A têm 60g de Cu; somando 10g de Cu, ficam 70g de Cu em 110g totais = 63,6% de Cu, não 70%.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 lista corretamente quatro metais (Cu, Zn, Sn, Fe) mas inclui o carbono, que é um não metal — basta um elemento errado para invalidar a afirmação inteira.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 37 (Conhecimentos Específicos - Química, Prova 2)</p>
+<p><strong>7. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A obtenção do sal a partir da água do mar pode ser realizada pela decomposição das moléculas de água, uma transformação química.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A formação de ferrugem ocorre devido à oxidação do ferro, um fenômeno químico.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O bromo molecular (Br₂) tem ponto de fusão de −7°C e ponto de ebulição de 59°C. Logo, é um líquido à temperatura de 25°C e a 1atm de pressão.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O mercúrio tem ponto de fusão de −39°C e ponto de ebulição de 357°C; logo, é um gás à temperatura de 400°C e a 1atm de pressão.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A densidade de um pedaço de madeira é 0,81g/cm³, portanto, a uma mesma temperatura, ele afunda na gasolina (d = 0,77g/cm³) e flutua na água (d = 1,00g/cm³).</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08-16 (soma 30).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 37.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A extração de sal da água do mar é feita por EVAPORAÇÃO (separação física), não por decomposição química da água.</li>
+<li><strong>02. Correta.</strong> A ferrugem é resultado da oxidação (reação química) do ferro.</li>
+<li><strong>04. Correta.</strong> A 25°C, entre o ponto de fusão (−7°C) e o de ebulição (59°C), o bromo está no estado líquido.</li>
+<li><strong>08. Correta.</strong> A 400°C, acima do ponto de ebulição (357°C), o mercúrio está no estado gasoso.</li>
+<li><strong>16. Correta.</strong> Madeira (0,81) é mais densa que gasolina (0,77) — afunda; e menos densa que água (1,00) — flutua.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 chama de "transformação química" um processo que é puramente físico (evaporação da água do mar para obter sal) — sempre confira se há ou não formação de novas substâncias.</p>
 </div>
 </div>
 

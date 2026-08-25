@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS 2022/2025 e Vestibular de Verão UEM 2023/2022/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2022/2025 e Vestibular de Verão UEM 2023/2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -10,7 +10,7 @@
 - PAS/UEM, Etapa 1, 2022, Questão 2 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 31 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
-- Vestibular de Verão UEM 2020, Questão 6 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questões 6 (Conhecimentos Gerais, Prova 1) e 21 (Conhecimentos Específicos - Filosofia, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -131,6 +131,30 @@
 <li><strong>16. Errada.</strong> Platão critica justamente os sofistas por NÃO conseguirem produzir verdadeira compreensão da virtude — ensinavam persuasão, não conhecimento genuíno.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 atribui a Platão uma avaliação positiva do ensino sofístico sobre a virtude — o oposto de sua crítica real aos sofistas.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 21 (Conhecimentos Específicos - Filosofia, Prova 2)</p>
+<p><strong>6. A filosofia grega surgiu motivada pelo espanto e pela admiração de alguns homens diante da realidade que até então era explicada pelo mito. Sobre a filosofia grega, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A cosmologia surgiu como uma primeira tentativa de encontrar uma explicação racional ou natural do mundo como natureza organizada e ordenada por leis necessárias e universais.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Parmênides é considerado o primeiro filósofo a formular a identidade e a não contradição como princípios lógicos para o conhecimento da essência da realidade pelo uso da razão.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O paradoxo de Zenão é um argumento adotado para explicar que o verdadeiro conhecimento tem origem nos sentidos e que somente os seres contingentes e múltiplos constituem toda a realidade cognoscível.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Para Protágoras o homem é a medida de todas as coisas, e a verdade é sempre relativa e dependente do mundo que o homem constrói.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A dialética é o método proposto por Platão para o conhecimento racional das ideias no domínio do ser absoluto, eterno e imutável.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08-16 (soma 27).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 21.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição padrão da cosmologia pré-socrática como primeira busca de explicação racional da natureza.</li>
+<li><strong>02. Correta.</strong> Atribuição padrão a Parmênides como formulador dos princípios lógicos de identidade e não contradição.</li>
+<li><strong>04. Errada.</strong> Os paradoxos de Zenão defendem justamente o OPOSTO: negam a realidade do movimento e da pluralidade sensível, reforçando a posição racionalista/monista de Parmênides (não uma origem sensorial do conhecimento).</li>
+<li><strong>08. Correta.</strong> Atribuição padrão do relativismo sofista a Protágoras.</li>
+<li><strong>16. Correta.</strong> Descrição padrão da dialética platônica como método de conhecimento racional do mundo das ideias.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 inverte o sentido real dos paradoxos de Zenão — eles defendem a posição racionalista de Parmênides (contra o movimento/pluralidade sensível), não uma teoria empirista do conhecimento pelos sentidos.</p>
 </div>
 </div>
 

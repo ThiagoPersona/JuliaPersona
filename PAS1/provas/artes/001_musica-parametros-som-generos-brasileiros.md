@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2025 e Vestibular de Verão UEM 2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2020/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 13. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 38 (Conhecimentos Específicos - Arte). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 29 (Conhecimentos Específicos - Arte, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Descrição padrão das funções do regente coral.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 aplica às vozes infantis a mesma classificação das vozes adultas — mas antes da muda vocal a divisão por gênero grave/agudo típica dos adultos não se aplica da mesma forma.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 29 (Conhecimentos Específicos - Arte, Prova 2)</p>
+<p><strong>3. No século XX houve grandes mudanças na sociedade brasileira, as quais interferiram e modificaram a maneira de as pessoas realizarem e enxergarem as manifestações artísticas. Sobre a música brasileira desse período, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Na primeira metade do século XX surge a expressão "paisagem sonora", de Herivelto Martins, que inspirou compositores a retratarem as belezas do campo em suas canções.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) No começo do século XX, no início do processo de industrialização do Brasil, nasce a canção de protesto, com objetivo de mostrar a indignação da população ante a pobreza e a violência urbana.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A modernização das grandes cidades brasileiras modificou a sonoridade à nossa volta, com máquinas, veículos e aparelhos diversos produzindo diferentes sons. Esse fato influenciou músicos como Hermeto Pascoal e Tom Zé.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os festivais de música foram uma importante manifestação musical do século XX, geralmente organizados por emissoras de rádio e de televisão, que divulgaram artistas de diversos estilos musicais brasileiros, popularizando a sigla MPB.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Noel Rosa foi um cantor e compositor brasileiro; em muitas de suas músicas utilizava narrativas que descreviam de maneira bem humorada as dificuldades da população carioca.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 29.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> O termo "paisagem sonora" (soundscape) foi cunhado pelo compositor canadense R. Murray Schafer, não por Herivelto Martins, e é um conceito da segunda metade do século XX, não da primeira.</li>
+<li><strong>02. Errada.</strong> A canção de protesto brasileira é mais associada a meados do século XX (décadas de 1960-70), não ao "começo do século XX".</li>
+<li><strong>04. Correta.</strong> Hermeto Pascoal e Tom Zé são conhecidos por incorporar sons do cotidiano/urbanos em suas composições experimentais.</li>
+<li><strong>08. Correta.</strong> Fato histórico real sobre os festivais de música na TV/rádio brasileiras e sua relação com a popularização da MPB.</li>
+<li><strong>16. Correta.</strong> Descrição padrão do estilo lírico e bem-humorado de Noel Rosa sobre a vida carioca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 atribui a um compositor brasileiro (Herivelto Martins) um conceito e uma época que pertencem a R. Murray Schafer, na segunda metade do século XX — confira sempre a autoria e a cronologia de conceitos artísticos.</p>
 </div>
 </div>
 

@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões oficiais do PAS/UEM (2024 e 2025), Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões oficiais (PAS/UEM 2024/2025 e Vestibular de Verão UEM 2020), Etapa 1, com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 8. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 43 (Conhecimentos Específicos - Sociologia, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> Classe social gera vivências muito diferentes da juventude, mesmo dentro do mesmo país.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 inverte o efeito de melhores condições de vida sobre o período pré-adulto — elas ampliam, não encurtam, esse período.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 43 (Conhecimentos Específicos - Sociologia, Prova 2)</p>
+<p><strong>3. Robert Merton, funcionalista norte-americano, defende que as instituições sociais desempenham funções manifestas e latentes. Sobre esses dois tipos de função, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) "Manifestas" são aquelas funções declaradas pelas próprias instituições ou por seus representantes.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) "Latentes" são as funções não pretendidas ou não declaradas pelas instituições.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As funções "manifestas" são facilmente observáveis por qualquer indivíduo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) As funções "manifestas" são falsas representações das verdadeiras funções das instituições sociais.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Funções "latentes" são acidentais e não ocorrem com regularidade.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04 (soma 07).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 43.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição padrão de função manifesta em Merton: a intenção declarada/reconhecida.</li>
+<li><strong>02. Correta.</strong> Definição padrão de função latente: efeito não pretendido nem declarado.</li>
+<li><strong>04. Correta.</strong> Por serem declaradas e reconhecidas, as funções manifestas tendem a ser facilmente observáveis.</li>
+<li><strong>08. Errada.</strong> Funções manifestas não são "falsas representações" — são justamente os efeitos reconhecidos e pretendidos pela instituição.</li>
+<li><strong>16. Errada.</strong> Funções latentes costumam ser estruturais e regulares, apenas não reconhecidas/pretendidas — não são "acidentais" nem irregulares.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 trata as funções latentes como eventos acidentais e raros, quando na teoria de Merton elas são frequentemente regulares e estruturais, apenas não declaradas.</p>
 </div>
 </div>
 

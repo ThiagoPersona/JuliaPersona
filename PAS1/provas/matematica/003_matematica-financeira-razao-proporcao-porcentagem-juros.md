@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 6 questões reais (PAS/UEM 2022, 2023, 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar.
+**Itens neste banco:** 7 questões reais (PAS/UEM 2022, 2023, 2024, 2025 e Vestibular de Verão UEM 2020/2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar.
 
 ## Fontes reais usadas neste banco
 
@@ -11,6 +11,7 @@
 - PAS/UEM, Etapa 1, 2023, Questão 25 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questão 25 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM, 2025, Questão 40. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 33/48 (Conhecimentos Específicos - Matemática, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -155,6 +156,30 @@
 <li><strong>16. Correta.</strong> Para não ter prejuízo, receita ≥ custo (160); 128 trufas × preço ≥ 160 → preço ≥ 160/128 = 1,25.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 usa o valor absoluto de Ana (R$60) como se fosse diretamente a porcentagem, ignorando que é preciso dividir pelo total investido (R$160) para achar a proporção real.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 33/48 (Conhecimentos Específicos - Matemática, Prova 2)</p>
+<p><strong>7. O faturamento de um armazém em janeiro de 2020 foi 20% menor em relação ao seu faturamento em dezembro de 2019. Entretanto, o faturamento desse armazém, em fevereiro de 2020, foi 20% maior em relação ao faturamento de janeiro desse mesmo ano. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O armazém teve o mesmo faturamento em dezembro de 2019 e em fevereiro de 2020.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O faturamento do armazém em dezembro de 2019 foi 20% maior em relação ao faturamento de janeiro de 2020.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Se o faturamento do armazém foi de R$20.000,00 em janeiro de 2020, o faturamento em fevereiro de 2020 foi de R$24.000,00.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Se o faturamento do armazém nos dois primeiros meses de 2020 foi de R$33.000,00, então seu faturamento em fevereiro de 2020 foi de R$18.000,00.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Se o faturamento total nos três meses considerados foi de R$69.000,00, então no mês em que o faturamento foi menor ele foi de R$20.000,00.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 33/48.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Chamando dezembro de D: janeiro=0,8D; fevereiro=0,8D×1,2=0,96D — fevereiro é 4% menor que dezembro, não igual.</li>
+<li><strong>02. Errada.</strong> Como janeiro=0,8D, então D=janeiro÷0,8=janeiro×1,25 — dezembro é 25% maior que janeiro, não 20%.</li>
+<li><strong>04. Correta.</strong> fevereiro=20.000×1,2=24.000.</li>
+<li><strong>08. Correta.</strong> janeiro+fevereiro=janeiro×2,2=33.000 → janeiro=15.000; fevereiro=15.000×1,2=18.000.</li>
+<li><strong>16. Correta.</strong> dezembro+janeiro+fevereiro=D(1+0,8+0,96)=2,76D=69.000 → D=25.000; janeiro=20.000; fevereiro=24.000 — o menor valor é janeiro=20.000.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 tentam simplificar "cai 20% depois sobe 20%" como se voltasse ao valor original — mas como as porcentagens incidem sobre bases diferentes a cada etapa, o resultado final não retorna ao valor inicial.</p>
 </div>
 </div>
 

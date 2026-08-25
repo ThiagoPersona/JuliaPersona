@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2023/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2023/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -10,6 +10,7 @@
 - PAS/UEM, Etapa 1, 2021, Questão 20 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 48. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 41 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 44 (Conhecimentos Específicos - Química, Prova 2). Gabarito definitivo (retificado) publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -106,6 +107,30 @@
 <li><strong>16. Correta.</strong> Em colisão elástica 1D entre massas iguais com velocidades de mesma intensidade e sentidos opostos, as esferas trocam de velocidade — o efeito líquido é a inversão do sentido do movimento de cada uma.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 contraria a lei da queda livre (Galileu) — sem resistência do ar, todos os corpos caem com a mesma aceleração, não importa a massa.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 44 (Conhecimentos Específicos - Química, Prova 2) — gabarito retificado</p>
+<p><strong>5. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Os elétrons foram descobertos através de experimentos feitos com tubos de raios catódicos.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Ernest Rutherford é o cientista que definiu a Lei da Conservação da Massa.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O número de massa indica a massa do átomo e é dado pela soma do número de prótons com o número de nêutrons.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O subnível mais energético nem sempre é o mais afastado do núcleo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Para um número quântico principal n, teremos n subníveis possíveis.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial (retificado): 01-04-08-16 (soma 29).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 44.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> A descoberta do elétron (J.J. Thomson) veio de experimentos com tubos de raios catódicos.</li>
+<li><strong>02. Errada.</strong> A Lei da Conservação da Massa foi formulada por Lavoisier, não por Rutherford (conhecido pelo modelo nuclear do átomo).</li>
+<li><strong>04. Correta.</strong> Definição padrão de número de massa (A = prótons + nêutrons).</li>
+<li><strong>08. Correta.</strong> Pelo diagrama de distribuição eletrônica, subníveis como o 4s (energia menor) são preenchidos antes de subníveis como o 3d (mais próximo do núcleo, mas mais energético) — a energia não segue estritamente a distância ao núcleo.</li>
+<li><strong>16. Correta.</strong> Para o número quântico principal n, existem exatamente n subníveis possíveis (l = 0 até n−1).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 atribui a Rutherford uma lei (conservação da massa) que é, na verdade, de Lavoisier — sempre confira a autoria correta de leis e descobertas científicas clássicas.</p>
 </div>
 </div>
 

@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais do Vestibular de Verão UEM (2024 e 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais do Vestibular de Verão UEM (2020, 2024 e 2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2025, Questão 46. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 44. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 47 (Conhecimentos Específicos - Química, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> Como ácido (mesmo fraco), o HCN se ioniza parcialmente em água — é eletrólito fraco, não não eletrólito.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 chama um ácido (ainda que fraco) de "não eletrólito" — todo ácido se ioniza ao menos parcialmente em água.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 47 (Conhecimentos Específicos - Química, Prova 2)</p>
+<p><strong>3. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O NaCl é um sal que não conduz corrente elétrica no estado sólido, mas quando dissolvido em água conduz, pois é uma substância iônica que origina íons livres em solução aquosa.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Os ácidos reagem com muitos metais e, nessa reação, produzem hidrogênio gasoso e um sal do metal.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O Na₂O é um óxido iônico chamado óxido de sódio em que o oxigênio possui carga −2.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O SO₃ equivale a uma molécula de ácido sulfúrico quando subtraída uma molécula de água; logo, é chamado de ácido metassulfúrico.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A reação do zinco metálico sólido com ácido clorídrico aquoso, gerando cloreto de zinco aquoso e hidrogênio gasoso, é classificada como uma reação de síntese ou de adição.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04 (soma 07).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 47.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> NaCl sólido não conduz (íons presos na rede cristalina); dissolvido, libera íons livres que conduzem corrente.</li>
+<li><strong>02. Correta.</strong> Reação padrão ácido + metal → sal + H₂ gasoso.</li>
+<li><strong>04. Correta.</strong> Definição correta do óxido de sódio como óxido iônico com O²⁻.</li>
+<li><strong>08. Errada.</strong> SO₃ é o anidrido (óxido ácido) do ácido sulfúrico — é um óxido, não um "ácido metassulfúrico" (nome sem sentido químico usual).</li>
+<li><strong>16. Errada.</strong> Zn + 2HCl → ZnCl₂ + H₂ é uma reação de DESLOCAMENTO (simples troca), não de síntese/adição.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 classifica uma reação clássica de deslocamento (metal + ácido) como síntese/adição — confira sempre o padrão da reação (quantos reagentes viram quantos produtos, e se há troca de elementos).</p>
 </div>
 </div>
 

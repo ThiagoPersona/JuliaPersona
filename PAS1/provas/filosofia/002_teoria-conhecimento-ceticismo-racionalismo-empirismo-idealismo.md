@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 6 questões reais (PAS 2022/2024 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2022/2024 e Vestibular de Verão UEM 2020/2021/2022/2024), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -11,6 +11,7 @@
 - Vestibular de Verão UEM 2024, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 32 e 34 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 39 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 23 (Conhecimentos Específicos - Filosofia, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -155,6 +156,30 @@
 <li><strong>16. Correta.</strong> Descrição padrão da estética transcendental kantiana (espaço e tempo como formas a priori da sensibilidade).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 atribui a Francis Bacon um método (ironia, dialética) que na verdade pertence a Sócrates — sempre confira a autoria de cada conceito filosófico citado.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 23 (Conhecimentos Específicos - Filosofia, Prova 2)</p>
+<p><strong>7. A teoria do conhecimento, uma das disciplinas mais importantes da filosofia, passa por uma mudança paradigmática na modernidade ao inverter a relação entre o sujeito de conhecimento e a realidade do mundo. Nesse contexto surgem concepções filosóficas como o racionalismo, o empirismo e a filosofia crítica. Sobre a teoria do conhecimento, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) De acordo com René Descartes, a intuição primeira é a concepção de ideias inatas, claras e distintas, inerentes à nossa capacidade de pensar, e constituem o fundamento para todos os conhecimentos.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O empirismo moderno é uma corrente filosófica que se baseia na crença de que todo nosso conhecimento tem origem na experiência, por meio das impressões dos sentidos como fonte de conhecimento.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Immanuel Kant afirma que os fenômenos são representações a priori da razão e dados a nós mediante a intuição intelectual; constituem o único material para a elaboração de todos os nossos conhecimentos, seja a priori seja a posteriori.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Para David Hume, o princípio da causalidade é de origem metafísica e transcendente, razão pela qual é um princípio universal e necessário que explica a origem de todas as ideias como efeitos em nossa mente, afetada pelos objetos como causas situadas no espaço e no tempo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O racionalismo moderno tem como uma de suas características mais importantes a confiança na razão como fonte e critério de conhecimento, e considera a matemática o modelo perfeito de ciência cujos conhecimentos são claros e distintos, ou seja, evidentes.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-16 (soma 19).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 23.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão das ideias inatas cartesianas como fundamento do conhecimento.</li>
+<li><strong>02. Correta.</strong> Definição padrão do empirismo.</li>
+<li><strong>04. Errada.</strong> Para Kant, os fenômenos são dados pela intuição SENSÍVEL (não "intelectual" — Kant nega que humanos tenham intuição intelectual), e não são "representações a priori", mas dados sensíveis organizados por formas a priori.</li>
+<li><strong>08. Errada.</strong> Hume nega justamente a origem metafísica/necessária da causalidade — para ele é apenas um hábito psicológico baseado na sucessão constante de eventos, sem conexão necessária observável.</li>
+<li><strong>16. Correta.</strong> Descrição padrão do racionalismo moderno e do papel-modelo da matemática.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 04 e 08 atribuem a Kant e a Hume, respectivamente, teses que são o OPOSTO do que cada um defendia — Kant nega a intuição intelectual humana, e Hume nega a necessidade metafísica da causalidade.</p>
 </div>
 </div>
 

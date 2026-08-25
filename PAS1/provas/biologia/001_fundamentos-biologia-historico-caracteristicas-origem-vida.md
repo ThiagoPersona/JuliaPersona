@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 9 questões reais (PAS 2021/2022/2023/2025 e Vestibular de Verão UEM 2024/2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 10 questões reais (PAS 2021/2022/2023/2025 e Vestibular de Verão UEM 2020/2024/2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -12,6 +12,7 @@
 - PAS/UEM, Etapa 1, 2021, Questões 10, 12 e 13 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 42. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 23 (Conhecimentos Específicos - Biologia, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -228,6 +229,30 @@
 <li><strong>16. Errada.</strong> A afirmação mistura, de forma incorreta, a Lei de Lavoisier (conservação de massa) com conceitos de "espaços vazios" e desvio de partículas α — uma descrição sem sentido químico, e a própria equação está desbalanceada.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 usa o nome de Lavoisier para justificar uma descrição pseudocientífica que mistura conceitos de física nuclear (partículas α) com uma reação de combustão comum — sempre desconfie de justificativas que "explicam demais".</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 23 (Conhecimentos Específicos - Biologia, Prova 2)</p>
+<p><strong>10. Não se sabe exatamente quantas espécies de seres vivos existem no planeta, mas, apesar da enorme diversidade de organismos vivos, todos possuem propriedades em comum. Sobre o assunto, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Todos os seres vivos mantêm um ambiente interno instável devido às variações das condições ambientais externas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Por metabolismo entende-se o conjunto de processos responsáveis pela eliminação de substâncias tóxicas ao organismo.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Os seres heterotróficos têm a capacidade de sintetizar seu próprio alimento, pois realizam a fotossíntese.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Sem evolução não há variabilidade; sem variabilidade não há seleção e, consequentemente, não há mutação.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A homeostase é garantida por um conjunto de reações químicas ordenadas, que constituem o metabolismo.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 16 (soma 16).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 23.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Todo ser vivo mantém o ambiente interno ESTÁVEL (homeostase), não instável, diante das variações externas.</li>
+<li><strong>02. Errada.</strong> Metabolismo é o conjunto de TODAS as reações químicas que sustentam a vida (anabolismo + catabolismo), não apenas a eliminação de toxinas (isso é excreção).</li>
+<li><strong>04. Errada.</strong> Contradição interna: seres heterotróficos, por definição, NÃO sintetizam seu próprio alimento — quem faz fotossíntese e produz alimento são os autotróficos.</li>
+<li><strong>08. Errada.</strong> A ordem causal está invertida: mutação gera variabilidade, que possibilita seleção, que impulsiona evolução — não o contrário.</li>
+<li><strong>16. Correta.</strong> Definição padrão que conecta homeostase ao conjunto ordenado de reações metabólicas.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 inverte a cadeia causal real da evolução — é a mutação que gera variabilidade, não o contrário.</p>
 </div>
 </div>
 

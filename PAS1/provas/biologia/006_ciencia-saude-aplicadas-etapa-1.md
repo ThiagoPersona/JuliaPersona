@@ -2,7 +2,7 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 7 questões reais (PAS 2021/2022/2024 e Vestibular de Verão UEM 2025/2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 8 questões reais (PAS 2021/2022/2024 e Vestibular de Verão UEM 2025/2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
@@ -12,7 +12,7 @@
 - Vestibular de Verão UEM 2025, Questão 44. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 36. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 39 (Conhecimentos Específicos - Biologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
-- Vestibular de Verão UEM 2020, Questão 24 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questões 24 (Conhecimentos Gerais, Prova 1) e 29 (Conhecimentos Específicos - Biologia, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -181,6 +181,30 @@
 <li><strong>16. Correta.</strong> NaHCO₃ + HCl → NaCl + H₂O + CO₂ é, de fato, uma reação de dupla troca/neutralização.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 descreve a membrana plasmática com componentes errados (glicoproteínas e ATP em vez de fosfolipídios) e atribui à osmose um gasto de energia que ela, como transporte passivo, não tem.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 29 (Conhecimentos Específicos - Biologia, Prova 2)</p>
+<p><strong>8. Alguns estudos mostram que a proteína transmembrana ACE2 presente na superfície de diversas células do corpo humano, como o epitélio do sistema respiratório, tem relação com os mecanismos de entrada na célula de alguns coronavírus, inclusive o SARS-CoV-2, causador da Covid-19. Pessoas com hipertensão arterial teriam uma maior expressão do gene ACE2, tornando-se mais suscetíveis à infecção pelo novo coronavírus. Com base no exposto e em conhecimentos correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A proteína ACE2 é sintetizada no retículo endoplasmático rugoso da célula, enviada por vesícula ao complexo de Golgi e, posteriormente, também por vesícula, à membrana plasmática.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O epitélio do sistema respiratório faz parte de um tecido que é classificado por ter células mergulhadas na matriz extracelular, cuja composição caracteriza o subtipo de tecido.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A hipertensão arterial se caracteriza pela elevação anormal e constante da pressão arterial, causando lesões nos vasos sanguíneos e podendo levar ao acidente vascular cerebral (AVC).</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Brônquios intrapulmonares, bronquíolos e alvéolos fazem parte da porção pulmonar do sistema respiratório humano.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O oxigênio exalado pelos pulmões é produzido nas mitocôndrias durante o processo de respiração celular.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 29.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Via secretora padrão de uma proteína de membrana: retículo rugoso → complexo de Golgi → membrana plasmática, por vesículas.</li>
+<li><strong>02. Errada.</strong> Essa descrição (células mergulhadas em matriz extracelular abundante) é do tecido CONJUNTIVO, não do epitelial — o epitélio tem células justapostas, com pouquíssima matriz extracelular.</li>
+<li><strong>04. Correta.</strong> Definição médica padrão de hipertensão arterial e suas consequências.</li>
+<li><strong>08. Correta.</strong> Anatomia padrão da porção pulmonar do sistema respiratório.</li>
+<li><strong>16. Errada.</strong> A mitocôndria CONSOME oxigênio na respiração celular (produzindo CO₂), não o produz — o oxigênio exalado é apenas o excedente do ar inspirado, não um produto da respiração celular.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 descreve corretamente um tecido, mas atribui a descrição ao tecido errado — é a definição de tecido conjuntivo aplicada, incorretamente, ao epitelial.</p>
 </div>
 </div>
 

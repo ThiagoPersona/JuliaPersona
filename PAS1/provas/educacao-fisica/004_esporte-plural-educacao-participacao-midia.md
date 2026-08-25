@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2020/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 15. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 9 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 36 (Conhecimentos Específicos - Educação Física). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 26 (Conhecimentos Específicos - Educação Física, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -81,6 +82,30 @@
 <li><strong>16. Errada.</strong> A Educação Física escolar foi, sim, profundamente influenciada pela crescente importância social do esporte ao longo do século XX.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 usa o termo absoluto "restrita" para limitar geograficamente um problema (racismo no esporte) que é, na realidade, global.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 26 (Conhecimentos Específicos - Educação Física, Prova 2)</p>
+<p><strong>4. Assinale o que for correto em relação a corpo, esporte e mídia.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A sociedade de consumo busca, por meio da mídia, promover a conscientização das pessoas acerca da real necessidade de aquisição de produtos, incluindo os relacionados à prática esportiva.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Muitos atletas de futebol são convidados a associarem sua imagem a produtos oferecidos em campanhas publicitárias.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Diferentemente do que ocorre em grande parte das campanhas publicitárias que utilizam modelos brancos como protagonistas, anúncios relacionados ao futebol exploram, também, a imagem de jogadores negros.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A espetacularização esportiva, entendida como meio rentável para empresas e a mídia, independe da criação de ídolos e de atletas de destaque.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O corpo, em sua relação com a marca promovida pelo anúncio, pode gerar repulsa ou atração.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-16 (soma 22).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 26.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A publicidade da sociedade de consumo busca estimular o CONSUMO, não promover consciência crítica sobre a "real necessidade" de compra — inverte o objetivo real da mídia publicitária.</li>
+<li><strong>02. Correta.</strong> Fato amplamente documentado sobre patrocínios e publicidade esportiva.</li>
+<li><strong>04. Correta.</strong> Padrão real e documentado de representação racial na publicidade ligada ao futebol.</li>
+<li><strong>08. Errada.</strong> A espetacularização esportiva DEPENDE justamente da criação de ídolos e atletas de destaque para gerar valor midiático e comercial — não é independente disso.</li>
+<li><strong>16. Correta.</strong> Fato padrão de comunicação/marketing sobre a relação corpo-marca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 nega uma relação de dependência (espetacularização esportiva x criação de ídolos) que é, na realidade, central ao modelo de negócio do esporte-espetáculo.</p>
 </div>
 </div>
 

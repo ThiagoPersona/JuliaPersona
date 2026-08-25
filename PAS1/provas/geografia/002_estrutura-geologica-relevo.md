@@ -2,13 +2,14 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (Vestibular de Verão UEM 2023/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (Vestibular de Verão UEM 2020/2021/2022/2023), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2023, Questão 28. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 34 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 32 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- Vestibular de Verão UEM 2020, Questão 22 (Conhecimentos Específicos - Geografia, Prova 2). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
 
@@ -81,6 +82,30 @@
 <li><strong>16. Errada.</strong> As placas tectônicas estão em movimento CONSTANTE (lento e contínuo), não apenas cíclico; e a maioria dos terremotos é de intensidade baixa a moderada, não alta.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 troca as datas dos terremotos do Haiti e do Japão mencionados no enunciado — sempre confira a atribuição correta de datas a cada evento citado no texto de apoio.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">Vestibular de Verão UEM 2020, Questão 22 (Conhecimentos Específicos - Geografia, Prova 2)</p>
+<p><strong>4. Sobre as principais características das estruturas e formas de relevo identificadas nas paisagens brasileiras, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Os planaltos brasileiros têm formas de relevo homogêneas e preservadas, que não sofreram processos erosivos desde a sua origem.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) No conjunto de cadeias montanhosas formadas nos dobramentos modernos estão localizados os picos com altitudes maiores que 4000m.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A cuesta é uma forma de relevo irregular com inclinação suave de um lado e inclinação acentuada do outro.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) As chapadas são formas de relevo compostas por um topo aplainado com laterais de declives acentuados.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Nas áreas de planícies predomina a sedimentação com materiais, em geral, trazidos pelas águas de rios, de lagos ou de oceanos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: Vestibular de Verão UEM 2020, Questão 22.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Os planaltos brasileiros sofrem erosão contínua desde sua origem — não são "homogêneos e preservados".</li>
+<li><strong>02. Errada.</strong> O Brasil não possui cadeias de dobramentos modernos com picos acima de 4000m (esse relevo jovem, como os Andes, não ocorre em território brasileiro).</li>
+<li><strong>04. Correta.</strong> Definição padrão de cuesta (relevo assimétrico).</li>
+<li><strong>08. Correta.</strong> Definição padrão de chapada.</li>
+<li><strong>16. Correta.</strong> Fato padrão de geomorfologia sobre sedimentação em planícies.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 atribui ao relevo brasileiro picos de dobramentos modernos acima de 4000m — o Brasil possui apenas relevo antigo (planaltos/escudos), sem cadeias montanhosas jovens desse tipo.</p>
 </div>
 </div>
 
