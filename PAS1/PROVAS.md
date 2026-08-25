@@ -18,7 +18,7 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Literatura | Poesia portuguesa: Camões | 1 | [Abrir](provas/literatura/003_poesia-portuguesa-camoes.md) |
 | Literatura | Literatura brasileira contemporânea: Leminski e Veríssimo | 1 | [Abrir](provas/literatura/004_literatura-brasileira-contemporanea-leminski-verissimo.md) |
 | Literatura | Literatura africana de língua portuguesa: Pepetela | 1 | [Abrir](provas/literatura/005_literatura-africana-lingua-portuguesa-pepetela.md) |
-| Literatura | Teoria literária: gêneros, figuras de linguagem, periodização e versificação | 0 | [Abrir](provas/literatura/006_teoria-literaria-generos-figuras-periodizacao-versificacao.md) |
+| Literatura | Teoria literária: gêneros, figuras de linguagem, periodização e versificação | 1 | [Abrir](provas/literatura/006_teoria-literaria-generos-figuras-periodizacao-versificacao.md) |
 
 ## Linguagens e suas Tecnologias — Artes, Educação Física e Língua Estrangeira
 
@@ -59,10 +59,10 @@ Todas as questões seguem o formato oficial de somatória do PAS/UEM (5 afirmaç
 | Física | Grandezas físicas, medição e Sistema Internacional | 2 | [Abrir](provas/fisica/001_grandezas-fisicas-medicao-sistema-internacional.md) |
 | Física | Cinemática: MU, MUV, queda livre e movimento circular | 4 | [Abrir](provas/fisica/002_cinematica-mu-muv-queda-livre-movimento-circular.md) |
 | Física | Dinâmica: leis de Newton, forças e plano inclinado | 3 | [Abrir](provas/fisica/003_dinamica-leis-newton-forcas-plano-inclinado.md) |
-| Física | Gravitação universal e leis de Kepler | 0 | [Abrir](provas/fisica/004_gravitacao-universal-leis-kepler.md) |
+| Física | Gravitação universal e leis de Kepler | 1 | [Abrir](provas/fisica/004_gravitacao-universal-leis-kepler.md) |
 | Física | Quantidade de movimento, impulso e colisões | 1 | [Abrir](provas/fisica/005_quantidade-movimento-impulso-colisoes.md) |
 | Física | Trabalho, energia e conservação de energia | 3 | [Abrir](provas/fisica/006_trabalho-energia-conservacao.md) |
-| Física | Equilíbrio e máquinas simples | 0 | [Abrir](provas/fisica/007_equilibrio-maquinas-simples.md) |
+| Física | Equilíbrio e máquinas simples | 1 | [Abrir](provas/fisica/007_equilibrio-maquinas-simples.md) |
 | Química | Estados físicos da matéria e separação de misturas | 7 | [Abrir](provas/quimica/001_estados-fisicos-materia-separacao-misturas.md) |
 | Química | Estrutura atômica, modelos atômicos e tabela periódica | 5 | [Abrir](provas/quimica/002_estrutura-atomica-modelos-tabela-periodica.md) |
 | Química | Ligações químicas e interações intermoleculares | 5 | [Abrir](provas/quimica/003_ligacoes-quimicas-interacoes-intermoleculares.md) |
