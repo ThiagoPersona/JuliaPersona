@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 10 questões reais (PAS 2021/2022/2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 11 questões reais (PAS 2021/2022/2023/2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 6. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 5 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questões 5 e 6 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 4 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 33/43 e 34/44 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -252,6 +253,30 @@
 <li><strong>16. Correta.</strong> O pau-brasil é espécie nativa da Mata Atlântica, presente também no território paranaense.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 02 e 04 embaralham datas de tratados históricos reais (Tordesilhas 1494, Madri 1750) com séculos e efeitos incorretos — sempre confira a data exata antes de aceitar uma afirmação histórica.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 5 (Conhecimentos Gerais)</p>
+<p><strong>11. Sobre o litoral paranaense, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Os sedimentos no litoral do Paraná possuem origens marinha e terrestre e são formados por grãos de areia e argila. A sua altitude pode variar de zero a vinte metros.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Araucária e Colombo foram os primeiros núcleos urbanos formados na região do litoral na primeira metade do século XVI.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A região localizada entre o litoral e a Serra do Mar paranaense é formada por serras e morros constituídos por rochas cristalinas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) No século XVI ocorreu migração europeia sistemática para o litoral paranaense, com o objetivo de criar uma moderna estrutura de prospecção e de fundição de metais preciosos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Vestígios antigos da presença humana no litoral são encontrados em sambaquis, formados por acúmulos de conchas, restos de crustáceos, de peixes e de mamíferos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-16 (soma 21).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 5.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição geográfica padrão dos sedimentos e da altitude da planície litorânea paranaense.</li>
+<li><strong>02. Errada.</strong> Araucária e Colombo ficam na região metropolitana de Curitiba (planalto), não no litoral, e não foram os primeiros núcleos urbanos litorâneos do século XVI (esse papel coube a povoações como Paranaguá).</li>
+<li><strong>04. Correta.</strong> Descrição geológica padrão da região entre o litoral e a Serra do Mar.</li>
+<li><strong>08. Errada.</strong> A colonização europeia do litoral paranaense no século XVI foi esparsa e não constituiu uma "moderna estrutura" organizada de prospecção/fundição de metais.</li>
+<li><strong>16. Correta.</strong> Fato arqueológico padrão sobre os sambaquis do litoral.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 atribui a Araucária e Colombo (municípios do planalto curitibano) o papel de primeiros núcleos urbanos do litoral — uma localização geográfica incorreta.</p>
 </div>
 </div>
 

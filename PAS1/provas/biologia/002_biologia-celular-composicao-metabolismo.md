@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 7 questões reais (PAS 2021/2022/2024/2025 e Vestibular de Verão UEM 2025/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 9 questões reais (PAS 2021/2022/2023/2024/2025 e Vestibular de Verão UEM 2025/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 33. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 15. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questões 11 e 13 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questão 15 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questões 11 e 14 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -180,6 +181,54 @@
 <li><strong>16. Errada.</strong> É o oposto: a fotossíntese PRODUZ moléculas orgânicas, que a oxidação celular (respiração) depois degrada para liberar energia — a relação está invertida.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 inverte a relação entre fotossíntese e oxidação celular — é a fotossíntese que produz as moléculas orgânicas que a respiração/oxidação depois consome.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 11 (Conhecimentos Gerais)</p>
+<p><strong>8. Cloroplastos são responsáveis pela fotossíntese em plantas. Nesse processo, absorvem a luz solar e produzem matéria orgânica energizada. Sobre esse assunto, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A energia contida na matéria orgânica produzida na fotossíntese não foi criada, e sim transformada de energia luminosa em energia química.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Os cloroplastos estão presentes em todas as células que realizam fotossíntese.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A energia luminosa se propaga sob a forma de ondas eletromagnéticas. A energia química é armazenada nas substâncias e liberada nas reações químicas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A cor verde que se vê nas plantas é resultado da reflexão das luzes azul e laranja pelas moléculas de clorofila.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A transformação da energia luminosa em ATP acontece porque, quando recebe luz, a molécula de clorofila perde elétrons que passam por vários transportadores. Esse fato marca o momento em que se inicia a transformação da energia luminosa em energia química.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-16 (soma 21).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 11.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Aplicação padrão da conservação de energia: luminosa → química, não "criada".</li>
+<li><strong>02. Errada.</strong> Cianobactérias (procariontes) fazem fotossíntese sem possuir cloroplastos (organelas exclusivas de eucariontes).</li>
+<li><strong>04. Correta.</strong> Fatos padrão de física/química sobre natureza da luz e armazenamento de energia química.</li>
+<li><strong>08. Errada.</strong> A clorofila ABSORVE luz azul e vermelha, refletindo a luz VERDE (não "azul e laranja") — é essa reflexão que dá a cor verde às plantas.</li>
+<li><strong>16. Correta.</strong> Descrição correta do início da cadeia de transporte de elétrons na fase fotoquímica da fotossíntese.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 erra as cores absorvidas/refletidas pela clorofila — ela reflete verde (não azul e laranja), que é justamente a cor que enxergamos nas plantas.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="08,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 13 (Conhecimentos Gerais)</p>
+<p><strong>9. Com esforço muito intenso uma pessoa sedentária realizou a fermentação láctica do músculo. Um gráfico apresentou as concentrações de ácido láctico, ácido pirúvico e glicose (em µmol/L) ao longo de nove minutos: o ácido láctico sobe de 0 até um pico de 16 em t=4min, depois cai; o ácido pirúvico sobe mais lentamente até um pico de 9 em t=5min, depois cai; a glicose se mantém sempre baixa, entre 0 e 4. Com base no gráfico, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A quantidade de ácido láctico em t = 3min de 200mL de sangue é 200mol.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O rim é o órgão responsável pela conversão de ácido láctico em pirúvico.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As concentrações dos ácidos se equiparam em t = 6min.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O ápice da dor e da fadiga muscular ocorre exatamente aos 4 minutos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Gliconeogênese é o processo de transformação do ácido pirúvico em glicose.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 08-16 (soma 24).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 13.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A concentração no gráfico está em µmol/L; para 200mL (0,2L) a quantidade seria de poucos micromols — "200mol" está errado por muitas ordens de grandeza.</li>
+<li><strong>02. Errada.</strong> É o FÍGADO (via ciclo de Cori), não o rim, o principal órgão que reconverte lactato em piruvato/glicose.</li>
+<li><strong>04. Errada.</strong> No gráfico, as curvas de láctico e pirúvico se cruzam por volta de t=5min (ambas próximas de 9), não em t=6min.</li>
+<li><strong>08. Correta.</strong> O pico de ácido láctico (o principal responsável pela dor/fadiga muscular) ocorre em t=4min, o ponto mais alto do gráfico.</li>
+<li><strong>16. Correta.</strong> Definição padrão de gliconeogênese, incluindo a via a partir do piruvato (derivado do lactato).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 mistura a escala do gráfico (µmol/L) com uma quantidade final em "mol" sem fazer a conversão de unidades corretamente — sempre confira a ordem de grandeza antes de aceitar um resultado numérico.</p>
 </div>
 </div>
 

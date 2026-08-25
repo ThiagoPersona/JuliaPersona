@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2021/2023/2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 18. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 2 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 2 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 38 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -81,6 +82,30 @@
 <li><strong>16. Correta.</strong> Argumentos indutivos são ampliativos: a conclusão vai além do conteúdo estrito das premissas.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 troca "ampliativo" (característica real da indução) por "restritivo" (seu oposto) — cuidado com a inversão desses dois termos técnicos.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 2 (Conhecimentos Gerais)</p>
+<p><strong>4. Segundo o quadrado lógico das oposições, assinale a(s) alternativa(s) correta(s) sobre o par de enunciados a seguir: "Todo palhaço é triste." / "Nenhum palhaço é triste."</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Os enunciados são contrários, universais, dos tipos A e E.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O termo predicado está distribuído.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Os dois enunciados podem ser falsos ao mesmo tempo, mas não podem ser verdadeiros ao mesmo tempo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os enunciados não são sentenças categóricas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O segundo enunciado é o obverso do primeiro.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04 (soma 05).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 2.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> "Todo S é P" (tipo A) e "Nenhum S é P" (tipo E), com mesmo sujeito e predicado, são exatamente o par clássico de proposições contrárias no quadrado de oposições.</li>
+<li><strong>02. Errada.</strong> O predicado só está distribuído na proposição E ("Nenhum palhaço é triste"), não na proposição A ("Todo palhaço é triste") — não é verdade para ambas.</li>
+<li><strong>04. Correta.</strong> Definição exata de contrariedade: as duas podem ser falsas ao mesmo tempo, mas nunca verdadeiras ao mesmo tempo.</li>
+<li><strong>08. Errada.</strong> Ambas SÃO sentenças categóricas clássicas (universal afirmativa e universal negativa).</li>
+<li><strong>16. Errada.</strong> A obversão exige negar o predicado ("Nenhum palhaço é não-triste"), não apenas trocar a qualidade da sentença — o segundo enunciado é a contrária do primeiro, não sua obversa.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 confunde contrariedade com obversão — a obversão exige negar o termo predicado, não apenas inverter a qualidade afirmativa/negativa da proposição.</p>
 </div>
 </div>
 

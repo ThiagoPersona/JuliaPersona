@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões oficiais do PAS/UEM (2021, 2022 e 2025), Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões oficiais do PAS/UEM (2021, 2022, 2023 e 2025), Etapa 1, com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 40. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 14 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questão 21 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questões 19 e 22 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -105,6 +106,30 @@
 <li><strong>16. Correta.</strong> HF é um hidrácido (ácido sem oxigênio) e, por causa da alta eletronegatividade e do pequeno tamanho do flúor, forma ligações de hidrogênio intermoleculares fortes.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 chama OF2 de "óxido iônico" — mas é um composto covalente, e o flúor sendo mais eletronegativo que o oxigênio nem sequer se encaixa bem na ideia tradicional de óxido.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 14 (Conhecimentos Gerais)</p>
+<p><strong>5. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) HCl é uma substância iônica, por isso apresenta alto ponto de fusão.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) HCN é uma substância molecular cujo átomo de carbono forma uma ligação simples com o átomo de hidrogênio e uma ligação tripla com o átomo de nitrogênio.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As forças de adesão e de coesão são responsáveis pelo efeito de capilaridade que faz que as moléculas de água sejam coletadas pelas raízes no solo e cheguem até as folhas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A água, ao se congelar, torna-se mais densa do que em sua forma líquida pois ocorre um aumento nas forças de atração intermoleculares.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os lipídios que formam a membrana plasmática são substâncias hidrofóbicas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-16 (soma 22).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 14.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> HCl é uma substância MOLECULAR (covalente), não iônica — por isso tem baixo ponto de fusão/ebulição (é gasoso à temperatura ambiente).</li>
+<li><strong>02. Correta.</strong> Estrutura correta do HCN: H-C≡N, ligação simples C-H e tripla C≡N.</li>
+<li><strong>04. Correta.</strong> Fato padrão de fisiologia vegetal sobre a capilaridade na condução de água.</li>
+<li><strong>08. Errada.</strong> O gelo é MENOS denso que a água líquida (por isso flutua) — a estrutura cristalina do gelo afasta as moléculas, não as aproxima.</li>
+<li><strong>16. Correta.</strong> Os lipídios, como classe geral de moléculas, são substâncias hidrofóbicas/apolares.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 inverte a anomalia da água — o gelo é menos denso (não mais) que a água líquida, por isso flutua.</p>
 </div>
 </div>
 

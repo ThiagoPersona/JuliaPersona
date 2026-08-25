@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS/UEM 2022, 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar (não é só o gabarito oficial "de olhos fechados").
+**Itens neste banco:** 7 questões reais (PAS/UEM 2022, 2023, 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar (não é só o gabarito oficial "de olhos fechados").
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questões 27 e 29. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questões 18 e 23 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questão 24 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM, 2025, Questão 37. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -130,6 +131,54 @@
 <li><strong>16. Correta.</strong> Elementos acima da diagonal principal têm j&gt;i, logo a_ij=i-j&lt;0 — são sempre inteiros negativos.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 tenta associar "m=n" (matriz quadrada) à matriz identidade, mas a regra a_ij=i-j força a diagonal principal a ser sempre zero, o oposto da identidade (diagonal 1).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 18 (Conhecimentos Gerais)</p>
+<p><strong>6. Considere dois movimentos, 1 e 2, do centro de massa de um determinado corpo em uma trajetória retilínea. O comprimento é expresso em metros, e o tempo, em segundos. As posições dos respectivos movimentos em função do tempo, x₁(t) e x₂(t), são colocadas na seguinte equação matricial: X = M.C, em que X = (x₁(t), x₂(t)), M = [[1, 2], [1, 4]] e C = (1, t). Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) No instante inicial dos movimentos 1 e 2, t = 0s, o corpo está na origem do sistema de coordenadas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) No movimento 1, o corpo levará 2s para percorrer 4m.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O determinante da matriz transposta de M é igual a 2.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) No movimento 2, a velocidade do corpo é de 2m/s.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A velocidade do movimento 2 é o dobro da velocidade do movimento 1.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-16 (soma 22).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 18.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Multiplicando X=M.C: x₁(t)=1+2t e x₂(t)=1+4t. Em t=0, x₁=1 e x₂=1 — não é a origem (0).</li>
+<li><strong>02. Correta.</strong> x₁(t)-x₁(0)=2t; para percorrer 4m, 2t=4 → t=2s.</li>
+<li><strong>04. Correta.</strong> det(M)=1×4-2×1=2; como det(Mᵀ)=det(M), o determinante da transposta também é 2.</li>
+<li><strong>08. Errada.</strong> v₂=dx₂/dt=4m/s, não 2m/s.</li>
+<li><strong>16. Correta.</strong> v₁=2m/s e v₂=4m/s; de fato v₂=2×v₁.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 ignora o termo constante (1) em ambas as equações de posição — em t=0 o corpo já parte de x=1, não da origem.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 23 (Conhecimentos Gerais)</p>
+<p><strong>7. Considere o sistema linear S = {x+y+z=8, 4x-4y+2z=0}. Considere, também, a matriz A, que é a matriz dos coeficientes de S, e a matriz B = [[1,2,3],[1,2,3],[1,2,3]]. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O sistema S é possível e determinado com solução (1, 3, 4).</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A soma das matrizes A e B é uma matriz de ordem 3.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O produto AB é uma matriz com duas linhas e três colunas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O sistema homogêneo associado à matriz B possui infinitas soluções.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O sistema S₁ = {3x-y+2z=8, x-y+½z=0} é equivalente ao sistema S.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 23.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> (1,3,4) de fato satisfaz as duas equações, mas o sistema tem 2 equações e 3 incógnitas — é possível, porém INDETERMINADO (infinitas soluções), não determinado.</li>
+<li><strong>02. Errada.</strong> A é 2×3 e B é 3×3 — dimensões diferentes, a soma A+B não está definida.</li>
+<li><strong>04. Correta.</strong> A(2×3)·B(3×3) resulta em uma matriz 2×3 (linhas de A por colunas de B).</li>
+<li><strong>08. Correta.</strong> As três linhas de B são idênticas (posto 1), logo o sistema homogêneo Bx=0 tem posto menor que o número de incógnitas — infinitas soluções.</li>
+<li><strong>16. Correta.</strong> S₁ é obtido de S por combinações lineares válidas: (3x-y+2z=8) = 1×(x+y+z=8) + 0,5×(4x-4y+2z=0); e (x-y+0,5z=0) = 0,25×(4x-4y+2z=0) — operações reversíveis que preservam o conjunto-solução.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 confunde "ter uma solução válida" com "ser determinado" — um sistema com mais incógnitas que equações independentes tem infinitas soluções, mesmo que uma delas seja facilmente verificável.</p>
 </div>
 </div>
 

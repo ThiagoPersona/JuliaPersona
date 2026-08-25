@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS 2021/2022 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2021/2022/2023 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2021, Questão 6 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questão 12 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 6 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 32 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -131,6 +132,30 @@
 <li><strong>16. Correta.</strong> Fato correto: microscopia não usa sistema de coordenadas geográficas.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 tentam aplicar o conceito de "escala cartográfica" (próprio da geografia/mapas) para descrever tamanhos celulares e resolução de microscópios — são conceitos de naturezas diferentes.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 6 (Conhecimentos Gerais)</p>
+<p><strong>6. Sobre a história da ciência, especificamente sobre eventos que implicam a construção do pensamento geográfico e de aspectos a ele relacionados, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O termo pré-socrático designa um marco em relação à busca da racionalidade no que diz respeito à explicação dos fenômenos da natureza.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Durante o Renascimento, a Igreja Católica europeia contribuiu para a reinterpretação das explicações dos fenômenos naturais. Apoiou, inclusive, a divulgação da teoria heliocêntrica.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Os avanços da cartografia, principalmente no que concerne à precisão das representações, forneceram suporte importante aos europeus no período das Grandes Navegações.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) No início do século XVIII, a cartografia ainda lidava com o inconveniente problema de não dispor de precisão técnica confiável para o estabelecimento das latitudes.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A elaboração de mapas consiste em uma técnica recente, que se desenvolveu e ganhou impulso com a expansão do Império Romano.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04 (soma 05).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 6.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato padrão de história da filosofia/ciência sobre o marco pré-socrático da racionalidade.</li>
+<li><strong>02. Errada.</strong> A Igreja Católica, historicamente, se opôs à divulgação da teoria heliocêntrica (caso Galileu, Index de livros proibidos), não a apoiou.</li>
+<li><strong>04. Correta.</strong> Fato histórico-geográfico padrão sobre o papel da cartografia nas Grandes Navegações.</li>
+<li><strong>08. Errada.</strong> O problema técnico não resolvido até o século XVIII era o da LONGITUDE (resolvido só com o cronômetro marítimo, em meados do XVIII) — a latitude já era determinável com razoável precisão por métodos astronômicos.</li>
+<li><strong>16. Errada.</strong> A cartografia não é uma técnica recente — mapas existem desde civilizações muito anteriores a Roma (como a Babilônia).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 troca o problema histórico real (falta de precisão na determinação da LONGITUDE) pela latitude, que já era razoavelmente bem calculada nessa época.</p>
 </div>
 </div>
 

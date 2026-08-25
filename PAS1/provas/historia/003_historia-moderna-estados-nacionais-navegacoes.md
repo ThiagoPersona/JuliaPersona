@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões oficiais do PAS/UEM (2021, 2024 e 2025), Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões oficiais do PAS/UEM (2021, 2023, 2024 e 2025), Etapa 1, com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questões 4 e 5. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 19. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 3 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questões 3 e 5 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -129,6 +130,30 @@
 <li><strong>16. Correta.</strong> Papel padrão da cartografia como ferramenta das Grandes Navegações.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 erra o continente (Ceuta é africana, não asiática) e a época da conquista (1415, início do século XV, não a "segunda metade").</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 3 (Conhecimentos Gerais)</p>
+<p><strong>6. Sobre o pensamento moderno e a criação dos Estados Modernos na Europa Ocidental, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Na Idade Moderna o pensamento humano passou por mudanças importantes com base no teocentrismo.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Na Idade Moderna o pensamento humano passou por mudanças importantes baseadas no antropocentrismo.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) No Renascimento difundiu-se o racionalismo, que defendia ideias com base em explicações racionais.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os Estados Modernos foram criações políticas do período feudal para reforçar os feudos e o poder dos senhores feudais.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Nicolau Maquiavel, autor de O príncipe, é um dos expoentes do pensamento político da Idade Moderna.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-16 (soma 22).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 3.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A Idade Moderna é marcada pela transição do teocentrismo medieval para o ANTROPOCENTRISMO, não pelo reforço do teocentrismo.</li>
+<li><strong>02. Correta.</strong> O antropocentrismo é o traço central do pensamento moderno em ruptura com a visão medieval.</li>
+<li><strong>04. Correta.</strong> Fato histórico padrão sobre o racionalismo renascentista.</li>
+<li><strong>08. Errada.</strong> Os Estados Modernos surgiram para CENTRALIZAR o poder político, retirando-o dos senhores feudais, não para reforçá-los.</li>
+<li><strong>16. Correta.</strong> Maquiavel e "O Príncipe" são referências clássicas do pensamento político moderno.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 01 e 08 atribuem à Modernidade características do período medieval que ela justamente superou (teocentrismo, poder feudal fragmentado).</p>
 </div>
 </div>
 

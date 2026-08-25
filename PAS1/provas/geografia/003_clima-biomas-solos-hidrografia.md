@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 9 questões reais (PAS 2021/2022/2024/2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 11 questões reais (PAS 2021/2022/2023/2024/2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 7. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questões 7 e 12 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questão 7 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 7 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 7 e 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -229,6 +230,54 @@
 <li><strong>16. Correta.</strong> Terminologia padrão de geografia física: padrão de drenagem dendrítico, canal meandrante, escoamento exorreico.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 inverte as proporções reais da água doce do planeta — a maior parte está em geleiras, não em águas de superfície não congeladas.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 7 (Conhecimentos Gerais)</p>
+<p><strong>10. Sobre solos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Possuem profundidade influenciada pela inclinação do relevo.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Solos de climas temperados são mais rasos que solos de clima tropical.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A cobertura do solo com restos vegetais de cultivos anteriores diminui a taxa de infiltração e a umidade no solo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Pedogênese corresponde ao processo que dá origem ao solo.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A fertilidade mineral do solo é influenciada pela rocha matriz.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08-16 (soma 27).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 7.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Relevos mais inclinados sofrem mais erosão, resultando em solos mais rasos.</li>
+<li><strong>02. Correta.</strong> O intemperismo mais intenso do clima tropical (calor e umidade) tende a produzir solos mais profundos que os de climas temperados.</li>
+<li><strong>04. Errada.</strong> Cobertura vegetal morta (palhada) AUMENTA a infiltração e retém umidade no solo — o oposto do afirmado.</li>
+<li><strong>08. Correta.</strong> Definição padrão de pedogênese.</li>
+<li><strong>16. Correta.</strong> A composição da rocha-mãe influencia diretamente os minerais disponíveis no solo formado.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 inverte o efeito real da cobertura vegetal morta sobre o solo — ela aumenta (não diminui) a infiltração e a retenção de umidade.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 12 (Conhecimentos Gerais)</p>
+<p><strong>11. Sobre estruturas e processos de constituição das paisagens, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Serrapilheira é a denominação para a matéria orgânica depositada sobre a superfície dos solos de áreas de floresta.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Regiões áridas possuem, como resultado da disponibilidade hídrica, solos com maior acidez e com deficiência de sais minerais.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) As queimadas no Cerrado podem ocorrer de modo natural, e as cinzas resultantes podem contribuir como fonte de minerais para solos e plantas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Solos muito arenosos apresentam menor teor de matéria orgânica quando comparados a solos argilosos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A sedimentação é um processo predominante nas planícies.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08-16 (soma 29).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 12.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Definição padrão de serrapilheira.</li>
+<li><strong>02. Errada.</strong> Solos de regiões áridas tendem a ser mais ALCALINOS/salinos (acúmulo de sais por baixa lixiviação), não mais ácidos e deficientes em sais.</li>
+<li><strong>04. Correta.</strong> Fato ecológico bem documentado sobre o regime de queimadas naturais do Cerrado.</li>
+<li><strong>08. Correta.</strong> Solos arenosos retêm menos matéria orgânica que solos argilosos.</li>
+<li><strong>16. Correta.</strong> Fato padrão de geomorfologia: sedimentação predomina em áreas de planície.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 inverte a química típica dos solos áridos — eles tendem a acumular sais (alcalinos), não a apresentar deficiência de sais minerais.</p>
 </div>
 </div>
 

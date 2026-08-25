@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2025 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2023/2025 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 20. Gabarito definitivo (retificado) publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 4 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 31/41 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2020, Questão 12 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -81,6 +82,30 @@
 <li><strong>16. Correta.</strong> Descrição padrão das bandeiras (busca de metais/pedras preciosas e aprisionamento indígena).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 projeta a economia da borracha (Norte, século XIX) sobre o Sudeste colonial do século XVI — um erro geográfico e cronológico duplo.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 4 (Conhecimentos Gerais)</p>
+<p><strong>4. Assinale o que for correto sobre a organização político-administrativa durante a colonização portuguesa na América.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Na primeira metade do século XVI, a Coroa Portuguesa instituiu o regime de capitanias hereditárias na região litorânea do Brasil. Por meio da Carta de Doação, as capitanias foram doadas a donatários, que podiam fundar vilas, doar sesmarias e exercer o monopólio da justiça.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O Governo-Geral estabelecido pela Coroa Portuguesa foi um esforço político-administrativo que objetivava fortalecer a descentralização da administração colonial e conferir mais poderes aos donatários.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A União Ibérica, ocorrida entre 1580 e 1640, significou a união dos tronos espanhol e português, sob o controle do rei da Espanha. Como consequência para o Brasil, a união dessas coroas tornou sem efeito a linha divisória do Tratado de Tordesilhas, que dividia as terras da colônia espanhola e da colônia portuguesa.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na segunda metade do século XVII, os ingleses se organizaram militarmente e invadiram as terras da América portuguesa a fim de conquistar as zonas de produção açucareira. Essa invasão provocou diversos problemas administrativos, econômicos e políticos para Portugal.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O domínio administrativo dos portugueses sobre as terras da América foi enfraquecido pela promulgação do Tratado de Madri, na primeira metade do século XVII. Esse tratado impôs uma redução da extensão de suas possessões territoriais e beneficiou os espanhóis na disputa pelas terras.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04 (soma 05).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 4.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição correta do sistema de Capitanias Hereditárias (1534) e dos poderes dos donatários.</li>
+<li><strong>02. Errada.</strong> O Governo-Geral (1549) buscava CENTRALIZAR a administração colonial e REDUZIR os poderes dos donatários, cujo sistema havia fracassado — o oposto do afirmado.</li>
+<li><strong>04. Correta.</strong> Durante a União Ibérica (1580-1640, união das coroas de Portugal e Espanha), a linha do Tratado de Tordesilhas perdeu efetividade prática, facilitando a expansão territorial rumo ao interior.</li>
+<li><strong>08. Errada.</strong> Foram os HOLANDESES (não os ingleses) que invadiram militarmente as zonas açucareiras da América portuguesa no século XVII.</li>
+<li><strong>16. Errada.</strong> O Tratado de Madri foi assinado em 1750 (metade do século XVIII, não do XVII) e, pelo princípio do uti possidetis, BENEFICIOU Portugal com a ampliação de seu território, não a Espanha.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 08 e 16 trocam nacionalidades e datas de eventos históricos reais (holandeses por ingleses; século XVIII por XVII) — sempre confira esses detalhes isoladamente.</p>
 </div>
 </div>
 

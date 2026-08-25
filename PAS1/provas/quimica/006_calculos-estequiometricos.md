@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais do Vestibular de Verão UEM (2021, 2022, 2023 e 2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS/UEM 2023 e Vestibular de Verão UEM 2021, 2022, 2023 e 2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - Vestibular de Verão UEM 2025, Questão 45. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questões 19 e 22 (Conhecimentos Gerais). Gabarito definitivo (retificado na Questão 19) publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 45. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 49 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 44 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -106,6 +107,54 @@
 <li><strong>16. Correta.</strong> Toda combustão é uma reação de oxirredução (o carbono é oxidado, o oxigênio é reduzido).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a armadilha central da questão é identificar corretamente o reagente limitante — comparando 3,5mol de etanol (que exigiriam 10,5mol de O₂) com os 9,0mol de O₂ realmente disponíveis, conclui-se que o oxigênio (não o etanol) limita a reação.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 19 (Conhecimentos Gerais) — gabarito retificado</p>
+<p><strong>5. A água oxigenada é uma solução de H₂O₂, muito utilizada em salões de beleza, que se decompõe lentamente em O₂ e H₂O. A concentração de uma solução de água oxigenada é definida em razão do volume de O₂ liberado nas CNTP por unidade de volume da solução. Usando um arredondamento na última casa decimal, quando necessário, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) H₂O₂ é a fórmula do peróxido de hidrogênio.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A massa de água oxigenada que libera 30L de O₂ nas CNTP é igual a 91,1g.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O número de mol de O₂ produzidos pela decomposição de 1L de uma solução de água oxigenada 10 volumes é 0,45.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Sabendo que em um frasco de água oxigenada a concentração de H₂O₂ diminui de 0,8mol/L para 0,5mol/L em um intervalo de tempo de 10 minutos, pode-se afirmar que sua velocidade de decomposição é de 5 × 10⁻³mol/L·s.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Para preparar água oxigenada 10 volumes a partir de água oxigenada 30 volumes basta adicionar 3L de água a 1L da solução 30 volumes.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial (retificado): 01-02-04 (soma 07).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 19.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato padrão de nomenclatura química.</li>
+<li><strong>02. Correta.</strong> 2H₂O₂→2H₂O+O₂; 30L÷22,4L/mol≈1,339mol O₂ → 2,679mol H₂O₂ × 34g/mol ≈ 91,1g.</li>
+<li><strong>04. Correta.</strong> "10 volumes" significa 10L de O₂ por litro de solução; 10L÷22,4L/mol≈0,45mol.</li>
+<li><strong>08. Errada.</strong> Δ[H₂O₂]=0,3mol/L em 600s (10min) → velocidade=0,3/600=5×10⁻⁴mol/L·s, não 5×10⁻³ — erro de uma ordem de grandeza.</li>
+<li><strong>16. Errada.</strong> Diluir de 30 para 10 volumes exige um fator 3 no volume total; a 1L de solução deve-se adicionar 2L de água (total 3L), não 3L (que dariam 4L totais e apenas 7,5 volumes).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 soma incorretamente o volume de água a adicionar — para triplicar o volume total (fator de diluição 3), some água suficiente para que o volume FINAL (não o volume de água) seja o triplo do inicial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 22 (Conhecimentos Gerais)</p>
+<p><strong>6. Considere a reação química a seguir, não balanceada, e assinale o que for correto: xAl(OH)₃ + yH₂SO₄ → zAl₂(SO₄)₃ + wH₂O.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Na reação ocorre a decomposição do hidróxido de alumínio.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A reação de 4mol de Al(OH)₃ com 6mol de H₂SO₄ leva à formação de 342g de Al₂(SO₄)₃.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Se os coeficientes da equação balanceada forem os menores valores inteiros possíveis a média aritmética deles será 3.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na reação balanceada, se x = 10, então w = 30.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A reação de 156g de Al(OH)₃ consome 18 × 10²³ moléculas de H₂SO₄.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 22.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> É uma reação de neutralização (dupla troca ácido-base), não de decomposição.</li>
+<li><strong>02. Errada.</strong> Equação balanceada: 2Al(OH)₃+3H₂SO₄→Al₂(SO₄)₃+6H₂O. Com 4mol de Al(OH)₃ (dobro da proporção), formam-se 2mol de Al₂(SO₄)₃ = 2×342=684g, não 342g (que é só 1mol).</li>
+<li><strong>04. Correta.</strong> Coeficientes mínimos: x=2,y=3,z=1,w=6; média=(2+3+1+6)/4=3.</li>
+<li><strong>08. Correta.</strong> Proporção x:w=2:6=1:3; se x=10 (escala ×5), w=30.</li>
+<li><strong>16. Correta.</strong> 156g÷78g/mol(Al(OH)₃)=2mol; proporção Al(OH)₃:H₂SO₄=2:3, logo consome 3mol de H₂SO₄=3×6,02×10²³≈18×10²³ moléculas.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 esquece de multiplicar a quantidade de produto formado pela proporção estequiométrica completa — usar 4mol de reagente (dobro da proporção mínima) dobra também a quantidade de produto.</p>
 </div>
 </div>
 

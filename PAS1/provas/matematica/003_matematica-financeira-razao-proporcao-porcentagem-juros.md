@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS/UEM 2022, 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar.
+**Itens neste banco:** 6 questões reais (PAS/UEM 2022, 2023, 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questões 25 e 26. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 25. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 25 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questão 25 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM, 2025, Questão 40. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -130,6 +131,30 @@
 <li><strong>16. Correta.</strong> Juros compostos: 1.000.000 × (1,01)³ = 1.000.000 × 1,030301 = R$1.030.301,00 — cálculo exato.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 exagera muito o efeito da inflação sobre o poder de compra ao longo de poucos meses — sempre calcule a ordem de grandeza real antes de aceitar uma fração dramática como "2/3".</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 25 (Conhecimentos Gerais)</p>
+<p><strong>6. Quatro amigos de uma escola, precisando juntar dinheiro para a formatura, resolvem vender trufas, todas pelo mesmo preço. Para levarem avante essa ideia, juntam o dinheiro que têm e decidem que cada um participará nos lucros e nas sobras proporcionalmente à contribuição inicial de cada um. João deu R$50; Maria, R$30; José, R$20; e Ana, R$60. Com base nesses dados, e em conhecimentos de matemática financeira, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Ana tem direito a 60% dos lucros.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Porcentagem é utilizada para designar uma fração cujo denominador é 100.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Se eles obtiverem R$650 com as vendas, então José deve receber R$81,25.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Após as vendas, sobraram 32 trufas, que eles dividiram entre si. Nesse caso, João tem direito a ficar com 10 trufas.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Se os quatro amigos produziram 128 trufas e venderam todas, então, para não terem prejuízo, o valor mínimo de cada trufa deve ter sido de R$1,25.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08-16 (soma 30).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 25.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Total investido = 50+30+20+60=160; parte de Ana = 60/160=37,5%, não 60%.</li>
+<li><strong>02. Correta.</strong> Definição padrão de porcentagem.</li>
+<li><strong>04. Correta.</strong> Parte de José = 20/160=12,5%; 12,5% de 650 = 81,25.</li>
+<li><strong>08. Correta.</strong> Parte de João = 50/160=31,25%; 31,25% de 32 = 10 trufas.</li>
+<li><strong>16. Correta.</strong> Para não ter prejuízo, receita ≥ custo (160); 128 trufas × preço ≥ 160 → preço ≥ 160/128 = 1,25.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 usa o valor absoluto de Ana (R$60) como se fosse diretamente a porcentagem, ignorando que é preciso dividir pelo total investido (R$160) para achar a proporção real.</p>
 </div>
 </div>
 

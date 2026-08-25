@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 8 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2023/2024/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 9 questões reais (PAS 2021/2023/2025 e Vestibular de Verão UEM 2023/2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 23. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 8 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 8 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -228,6 +229,30 @@
 <li><strong>16. Errada.</strong> Durkheim observou o OPOSTO — as taxas de suicídio tendem a CAIR em tempos de guerra, devido ao aumento da integração/coesão social nacional.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 inverte o achado real de Durkheim — os suicídios diminuem (não aumentam) em tempos de guerra, por causa do reforço da coesão social.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 8 (Conhecimentos Gerais)</p>
+<p><strong>9. O sociólogo Norbert Elias foi um dos grandes estudiosos da relação entre o eu e os outros. Acerca dessa relação proposta por ele, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A formação da individualidade é resultado de um longo processo que teve início nos primórdios da civilização.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O processo de individualização teve um retrocesso a partir do Renascimento.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O processo de formação da individualidade surge na relação com o outro.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Para Elias, a individualidade é uma característica da modernidade.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Segundo Elias, o ser humano adquire maior consciência de si na medida em que a sociedade se torna mais complexa.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08-16 (soma 29).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 8.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Tese central de Elias sobre o "processo civilizador" como desenvolvimento histórico de longa duração.</li>
+<li><strong>02. Errada.</strong> Para Elias, a individualização se INTENSIFICA a partir do Renascimento, não recua.</li>
+<li><strong>04. Correta.</strong> Central à sociologia relacional de Elias: a individualidade se forma na relação com o outro.</li>
+<li><strong>08. Correta.</strong> Consistente com a teoria de Elias sobre a individualidade como traço da sociedade moderna, complexa e diferenciada.</li>
+<li><strong>16. Correta.</strong> Elias associa maior autoconsciência ao aumento da complexidade e da interdependência social.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 inverte a tese de Elias — para ele, a individualização se intensifica (não recua) a partir do Renascimento.</p>
 </div>
 </div>
 

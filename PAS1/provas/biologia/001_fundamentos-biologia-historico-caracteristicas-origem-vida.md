@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 7 questões reais (PAS 2021/2022/2025 e Vestibular de Verão UEM 2024/2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 9 questões reais (PAS 2021/2022/2023/2025 e Vestibular de Verão UEM 2024/2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 34. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questões 10 e 15 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2022, Questão 13 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questões 10, 12 e 13 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 42. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -179,6 +180,54 @@
 <li><strong>16. Errada.</strong> 1m ÷ 1nm = 1m ÷ 10⁻⁹m = 10⁹ = um BILHÃO de vezes, não um milhão — erro de ordem de grandeza.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 02 e 16 erram por uma ordem de grandeza nos cálculos — sempre confira as potências de dez com cuidado nesse tipo de questão.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 10 (Conhecimentos Gerais)</p>
+<p><strong>8. Considere um ser que possua clorofila e assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Esse ser produz oxigênio durante as vinte e quatro horas do dia.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Por ser clorofilado, esse ser não realiza respiração celular.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Se esse ser for multicelular, então possui o polissacarídeo celulose em suas células.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Esse ser, com certeza, não é procarioto.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Na cadeia alimentar, esse ser faz parte do grupo daqueles que fornecem matéria e energia, as quais possibilitam a vida dos demais grupos de organismos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-16 (soma 20).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 10.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A fotossíntese (produção de O₂) só ocorre com luz; à noite, o organismo apenas respira, consumindo O₂.</li>
+<li><strong>02. Errada.</strong> Organismos clorofilados também realizam respiração celular normalmente — fotossíntese e respiração coexistem.</li>
+<li><strong>04. Correta.</strong> Seres clorofilados multicelulares (plantas, algas) têm parede celular de celulose.</li>
+<li><strong>08. Errada.</strong> Cianobactérias são procariontes clorofilados/fotossintetizantes — não é certo que um ser clorofilado nunca seja procarioto.</li>
+<li><strong>16. Correta.</strong> Organismos fotossintetizantes são produtores, a base da cadeia alimentar.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 usa "com certeza" para negar a existência de procariontes clorofilados — mas as cianobactérias são exatamente esse caso.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 15 (Conhecimentos Gerais)</p>
+<p><strong>9. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Uma das características utilizadas na classificação de células procarióticas e de células eucarióticas é a composição química dos ácidos nucleicos.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O citoplasma de uma célula é uma solução aquosa que contém solutos dissolvidos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Células possuem moléculas orgânicas cujos átomos se unem por compartilhamento de elétrons.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O NaCl é um sal solúvel, com alta condutividade elétrica, e os elementos que o constituem ajudam no equilíbrio dos líquidos do corpo e no funcionamento dos nervos e da membrana das células.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A equação química C2H6O + 3O2 → CO2 + H2O está de acordo com a Lei de Lavoisier, segundo a qual em uma reação química alguns átomos podem apresentar espaços vazios e as partículas α sofrem desvios ao colidirem com os elétrons.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08 (soma 14).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 15.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A distinção entre procariontes e eucariontes é a presença/ausência de núcleo organizado, não a composição química dos ácidos nucleicos (que é a mesma em todos os seres).</li>
+<li><strong>02. Correta.</strong> Definição padrão do citoplasma como solução aquosa com solutos.</li>
+<li><strong>04. Correta.</strong> Definição padrão de ligação covalente em moléculas orgânicas.</li>
+<li><strong>08. Correta.</strong> Fato padrão de fisiologia sobre o papel do NaCl (Na⁺/Cl⁻) no equilíbrio hídrico e na função nervosa.</li>
+<li><strong>16. Errada.</strong> A afirmação mistura, de forma incorreta, a Lei de Lavoisier (conservação de massa) com conceitos de "espaços vazios" e desvio de partículas α — uma descrição sem sentido químico, e a própria equação está desbalanceada.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 usa o nome de Lavoisier para justificar uma descrição pseudocientífica que mistura conceitos de física nuclear (partículas α) com uma reação de combustão comum — sempre desconfie de justificativas que "explicam demais".</p>
 </div>
 </div>
 

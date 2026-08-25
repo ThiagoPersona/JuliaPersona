@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (PAS 2024 e Vestibular de Verão UEM 2024), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2023/2024 e Vestibular de Verão UEM 2024), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 19. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 21 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 47. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -56,6 +57,30 @@
 <li><strong>16. Errada.</strong> Raios gama têm alta energia, e sua emissão não muda o número atômico (não têm massa nem carga).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 inverte a energia dos raios gama (é alta, não baixa) e atribui a eles um efeito de transmutação que só ocorre com alfa e beta.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 21 (Conhecimentos Gerais)</p>
+<p><strong>3. Considere as seguintes reações nucleares e assinale o que for correto sobre esse assunto. I) ¹⁴N₇ + ⁴α₂ → ¹⁷O₈ + ¹p₁. II) ²³⁸U₉₂ → ⁴α₂ + Th (massa e número atômico a determinar).</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O número de nêutrons do urânio-238 é 146.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) ¹⁵N₇ é um isóbaro do ¹⁴N₇.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Na reação I ocorre uma transmutação artificial.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na reação II, a massa do tório é 234, e o número de prótons é 90.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Sabendo-se que o tempo de meia-vida do urânio é 4,5 bilhões de anos, então o tempo necessário para reduzir a um quarto uma determinada massa desse nuclídeo é de 18 bilhões de anos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 21.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Nêutrons = massa − número atômico = 238 − 92 = 146.</li>
+<li><strong>02. Errada.</strong> ¹⁵N e ¹⁴N têm o mesmo número atômico (7) e massas diferentes — são ISÓTOPOS, não isóbaros (que exigiriam mesma massa, número atômico diferente).</li>
+<li><strong>04. Correta.</strong> A reação I é o clássico experimento de Rutherford (1919) de transmutação artificial (bombardeio de N-14 com partícula alfa).</li>
+<li><strong>08. Correta.</strong> No decaimento alfa do U-238: massa 238−4=234; número atômico 92−2=90 — exatamente o Th-234.</li>
+<li><strong>16. Errada.</strong> Reduzir a 1/4 da massa corresponde a 2 meias-vidas: 2×4,5=9 bilhões de anos, não 18.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 dobra incorretamente o tempo de meia-vida (usando 4× em vez de 2×) — reduzir à quarta parte exige exatamente duas meias-vidas, não quatro.</p>
 </div>
 </div>
 

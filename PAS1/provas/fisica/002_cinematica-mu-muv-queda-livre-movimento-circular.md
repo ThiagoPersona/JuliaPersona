@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões oficiais do PAS/UEM (2021, 2024 e 2025), com gabarito definitivo confirmado. Toda a física foi refeita manualmente antes de publicar.
+**Itens neste banco:** 4 questões oficiais do PAS/UEM (2021, 2023, 2024 e 2025), com gabarito definitivo confirmado. Toda a física foi refeita manualmente antes de publicar.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 37. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 17. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 17 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 17 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -81,6 +82,30 @@
 <li><strong>16. Errada.</strong> Com ângulo AOB=90°, a corda AB mede r√2 = 20×1,414 ≈ 28,28cm, que é MENOR que 30cm, não maior.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 contraria a definição básica do MCU — mesmo com velocidade escalar constante, sempre existe aceleração centrípeta (mudança na direção da velocidade).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,04,08">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 17 (Conhecimentos Gerais)</p>
+<p><strong>4. Três partículas (A, B e C) percorrem o mesmo caminho linear em velocidades instantâneas constantes, v_A = 6m/s, v_B = 4m/s e v_C = 5m/s. Suponha que no tempo t = 0s os seus respectivos pontos de partida sejam s_A = −120m, s_B = −80m e s_C = −100m. Considerando s_A(t), s_B(t) e s_C(t) as posições das partículas A, B e C, respectivamente, em metros, em função do tempo t, em segundo, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) As partículas encontrar-se-ão no marco zero espacial em t = 20s.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Em t = 35s as partículas A, B e C estarão nas posições 90m, 60m e 75m, respectivamente.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O movimento de cada partícula é um movimento uniforme.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O sistema de equações decorrente das igualdades s_A(t) = s_B(t) = s_C(t) = s é linear, possível e determinado nas incógnitas s e t.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O sistema linear formado apenas pela equação s_A(t) = s nas incógnitas s e t é um sistema linear impossível.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-04-08 (soma 15).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 17.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Resolvendo s_A(t)=6t−120=0, s_B(t)=4t−80=0 e s_C(t)=5t−100=0, as três dão exatamente t=20s.</li>
+<li><strong>02. Correta.</strong> s_A(35)=6(35)−120=90; s_B(35)=4(35)−80=60; s_C(35)=5(35)−100=75 — todos batem.</li>
+<li><strong>04. Correta.</strong> Velocidades instantâneas constantes definem, por definição, um movimento uniforme (MU).</li>
+<li><strong>08. Correta.</strong> As três retas se encontram exatamente em t=20s, s=0 — um sistema (sobre-determinado, mas consistente) com solução única: possível e determinado.</li>
+<li><strong>16. Errada.</strong> Uma única equação linear com duas incógnitas (s e t) tem infinitas soluções (é uma reta) — é possível e indeterminado, nunca "impossível".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 chama de "impossível" um sistema com uma equação e duas incógnitas — na verdade esse tipo de sistema é sempre possível e indeterminado (infinitas soluções), nunca impossível.</p>
 </div>
 </div>
 

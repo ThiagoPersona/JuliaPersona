@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões reais (PAS 2024, PAS 2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões reais (PAS 2023/2024/2025 e Vestibular de Verão UEM 2022), com gabarito definitivo confirmado. Uma delas também aborda ginástica de condicionamento físico (ver [Ginástica de condicionamento físico](../../temas/educacao-fisica/003_ginastica-condicionamento-fisico.md)).
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 9. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 16. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2023, Questão 9 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 32 (Conhecimentos Específicos - Educação Física). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -81,6 +82,30 @@
 <li><strong>16. Correta.</strong> Descrição correta da dança do coco: origem africana, ligada à extração do coco.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 mistura estilos de dança de naturezas diferentes (zumba, balé) na categoria "dança de salão" — nem toda dança em grupo ou dupla é dança de salão.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,16">
+<p class="quiz-source">PAS/UEM, Etapa 1, 2023, Questão 9 (Conhecimentos Gerais)</p>
+<p><strong>4. Sobre dança de salão e ginástica, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O bolero, um ritmo quaternário dançado em pares, configura-se um tipo de dança de salão muito conhecido pelos povos latinos.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) As ginásticas de condicionamento físico que objetivam a saúde e a estética corporal são geralmente praticadas em academias, clubes, associações de bairros, universidades etc.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Rope Skipping é uma modalidade de dança promovida pela Confederação Brasileira de Dança Esportiva.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Ginástica para Todos (GPT) é uma modalidade competitiva cujo principal evento de competição é a Gymnaestrada Mundial, realizada a cada quatro anos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A dança de salão agrega o convívio social à sua prática, e sua principal movimentação envolve variações do andar e giros associados à técnica de postura corporal; e percepção rítmica, entre outros elementos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-16 (soma 19).</strong> Fonte: PAS/UEM, Etapa 1, 2023, Questão 9.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato padrão sobre o bolero como dança de salão latina.</li>
+<li><strong>02. Correta.</strong> Fato geral sobre onde se pratica ginástica de condicionamento físico.</li>
+<li><strong>04. Errada.</strong> Rope Skipping (corda) é modalidade GINÁSTICA/esportiva, ligada a federações de ginástica, não uma "dança" promovida por confederação de dança.</li>
+<li><strong>08. Errada.</strong> A Ginástica para Todos (GPT) é, por definição, NÃO competitiva; a Gymnaestrada Mundial é um festival/mostra, não uma competição.</li>
+<li><strong>16. Correta.</strong> Descrição padrão da dança de salão como prática social e de movimento.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 chama de "competitiva" a Ginástica para Todos, quando seu princípio fundador é justamente ser inclusiva e não competitiva.</p>
 </div>
 </div>
 
