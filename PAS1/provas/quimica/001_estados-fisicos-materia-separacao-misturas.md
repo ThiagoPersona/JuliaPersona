@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS 2021/2024 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2021/2022/2024 e Vestibular de Verão UEM 2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questões 21 e 22. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 22 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 21 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 41 (Conhecimentos Específicos - Química). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2020, Questão 38 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -130,6 +131,30 @@
 <li><strong>16. Errada.</strong> Separar água e etanol exige DESTILAÇÃO FRACIONADA (não simples), devido à proximidade dos pontos de ebulição e à formação de azeótropo.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 usa "destilação simples" para separar água e etanol, quando a proximidade dos pontos de ebulição exige destilação fracionada.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 22 (Conhecimentos Gerais)</p>
+<p><strong>6. As ligas metálicas contêm dois ou mais elementos químicos, e pelo menos um deles é um metal. Com base nas ligas metálicas A (latão), B (bronze) e C (aço), assinale o que for correto. Liga A: Cu 60% + Zn 40%. Liga B: Cu 70% + Zn 10% + Sn 20%. Liga C: Fe 98,5% + C 1,5%.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Um resíduo constituído de peças de bronze e de aço representa uma mistura sólida heterogênea que pode ser reciclada pelo método de separação magnética.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A combinação de 2 partes da liga A e 3 partes da liga B resulta em uma nova liga com quantidade de cobre superior à liga B.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Na liga C, o átomo de carbono forma ligação metálica com o átomo de ferro.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os elementos Cu, Zn, Sn, Fe e C são metais.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Uma nova liga com 70% de cobre é formada quando 10g de cobre são incorporados homogeneamente em 100g da liga A.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01 (soma 01).</strong> Fonte: PAS/UEM, Etapa 1, 2022, Questão 22.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Aço é ferromagnético (rico em Fe) e bronze não é; peças distinguíveis de cada liga formam mistura sólida heterogênea, separável por atração magnética.</li>
+<li><strong>02. Errada.</strong> Misturando 2 partes de A (60% Cu) e 3 partes de B (70% Cu): massa total de Cu = 2×0,60+3×0,70=1,20+2,10=3,30 em 5 partes = 66% de Cu — menor que os 70% da liga B pura, não superior.</li>
+<li><strong>04. Errada.</strong> O carbono é um não metal; sua interação com o ferro no aço não é classificada como ligação metálica clássica (que ocorre entre átomos metálicos).</li>
+<li><strong>08. Errada.</strong> O carbono (C) não é um metal — é um não metal, o que torna a afirmação falsa mesmo com os outros quatro elementos sendo metais.</li>
+<li><strong>16. Errada.</strong> 100g da liga A têm 60g de Cu; somando 10g de Cu, ficam 70g de Cu em 110g totais = 63,6% de Cu, não 70%.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 08 lista corretamente quatro metais (Cu, Zn, Sn, Fe) mas inclui o carbono, que é um não metal — basta um elemento errado para invalidar a afirmação inteira.</p>
 </div>
 </div>
 

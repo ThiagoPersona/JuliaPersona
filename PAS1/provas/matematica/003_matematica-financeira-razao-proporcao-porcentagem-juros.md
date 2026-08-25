@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS/UEM 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar.
+**Itens neste banco:** 5 questões reais (PAS/UEM 2022, 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questões 25 e 26. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 25. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 25 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM, 2025, Questão 40. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -105,6 +106,30 @@
 <li><strong>16. Errada.</strong> O resultado real (813,60) é um acréscimo de apenas 1,7% sobre 800, não 3% — 13%−10% não é a forma correta de calcular o efeito líquido.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 é a armadilha central de todo o tema — subtrair as porcentagens (13%−10%=3%) parece intuitivo, mas está matematicamente errado, porque o desconto de 10% incide sobre o valor já aumentado, não sobre o valor original.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 25 (Conhecimentos Gerais)</p>
+<p><strong>5. A inflação tem aumentado, entre outros fatores, devido à pandemia. Uma das formas de o Banco Central controlar a inflação é aumentando a taxa de juros, por meio de alteração da taxa Selic. Sobre situações envolvendo juros e inflação, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Inflação é o nome conferido ao incremento de uma dívida.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Se a inflação anual é de 18% e um indivíduo recebe o mesmo salário mensalmente, então, ao longo de oito meses, seu salário perderá 2/3 do poder de compra.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Se a inflação é de 6% ao ano, uma aplicação financeira que recebe 1% de juros simples ao mês terá uma valorização monetária.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A remuneração paga por uma aplicação financeira é denominada juros.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Um indivíduo aplicou 1 milhão de reais em títulos do Estado, remunerados mensalmente com uma taxa de 1% ao mês. Sabendo-se que durante três meses o investimento teve reaplicação automática, ao final desse período ele receberá R$1.030.301,00.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM, Etapa 1, 2022, Questão 25.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Inflação é o aumento geral e contínuo dos preços (perda de poder de compra da moeda), não "o incremento de uma dívida" — isso seria relacionado a juros, não a inflação.</li>
+<li><strong>02. Errada.</strong> Com inflação anual de 18%, a perda de poder de compra ao longo de 8 meses fica em torno de 10-12%, muito longe de 2/3 (66,7%) — erro grosseiro de ordem de grandeza.</li>
+<li><strong>04. Correta.</strong> Juros simples de 1% ao mês equivalem a cerca de 12% ao ano, superior aos 6% de inflação anual — a aplicação rende mais que a inflação, logo há valorização monetária real.</li>
+<li><strong>08. Correta.</strong> Definição padrão: a remuneração de uma aplicação financeira é chamada de juros.</li>
+<li><strong>16. Correta.</strong> Juros compostos: 1.000.000 × (1,01)³ = 1.000.000 × 1,030301 = R$1.030.301,00 — cálculo exato.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 exagera muito o efeito da inflação sobre o poder de compra ao longo de poucos meses — sempre calcule a ordem de grandeza real antes de aceitar uma fração dramática como "2/3".</p>
 </div>
 </div>
 

@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS/UEM 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar (não é só o gabarito oficial "de olhos fechados").
+**Itens neste banco:** 5 questões reais (PAS/UEM 2022, 2024, 2025 e Vestibular de Verão UEM 2025), com gabarito definitivo confirmado. Todas as contas foram conferidas manualmente antes de publicar (não é só o gabarito oficial "de olhos fechados").
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questões 27 e 29. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 24. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 24 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM, 2025, Questão 37. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -105,6 +106,30 @@
 <li><strong>16. Correta.</strong> Os coeficientes da 3ª equação (-2,-1,1) são exatamente -1× os coeficientes da 1ª equação (2,1,-1) — linhas linearmente dependentes, logo determinante nulo.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 tenta fazer parecer que "não ter solução única" significa "ter infinitas soluções" — mas a soma das equações revela uma contradição, o que classifica o sistema como impossível, não indeterminado.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 24 (Conhecimentos Gerais)</p>
+<p><strong>5. Em relação à matriz A_{m×n} = (a_ij), em que a_ij = i − j, com m, n, i, j = 1, 2, 3, 4, ..., assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Se m &gt; n, então A não é uma matriz quadrada.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Se m = 3 e n = 5, então a matriz A tem 15 entradas não nulas.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Se m = n, então a matriz A é a matriz identidade.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Se m = n = 2, então a matriz A é inversível.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Se A é uma matriz de ordem 3, então todos os elementos acima da diagonal principal são números inteiros negativos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-08-16 (soma 25).</strong> Fonte: PAS/UEM, Etapa 1, 2022, Questão 24.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Matriz quadrada exige número de linhas igual ao número de colunas (m=n); se m&gt;n, não pode ser quadrada.</li>
+<li><strong>02. Errada.</strong> Matriz 3×5 tem 15 entradas totais, mas as entradas com i=j (i=j=1,2,3) valem zero — restam 12 entradas não nulas, não 15.</li>
+<li><strong>04. Errada.</strong> Quando m=n, a diagonal principal (i=j) vale sempre zero, não 1 — logo A não é a matriz identidade (é, na verdade, antissimétrica).</li>
+<li><strong>08. Correta.</strong> Para m=n=2: A = [[0,-1],[1,0]]. Determinante = 0×0-(-1×1)=1≠0, logo A é inversível.</li>
+<li><strong>16. Correta.</strong> Elementos acima da diagonal principal têm j&gt;i, logo a_ij=i-j&lt;0 — são sempre inteiros negativos.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 tenta associar "m=n" (matriz quadrada) à matriz identidade, mas a regra a_ij=i-j força a diagonal principal a ser sempre zero, o oposto da identidade (diagonal 1).</p>
 </div>
 </div>
 

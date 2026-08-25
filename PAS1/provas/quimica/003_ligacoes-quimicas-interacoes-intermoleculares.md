@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 3 questões oficiais do PAS/UEM (2021 e 2025), Etapa 1, com gabarito definitivo confirmado.
+**Itens neste banco:** 4 questões oficiais do PAS/UEM (2021, 2022 e 2025), Etapa 1, com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 40. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 21 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questões 19 e 22 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
 ---
@@ -80,6 +81,30 @@
 <li><strong>16. Errada.</strong> A ligação Be-H é covalente, não iônica.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 atribui octeto completo ao berílio, mas ele é justamente um dos exemplos clássicos de exceção à regra do octeto (fica deficiente em elétrons).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 21 (Conhecimentos Gerais)</p>
+<p><strong>4. O flúor é o elemento mais eletronegativo e reage com a maioria dos elementos da tabela periódica, exceto argônio, neônio e hélio. Com base nas substâncias KF, F2, OF2, HF e NF3, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) KF e HF conduzem corrente elétrica em solução aquosa.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) OF2 é um óxido iônico.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) NF3 é uma molécula apolar.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) F2 possui ligação covalente apolar e é uma molécula apolar.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) HF é um hidrácido que possui ligação de hidrogênio intermolecular.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-08-16 (soma 25).</strong> Fonte: PAS/UEM, Etapa 1, 2022, Questão 21.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> KF é composto iônico, dissocia-se totalmente em água; HF, mesmo sendo ácido fraco, ioniza-se parcialmente — ambos conduzem corrente elétrica em solução.</li>
+<li><strong>02. Errada.</strong> OF2 é um composto covalente (dois não metais), não iônico; além disso, como o flúor é mais eletronegativo que o oxigênio, essa substância não se enquadra na definição usual de óxido.</li>
+<li><strong>04. Errada.</strong> NF3 tem geometria piramidal (como NH3), com ligações N-F polares; os dipolos não se cancelam totalmente — a molécula é polar, não apolar.</li>
+<li><strong>08. Correta.</strong> F2 é uma molécula diatômica homonuclear: a ligação covalente entre átomos iguais é apolar, e a molécula também é apolar.</li>
+<li><strong>16. Correta.</strong> HF é um hidrácido (ácido sem oxigênio) e, por causa da alta eletronegatividade e do pequeno tamanho do flúor, forma ligações de hidrogênio intermoleculares fortes.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 chama OF2 de "óxido iônico" — mas é um composto covalente, e o flúor sendo mais eletronegativo que o oxigênio nem sequer se encaixa bem na ideia tradicional de óxido.</p>
 </div>
 </div>
 

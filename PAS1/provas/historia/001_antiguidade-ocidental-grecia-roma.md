@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS 2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2022/2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 3. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questões 3 e 4 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 2 e 39. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 31/41 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2020, Questão 2 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -130,6 +131,54 @@
 <li><strong>16. Correta.</strong> Descrição padrão de Afrodite e da Vênus de Milo.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 08 trata o teatro grego como privilégio exclusivo da aristocracia, quando na verdade ele era uma prática cívica relativamente ampla entre os cidadãos atenienses.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 3 (Conhecimentos Gerais)</p>
+<p><strong>6. A cultura grega foi um dos pilares sobre os quais se ergueu a civilização ocidental. Sobre esse assunto, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Em seus primórdios, a poesia e a filosofia gregas se desenvolveram fundamentalmente com o intercâmbio de obras escritas, propiciado pelo trabalho dos aedos, mercadores que negociavam essas obras em diversas cidades.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O desenvolvimento da filosofia, da matemática e de outras formas de conhecimento na Grécia Antiga, sobretudo em Atenas, deveu-se à abertura das cidades gregas ao intercâmbio comercial e cultural com outros povos.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A recusa de explicações preestabelecidas, presente no pensamento científico ocidental, é uma herança do pensamento filosófico grego em sua busca pelos princípios da realidade.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A cultura política grega influenciou a constituição de regimes que atribuem ao conhecimento técnico uma função decisiva na estabilidade das instituições políticas, em detrimento do debate público, fonte de conflito e de perda de eficiência.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Apesar de diversos povos da Antiguidade efetuarem cálculos matemáticos para fins práticos, foram os gregos, dentre eles Pitágoras, que transformaram a matemática em ciência, com deduções e raciocínios lógicos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-16 (soma 22).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 3.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Os aedos eram poetas ORAIS (cantores de poesia épica), não "mercadores" que negociavam obras escritas — mischaracterização completa da função dos aedos.</li>
+<li><strong>02. Correta.</strong> Explicação histórica padrão sobre o papel do intercâmbio comercial/cultural no florescimento do pensamento grego.</li>
+<li><strong>04. Correta.</strong> Relação padrão entre a busca pré-socrática por explicações racionais e a herança do pensamento científico ocidental.</li>
+<li><strong>08. Errada.</strong> A cultura política grega (sobretudo a democracia ateniense) é conhecida justamente por valorizar o DEBATE PÚBLICO na vida política, não por subordiná-lo ao conhecimento técnico — inversão do traço histórico real.</li>
+<li><strong>16. Correta.</strong> Fato padrão sobre a contribuição grega (Pitágoras) à matemática como ciência dedutiva.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 descreve os aedos (poetas orais) como se fossem mercadores de obras escritas — inverte completamente sua função histórica real.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04,08">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 4 (Conhecimentos Gerais)</p>
+<p><strong>7. Sobre a Antiguidade grega, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) As cidades-Estado ou pólis possuíam duas características fundamentais: a ágora, espaço onde os cidadãos se reuniam para discutir a vida política; e a acrópole ou cidade alta, onde eram construídos os templos e os prédios nobres que expressavam o poder e a grandeza da cidade-Estado.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) No universo da democracia ateniense, os direitos políticos e civis eram iguais para homens e mulheres; todos podiam participar das assembleias, ocupar cargos públicos e desfrutar dos direitos políticos em geral.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A democracia ateniense criou mecanismos restritivos para a cidadania, como o ostracismo, que se caracterizava pelo exílio e pela cassação dos direitos políticos por dez anos.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na sociedade espartana, os espartanos formavam um grupo social privilegiado, ocupavam as melhores extensões de terras, e a eles estavam reservadas as funções políticas e militares.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os hilotas eram povos que viviam livremente e se dedicavam às práticas comerciais e ao artesanato; e participavam do exército em tempos de guerra, como força complementar.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04-08 (soma 13).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 4.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Descrição padrão dos dois espaços centrais da pólis grega.</li>
+<li><strong>02. Errada.</strong> A democracia ateniense excluía explicitamente as mulheres (e também escravos e estrangeiros) da cidadania política plena — fato histórico bem estabelecido.</li>
+<li><strong>04. Correta.</strong> Descrição padrão do ostracismo como mecanismo de exceção da democracia ateniense.</li>
+<li><strong>08. Correta.</strong> Descrição padrão da posição privilegiada dos espartanos na sociedade de Esparta.</li>
+<li><strong>16. Errada.</strong> Os hilotas eram uma população SERVIL (presa à terra, explorada pelos espartanos), não "livre" — inversão completa de sua real condição social.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 descreve os hilotas como um povo livre dedicado ao comércio, quando na realidade eram uma população servil/escravizada, presa ao trabalho da terra para os espartanos.</p>
 </div>
 </div>
 

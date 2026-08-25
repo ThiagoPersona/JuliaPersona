@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 8 questões reais (PAS 2021/2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 10 questões reais (PAS 2021/2022/2024 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 6. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questões 5 e 6 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 4 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 33/43 e 34/44 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 33/43, 34/44 e 40/50 (Conhecimentos Específicos - História). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -203,6 +204,54 @@
 <li><strong>16. Correta.</strong> Fato histórico real sobre a expansão pecuária e o povoamento do segundo planalto paranaense (região dos Campos Gerais) a partir do século XVIII.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 02 inverte a postura histórica dos colonos espanhóis em relação à escravização indígena — o conflito entre colonos e jesuítas por causa da exploração da mão de obra indígena é um traço marcante desse período, não uma aliança harmoniosa.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,02,08">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 5 (Conhecimentos Gerais)</p>
+<p><strong>9. Sobre aspectos históricos da colonização do Paraná e sua hidrografia, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Durante o período colonial, o território brasileiro foi dividido em capitanias hereditárias. O atual litoral paranaense pertencia a duas delas: a região situada ao norte de Paranaguá pertencia à capitania de São Vicente; a região situada ao sul de Paranaguá pertencia à capitania de Santana.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Próximos à foz do rio Piquiri, que representa um dos principais rios da rede hidrográfica paranaense, estão as ruínas da Ciudad Real del Guairá, construída pelos espanhóis no século XVI e destruída pelos bandeirantes no século XVII.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O rio Tibagi, o maior do sistema hidrográfico do Paraná e um dos afluentes do rio Ivaí, estabelece a divisão da fronteira entre os estados do Paraná e de Santa Catarina.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Na primeira metade do século XVII, os padres jesuítas espanhóis fundaram no território paranaense as reduções jesuíticas, aldeamentos indígenas que se localizavam perto dos rios Piquiri, Ivaí, Paranapanema, Tibagi e Iguaçu.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Na hidrografia paranaense, o rio Paraná estabelece fronteira com o estado de São Paulo e possui, como afluentes, os rios Chopim e Negro.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-02-08 (soma 11).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 5.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato histórico real sobre a divisão do litoral paranaense entre as capitanias de São Vicente e Santana.</li>
+<li><strong>02. Correta.</strong> Fato histórico real sobre Ciudad Real del Guairá e sua destruição pelos bandeirantes.</li>
+<li><strong>04. Errada.</strong> O Tibagi não é necessariamente "o maior" rio do sistema paranaense (rios como o Iguaçu e o próprio Paraná são maiores), não é simplesmente afluente do Ivaí, e não é ele que demarca a fronteira com Santa Catarina.</li>
+<li><strong>08. Correta.</strong> Fato histórico real sobre as reduções jesuíticas do Guairá.</li>
+<li><strong>16. Errada.</strong> Os rios Chopim e Negro não correspondem, nessa relação, a afluentes do rio Paraná na fronteira com São Paulo — atribuição geográfica incorreta.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 empilha três erros geográficos sobre o rio Tibagi (não é o maior do sistema, não é afluente do Ivaí, não demarca a fronteira com SC) — confira sempre esses detalhes hidrográficos isoladamente.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 6 (Conhecimentos Gerais)</p>
+<p><strong>10. Sobre o processo de colonização e o uso de recursos naturais do atual território paranaense, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Os bandeirantes realizaram as primeiras ações de evangelização em terras hoje pertencentes ao território paranaense.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Os conflitos entre Portugal e Espanha, resultantes da ocupação do território brasileiro, intensificaram-se após a revogação do Tratado de Tordesilhas na primeira metade do século XV.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O Tratado de Madri, assinado no final do século XVII, resultou em uma diminuição latitudinal da fronteira do Brasil pela cessão à Coroa espanhola das terras portuguesas localizadas ao sul do Trópico de Capricórnio.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) As missões jesuíticas criadas no atual território paranaense atuaram paralelamente ao ciclo da cultura canavieira do litoral nordestino.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Amplamente explorado como a primeira riqueza natural do solo brasileiro, o pau-brasil é uma das espécies naturais nativas da Mata Atlântica e pode ser encontrado em território paranaense.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 08-16 (soma 24).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 6.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Os bandeirantes eram caçadores de indígenas/exploradores de metais, não evangelizadores — esse era o papel dos jesuítas.</li>
+<li><strong>02. Errada.</strong> O Tratado de Tordesilhas foi assinado em 1494 (final do século XV) — não poderia ter sido "revogado" na primeira metade desse mesmo século, antes mesmo de existir.</li>
+<li><strong>04. Errada.</strong> O Tratado de Madri foi assinado em 1750 (meados do século XVIII, não "final do século XVII"), e favoreceu majoritariamente Portugal (princípio do uti possidetis), não uma cessão de terras portuguesas à Espanha.</li>
+<li><strong>08. Correta.</strong> As missões jesuíticas do Guairá (século XVII) foram, de fato, contemporâneas do auge do ciclo açucareiro nordestino.</li>
+<li><strong>16. Correta.</strong> O pau-brasil é espécie nativa da Mata Atlântica, presente também no território paranaense.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 02 e 04 embaralham datas de tratados históricos reais (Tordesilhas 1494, Madri 1750) com séculos e efeitos incorretos — sempre confira a data exata antes de aceitar uma afirmação histórica.</p>
 </div>
 </div>
 

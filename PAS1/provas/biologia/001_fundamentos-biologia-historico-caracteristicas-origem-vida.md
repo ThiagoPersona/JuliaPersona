@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 6 questões reais (PAS 2021/2025 e Vestibular de Verão UEM 2024/2025), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2021/2022/2025 e Vestibular de Verão UEM 2024/2025), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 34. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 13 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questões 10, 12 e 13 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 42. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -154,6 +155,30 @@
 <li><strong>16. Errada.</strong> O experimento de Miller-Urey demonstrou o OPOSTO: que moléculas orgânicas (aminoácidos) PODEM se formar a partir de substâncias inorgânicas sem a presença de seres vivos, sob condições que simulam a Terra primitiva.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 inverte a conclusão real do experimento de Miller-Urey — ele provou a possibilidade (não a impossibilidade) da formação abiótica de moléculas orgânicas.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="01,04">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 13 (Conhecimentos Gerais)</p>
+<p><strong>7. Assinale o que for correto em relação ao estudo das células, possibilitado pela microscopia.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Com o desenvolvimento das técnicas microscópicas, descobriu-se que as células de bactérias não têm núcleo.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Considere-se que alguns microscópios ópticos possibilitam aumento de até 1.500 vezes. Nesse instrumento, usando essa capacidade máxima de aumento, uma célula de 0,01mm de diâmetro terá sua imagem no tamanho de 15cm.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Considerando-se que, a olho nu, podem-se distinguir pontos que estejam a 0,1mm de distância um do outro, então um óvulo humano de 130 micrômetros (μm) de diâmetro é visível a olho nu, sabendo-se que 1 μm = 10⁻³mm.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Os vírus são seres vivos cujas células são observáveis por microscópios eletrônicos.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Para mensurar células de dimensões menores que 1 micrômetro (μm), costuma-se usar a unidade nanômetro (nm), que equivale a 10⁻⁹m. Uma célula de 1nm é, portanto, um milhão de vezes menor que 1m.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 01-04 (soma 05).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 13.</p>
+<ul class="quiz-explain">
+<li><strong>01. Correta.</strong> Fato padrão de biologia celular: bactérias são procariontes e não possuem núcleo organizado.</li>
+<li><strong>02. Errada.</strong> 0,01mm × 1.500 = 15mm = 1,5cm, não 15cm — erro de uma ordem de grandeza no cálculo.</li>
+<li><strong>04. Correta.</strong> 130μm = 0,13mm, que é maior que 0,1mm (limite de resolução do olho nu) — portanto, tecnicamente visível.</li>
+<li><strong>08. Errada.</strong> Vírus não são geralmente classificados como seres vivos (não têm metabolismo próprio) e não possuem "células" — eles próprios são partículas, não organismos celulares.</li>
+<li><strong>16. Errada.</strong> 1m ÷ 1nm = 1m ÷ 10⁻⁹m = 10⁹ = um BILHÃO de vezes, não um milhão — erro de ordem de grandeza.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 02 e 16 erram por uma ordem de grandeza nos cálculos — sempre confira as potências de dez com cuidado nesse tipo de questão.</p>
 </div>
 </div>
 

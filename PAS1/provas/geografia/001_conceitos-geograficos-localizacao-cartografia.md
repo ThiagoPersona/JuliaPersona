@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2021 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2021/2022 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2021, Questão 6 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 12 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 30. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 32 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -106,6 +107,30 @@
 <li><strong>16. Errada.</strong> IBGE (criado em 1936) e IHGB (criado em 1838) são instituições DIFERENTES, e nenhuma delas surgiu em meados do século XVIII — nem uma "virou" a outra.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 trata o IBGE e o IHGB como se fossem a mesma instituição em momentos diferentes, quando são duas instituições distintas, criadas em séculos diferentes.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 12 (Conhecimentos Gerais)</p>
+<p><strong>5. Sobre o estudo da célula e da representação cartográfica, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Aplica-se a noção de escala geográfica para a capacidade de resolução de um microscópio eletrônico.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) As células que constituem os seres vivos ocupam um espaço representado em uma escala cartográfica pequena.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O milímetro, o micrômetro e o nanômetro são medidas usadas no estudo das células e são diferentes das medidas usadas nas escalas cartográficas.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) Com o microscópio é possível observar células; com o mapa é possível observar a representação espacial da paisagem.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O microscópio produz imagens ampliadas sem utilizar um sistema de coordenadas geográficas.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 12.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Escala geográfica (razão entre distância no mapa e distância real) e resolução de microscópio (menor distância distinguível entre dois pontos) são conceitos diferentes — não se aplica um ao outro.</li>
+<li><strong>02. Errada.</strong> Células não são "representadas em escala cartográfica" — escala cartográfica é conceito específico de mapas, não de tamanho biológico.</li>
+<li><strong>04. Correta.</strong> Distinção correta entre unidades de medida biológicas e escalas cartográficas.</li>
+<li><strong>08. Correta.</strong> Comparação direta e correta entre as funções do microscópio e do mapa.</li>
+<li><strong>16. Correta.</strong> Fato correto: microscopia não usa sistema de coordenadas geográficas.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 tentam aplicar o conceito de "escala cartográfica" (próprio da geografia/mapas) para descrever tamanhos celulares e resolução de microscópios — são conceitos de naturezas diferentes.</p>
 </div>
 </div>
 

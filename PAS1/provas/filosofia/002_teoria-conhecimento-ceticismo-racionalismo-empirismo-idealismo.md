@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 5 questões reais (PAS 2024 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 6 questões reais (PAS 2022/2024 e Vestibular de Verão UEM 2024/2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 2. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 8 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2024, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 32 e 34 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 39 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -130,6 +131,30 @@
 <li><strong>16. Errada.</strong> Teorias científicas são revisadas/atualizadas diante de novas informações — não permanecem "inalteradas".</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 descreve as teorias científicas como imutáveis diante de novos dados, quando na verdade a revisão diante de novas evidências é central ao método científico.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 8 (Conhecimentos Gerais)</p>
+<p><strong>6. A preocupação com a origem e a natureza do conhecimento humano está presente na história da filosofia desde Platão e Aristóteles. Como problema crucial da teoria do conhecimento, essa preocupação foi retomada na filosofia moderna com o exame meticuloso das capacidades de conhecer do sujeito de conhecimento, em diversas correntes de pensamento. Sobre o conhecimento na filosofia moderna, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Para os filósofos modernos racionalistas, o conhecimento tem origem a posteriori e corresponde à conformidade entre ideias e objetos empíricos.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) Francis Bacon afirma que a ironia é a postura inicial de todo filósofo na investigação das fontes de conhecimento metafísico por meio do método dialético.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Para John Locke, todas as ideias e princípios do conhecimento têm origem na experiência sensível, primeiramente nas ideias simples de sensação.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) De acordo com David Hume, o princípio de causalidade não tem validade universal, pois observamos na natureza apenas a sucessão dos acontecimentos, mas não a sua conexão necessária.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Immanuel Kant afirma que espaço e tempo são formas a priori da sensibilidade humana em sua capacidade de intuir os fenômenos como objetos empíricos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 8.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Para os racionalistas, o conhecimento tem origem A PRIORI (via razão/ideias inatas) — "a posteriori" é característica do empirismo, não do racionalismo.</li>
+<li><strong>02. Errada.</strong> A "ironia" como postura inicial e o método "dialético" são associados a SÓCRATES, não a Francis Bacon (ligado ao empirismo/indução).</li>
+<li><strong>04. Correta.</strong> Descrição padrão do empirismo lockeano (tabula rasa, ideias simples de sensação).</li>
+<li><strong>08. Correta.</strong> Descrição padrão do ceticismo humeano quanto à causalidade.</li>
+<li><strong>16. Correta.</strong> Descrição padrão da estética transcendental kantiana (espaço e tempo como formas a priori da sensibilidade).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 atribui a Francis Bacon um método (ironia, dialética) que na verdade pertence a Sócrates — sempre confira a autoria de cada conceito filosófico citado.</p>
 </div>
 </div>
 

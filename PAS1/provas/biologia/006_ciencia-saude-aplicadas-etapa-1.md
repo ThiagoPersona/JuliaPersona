@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 6 questões reais (PAS 2021/2024 e Vestibular de Verão UEM 2025/2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2021/2022/2024 e Vestibular de Verão UEM 2025/2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 14. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 14 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 15 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 44. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 36. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -156,6 +157,30 @@
 <li><strong>16. Errada.</strong> O cálcio é um elemento do grupo 2 (alcalino-terroso), formando cátion Ca²⁺ (divalente), não monovalente.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 trata o excesso de vitamina D como sempre benéfico, ignorando que, em excesso, ela pode causar toxicidade — desconfie de afirmações que tratam "mais" como sempre "melhor".</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 14 (Conhecimentos Gerais)</p>
+<p><strong>7. Seres vivos são compostos por átomos e moléculas no interior dos quais ocorrem diversas transformações físicas e químicas. Sobre o assunto, e correlatos, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) Segundo a teoria celular, átomos e moléculas são menores do que uma célula, portanto constituem a unidade básica da vida, pois compõem todo tipo de matéria.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A membrana plasmática é constituída por uma dupla camada de glicoproteínas e moléculas de ATP; ela permite a ocorrência de osmose, fornecendo energia ao transporte de água.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) A falta de vitamina D em crianças dificulta a absorção do cálcio que está presente no leite e em seus derivados; dificulta, também, a mineralização óssea, levando ao raquitismo.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O ato de lavar as mãos com sabão é uma eficiente profilaxia para evitar a Covid-19, pois a região apolar das moléculas do sabão interage com os lipídios presentes no revestimento externo do vírus, enquanto a região polar das moléculas do sabão interage com a água. Essas interações rompem o revestimento externo do vírus, fragmentando-o.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) O antiácido estomacal preparado à base do sal de bicarbonato de sódio (NaHCO₃) reduz momentaneamente a acidez estomacal provocada pelo excesso de ácido clorídrico (HCl). Essa reação é classificada como dupla troca.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 14.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Pela teoria celular, é a CÉLULA (não átomos/moléculas isolados) que é considerada a unidade básica da vida.</li>
+<li><strong>02. Errada.</strong> A membrana plasmática é uma bicamada de FOSFOLIPÍDIOS (não "glicoproteínas e ATP"), e a osmose é transporte PASSIVO, que não requer energia/ATP.</li>
+<li><strong>04. Correta.</strong> Fato padrão de saúde infantil sobre vitamina D, absorção de cálcio e raquitismo.</li>
+<li><strong>08. Correta.</strong> Mecanismo correto e bem explicado da ação do sabão sobre o envelope lipídico viral.</li>
+<li><strong>16. Correta.</strong> NaHCO₃ + HCl → NaCl + H₂O + CO₂ é, de fato, uma reação de dupla troca/neutralização.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 02 descreve a membrana plasmática com componentes errados (glicoproteínas e ATP em vez de fosfolipídios) e atribui à osmose um gasto de energia que ela, como transporte passivo, não tem.</p>
 </div>
 </div>
 

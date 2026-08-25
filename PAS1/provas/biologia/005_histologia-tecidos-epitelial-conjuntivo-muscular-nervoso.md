@@ -2,10 +2,11 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 2 questões reais (Vestibular de Verão UEM 2022 e 2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 3 questões reais (PAS 2022 e Vestibular de Verão UEM 2022/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
+- PAS/UEM, Etapa 1, 2022, Questão 10 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 34 (Conhecimentos Específicos - Biologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 33 (Conhecimentos Específicos - Biologia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 
@@ -56,6 +57,30 @@
 <li><strong>16. Correta.</strong> A motilidade e secreção digestivas são de fato reguladas pelo sistema nervoso autônomo e por hormônios (gastrina, secretina, etc.).</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 01 atribui ao sistema digestório uma função (circular nutrientes e gases) que pertence ao sistema circulatório — o digestório processa e absorve, não "circula".</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 10 (Conhecimentos Gerais)</p>
+<p><strong>3. Assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) A mitocôndria é a única organela celular que utiliza o oxigênio nas células humanas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O tecido epitelial de humanos é um dos quatro tecidos básicos; é classificado conforme o número e a aparência das camadas celulares e também pela forma das células.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Ovos oligolécitos apresentam grandes quantidades de vitelo; estão presentes em aves e répteis.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A cromatina é o material genético presente no núcleo celular de células eucarióticas animais e de células eucarióticas vegetais.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Os linfócitos são células do sangue que atuam na produção de anticorpos.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-08-16 (soma 26).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 10.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Termo absoluto ("única") incorreto — outras estruturas celulares também podem estar envolvidas em processos que consomem oxigênio.</li>
+<li><strong>02. Correta.</strong> Definição padrão de tecido epitelial como um dos quatro tecidos básicos.</li>
+<li><strong>04. Errada.</strong> "Oligolécito" significa POUCO vitelo (oligo = pouco); aves e répteis têm ovos com GRANDE quantidade de vitelo, chamados telolécitos/polilécitos — a própria terminologia da afirmação se contradiz.</li>
+<li><strong>08. Correta.</strong> A cromatina é material genético presente no núcleo de células eucarióticas, tanto animais quanto vegetais.</li>
+<li><strong>16. Correta.</strong> Fato padrão de imunologia: linfócitos (linfócitos B) produzem anticorpos.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 04 usa o termo "oligolécito" (pouco vitelo) para descrever ovos com "grandes quantidades de vitelo" — uma contradição interna no próprio enunciado.</p>
 </div>
 </div>
 

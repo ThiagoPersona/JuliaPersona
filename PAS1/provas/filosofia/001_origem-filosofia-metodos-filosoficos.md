@@ -2,11 +2,12 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 4 questões reais (PAS 2025 e Vestibular de Verão UEM 2023/2022/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 5 questões reais (PAS 2022/2025 e Vestibular de Verão UEM 2023/2022/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 17. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 2 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2023, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questão 31 (Conhecimentos Específicos - Filosofia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2020, Questão 6 (Conhecimentos Gerais, Prova 1). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -106,6 +107,30 @@
 <li><strong>16. Errada.</strong> A democracia não era o regime predominante entre as cidades gregas (muitas eram oligárquicas), e Platão foi um crítico da democracia, não seu defensor como "melhor regime" — ele preferia o governo dos filósofos.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 16 atribui a Platão uma defesa da democracia como "melhor regime", quando na verdade ele é um dos críticos mais conhecidos desse sistema, propondo o governo dos filósofos em seu lugar.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="02,04,08">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 2 (Conhecimentos Gerais)</p>
+<p><strong>5. Sobre o desenvolvimento da filosofia no período clássico grego, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) O método de indagação socrático era empregado para produzir reflexão sobre o conhecimento já consolidado, tendo em vista a melhor forma de aplicar esse conhecimento a questões cotidianas.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O ensino de retórica, pelos sofistas, tinha como foco a virtude, caracterizada pelo bom desempenho dos aprendizes nas diversas instâncias cívicas de deliberação.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Em contraposição à instrução seletiva das escolas filosóficas gregas, a sofística promovia a educação de um público mais amplo, embora essa educação muitas vezes ocorresse mediante pagamento.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O ideal platônico de dialética se opunha aos embates argumentativos protagonizados pelos sofistas, e esses embates estavam associados com frequência a disputas verbais.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Platão acreditava que a educação sofística era capaz de produzir a compreensão da natureza de virtudes como coragem e sabedoria.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 02-04-08 (soma 14).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 2.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> O método socrático (elenchos) questiona o conhecimento que se presume já consolidado, revelando ignorância — não serve para "aplicar melhor" um saber assumido como pronto.</li>
+<li><strong>02. Correta.</strong> Descrição padrão do ensino sofístico de retórica ligado à virtude cívica (areté).</li>
+<li><strong>04. Correta.</strong> Contraste padrão entre a educação filosófica seletiva e o ensino sofístico, mais amplo e remunerado.</li>
+<li><strong>08. Correta.</strong> Descrição padrão da oposição entre a dialética platônica e a erística/retórica sofística.</li>
+<li><strong>16. Errada.</strong> Platão critica justamente os sofistas por NÃO conseguirem produzir verdadeira compreensão da virtude — ensinavam persuasão, não conhecimento genuíno.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 atribui a Platão uma avaliação positiva do ensino sofístico sobre a virtude — o oposto de sua crítica real aos sofistas.</p>
 </div>
 </div>
 

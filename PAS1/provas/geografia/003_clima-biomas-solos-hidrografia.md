@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 8 questões reais (PAS 2021/2024/2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
+**Itens neste banco:** 9 questões reais (PAS 2021/2022/2024/2025 e Vestibular de Verão UEM 2022/2021/2020), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2024, Questão 7. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2025, Questão 21. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 7 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questão 7 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2022, Questões 7 e 31 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questões 34 e 35 (Conhecimentos Específicos - Geografia). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -204,6 +205,30 @@
 <li><strong>16. Correta.</strong> Trade-off real e conhecido da incineração de resíduos hospitalares.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> as afirmações 01 e 02 trocam processos e climas — laterização é de clima tropical/equatorial (não polar), e o clima equatorial não é marcado por secas (isso seria mais típico de climas semiáridos).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08,16">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 7 (Conhecimentos Gerais)</p>
+<p><strong>9. Sobre aspectos hidrográficos gerais, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) 50% da água doce do planeta está concentrada em águas de superfície não congeladas; os outros 50% estão concentrados em águas subterrâneas, havendo uma concentração residual em geleiras.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) O ciclo hidrológico distribui uniformemente a água pela superfície da Terra.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) Há condições para o estresse hídrico quando os rios não são suficientes para suprirem a demanda de água da sociedade.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) O rio perene, que atravessa uma área desértica, recebe chuvas em partes de seu curso, partes essas que não são influenciadas pelo clima árido.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) Uma bacia hidrográfica tem, como características, padrões de drenagem, de canais e de escoamento, que podem ser, respectivamente, dendrítica, meandrante e exorreica.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08-16 (soma 28).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 7.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> Na realidade, a maior parte da água doce do planeta está em GELEIRAS/calotas polares (mais de 2/3), com águas subterrâneas em segundo lugar e águas superficiais não congeladas representando uma fração muito pequena — as proporções descritas estão invertidas.</li>
+<li><strong>02. Errada.</strong> A distribuição da água pelo ciclo hidrológico é extremamente DESIGUAL ao redor do planeta (desertos x florestas tropicais), não uniforme.</li>
+<li><strong>04. Correta.</strong> Definição padrão de estresse hídrico.</li>
+<li><strong>08. Correta.</strong> Descreve um "rio exótico" (como o Nilo), cujo curso em área desértica recebe água captada em regiões mais úmidas, a montante, não influenciada pelo clima árido local.</li>
+<li><strong>16. Correta.</strong> Terminologia padrão de geografia física: padrão de drenagem dendrítico, canal meandrante, escoamento exorreico.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 01 inverte as proporções reais da água doce do planeta — a maior parte está em geleiras, não em águas de superfície não congeladas.</p>
 </div>
 </div>
 

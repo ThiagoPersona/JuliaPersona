@@ -2,12 +2,13 @@
 
 > Marque as afirmações que você julga corretas e clique em **Corrigir**. Ver o formato de somatória em `REGRAS_DO_MATERIAL.md`.
 
-**Itens neste banco:** 6 questões reais (PAS 2021/2024/2025 e Vestibular de Verão UEM 2025/2021), com gabarito definitivo confirmado.
+**Itens neste banco:** 7 questões reais (PAS 2021/2022/2024/2025 e Vestibular de Verão UEM 2025/2021), com gabarito definitivo confirmado.
 
 ## Fontes reais usadas neste banco
 
 - PAS/UEM, Etapa 1, 2025, Questão 33. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2024, Questão 15. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
+- PAS/UEM, Etapa 1, 2022, Questão 15 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - PAS/UEM, Etapa 1, 2021, Questões 11 e 14 (Conhecimentos Gerais). Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2025, Questão 41. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
 - Vestibular de Verão UEM 2021, Questão 6. Gabarito definitivo publicado pela Comissão Central do Vestibular Unificado da UEM.
@@ -155,6 +156,30 @@
 <li><strong>16. Errada.</strong> As bases nitrogenadas são formadas por anéis de carbono e nitrogênio — o fosfato faz parte do esqueleto açúcar-fosfato do nucleotídeo, não da base em si.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> a afirmação 04 inverte o processo de síntese do ATP — é uma fosforilação (adição de fosfato ao ADP), não uma "desfosforilação" a partir do AMP.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-correct="04,08">
+<p class="quiz-source">PAS/UEM 2022, Etapa 1, Questão 15 (Conhecimentos Gerais)</p>
+<p><strong>7. A oxidação é um processo importante e benéfico para a célula. No entanto, em alguns casos ocorre a formação de H₂O₂, substância nociva para o organismo. Sobre esse assunto, assinale o que for correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="checkbox" value="01"> 01) No organismo, a decomposição do H₂O₂ ocorre por meio de fotólise.</label>
+<label class="quiz-option"><input type="checkbox" value="02"> 02) A reação de decomposição de 1mol de H₂O₂ produz 1mol de H₂O e 1mol de O₂.</label>
+<label class="quiz-option"><input type="checkbox" value="04"> 04) O peroxissomo faz parte do sistema de endomembranas e é responsável pela degradação do H₂O₂.</label>
+<label class="quiz-option"><input type="checkbox" value="08"> 08) A molécula de H₂O₂ possui duas ligações polares e uma ligação apolar.</label>
+<label class="quiz-option"><input type="checkbox" value="16"> 16) A oxidação celular produz moléculas orgânicas que são utilizadas no processo de fotossíntese.</label>
+</div>
+<button class="quiz-check" type="button">Corrigir</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Gabarito oficial: 04-08 (soma 12).</strong> Fonte: PAS/UEM 2022, Etapa 1, Questão 15.</p>
+<ul class="quiz-explain">
+<li><strong>01. Errada.</strong> A decomposição do H₂O₂ no organismo é catalisada pela enzima catalase, não por fotólise (processo dependente de luz).</li>
+<li><strong>02. Errada.</strong> A equação balanceada é 2H₂O₂ → 2H₂O + O₂; portanto, 1mol de H₂O₂ produz 1mol de H₂O, mas apenas 0,5mol de O₂, não 1mol.</li>
+<li><strong>04. Correta.</strong> Fato padrão de biologia celular: o peroxissomo, parte do sistema de endomembranas, degrada H₂O₂ via catalase.</li>
+<li><strong>08. Correta.</strong> Na estrutura H-O-O-H, as duas ligações O-H são polares, e a ligação O-O (entre átomos iguais) é apolar.</li>
+<li><strong>16. Errada.</strong> É o oposto: a fotossíntese PRODUZ moléculas orgânicas, que a oxidação celular (respiração) depois degrada para liberar energia — a relação está invertida.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> a afirmação 16 inverte a relação entre fotossíntese e oxidação celular — é a fotossíntese que produz as moléculas orgânicas que a respiração/oxidação depois consome.</p>
 </div>
 </div>
 
